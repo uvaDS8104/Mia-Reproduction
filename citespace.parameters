@@ -1,0 +1,19 @@
+Date	April 3, 2024, 9:05:25 PM EDT
+Project Home	/Users/miaslaptop/Downloads/DS8104/project
+Data Home	/Users/miaslaptop/Downloads/DS8104/data
+Data Source	WoS
+Language	English
+From	2014-JAN
+To	2024-DEC
+Slice Length	2
+Title	true
+Abstract	true
+Descriptor	true
+Identifier	true
+Prune with PF	false
+Prune with MST	false
+Prune Slices	false
+Prune Merged	false
+Threshold Group 0	2, 1, 10
+Threshold Group 1	3, 1, 0
+Threshold Group 2	3, 2, 10
