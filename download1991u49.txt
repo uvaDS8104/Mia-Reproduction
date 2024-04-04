@@ -1,0 +1,1528 @@
+PT J
+AU Kayser, K
+   Sandau, K
+   Böhm, G
+   Kunze, KD
+   Paul, J
+AF Kayser, K
+   Sandau, K
+   Böhm, G
+   Kunze, K D
+   Paul, J
+TI Analysis of soft tissue tumors by an attributed minimum spanning tree.
+SO Analytical and quantitative cytology and histology
+LA English
+DT Journal Article
+AB Histologic slides of 22 soft tissue tumors (9 malignant fibrous histiocytoma, 8  fibrosarcoma, 2 rhabdomyosarcoma, 2 osteosarcoma, 1 Askin tumor) were Feulgen  stained. Using an automated image analyzing system (Cambridge 570) at low  magnification (25x), the tumor cell nuclei were segmented. The geometrical center  of the nuclei was considered the vertex. A basic graph was constructed according  to the neighborhood condition of O'Callaghan. Neighboring tumor cell nuclei were  visualized by connecting edges. Several features of tumor cell nuclei were  measured, including area, surface, major and minor axis of best fitting ellipsis  and extinction (DNA content). Nuclear features are attributed to the vertices.  The differences, or "distances," between features of connected vertices are  attributed to the corresponding edges, which are dependent on the attributes.  Thus, different minimum spanning trees (MST) result. Each MST can be decomposed  into clusters using a suitable decomposition function on the edges, which rejects  an edge if its attributes differ from the mean of the attributed values of  surrounding edges more than a neighbor dependent bound (lower limit). Taking into  account the length and other attributes of edges (e.g., differences in  orientation of the major axis), clusters of different nuclear orientation can be  detected. A cluster tree can be constructed by defining the geometric center of a  cluster as a new vertex, and by computing the neighborhood of the cluster  vertices. The result is an attributed MST containing characteristic structural  properties of the image (in cases of sarcomatous tumors, local orientation of  tumor cell nuclei and local DNA abnormalities).
+C1 Department of Pathology, Thoraxklinik, Heidelberg, Germany.
+NR 0
+TC 0
+SN 
+EI 
+J9 Anal Quant Cytol Histol
+PD OCT 1
+PY 1991
+VL 13
+IS 5
+BP 329
+EP 34
+DI 
+PG -295
+WC Cell Nucleus; ultrastructure; Fibrosarcoma; pathology; Histiocytoma, Benign Fibrous; pathology; Humans; Image Processing, Computer-Assisted; methods; Models, Biological; Osteosarcoma; pathology; Periodic Acid-Schiff Reaction; Rhabdomyosarcoma; pathology; Soft Tissue Neoplasms; classification
+UT PubMed:1666287
+PM 1666287
+DA 1991-10-01
+ER
+
+PT J
+AU Fitch, WM
+   Leiter, JM
+   Li, XQ
+   Palese, P
+AF Fitch, W M
+   Leiter, J M
+   Li, X Q
+   Palese, P
+TI Positive Darwinian evolution in human influenza A viruses.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB We earlier suggested that type A human influenza virus genes undergo positive  Darwinian selection through immune surveillance. This requires more favorable  amino acid replacements fixed in antigenic sites among the surviving lineages  than among the extinct lineages. We now show that viral hemagglutinins fix  proportionately more amino acid replacements in antigenic sites in the trunk of  the evolutionary tree (survivors) than in the branches (nonsurvivors),  demonstrating that type A human influenza virus is undergoing positive Darwinian  evolution. The hemagglutinin gene is evolving 3 times faster than the  nonstructural gene and the average age of the sampled nonsurvivors is only 1.6  years, so that extinction is not only common but rapid.
+C1 Department of Ecology and Evolutionary Biology, University of California, Irvine 92717.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD MAY 15
+PY 1991
+VL 88
+IS 10
+BP 4270
+EP 4
+DI 10.1073/pnas.88.10.4270
+PG -4266
+WC Amino Acid Sequence; Biological Evolution; Genes, Viral; Hemagglutinins, Viral; chemistry; Influenza A virus; genetics; Molecular Sequence Data
+UT PubMed:1840695
+PM 1840695
+DA 1991-05-15
+ER
+
+PT J
+AU Bowers, RG
+   Begon, M
+AF Bowers, R G
+   Begon, M
+TI A host-host-pathogen model with free-living infective stages, applicable to
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB A model has been investigated of the dynamics of the interaction between two  hosts which are both attacked by a common pathogen, where the pathogen has  free-living infective stages the population size of which must itself be modelled  explicitly, and where the host species do not interact with one another except  through their shared pathogen. If either host interacted with the pathogen alone,  three broad classes of dynamics would be possible: host regulation, pathogen  persistence and pathogen extinction. Here, all possible types of combinations of  hosts are examined: regulation-regulation (both hosts would be regulated if they  interacted with the pathogen alone), regulation-persistence,  regulation-extinction, persistence-persistence persistence-extinction and  extinction-extinction. A wide range of dynamics is generated, including a number  of patterns quite unlike those found in the one-host pathogen case (e.g.  persistence in one host, elimination of the other host) and behaviour contingent  on initial densities in the system. For clarity and pertinence, attention is  focused on the case where one host is a pest, the pathogen is a potential  microbial control agent, and the other host is a non-target species which it is  undesirable to harm. The model suggests, broadly, that non-targets are unlikely  to be seriously threatened in such cases, and also that non-targets, far from  undermining pest control, are quite likely to contribute to its efficacy.
+C1 Department of Applied Mathematics and Theoretical Physics, University of Liverpool, U.K.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD FEB 7
+PY 1991
+VL 148
+IS 3
+BP 305
+EP 29
+DI 10.1016/s0022-5193(05)80240-1
+PG -276
+WC Animals; Host-Parasite Interactions; Mathematics; Models, Biological; Pest Control, Biological; methods
+UT PubMed:2016897
+PM 2016897
+DA 1991-02-07
+ER
+
+PT J
+AU Kimura, M
+AF Kimura, M
+TI The neutral theory of molecular evolution: a review of recent evidence.
+SO Idengaku zasshi
+LA English
+DT Review
+AB In sharp contrast to the Darwinian theory of evolution by natural selection, the  neutral theory claims that the overwhelming majority of evolutionary changes at  the molecular level are caused by random fixation (due to random sampling drift  in finite populations) of selectively neutral (i.e., selectively equivalent)  mutants under continued inputs of mutations. The theory also asserts that most of  the genetic variability within species at the molecular level (such as protein  and DNA polymorphism) are selectively neutral or very nearly neutral and that  they are maintained in the species by the balance between mutational input and  random extinction. The neutral theory is based on simple assumptions, enabling us  to develop mathematical theories based on population genetics to treat molecular  evolution and variation in quantitative terms. The theory can be tested against  actual observations. Neo-Darwinians continue to criticize the neutral theory, but  evidence for it has accumulated over the last two decades. The recent outpouring  of DNA sequence data has greatly strengthened the theory. In this paper, I review  some recent observations that strongly support the neutral theory. They include  such topics as pseudoglobin genes of the mouse, alpha A-crystallin genes of the  blind mole rat, genes of influenza A virus and nuclear vs. mitochondrial genes of  fruit flies. I also discuss such topics as the evolution of deviant coding  systems in Mycoplasma, the origin of life and the unified understanding of  molecular and phenotypic evolution. I conclude that since the origin of life on  Earth, neutral evolutionary changes have predominated over Darwinian evolutionary  changes, at least in number.
+C1 National Institute of Genetics, Mishima, Japan.
+NR 0
+TC 0
+SN 
+EI 0021-504
+J9 Jpn J Genet
+PD AUG 1
+PY 1991
+VL 66
+IS 4
+BP 367
+EP 86
+DI 10.1266/jjg.66.367
+PG -281
+WC Animals; Biological Evolution; Genetic Variation; Genetics, Population; Humans; Molecular Biology; Mutation
+UT PubMed:1954033
+PM 1954033
+DA 1991-08-01
+ER
+
+PT J
+AU Woodworth, RC
+   Mason, AB
+   Funk, WD
+   MacGillivray, RT
+AF Woodworth, R C
+   Mason, A B
+   Funk, W D
+   MacGillivray, R T
+TI Expression and initial characterization of five site-directed mutants of the
+SO Biochemistry
+LA English
+DT Journal Article
+AB Five site-directed mutants of the N-terminal half-molecule of human serum  transferrin have been expressed in baby hamster kidney cells and purified to  homogeneity. Expression levels and overall yields varied considerably from the  wild-type protein, depending on the mutant in question. The mutants are D63S,  D63C, G65R, K206Q, and H207E and are based on mutations observed in a variety of  transferrins of known sequence. Their molecular masses, determined by  electrospray mass spectrometry, agree with theory, except for the D63C mutant,  which appears to be cysteinylated. All mutants bind iron but with varying  affinities; qualitatively, in increasing order D63S approximately D63C  approximately G65R much less than wild type less than or equal to H207E much less  than K206Q. In general, reduction of formal negative charge within the binding  cleft shifts the visible spectral maximum of the iron complex toward the blue and  reduces the affinity for iron, and increasing the formal negative charge shifts  the visible maximum toward the red and increases the affinity for iron. The K206Q  mutant is exceptional inasmuch as its visible maximum shows a blue shift, but its  affinity for iron is the greatest of all of the mutants studied. All mutants  reported, in addition to the wild-type protein, exhibit very similar visible  molar extinction coefficients for the iron complex and very similar changes in  extinction coefficients at 240 nm on binding Fe(III) or Ga(III). These results  suggest that in all cases the bound metal ion is coordinated by two tyrosyl side  chains.
+C1 Department of Biochemistry, University of Vermont College of Medicine, Burlington 05482-0068.
+NR 0
+TC 0
+SN 
+EI 0006-296
+J9 Biochemistry
+PD NOV 12
+PY 1991
+VL 30
+IS 45
+BP 10824
+EP 9
+DI 10.1021/bi00109a002
+PG -10815
+WC Amino Acid Sequence; Antibodies, Monoclonal; Binding Sites; Electrophoresis, Polyacrylamide Gel; Humans; Iron; metabolism; Kinetics; Molecular Sequence Data; Molecular Weight; Mutagenesis, Site-Directed; Spectrophotometry; Transferrin; genetics
+UT PubMed:1932003
+PM 1932003
+DA 1991-11-12
+ER
+
+PT J
+AU Cushing, JM
+AF Cushing, J M
+TI A simple model of cannibalism.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB A simple nonlinear discrete model is derived for the dynamics of a two-age class  population consisting of juveniles and adults that includes cannibalism of  juveniles by adults. The model is investigated analytically and numerically. It  is shown how even this very simple model, by incorporating the negative and  positive feedbacks due to cannibalism, can account for several important  phenomena concerning the dynamics of cannibalistic populations that have been  discussed and studied in the literature. These include the possibilities that the  practice of cannibalism can (1) in certain circumstances be a form of  self-regulation that promotes stable equilibration, while in other circumstances  it can lead to population oscillations; (2) result in a viable population in  circumstances when its absence would otherwise result in extinction; and (3) be  the source of multiple stable equilibria and hysteresis effects.
+C1 Department of Mathematics, University of Arizona, Tucson 85721.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD NOV 1
+PY 1991
+VL 107
+IS 1
+BP 47
+EP 71
+DI 10.1016/0025-5564(91)90071-p
+PG 24
+WC Age Factors; Animals; Cannibalism; Mathematics; Models, Biological; Population Dynamics
+UT PubMed:1806108
+PM 1806108
+DA 1991-11-01
+ER
+
+PT J
+AU Nelson, SR
+   Tennent, GA
+   Sethi, D
+   Gower, PE
+   Ballardie, FW
+   Amatayakul-Chantler, S
+   Pepys, MB
+AF Nelson, S R
+   Tennent, G A
+   Sethi, D
+   Gower, P E
+   Ballardie, F W
+   Amatayakul-Chantler, S
+   Pepys, M B
+TI Serum amyloid P component in chronic renal failure and dialysis.
+SO Clinica chimica acta; international journal of clinical chemistry
+LA English
+DT Journal Article
+AB A normal reference interval for serum amyloid P component (SAP) concentration in  the serum was established in 500 healthy adult individuals (274 women, 226 men),  by electroimmunoassay calibrated with standards of highly purified, isolated SAP.  The mass of SAP in these was determined from the extinction coefficient of SAP at  280 nm measured here precisely for the first time by spectrophotometry and  cryogenic drying. The mean (SD, range) SAP concentration was significantly lower  in women: 24 mg/l (8, 8-55), compared to 32 mg/l (7, 12-50) in men (P less than  0.001). In renal insufficiency patients, 38 with chronic renal failure, 79 on  hemodialysis and 66 on continuous ambulatory peritoneal dialysis, the mean values  for SAP concentration were all significantly higher than normal (range of means,  39-59 mg/l in men and 35-42 mg/l in women), but did not correlate with serum  creatinine, duration of dialysis or the presence of an acute phase response. The  metabolism of SAP is thus altered in renal failure and is not normalized by  dialysis, but it is not clear whether this is relevant to the pathogenesis of  dialysis related arthropathy and amyloidosis.
+C1 Department of Medicine, Royal Postgraduate Medical School, Hammersmith Hospital, London, UK.
+NR 0
+TC 0
+SN 
+EI 0009-898
+J9 Clin Chim Acta
+PD AUG 30
+PY 1991
+VL 200
+IS 2-3
+BP 191
+EP 9
+DI 10.1016/0009-8981(91)90090-y
+PG -182
+WC Adult; Female; Humans; Kidney Failure, Chronic; blood; Male; Middle Aged; Peritoneal Dialysis; Phosphocreatine; blood; Reference Values; Renal Dialysis; Serum Amyloid P-Component; analysis; Sex Characteristics; Spectrophotometry
+UT PubMed:1777968
+PM 1777968
+DA 1991-08-30
+ER
+
+PT J
+AU Schneider, C
+   Van, Dijk JD
+AF Schneider, C
+   Van Dijk, J D
+TI Visualization by a matrix of light-emitting diodes of interference effects from a
+SO International journal of hyperthermia : the official journal of European Society
+LA English
+DT Journal Article
+AB A simple, unique tool has been constructed at a very low cost for visualization  of the electric field distribution in a phantom exposed to radiofrequency fields  from a four-applicator hyperthermia system. The tool consists of a thin Perspex  plate to which light-emitting diodes (LEDs) have been attached in a regular  pattern. The leads of these LEDs have been bent in the form of dipoles. Electric  field distributions can be made visible, because the light intensity from an  individual LED dipole in a RF field is a function of the local electric field  strength. The LED dipoles were arranged in a 11 x 15 matrix with a mutual  distance of 2 cm. Experiments have been performed in a cylinder with a length of  100 cm and with an elliptical cross-section of 24 cm x 36 cm. The cylinder was  filled with saline to simulate the electric properties of biological tissue. The  matrix plate was shaped like the cross-section inside the phantom, and could be  moved to any position under the externally applied antennae. In our department  the applicators installed form a system of four coherent waveguide radiators  operating at a frequency of 70 MHz. Photographs have been taken from the  distribution of the light intensity through transparent windows at the outer ends  of the phantom. The advantage of the LED matrix is the fact that the effect of  changing phase relations, amplitudes or position of any applicator on the  electric field distribution can be seen instantaneously. The interference effects  of multiple fields, i.e. extinction and reinforcement, become easily visible.  Typical examples demonstrate the necessity to obtain the field distribution not  only along some previously chosen lines, but in the whole transversal midplane.  The attenuation of field strength due to the presence of the matrix varies only  slightly from the edge to the centre of the matrix, so the pattern of light  intensity is in good qualitative agreement with the pattern of field strength.  The LED matrix has been very useful in the verification of pretreatment planning  calculations, and is already used for intercomparison and evaluation studies of  similar hyperthermia equipment.
+C1 Department of Radiotherapy, University of Amsterdam, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0265-673
+J9 Int J Hyperthermia
+PD MAR 1
+PY 1991
+VL 7
+IS 2
+BP 355
+EP 66
+DI 10.3109/02656739109005001
+PG -289
+WC Biophysical Phenomena; Biophysics; Electromagnetic Fields; Humans; Hyperthermia, Induced; instrumentation; Models, Structural; Optics and Photonics; instrumentation; Radio Waves
+UT PubMed:1880460
+PM 1880460
+DA 1991-03-01
+ER
+
+PT J
+AU Selman-Reimer, S
+   Duhe, RJ
+   Stockman, BJ
+   Selman, BR
+AF Selman-Reimer, S
+   Duhe, R J
+   Stockman, B J
+   Selman, B R
+TI L-1-N-methyl-4-mercaptohistidine disulfide, a potential endogenous regulator in
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB A water-soluble, highly polar, heat-stable, small molecule has been isolated from  cell-free extracts of the halotolerant green alga Dunaliella salina. This  compound, soluble inhibitory factor (SIF), when added to in vivo light-activated,  thylakoid membrane-bound preparations of the D. salina coupling factor 1 (CF1),  causes a rapid inactivation of the ATPase activity. SIF must be in its oxidized  form to inactivate the CF1 ATPase and probably functions by oxidizing the reduced  form of the light-activated enzyme. SIF has been purified to homogeneity and  characterized by UV-visible and IR absorption spectroscopy, 1H and 13C NMR  spectroscopy, and mass spectrometry. SIF has five different kinds of  nonexchangeable protons and seven different kinds of carbon atoms. Three of the  carbon atoms and one proton are part of a heterocyclic (imidazole) ring. One  carbon atom is a carbonyl (carboxylic acid). One carbon atom and three protons  form a methyl group attached to the aromatic ring. One carbon atom and two  protons are a methylene group, and one carbon atom (an alpha-amino carbon) is  attached to a single proton. In addition, in its reduced form, SIF contains a  thiol group attached to the heterocyclic ring. From high resolution mass  spectrometry, the molecular weight of SIF was determined to be 401 (M + H+) and  is consistent with the composition being C14H21N6O4S2. The UV absorption of SIF  shows a large increase at 240 nm upon reduction. An effective difference  extinction coefficient for this absorbance change has been calculated to be 6.84  meq/cm. A comparison of SIF with the oxidized form of ovothiol A  (1-N-methyl-4-mercaptohistidine disulfide) shows the two compounds to be  identical in all respects. In addition, ovothiol A disulfide is as effective as  SIF in inhibiting the light-triggered, CF1 ATPase activity. It is concluded,  therefore, that SIF and L-1-N-methyl-4-mercaptohistidine disulfide are identical.
+C1 Department of Biochemistry, College of Agricultural and Life Sciences, University of Wisconsin-Madison, Madison 53706.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD JAN 5
+PY 1991
+VL 266
+IS 1
+BP 182
+EP 8
+DI 
+PG -174
+WC Amino Acids, Sulfur; chemistry; Chlorophyta; enzymology; Dithiothreitol; pharmacology; Histidine; analogs & derivatives; Kinetics; Magnetic Resonance Spectroscopy; Mass Spectrometry; Molecular Structure; Optical Rotation; Oxidation-Reduction; Proton-Translocating ATPases; metabolism; Spectrophotometry
+UT PubMed:1824692
+PM 1824692
+DA 1991-01-05
+ER
+
+PT J
+AU Thomas, PJ
+   Gaspers, LD
+   Pharr, C
+   Thomas, JA
+AF Thomas, P J
+   Gaspers, L D
+   Pharr, C
+   Thomas, J A
+TI Continuous measurement of mitochondrial pH gradients in isolated hepatocytes by
+SO Archives of biochemistry and biophysics
+LA English
+DT Journal Article
+AB The pH gradient, delta pH, present across the inner mitochondrial membrane in  isolated rat hepatocytes was continuously monitored with a novel spectroscopic  technique that utilizes the weak acid fluorescein. Unlike most cytosolic pH  indicators, such as 2',7'-bis(carboxyethyl)-5,(6)-carboxyfluorescein (BCECF),  fluorescein freely distributes between the cytosolic and mitochondrial  compartments. As is typical for weak acids, the distribution between these two  compartments is governed by the magnitude of the pH gradient. Since fluorescein  has two ionizable groups, the fluorescein dianion is concentrated in the  mitochondrial compartment 100-fold per delta pH unit. In this compartment,  fluorescein absorbance (or excitation) spectra are red-shifted about 6-8 nm in  the matrix environment, as compared to the cytosolic dye at equivalent pH values.  The combination of favorable mitochondrial accumulation and red-shifted spectra  enables mitochondrial pH to be continuously monitored qualitatively in whole  cells by dual wavelength spectroscopy (510 minus 540 nm). When the cytosolic pH  is determined by independent means, the mitochondrial pH can be quantitated,  based on the theoretical dependence of the fluorescein distribution ratio on  delta pH, the ratio of cytosolic to mitochondrial volumes, and the known  extinction coefficients for the dye in the cytosolic and mitochondrial  compartments. The sensitivity of the method for following kinetic responses in  mitochondrial pH is especially noteworthy; a 0.1-unit change in delta pH is  easily distinguished, with a time resolution of less than a second.
+C1 Department of Biochemistry and Molecular Biology, University of South Dakota, School of Medicine, Vermillion 57069.
+NR 0
+TC 0
+SN 
+EI 0003-986
+J9 Arch Biochem Biophys
+PD JUL 1
+PY 1991
+VL 288
+IS 1
+BP 250
+EP 60
+DI 10.1016/0003-9861(91)90192-l
+PG -190
+WC Animals; Cytosol; metabolism; Fluorescein; Fluoresceins; Hydrogen-Ion Concentration; In Vitro Techniques; Intracellular Membranes; metabolism; Kinetics; Male; Mitochondria, Liver; metabolism; Models, Biological; Rats; Rats, Inbred Strains; Spectrophotometry; methods
+UT PubMed:1898020
+PM 1898020
+DA 1991-07-01
+ER
+
+PT J
+AU Zukhbaya, TM
+   Smirnova, OA
+AF Zukhbaya, T M
+   Smirnova, O A
+TI An experimental and mathematical analysis of lymphopoiesis dynamics under
+SO Health physics
+LA English
+DT Journal Article
+AB A mathematical model describing the dynamics of lymphopoiesis in mammals  continuously exposed to ionizing radiation has been developed. It is based on the  theory of chalone regulation of hematopoiesis. The model comprises a system of  nine differential equations. Results from the model were compared with our  experimental data for bone marrow and blood lymphocytes of rats continuously  exposed to gamma radiation in a wide range of dose rates. The model reproduces  the lymphopoiesis dynamics that we observed in our experiment, in particular, the  radiation hormesis at low dose rates, the reduction of lymphopoiesis at  intermediate dose rates, and extinction of lymphopoiesis at high dose rates of  continuous radiation. The possible explanation of the hormesis is suggested by  the framework of the model. The model can be used for predicting the  lymphopoiesis dynamics in mammals under continuous irradiation.
+C1 Institute of Medicobiological Problems of USSR, Ministry of Health, Moscow.
+NR 0
+TC 0
+SN 
+EI 0017-907
+J9 Health Phys
+PD JUL 1
+PY 1991
+VL 61
+IS 1
+BP 87
+EP 95
+DI 10.1097/00004032-199107000-00009
+PG 8
+WC Animals; Growth Inhibitors; physiology; Hematopoiesis; physiology; Lymphocytes; Mathematics; Models, Biological; Radiation Injuries, Experimental; physiopathology; Rats
+UT PubMed:1829440
+PM 1829440
+DA 1991-07-01
+ER
+
+PT J
+AU Schofield, CJ
+AF Schofield, C J
+TI Vector population responses to control interventions.
+SO Annales de la Societe belge de medecine tropicale
+LA English
+DT Journal Article
+AB In 1981, Kenyan authorities attempted eradication of tsetse (Glossina pallidipes)  from the Lambwe valley, by sequential aerial spraying of endosulfan. Fly  populations were reduced by over 99.9% in the main habitats, but recovered to  their original levels within one year. In 1986, an Argentine research team  attempted local elimination of domestic Triatominae (Triatoma infestans) in an  area of Santiago del Estero. House infestation rates were reduced to an apparent  zero, but recovered to pre-control levels in two years. In Sri Lanka, a  combination of mosquito control with active case detection and treatment reduced  malaria incidence to just 17 cases in 1964. Interruption of the programme then  saw case incidence return to over 500,000 by 1969. These three examples-from  African trypanosomiasis, South American Chagas disease and malaria-all illustrate  the same process. Vector populations, infestation rates, and rates of disease  transmission, can be reduced. The real problem is not in achieving the initial  reduction, but in subsequently either driving the disease to extinction or  maintaining it below acceptable levels. And this problem takes us beyond the  simple analysis of interventions, into the complex realms of population behaviour  set in its political, social and economic context. It seems that we have been too  rarely concerned to plan and implement the long term surveillance and selective  interventions that are required to translate initial gains into real success. In  biological terms, we tend to ignore the complexity and robustness of vector  populations and disease transmission cycles, especially their varied capacity to  recover from interference. Moreover, in socio-political terms, a reduced  problem-even one representing potential for future catastrophe-tends to claim  less priority than present problems, even though premature redeployment of  resources may abnegate gains already achieved. The problem is strongly compounded  by methods of economic analysis where the benefits of avoiding future problems  are strongly discounted in favour of short-term temporary gains. This paper seeks  to open discussion on these long-term planning issues.
+NR 0
+TC 0
+SN 
+EI 0772-412
+J9 Ann Soc Belg Med Trop
+PD JAN 1
+PY 1991
+VL 71 Suppl 1
+IS 
+BP 201
+EP 17
+DI 
+PG -184
+WC Animals; Argentina; Communicable Disease Control; Endosulfan; Health Policy; Humans; Insect Control; economics; Kenya; Malaria; prevention & control; Mosquito Control; Politics; Sri Lanka; Triatominae; Tsetse Flies
+UT PubMed:1793271
+PM 1793271
+DA 1991-01-01
+ER
+
+PT J
+AU Liebermann, H
+   Bergmann, H
+   Lange, E
+   Schirrmeier, H
+AF Liebermann, H
+   Bergmann, H
+   Lange, E
+   Schirrmeier, H
+TI [Hemorrhagic septicemia of rabbits (rabbit hemorrhagic disease,
+SO Zentralblatt fur Veterinarmedizin. Reihe B. Journal of veterinary medicine.
+LA ger
+DT Journal Article
+AB The efficiency of a vaccine of inactivated virus is influenced to a great deal by  the mass of antigen per dose of application. Therefore it is essential to known  the concentration of the antigen. We tested a physical method for quantification  of the RHD-Virus. It implies a centrifugation of the prepurified, if necessary,  preconcentrated infectious or inactivated virus in a gentle sucrose gradient. It  is followed by analysis in a sensitive UV flow-through photometer with a computer  calculated virus mass. The extinction coefficient (optical density) of the virus  (175S-component) at 254 nm is 3.9 cm2/mg. The haemagglutination test and the  ELISA were used to prove the virus specificity of the optical peak and partial  for comparing them with the method mentioned above.
+C1 Freidrich-Loeffler-Institut für Tierseuchenforschung Insel Reims.
+NR 0
+TC 0
+SN 
+EI 0514-716
+J9 Zentralbl Veterinarmed B
+PD OCT 1
+PY 1991
+VL 38
+IS 8
+BP 621
+EP 9
+DI 
+PG -612
+WC Animals; Antigens, Viral; analysis; Hemorrhage; immunology; Rabbits; Viral Vaccines; immunology; Viremia; immunology
+UT PubMed:1789018
+PM 1789018
+DA 1991-10-01
+ER
+
+PT J
+AU Han, H
+   Rifkind, JM
+   Mildvan, AS
+AF Han, H
+   Rifkind, J M
+   Mildvan, A S
+TI Role of divalent cations in the 3',5'-exonuclease reaction of DNA polymerase I.
+SO Biochemistry
+LA English
+DT Journal Article
+AB X-ray studies of the proofreading 3',5'-exonuclease site of the large (Klenow)  fragment of DNA polymerase I have detected a binuclear metal complex consisting  of a pentacoordinate metal (site A) which shares a ligand, Asp-355, with an  octahedral metal (site B) [Freemont, P. S., Friedman, J. M., Beese, L. S.,  Sanderson, M. R., & Steitz, T. A. (1988) Proc. Natl. Acad. Sci. U.S.A. 85,  8924-8928; Beese, L. S., & Steitz, T. A. (1991) EMBO J. 10, 25-33]. Kinetic  studies of the activation of the 3',5'-exonuclease reaction by Co2+, Mn2+, or  Mg2+, at low concentrations of DNA, reveal sigmoidal activation curves for the  three metal ions with Hill coefficients of 2.3-2.4 and K0.5 values of 16.6  microM, 4.2 microM, and 343 microM, respectively. The binding of Co2+ to the  enzyme results in the appearance of an intense visible absorption spectrum of the  metal ion with maxima at 633, 570, and 524 nm and extinction coefficients of 190,  194, and 150 M-1 cm-1, respectively, suggesting the formation of a  pentacoordinate Co2+ complex. Optical titration with Co2+ yields a sigmoidal  titration curve which is best fit by assuming the cooperative binding of three  Co2+ ions with a K0.5 of 39.9 microM, comparable to the value of 16.6 microM  obtained kinetically. Displacement of Co2+ by 1 equiv of Zn2+, which binds  tightly to the A site of the 3',5'-exonuclease, shifts the optical spectrum to  524 nm and lowers the extinction coefficient to 30 -1 cm-1, indicative of  octahedral coordination.2+ the formation of the binuclear complex.
+C1 Department of Biological Chemistry, Johns Hopkins University School of Medicine, Baltimore, Maryland 21205.
+NR 0
+TC 0
+SN 
+EI 0006-296
+J9 Biochemistry
+PD NOV 19
+PY 1991
+VL 30
+IS 46
+BP 11104
+EP 8
+DI 10.1021/bi00110a012
+PG -11096
+WC Binding Sites; Calcium-Binding Proteins; chemistry; Cations, Divalent; Cobalt; DNA Polymerase I; chemistry; Electron Spin Resonance Spectroscopy; Enzyme Activation; Exodeoxyribonuclease V; Exodeoxyribonucleases; chemistry; Kinetics; X-Ray Diffraction; Zinc
+UT PubMed:1657160
+PM 1657160
+DA 1991-11-19
+ER
+
+PT J
+AU Briggs, JC
+AF Briggs, J C
+TI A Cretaceous-Tertiary mass extinction? Were most of Earth's species killed off?
+SO Bioscience
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+C1 Department of Marine Science, University of South Florida, St. Petersburg, FL 33701, USA.
+NR 0
+TC 0
+SN 
+EI 0006-356
+J9 Bioscience
+PD OCT 1
+PY 1991
+VL 41
+IS 9
+BP 619
+EP 24
+DI 
+PG -595
+WC Animals; Biological Evolution; Climate; Earth, Planet; Ecosystem; Fossils; Marine Biology; Paleontology; Plants; Solar System; Time Factors; Volcanic Eruptions
+UT PubMed:11538279
+PM 11538279
+DA 1991-10-01
+ER
+
+PT J
+AU Jacquez, JA
+   O'Neill, P
+AF Jacquez, J A
+   O'Neill, P
+TI Reproduction numbers and thresholds in stochastic epidemic models. I. Homogeneous
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB We compare threshold results for the deterministic and stochastic versions of the  homogeneous SI model with recruitment, death due to the disease, a background  death rate, and transmission rate beta cXY/N. If an infective is introduced into  a population of susceptibles, the basic reproduction number, R0, plays a  fundamental role for both, though the threshold results differ somewhat. For the  deterministic model, no epidemic can occur if R0 less than or equal to 1 and an  epidemic occurs if R0 greater than 1. For the stochastic model we find that on  average, no epidemic will occur if R0 less than or equal to 1. If R0 greater than  1, there is a finite probability, but less than 1, that an epidemic will develop  and eventuate in an endemic quasi-equilibrium. However, there is also a finite  probability of extinction of the infection, and the probability of extinction  decreases as R0 increases above 1.
+C1 Department of Physiology, University of Michigan, Ann Arbor.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD DEC 1
+PY 1991
+VL 107
+IS 2
+BP 161
+EP 86
+DI 10.1016/0025-5564(91)90003-2
+PG -75
+WC Computer Simulation; Disease Outbreaks; statistics & numerical data; Humans; Infections; epidemiology; Models, Biological; Stochastic Processes
+UT PubMed:1806112
+PM 1806112
+DA 1991-12-01
+ER
+
+PT J
+AU Hugdahl, K
+   Nordby, H
+AF Hugdahl, K
+   Nordby, H
+TI Hemisphere differences in conditional learning: an ERP-study.
+SO Cortex; a journal devoted to the study of the nervous system and behavior
+LA English
+DT Journal Article
+AB The present ERP-experiment investigated brain asymmetry in encoding and  representation of the formation of conditional associations in a Pavlovian  framework. Two consonant-vowel syllables were used as conditional stimuli, one of  them paired with an unconditional noise during the acquisition phase (CS+), the  other never paired with noise (CS-). During a subsequent test phase, both CS cues  were presented dichotically i.e. at the same time. Half of the subjects had the  CS+ probe presented to the right ear (contralateral to the left hemisphere). The  other half of the subjects had the CS+ presented to the left ear (contralateral  to the right hemisphere). ERPs from F3, Fz and F4 leads were recorded. The  paradigm used was an adaptation of the standard dichotic listening technique for  the study of learned associations. The results showed that conditional  associative learning occurred during the acquisition phase in both "groups". The  P235 latency was furthermore delayed over the left hemisphere to the CS+ probe.  During the dichotic test phase, there was a clear laterality or asymmetry effect  between the groups for both the N125 and N450 components, possibly supporting an  interpretation of asymmetry in encoding and cortical representation of a  conditional association, although alternative interpretations remain open.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0010-945
+J9 Cortex
+PD DEC 1
+PY 1991
+VL 27
+IS 4
+BP 557
+EP 70
+DI 10.1016/s0010-9452(13)80005-6
+PG -487
+WC Adult; Conditioning, Classical; physiology; Dominance, Cerebral; physiology; Electroencephalography; Electrooculography; Evoked Potentials, Auditory; physiology; Extinction, Psychological; physiology; Eye Movements; physiology; Functional Laterality; physiology; Humans; Learning; physiology; Male
+UT PubMed:1782790
+PM 1782790
+DA 1991-12-01
+ER
+
+PT J
+AU Loeffler, M
+   Grossmann, B
+AF Loeffler, M
+   Grossmann, B
+TI A stochastic branching model with formation of subunits applied to the growth of
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB The intestinal epithelium is one of the most rapidly regenerating tissues in  mammals. Cell production takes place in the intestinal crypts which contain about  250 cells. Only a minority of 1-60 proliferating cells are able to maintain a  crypt over a long period of time. However, so far attempts to identify these stem  cells were unsuccessful. Therefore, little is known about their cellular growth  and selfmaintenance properties. On the other hand, the crypts appear to exhibit a  life cycle which starts by fission of existing crypts and ends by fission or  extinction. Data on these processes have recently become available. Here, we  demonstrate how these data on the life cycle of the macroscopic crypt structure  can be used to derive a quantitative model of the microscopic process of stem  cell growth. The model assumptions are: (1) stem cells undergo a time independent  supracritical Markovian branching process (Galton-Watson process); (2) a crypt  divides if the number of stem cells exceeds a given threshold and the stem cells  are distributed to both daughter crypts according to binomial statistics; (3) the  size of the crypt is proportional to the stem cell number. This model combining  two different stochastic branching processes describes a new class of processes  whose stationary stability and asymptotic behavior are examined. This model  should be applicable to various growth processes with formation of subunits (e.g.  population growth with formation of colonies in biology, ecology and sociology).  Comparison with crypt data shows that intestinal stem cells have a probability of  over 0.8 of dividing asymmetrically and that the threshold number should be 8 or  larger.
+C1 Medizinische Klinik I, Köln, Germany.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD MAY 21
+PY 1991
+VL 150
+IS 2
+BP 175
+EP 91
+DI 10.1016/s0022-5193(05)80330-3
+PG -84
+WC Animals; Cell Count; Epithelial Cells; Epithelium; physiology; Intestinal Mucosa; cytology; Mammals; physiology; Models, Biological; Regeneration; physiology; Stem Cells; physiology; Stochastic Processes
+UT PubMed:1890854
+PM 1890854
+DA 1991-05-21
+ER
+
+PT J
+AU Schopfer, LM
+   Wessiak, A
+   Massey, V
+AF Schopfer, L M
+   Wessiak, A
+   Massey, V
+TI Interpretation of the spectra observed during oxidation of p-hydroxybenzoate
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Oxidation of reduced p-hydroxybenzoate hydroxylase by oxygen in the presence of  2,4-dihydroxybenzoate and azide proceeds via three well established  intermediates. Reconstitution of the apoprotein with either 8-thiophenyl-FAD,  8-fluoro-FAD, 8-chloro-FAD, or 8-sulfonyl-FAD does not alter this sequence of  events. However, the peak positions of the intermediate spectra are somewhat  shifted relative to those of native enzyme. Comparison of the spectra for  intermediates II and III leads to the conclusion that the spectrum for  intermediate II is a composite. One component is the spectrum of an intermediate  III-like species, and the other appears to be related to the substrate. The  substrate component is pH-dependent, having an absorbance maximum of 386 nm  (extinction, approximately 6,000 M-1 cm-1) at pH 6.6 which shifts to  approximately 430 nm (extinction, approximately 11-13,000 M-1 cm-1) at pH 9.2,  with a pK of 7.9. The pH dependence for the spectrum of the substrate component  combined with the pH independence of the intermediate III-like spectrum  satisfactorily accounts for the pH dependence observed for intermediate II,  including the fact that the high pH spectrum of native intermediate II is  qualitatively quite different from that of 8-sulfonyl-FAD intermediate II.
+C1 Department of Biological Chemistry, University of Michigan Medical School, Ann Arbor 48109-0606.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD JUL 15
+PY 1991
+VL 266
+IS 20
+BP 13080
+EP 5
+DI 
+PG -13075
+WC 4-Hydroxybenzoate-3-Monooxygenase; metabolism; Flavin-Adenine Dinucleotide; analogs & derivatives; Hydrogen-Ion Concentration; Kinetics; Oxidation-Reduction; Pseudomonas fluorescens; enzymology
+UT PubMed:1906463
+PM 1906463
+DA 1991-07-15
+ER
+
+PT J
+AU Bodini, A
+AF Bodini, A
+TI What is the role of predation on stability of natural communities? A theoretical
+SO Bio Systems
+LA English
+DT Journal Article
+AB A basic question in ecology concerns the role of species interaction on dynamics  of natural communities. In this framework, ecologists have considered predation,  competition, mutualism, the three most important interactions, highlighting their  specific effects on distribution and abundance of species, providing knowledge  about phenomena like coexistence and extinction. This paper seeks to identify the  effects of predation on stability of natural communities by mathematical models.  Simple multispecies community models, organized in trophic levels, are analyzed  by means of a qualitative technique, loop analysis, combined with a computer  calculation procedure. Results do not support the hypothesis of predation as a  stabilizing factor. Rather, the outcomes of the analysis suggest that predation  may or may not stabilize a community. This depends on the predator's behaviour  and on the network of the community.
+C1 Institute of Ecology, University of Parma, Viale delle Scienze, Italy.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1991
+VL 26
+IS 1
+BP 21
+EP 30
+DI 10.1016/0303-2647(91)90034-i
+PG 9
+WC Animals; Computer Simulation; Ecology; Feedback; Models, Biological; Predatory Behavior
+UT PubMed:1760532
+PM 1760532
+DA 1991-01-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI A kill curve for Phanerozoic marine species.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB A kill curve for Phanerozoic species is developed from an analysis of the  stratigraphic ranges of 17,621 genera, as compiled by Sepkoski. The kill curve  shows that a typical species' risk of extinction varies greatly, with most time  intervals being characterized by very low risk. The mean extinction rate of  0.25/m.y. is thus a mixture of long periods of negligible extinction and  occasional pulses of much higher rate. Because the kill curve is merely a  description of the fossil record, it does not speak directly to the causes of  extinction. The kill curve may be useful, however, to li¿mit choices of  extinction mechanisms.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1991
+VL 17
+IS 1
+BP 37
+EP 48
+DI 10.1017/s0094837300010332
+PG 11
+WC Animals; Biological Evolution; Cohort Studies; Fossils; Geological Phenomena; Geology; Marine Biology; Models, Biological; Models, Statistical; Monte Carlo Method; Paleontology; methods; Survival Analysis; Time Factors
+UT PubMed:11538288
+PM 11538288
+DA 1991-01-01
+ER
+
+PT J
+AU Preuss, FR
+AF Preuss, F R
+TI [The wisdom of the animal body].
+SO Anatomia, histologia, embryologia
+LA ger
+DT Journal Article
+AB In 1932 CANNON described the physiological wisdom of the body. This cannot exist  without morphological wisdom. Since morphology is a formative process, both kinds  of wisdom depend on the same formative forces. These forces are the forces of  consciousness at all levels. Their existence is proved by the fact that they can  be eliminated by narcosis. The wisdom of these forces is twofold: Firstly, the  wisdom of need sensation which lasts only until the need is satisfied. This is  the conscious intelligence of the body which is responsible for restraint in all  living beings. Secondly, the wisdom, or better, the prudence of need satisfaction  which requires knowledge and appropriate tools. The organs of the body are these  tools. Knowledge belongs to the intellect which knows how to handle material.  This is achieved in all prehuman species subconsciously and is demonstrated in  all structures built by cells and animals. Only the human mind can be unwise and  imprudent; but man, being free, is also able to be wise and prudent and so  prevent the extinction of the earthly creation.
+C1 Veterinäranatomie, Freien Universität Berlin.
+NR 0
+TC 0
+SN 
+EI 0340-209
+J9 Anat Histol Embryol
+PD SEP 1
+PY 1991
+VL 20
+IS 3
+BP 261
+EP 4
+DI 10.1111/j.1439-0264.1991.tb00302.x
+PG -257
+WC Animal Population Groups; anatomy & histology; Animals; Biological Evolution
+UT PubMed:1759726
+PM 1759726
+DA 1991-09-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI A model of onshore-offshore change in faunal diversity.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB Onshore-offshore patterns of faunal change occurred at many taxonomic scales  during the Paleozoic Era, ranging from replacement of the Cambrian evolutionary  fauna by the Paleozoic fauna to the environmental expansion of many orders and  classes. A simple mathematical model is constructed to investigate such change.  The environmental gradient across the marine shelf-slope is treated as a linear  array of discrete habitats, each of which holds a set number of species, as  observed in the fossil record. During any interval of time, some portion of the  species in each habitat becomes extinct by background processes, with rates of  extinction varying among both clades and habitats, as also observed in the  record. After extinction, species are replaced from within the habitat and from  immediately adjacent habitats, with proportions dependent on surviving species.  This model leads to the prediction that extinction-resistant clades will always  diversify at the expense of extinction-prone clades. But if extinction intensity  is highest in nearshore habitats, extinction-resistant clades will expand  preferentially in the onshore direction, build up diversity there, and then  diversify outward toward the offshore. Thus, onshore-offshore patterns of  diversification may be the expectation for faunal change quite independently of  whether or not clades originate onshore. When the model is parameterized for  Paleozoic trilobites and brachiopods, numerical solutions exhibit both a pattern  of faunal change and a time span for diversification similar to that seen in the  fossil record. They also generate structure similar to that seen in global  diversification, including logistic patterns of growth, declining origination but  constant extinction within clades through time, and declining overall extinction  across clades through time.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1991
+VL 17
+IS 1
+BP 58
+EP 77
+DI 10.1017/s0094837300010356
+PG 19
+WC Algorithms; Animals; Biological Evolution; Ecology; Fossils; Geological Phenomena; Geology; Invertebrates; Models, Biological; Oceans and Seas; Paleontology
+UT PubMed:11538289
+PM 11538289
+DA 1991-01-01
+ER
+
+PT J
+AU Babkina, NV
+   Tsitolovskiĭ, LE
+AF Babkina, N V
+   Tsitolovskiĭ, L E
+TI [The active electrogenesis of the command neurons in the defensive behavior of
+SO Zhurnal vysshei nervnoi deiatelnosti imeni I P Pavlova
+LA rus
+DT Journal Article
+AB In the paper changes of active electrogenesis of the command neurones of  defensive closure of snail pneumostome at elaboration, extinction and repeated  elaboration of classic conditioned defensive reflex to tactile stimulus was  described; the tactile stimulation of other point of the body served as a  differentiating stimulus. During the increase of biological significance of  conditioned stimulus as a result of learning the stimulation of the command  neurones in response to this stimulus was raised. At the same time the neurones  showed decreased excitability in response to differentiating stimulus. Possible  mechanisms of quick reconstruction of neurones excitability and functional value  of PA generation threshold changes were discussed.
+NR 0
+TC 0
+SN 
+EI 0044-467
+J9 Zh Vyssh Nerv Deiat Im I P Pavlova
+PD JUL 1
+PY 1991
+VL 41
+IS 4
+BP 781
+EP 7
+DI 
+PG -774
+WC Animals; Conditioning, Classical; physiology; Electrophysiology; Escape Reaction; physiology; Extinction, Psychological; physiology; Helix, Snails; physiology; In Vitro Techniques; Microelectrodes; Neuronal Plasticity; physiology; Neurons; physiology; Physical Stimulation
+UT PubMed:1660658
+PM 1660658
+DA 1991-07-01
+ER
+
+PT J
+AU Jäger, H
+   Hofmann, D
+AF Jäger, H
+   Hofmann, D
+TI Midlatitude lidar backscatter to mass, area, and extinction conversion model
+SO Applied optics
+LA English
+DT Journal Article
+AB Balloonborne particle counter data from Laramie, WY are used to define a  seasonally averaged stratospheric sulfuric acid aerosol size distribution in  three altitude intervals from 15 to 30 km for the 1980-1987 period. This period  includes the volcanic eruptions of Mt. St. Helens, Alaid, Nyamuragira, El  Chichon, and Nevado el Ruiz and begins and ends at what are believed to be  periods of near background (nonvolcanic) stratospheric conditions. The size  distributions are used to calculate lidar backscatter to extinction, mass, and  area ratios for an appropriate range of particle indices of refraction. These  ratios may then be used to infer particle extinction, mass, and area from  midlatitude lidar data for this time period.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD JAN 1
+PY 1991
+VL 30
+IS 1
+BP 127
+EP 38
+DI 10.1364/AO.30.000127
+PG -89
+UT PubMed:20581956
+PM 20581956
+DA 1991-01-01
+ER
+
+PT J
+AU Valentine, JW
+   Tiffney, BH
+   Sepkoski, JJ Jr
+AF Valentine, J W
+   Tiffney, B H
+   Sepkoski, J J Jr
+TI Evolutionary dynamics of plants and animals: a comparative approach.
+SO Palaios
+LA English
+DT Review
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB Patterns of longevity and rate of appearance of taxa in the fossil record  indicate a different evolutionary dynamic between land plants and marine  invertebrates. Among marine invertebrates, rates of taxonomic turnover declined  through the Phanerozoic, with increasingly extinction-resistant, long-lived,  clades coming to dominate. Among terrestrial vascular plants, rates of turnover  increased through the Phanerozoic, with short-lived, extinction-prone clades  coming to dominate from the Devonian to the present. Terrestrial vertebrates  appear to approximate the marine invertebrate pattern more closely than the plant  record. We identify two features which individually or jointly may have  influenced this distinction. First, land plants continuously invaded stressful  environments during their evolution, while marine invertebrates and terrestrial  vertebrates did not. Second, the relative structural simplicity and indeterminate  mode of plant growth vs. the relative structural complexity and determinate mode  of animal growth may have influenced the timing of major clade origin in the two  groups.
+C1 Museum of Paleontology, University of California, Berkeley 94720, USA.
+NR 0
+TC 0
+SN 
+EI 0883-135
+J9 Palaios
+PD JAN 1
+PY 1991
+VL 6
+IS 
+BP 81
+EP 8
+DI 
+PG -73
+WC Adaptation, Biological; Animals; Biological Evolution; Fossils; Invertebrates; classification; Marine Biology; Models, Biological; Plants; classification; Vertebrates; classification
+UT PubMed:11538488
+PM 11538488
+DA 1991-01-01
+ER
+
+PT J
+AU Cohn, SM
+   Roth, KA
+   Birkenmeier, EH
+   Gordon, JI
+AF Cohn, S M
+   Roth, K A
+   Birkenmeier, E H
+   Gordon, J I
+TI Temporal and spatial patterns of transgene expression in aging adult mice provide
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB We have used liver fatty acid-binding protein/human growth hormone (L-FABP/hGH)  fusion genes to explore the temporal and spatial differentiation of intestinal  epithelial cells in 1- to 12-month-old transgenic mice. The intact, endogenous  L-FABP gene (Fabpl) was not expressed in the colon at any time. Young adult  transgenic mice containing nucleotides -596 to +21 of the rat L-FABP gene linked  to the hGH gene (minus its 5' nontranscribed domain) demonstrated inappropriate  expression of hGH in enterocytes and many enteroendocrine cells of most proximal  and mid-colonic crypts (glands). Rare patches of hGH-negative crypts were  present. With increasing age, a wave of "extinction" of L-FABP (-596 to +21)/hGH  expression occurred, first in the distal colon and then in successively more  proximal regions, leaving by 10 months of age only rare hGH-positive multicrypt  patches. At no time during this progressive silencing of transgene expression  were crypts observed that contained a mixture of hGH-positive and -negative cells  at a particular cell stratum. Young (5-7 weeks) mice containing a L-FABP (-4000  to +21)/hGH transgene also demonstrated inappropriate expression of the transgene  in most proximal colonic crypts. However, the additional 3.3 kilobases of  upstream sequence resulted in much more rapid extinction of reporter expression,  leaving by 5 months of age only scattered single crypts with detectable levels of  hGH. This age-related extinction of L-FABP/hGH expression did not involve  enterocytes and enteroendocrine cells in the (proximal) small intestine. These  results indicate that cis-acting elements outside of nucleotides -4000 to +21 are  necessary to fully modulate suppression of colonic L-FABP expression. They also  define fundamental changes in colonic epithelial cell populations during adult  life. Our data suggest that (i) a single stem cell gives rise to all cells that  populate a given colonic crypt, (ii) stem cells represented in several adjacent  crypts may be derived from a common progenitor, and (iii) such a progenitor cell  may repopulate colonic crypts with stem cells during adult life. Since each  colonic crypt contains the amplified descendants of its stem cell, transgenes may  be powerful tools for characterizing the spatial and biological features of gut  stem cells and their progenitors during life.
+C1 Department of Medicine, Washington University School of Medicine, St. Louis, MO 63110.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD FEB 1
+PY 1991
+VL 88
+IS 3
+BP 1034
+EP 8
+DI 10.1073/pnas.88.3.1034
+PG -1026
+WC Aging; Animals; Carrier Proteins; genetics; Cell Differentiation; Colon; cytology; Epithelial Cells; Fatty Acid-Binding Protein 7; Fatty Acid-Binding Proteins; Gene Expression; Genes; Growth Hormone; genetics; Humans; Intestine, Small; cytology; Liver; metabolism; Mice; Mice, Transgenic; Muscle Development; Muscle, Smooth; cytology; Neoplasm Proteins; Nerve Tissue Proteins; Rats; Tumor Suppressor Proteins
+UT PubMed:1992454
+PM 1992454
+DA 1991-02-01
+ER
+
+PT J
+AU Shedbalkar, VP
+   Ioannides, IM
+   Rebeiz, CA
+AF Shedbalkar, V P
+   Ioannides, I M
+   Rebeiz, C A
+TI Chloroplast biogenesis. Detection of monovinyl protochlorophyll(ide) b in plants.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB The occurrence of protochlorophyllide b and protochlorophyllide b phytyl ester in  green plants is described. The chemical structure of protochlorophyllide b phytyl  ester was established by proton nuclear magnetic resonance, fast atom bombardment  mass spectroscopic analysis, and chemical derivatization coupled to electronic  spectroscopic analysis. The macrocycles of protochlorophyll(ide) b are identical  to those of conventional protochlorophyll(ide) except for the presence of a  formyl group instead of a methyl group at position 3 of the macrocycles. They  differ from chlorophyll(ide) b by the presence of an oxidized double bond at  positions 7 and 8 of the macrocycles. The trivial name protochlorophyll(ide) b is  proposed to differentiate these two tetrapyrroles from conventional  protochlorophyll(ide), which in turn will be referred to as protochlorophyll(ide)  a. Protochlorophyll(ide) b appears to be widely distributed in green plants. Its  molar extinction coefficients in 80% acetone and diethyl ether are reported. The  impact of this discovery on the heterogeneity of the chlorophyll a and b  biosynthetic pathways is discussed.
+C1 Laboratory of Plant Pigment Biochemistry and Photobiology, University of Illinois, Urbana 61801.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD SEP 15
+PY 1991
+VL 266
+IS 26
+BP 17151
+EP 7
+DI 
+PG -17144
+WC Chlorophyll; metabolism; Chloroplasts; metabolism; Esters; analysis; Magnetic Resonance Spectroscopy; Molecular Structure; Plants; analysis; Protochlorophyllide; analogs & derivatives
+UT PubMed:1894610
+PM 1894610
+DA 1991-09-15
+ER
+
+PT J
+AU Pikuza, OI
+   Merfogel', MS
+   Muslimov, IKh
+AF Pikuza, O I
+   Merfogel', M S
+   Muslimov, I Kh
+TI [Medium-weight molecules and their indicator role in young children with acute
+SO Pediatriia
+LA rus
+DT Journal Article
+AB As many as 63 infants with acute pneumonia, 7 children with ARVI (bronchiolitis)  and 28 normal children were examined. At the height of the clinical  manifestations there was an increase of the level of medium-weight molecules in  blood serum, correlating well with the disease gravity determined by the  intensity of the toxic syndrome. The highest concentration of serum medium-weight  molecules was demonstrable in toxic and purulent complications due to acute  pneumonia. Meanwhile the level of medium-weight molecules, equal to or exceeding  0.6 Units extinction may be viewed as an unfavourable predictor. No relationship  was discovered between the concentration of serum medium-weight molecules and the  type of virus causative agent and respiratory tract inflammation.
+NR 0
+TC 0
+SN 
+EI 0031-403
+J9 Pediatriia
+PD JAN 1
+PY 1991
+VL 0
+IS 10
+BP 13
+EP 5
+DI 
+PG -8
+WC Acute Disease; Adenovirus Infections, Human; blood; Bacterial Infections; blood; Bacterial Toxins; blood; Biomarkers; blood; Child, Preschool; Humans; Infant; Molecular Weight; Pneumonia; blood; Pneumonia, Viral; blood; Respirovirus Infections; blood; Toxins, Biological; blood
+UT PubMed:1787993
+PM 1787993
+DA 1991-01-01
+ER
+
+PT J
+AU Kongshaug, M
+   Cheng, LS
+   Moan, J
+   Rimington, C
+AF Kongshaug, M
+   Cheng, L S
+   Moan, J
+   Rimington, C
+TI Interaction of cremophor EL with human plasma.
+SO The International journal of biochemistry
+LA English
+DT Journal Article
+AB 1. Interaction of cremophor EL (CRM) with human plasma lipoproteins and  nonlipoproteins has been investigated by ultracentrifugation. 2. VLDL has only a  low or negligible capacity to bind CRM, i.e. there is little or no change in the  optical absorption at 280 nm of VLDL when CRM is added. 3. A low density  subfraction of low density lipoproteins seems to associate substantially with CRM  at relatively low CRM concentrations (1-3 mg/ml), but such association is not  evident for CRM concentrations in the region 12-116 mg/ml. 4. Low density  lipoproteins (LDL) may act as a carrier for CRM-emulsions, yet there seems to be  no concomitant change in the 280 nm optical absorption of the proteins of LDL. 5.  The position in the gradient (i.e. in the centrifugation tube after  centrifugation) of high density lipoproteins (HDL) is shifted towards lower  density in the presence of 1-4 mg CRM/ml. For higher concentrations of CRM, a  destruction of HDL can be observed: the HDL distribution is converted into a  bimodal distribution of respectively lighter and heavier "HDL"-particles than the  normal ones; the densities at the peaks of these distributions are approximately  1.07 g/ml (light), 1.20 g/ml (heavy) and 1.11 g/ml (normal HDL). The optical  extinction coefficient is apparently the same for the proteins of normal--and  modified HDL. 6. Even high CRM concentrations (less than or equal to 116 mg/ml)  have no perceptible effect on the gradient positions and profile of human serum  albumin (HSA) and/or other heavy proteins. 7. The possible biological  significance of these findings is briefly touched upon.
+C1 Department of Biophysics, Norwegian Radium Hospital, Oslo, Norway.
+NR 0
+TC 0
+SN 
+EI 0020-711
+J9 Int J Biochem
+PD JAN 1
+PY 1991
+VL 23
+IS 4
+BP 473
+EP 8
+DI 10.1016/0020-711x(91)90176-n
+PG -465
+WC Emulsions; Glycerol; administration & dosage; Humans; In Vitro Techniques; Lipoproteins, HDL; blood; Lipoproteins, LDL; blood; Lipoproteins, VLDL; blood; Pharmaceutical Vehicles; Protein Binding
+UT PubMed:2015955
+PM 2015955
+DA 1991-01-01
+ER
+
+PT J
+AU Hugdahl, K
+   Wester, K
+   Asbjørnsen, A
+AF Hugdahl, K
+   Wester, K
+   Asbjørnsen, A
+TI Auditory neglect after right frontal lobe and right pulvinar thalamic lesions.
+SO Brain and language
+LA English
+DT Journal Article
+AB Auditory unilateral neglect or extinction to simultaneous stimulation is reported  in a right-handed male with a lesion in the right frontal lobe and in the right  thalamic pulvinar area. The patient was submitted to stereotactic thalamotomy for  a post-traumatic intentional ataxia in the left extremities. He was subjected to  repeated tests with dichotic listening to consonant-vowel syllables under three  different attentional instructions. He was also tested monaurally with the same  stimulus materials as used in the dichotic test. The results showed almost  complete extinction of the left ear input during dichotic presentations, despite  normal hearing when tested with audiometer screening. The left ear extinction  effect was independent of instructions to attend to the left or right ear input.  However, during monaural presentation, correct left ear reports increased to  about 85%. The results are interpreted as showing an auditory attentional neglect  caused by the right frontal and pulvinar lesions.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0093-934
+J9 Brain Lang
+PD OCT 1
+PY 1991
+VL 41
+IS 3
+BP 465
+EP 73
+DI 10.1016/0093-934x(91)90167-y
+PG -392
+WC Adult; Arousal; physiology; Attention; physiology; Auditory Pathways; physiopathology; Brain Concussion; physiopathology; Brain Damage, Chronic; physiopathology; Cerebral Hemorrhage; physiopathology; Dichotic Listening Tests; Dominance, Cerebral; physiology; Frontal Lobe; injuries; Humans; Magnetic Resonance Imaging; Male; Speech Perception; physiology; Thalamic Nuclei; injuries; Tomography, X-Ray Computed
+UT PubMed:1933266
+PM 1933266
+DA 1991-10-01
+ER
+
+PT J
+AU Renne, PR
+   Basu, AR
+AF Renne, P R
+   Basu, A R
+TI Rapid eruption of the siberian traps flood basalts at the permo-triassic
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The Siberian Traps represent one of the most voluminous flood basalt provinces on  Earth. Laser-heating (40)Ar/(39)Ar data indicate that the bulk of these basalts  was erupted over an extremely short time interval (900,000 +/- 800,000 years)  beginning at about 248 million years ago at mean eruption rates of greater than  1.3 cubic kilometers per year. Such rates are consistent with a mantle plume  origin. Magmatism was not associated with significant lithospheric rifting; thus,  mantle decompression resulting from rifting was probably not the primary cause of  widespread melting. Inception of Siberian Traps volcanism coincided (within  uncertainty) with a profound faunal mass extinction at the Permo-Triassic  boundary 249 +/- 4 million years ago; these data thus leave open the question of  a genetic relation between the two events.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JUL 12
+PY 1991
+VL 253
+IS 5016
+BP 176
+EP 9
+DI 10.1126/science.253.5016.176
+PG -167
+UT PubMed:17779134
+PM 17779134
+DA 1991-07-12
+ER
+
+PT J
+AU Raup, D
+AF Raup, D
+TI Extinction: bad genes or bad luck?
+SO New scientist (1971)
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+C1 University of Chicago, USA.
+NR 0
+TC 0
+SN 
+EI 0262-407
+J9 New Sci
+PD SEP 14
+PY 1991
+VL 131
+IS 1786
+BP 46
+EP 9
+DI 
+PG -37
+WC Adaptation, Biological; Animals; Biological Evolution; Fossils; Paleontology; Probability; Selection, Genetic; Time Factors
+UT PubMed:11540932
+PM 11540932
+DA 1991-09-14
+ER
+
+PT J
+AU Sheehan, PM
+   Fastovsky, DE
+   Hoffmann, RG
+   Berghaus, CB
+   Gabriel, DL
+AF Sheehan, P M
+   Fastovsky, D E
+   Hoffmann, R G
+   Berghaus, C B
+   Gabriel, D L
+TI Sudden extinction of the dinosaurs: latest Cretaceous, upper Great Plains, USA.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Results of a three-year field study of family-level patterns of ecological  diversity of dinosaurs in the Hell Creek Formation of Montana and North Dakota  show no evidence (probability P < 0.05) of a gradual decline of dinosaurs at the  end of the Cretaceous. Stratigraphic reliability was maintained through a  tripartite division of the Hell Creek, and preservational biases were corrected  for by comparison of results only from similar fades as well as through the use  of large-scale, statistically rigorous survey and collection procedures. The  findings are in agreement with an abrupt extinction event such as one caused by  an asteroid impact.
+C1 Department of Geology, Milwaukee Public Museum, WI 53233, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 8
+PY 1991
+VL 254
+IS 5033
+BP 835
+EP 9
+DI 10.1126/science.11536489
+PG -826
+WC Animals; Biological Evolution; Fossils; Geologic Sediments; analysis; Minor Planets; Montana; North Dakota; Paleontology
+UT PubMed:11536489
+PM 11536489
+DA 1991-11-08
+ER
+
+PT J
+AU Cherfas, J
+AF Cherfas, J
+TI Disappearing mushrooms: another mass extinction?
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD DEC 6
+PY 1991
+VL 254
+IS 5037
+BP 1458
+EP 1458
+DI 10.1126/science.254.5037.1458
+PG 0
+UT PubMed:17773291
+PM 17773291
+DA 1991-12-06
+ER
+
+PT J
+AU Bettinger, C
+   Zimmermann, HW
+AF Bettinger, C
+   Zimmermann, H W
+TI New investigations on hematoxylin, hematein, and hematein-aluminium complexes. I.
+SO Histochemistry
+LA English
+DT Journal Article
+AB Analytically pure hematoxylin (Htx), pentaacetylhematoxylin (PAHtx), and hematein  (Hm) were isolated and characterized by 1H-NMR spectroscopy. The VIS/UV spectra  of Htx and Hm were recorded in MeOH and in H2O at various pH values. The molar  extinction coefficients of the long wavelength absorption bands are reported. The  pKa value for the 1st acidic dissociation step of Hm has been determined from the  pH dependency of the absorption spectra of Hm in aqueous buffer solutions.  Finally, the absorption spectra are qualitatively discussed.
+C1 Institut für Physikalische Chemie, Universität Freiburg, Federal Republic of Germany.
+NR 0
+TC 0
+SN 
+EI 0301-556
+J9 Histochemistry
+PD JAN 1
+PY 1991
+VL 95
+IS 3
+BP 279
+EP 88
+DI 10.1007/BF00266778
+PG -191
+WC Aluminum; chemistry; Buffers; Chemical Phenomena; Chemistry, Physical; Hematoxylin; analogs & derivatives; Hydrogen-Ion Concentration; Kinetics; Magnetic Resonance Spectroscopy; Mass Spectrometry; Molecular Structure; Oxidation-Reduction; Solutions; Spectrophotometry; Staining and Labeling
+UT PubMed:1711021
+PM 1711021
+DA 1991-01-01
+ER
+
+PT J
+AU Minelli, A
+   Fusco, G
+   Sartori, S
+AF Minelli, A
+   Fusco, G
+   Sartori, S
+TI Self-similarity in biological classifications.
+SO Bio Systems
+LA English
+DT Journal Article
+AB Size distributions of supraspecific taxa, e.g. genera, measured as the number of  included subtaxa, e.g. species, are found to follow a power law. This behaviour  has been verified for a number of taxa of different size and taxonomic rank, thus  suggesting a fractal structure of biological classifications. This is regarded as  probably dependent on evolutionary processes shaping the phylogenetic tree,  especially speciation and extinction, as well as on the topological properties of  developmental constraints and/or of the ecospace(s) with which the group has been  confronted during its history. The role of taxonomic bias is deemphasized.
+C1 Department of Biology, University of Padova, Italy.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1991
+VL 26
+IS 2
+BP 89
+EP 97
+DI 10.1016/0303-2647(91)90040-r
+PG 8
+WC Animals; Classification; methods; Genetic Variation; Models, Biological
+UT PubMed:1841641
+PM 1841641
+DA 1991-01-01
+ER
+
+PT J
+AU Szuts, EZ
+   Harosi, FI
+AF Szuts, E Z
+   Harosi, F I
+TI Solubility of retinoids in water.
+SO Archives of biochemistry and biophysics
+LA English
+DT Journal Article
+AB Spectrophotometric and radioactive techniques were used to measure the water  solubility of retinaldehyde, retinol (vitamin A), and retinoic acid under  physiological conditions. Hydration decreases the molar extinction coefficient of  these substances and shifts their absorption peak bathochromically (10 nm for  retinal and approximately 1 nm for the rest). We find their solubility to be  about 0.1 microM at room temperature, pH 7.3 (with experimental values being 0.11  microM for retinaldehyde, 0.06 microM for retinol, and 0.21 microM for retinoic  acid). To prevent oxidative degradation of retinol, which is the most labile  retinoid, our argon-saturated buffer solutions contained physiological levels of  ascorbate or alpha-tocopherol. To the best of our knowledge, water solubility of  these compounds has not yet been previously reported. Although the measured  solubilities are relatively low, they are significant and may account for the  movement of retinoids through the aqueous phase as observed by others during  exchange with binding proteins and during intervesicular transfer in the absence  of binding proteins. Diffusion of uncomplexed retinoids through the aqueous phase  can be a major pathway for transport over subcellular distances.
+C1 Laboratory of Sensory Physiology, Marine Biological Laboratory, Woods Hole, Massachusetts 02543.
+NR 0
+TC 0
+SN 
+EI 0003-986
+J9 Arch Biochem Biophys
+PD JUN 1
+PY 1991
+VL 287
+IS 2
+BP 297
+EP 304
+DI 10.1016/0003-9861(91)90482-x
+PG 7
+WC Ascorbic Acid; pharmacology; Carbon Radioisotopes; Chromatography, High Pressure Liquid; Hydrogen-Ion Concentration; Retinaldehyde; chemistry; Retinoids; chemistry; Solubility; Spectrophotometry; Temperature; Tretinoin; chemistry; Tritium; Vitamin A; chemistry; Vitamin E; pharmacology; Water
+UT PubMed:1898007
+PM 1898007
+DA 1991-06-01
+ER
+
+PT J
+AU Blazsek, I
+   Farabos, C
+   Musset, M
+   Goldschmidt, E
+   Comisso, M
+   Benavides, M
+   Wang, ZY
+   Labat, ML
+   Mathé, G
+   Misset, JL
+AF Blazsek, I
+   Farabos, C
+   Musset, M
+   Goldschmidt, E
+   Comisso, M
+   Benavides, M
+   Wang, Z Y
+   Labat, M L
+   Mathé, G
+   Misset, J L
+TI Retinoic acid in mono- or combined differentiation therapy of myelodysplasia and
+SO Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie
+LA English
+DT Journal Article
+AB Myelodysplastic preleukemic syndromes (MDPS) and acute promyelocytic leukemia  (APL) share a surprising in vivo sensitivity to the hormonally acting 13 cis or  all trans retinoic acids (transRA). Here we show that transRA as a  monotherapeutic agent induced a stable remission in APL at the third relapse. In  MDPS, treatment with prednisone and 1 alpha,25-dihydroxyvitamin D3 (1 alpha,25D3)  13 cis RA induced a long-lasting hematological remission. Initially both patients  had an impaired BM microenvironment which regenerated on retinoid therapy as  judged by reappearance of the Hematon fraction in the BM aspirates. Our  preclinical experiments using long-term liquid BM cultures (LTBMC) indicated that  several individual patterns of growth and differentiation responses can be  induced by combinations of transRA, 1 alpha,25D3 and hemopoietic growth factors  (HGFs). The biological responses may vary from complete clonal extinction to a  significant growth stimulation of the leukemic blast cell populations. These  results further support the importance of preclinical studies in selecting "good"  responders for, and excluding "poor" responders from protocols using  differentiation therapy.
+C1 ICIG, Association Claude Bernard, Hôpital Paul Brousse, Villejuif, France.
+NR 0
+TC 0
+SN 
+EI 0753-332
+J9 Biomed Pharmacother
+PD JAN 1
+PY 1991
+VL 45
+IS 4-5
+BP 169
+EP 77
+DI 10.1016/0753-3322(91)90104-2
+PG -92
+WC Bone Marrow; drug effects; Calcitriol; administration & dosage; Cells, Cultured; Drug Therapy, Combination; Humans; Leukemia, Promyelocytic, Acute; drug therapy; Myelodysplastic Syndromes; drug therapy; Prednisone; administration & dosage; Tretinoin; administration & dosage
+UT PubMed:1932600
+PM 1932600
+DA 1991-01-01
+ER
+
+PT J
+AU Oldenbourg, R
+AF Oldenbourg, R
+TI Analysis of edge birefringence.
+SO Biophysical journal
+LA English
+DT Journal Article
+AB We present an experimental and theoretical study of the phenomenon of edge  birefringence that appears near boundaries of transparent objects which are  observed with high extinction and high resolution polarized light microscopy. As  test objects, thin flakes of isotropic KCl crystals were immersed in media of  various refractive indices. The measured retardation near crystal edges increased  linearly with both the crystal thickness (tested between 0.3 and 1 micron), and  the difference in refractive indices n between crystal (n = 1.49) and immersion  liquids (n between 1.36 and 1.62). The specific edge birefringence, i.e., the  retardation per thickness and per refractive index difference, is 0.029 on the  high refractive index side of the boundary and -0.015 on the low refractive index  side. The transition through zero birefringence specifies the position of a  boundary at a much higher precision than predicted by the diffraction limit of  the optical setup. The theoretical study employs a ray tracing procedure modeling  the change in phase and polarization of rays passing through the specimen. We  find good agreement between the model calculations and the experimental results  indicating that edge birefringence can be attributed to the change in  polarization of light that is refracted and reflected by dielectric interfaces.
+C1 Marine Biological Laboratory, Woods Hole, Massachusetts 02543.
+NR 0
+TC 0
+SN 1542-008
+EI 0006-349
+J9 Biophys J
+PD SEP 1
+PY 1991
+VL 60
+IS 3
+BP 629
+EP 41
+DI 10.1016/S0006-3495(91)82092-6
+PG -588
+WC Birefringence; Crystallography; methods; Microscopy, Polarization; methods; Models, Theoretical; Potassium Chloride; chemistry
+UT PubMed:1932552
+PM 1932552
+DA 1991-09-01
+ER
+
+PT J
+AU Unknown, -
+AF Unknown, -
+TI Extinction potpourri: killers and victims: where to run from a mass extinction?
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 15
+PY 1991
+VL 254
+IS 5034
+BP 942
+EP 942
+DI 10.1126/science.254.5034.942
+PG 0
+UT PubMed:17731513
+PM 17731513
+DA 1991-11-15
+ER
+
+PT J
+AU Kauffman, SA
+   Johnsen, S
+AF Kauffman, S A
+   Johnsen, S
+TI Coevolution to the edge of chaos: coupled fitness landscapes, poised states, and
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB We introduce a broadened framework to study aspects of coevolution based on the  NK class of statistical models of rugged fitness landscapes. In these models the  fitness contribution of each of N genes in a genotype depends epistatically on K  other genes. Increasing epistatic interactions increases the rugged multipeaked  character of the fitness landscape. Coevolution is thought of, at the lowest  level, as a coupling of landscapes such that adaptive moves by one player deform  the landscapes of its immediate partners. In these models we are able to tune the  ruggedness of landscapes, how richly intercoupled any two landscapes are, and how  many other players interact with each player. All these properties profoundly  alter the character of the coevolutionary dynamics. In particular, these  parameters govern how readily coevolving ecosystems achieve Nash equilibria, how  stable to perturbations such equilibria are, and the sustained mean fitness of  coevolving partners. In turn, this raises the possibility that an evolutionary  metadynamics due to natural selection may sculpt landscapes and their couplings  to achieve coevolutionary systems able to coadapt well. The results suggest that  sustained fitness is optimized when landscape ruggedness relative to couplings  between landscapes is tuned such that Nash equilibria just tenuously form across  the ecosystem. In this poised state, coevolutionary avalanches appear to  propagate on all length scales in a power law distribution. Such avalanches may  be related to the distribution of small and large extinction events in the  record.
+C1 Department of Biochemistry and Biophysics, School of Medicine, University of Pennsylvania, Philadelphia 19104-6059.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD APR 21
+PY 1991
+VL 149
+IS 4
+BP 467
+EP 505
+DI 10.1016/s0022-5193(05)80094-3
+PG 38
+WC Biological Evolution; Ecology; Models, Statistical; Population Dynamics; Selection, Genetic
+UT PubMed:2062105
+PM 2062105
+DA 1991-04-21
+ER
+
+PT J
+AU McDonald, JR
+   Ko, C
+   Mismer, D
+   Smith, DJ
+   Collins, F
+AF McDonald, J R
+   Ko, C
+   Mismer, D
+   Smith, D J
+   Collins, F
+TI Expression and characterization of recombinant human ciliary neurotrophic factor
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB The gene for ciliary neurotrophic factor (CNTF) was cloned from a human genomic  DNA library by screening with a DNA fragment amplified from human genomic DNA  using the polymerase chain reaction. A DNA sequence coding for human CNTF was  placed under control of an regulatable promoter in the expression vector pJU1003  and transformed into Escherichia coli strain BL21(DE3). Induction of expression  in cultures of this transformant led to the accumulation of approx. 25 mg/l per  A600 unit of human CNTF. CNTF was purified to homogeneity from cell lysates via  anion-exchange, cation-exchange and Zn(2+)-affinity chromatography. Purified CNTF  contained less than 0.1% contaminating E. coli proteins, as determined by sodium  dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE), Western blot  analysis and reversed-phase high-pressure liquid chromatography (HPLC). The  protein exhibited an ultraviolet absorption maximum at 279 nm with a calculated  extinction coefficient of A1%(279) = 9.0. Peptide map and amino acid sequence  analyses confirmed that the expressed protein has the amino acid sequence  expected for human CNTF, except for the absence of the amino-terminal methionine.  High-purified recombinant human CNTF supported the survival of chick embryo  parasympathetic, sympathetic and sensory neurons in culture at low picomolar  concentrations. These results indicate that the biological activities previously  ascribed to impure CNTF preparations indeed reside in one molecule.
+C1 Synergen, Inc., Boulder, CO 80301.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD AUG 27
+PY 1991
+VL 1090
+IS 1
+BP 70
+EP 80
+DI 10.1016/0167-4781(91)90038-n
+PG 10
+WC Amino Acid Sequence; Animals; Base Sequence; Blotting, Western; Cells, Cultured; Chick Embryo; Chromatography, High Pressure Liquid; Ciliary Neurotrophic Factor; Cloning, Molecular; Electrophoresis, Polyacrylamide Gel; Escherichia coli; metabolism; Gene Expression; physiology; Humans; Molecular Sequence Data; Nerve Growth Factors; biosynthesis; Nerve Tissue Proteins; biosynthesis; Neurons; drug effects; Recombinant Proteins; biosynthesis
+UT PubMed:1883844
+PM 1883844
+DA 1991-08-27
+ER
+
+PT J
+AU Mellon, JE
+AF Mellon, J E
+TI Purification and Characterization of Isoperoxidases Elicited by Aspergillus
+SO Plant physiology
+LA English
+DT Journal Article
+AB Two anionic isoperoxidases were isolated from media of Aspergillus  flavus-inoculated cotton (Gossypium hirsutum L.) ovule cultures and purified  about 150-fold to apparent homogeneity by treatment with Cell Debris Remover and  ion exchange chromatography on Accell QMA medium. These isoperoxidases were  present in noninoculated cotton ovule cultures at low levels. The major activity  peak (B) represented 90% of the recovered peroxidase activity and was  electrophoretically homogeneous. The minor activity peak (A) was about 95% pure.  Isoelectric focusing analysis showed that B was greater than 95% pure with  respect to other peroxidase isozymes, while the enzyme in A was about 90%  isozymically pure. Each isoperoxidase displayed a molecular mass of 56  kilodaltons by interpolation from denaturing gel electrophoresis. The B isozyme  displayed a molecular mass of 55 kilodaltons by gel filtration chromatography.  The pH optima for the cotton ovule isoperoxidases were similar, 5.0 for isozyme A  and 6.0 for isozyme B. The isoelectric points for isozymes A and B were 4.2 and  4.4, respectively. Eugenol, guaiacol, and 3,3',5,5'-tetramethylbenzidine were  good electron donor substrates, whereas 4-aminoantipyrine was a poor substrate.  The absorption spectrum of the material in B revealed a major peak at 400  nanometers and a minor peak at 280 nanometers. The molar extinction coefficient  at 400 nanometers (pH 7.0) was calculated to be 1.07 x 10(5) per square  centimeter per mole. Amino acid analysis of isozyme B confirmed the acidic nature  of this protein and identified a number of similarities to the anionic  peroxidases from tobacco and potato. This glycoprotein was found to contain 12 to  14% sugar (by weight), mainly in the form of galactose and mannose.
+C1 U.S. Department of Agriculture, Agricultural Research Service, Southern Regional Research Center, P. O. Box 19687, New Orleans, Louisiana 70179.
+NR 0
+TC 0
+SN 1532-254
+EI 0032-088
+J9 Plant Physiol
+PD JAN 1
+PY 1991
+VL 95
+IS 1
+BP 14
+EP 20
+DI 10.1104/pp.95.1.14
+PG 6
+UT PubMed:16667941
+PM 16667941
+DA 1991-01-01
+ER
+
+PT J
+AU Whitaker, JE
+   Haugland, RP
+   Moore, PL
+   Hewitt, PC
+   Reese, M
+   Haugland, RP
+AF Whitaker, J E
+   Haugland, R P
+   Moore, P L
+   Hewitt, P C
+   Reese, M
+   Haugland, R P
+TI Cascade blue derivatives: water soluble, reactive, blue emission dyes evaluated
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB Fluorescent dyes based on the pyrenyloxytrisulfonic acid (Cascade Blue) structure  were prepared and evaluated. The dyes contain functional groups that react with  amines, thiols, acids, aldehydes, and ketones, forming covalently bonded,  fluorescent derivatives of molecules with broad biological interest. Reactive  groups in the Cascade Blue dyes include carboxylic acids and activated esters,  amines, hydrazides, alcohols, photoaffinity reagents, acrylamides, and  haloacetamides. The dyes exhibited absorption maxima at 374-378 nm and 399-403  nm, with extinction coefficients in the range of 1.9 x 10(4)-2.4 x 10(4) M-1cm-1  and 2.3 x 10(4)-3.0 x 10(4) M-1cm-1, respectively. Emission maxima ranged from  422-430 nm. The spectral properties of the fluorescent dyes are sufficiently  different from fluorescein to permit simultaneous use of both dyes with minimum  spectral interference. The Cascade Blue derivatives have narrower spectral  bandwidths and smaller Stokes' shifts than other reactive dyes with similar  spectral properties, do not show appreciable sensitivity to pH, have higher  solubilities in aqueous solution, and have good to excellent quantum yields.  Cascade Blue conjugates of a number of histochemically and biologically useful  molecules were prepared, including dextrans, albumins, Fc receptor binding  proteins, antibodies, lectins, membrane receptor binding proteins, and biotin  binding proteins, as well as biological particles and bacteria. Cascade Blue  conjugates of secondary and tertiary labels yielded specific fluorescence  localization in the indirect immunofluorescent staining of human epithelial cell  (HEp-2) nuclei.
+C1 Molecular Probes, Inc., Eugene, Oregon 97402.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD OCT 1
+PY 1991
+VL 198
+IS 1
+BP 119
+EP 30
+DI 10.1016/0003-2697(91)90515-u
+PG -89
+WC Cell Line; Dextrans; chemistry; Epithelial Cells; Evaluation Studies as Topic; Fluorescent Antibody Technique; Fluorescent Dyes; chemistry; Humans; Immunoglobulin G; chemistry; Lectins; chemistry; Membrane Proteins; chemistry; Microscopy, Fluorescence; Organometallic Compounds; chemistry; Organophosphorus Compounds; chemistry; Sensitivity and Specificity; Spectrometry, Fluorescence
+UT PubMed:1724118
+PM 1724118
+DA 1991-10-01
+ER
+
+PT J
+AU Johnsen, BH
+   Hugdahl, K
+AF Johnsen, B H
+   Hugdahl, K
+TI Hemispheric asymmetry in conditioning to facial emotional expressions.
+SO Psychophysiology
+LA English
+DT Journal Article
+AB In the present experiment, we report a right hemisphere advantage for autonomic  conditioning to facial emotional expressions. Specifically, angry, but not happy,  facial expressions showed significantly more resistance to extinction when  presented initially to the right as compared to the left hemisphere. Slides of  happy and angry faces were used as conditioned stimuli (CS+ and CS-) with shock  as the unconditioned stimulus (UCS). Half of the subjects (n = 15) had the angry  face as CS+ (and the happy face as CS-), the other half had the happy face as CS+  (and the angry face as CS-). During acquisition, the CSs were presented foveally.  During extinction, using the Visual Half-Field (VHF) technique, half of the CS+  and CS- trials were randomly presented in the right visual half-field (initially  to the left hemisphere), and half of the trials were presented in the left  half-field (initially to the right hemisphere). Stimuli were presented for 210 ms  during acquisition, and for 30 ms during extinction. Bilateral skin conductance  responses (SCRs) were recorded. The results showed effects of acquisition only  for the angry CS+ group. During extinction, there was a significant Conditioning  X Half-field interaction which was due to greater SCRs to the CS+ angry face when  it was presented in the left half-field. It is concluded that the present results  reveal hemisphere asymmetry effects in facial emotional conditioning.
+C1 University of Bergen, Department of Biological and Medical Psychology, Norway.
+NR 0
+TC 0
+SN 
+EI 0048-577
+J9 Psychophysiology
+PD MAR 1
+PY 1991
+VL 28
+IS 2
+BP 154
+EP 62
+DI 10.1111/j.1469-8986.1991.tb00405.x
+PG -92
+WC Adult; Arousal; Attention; Conditioning, Classical; Dominance, Cerebral; Extinction, Psychological; Facial Expression; Female; Galvanic Skin Response; Humans; Mental Recall; Middle Aged
+UT PubMed:1946881
+PM 1946881
+DA 1991-03-01
+ER
+
+PT J
+AU Aszódi, A
+   Müller, U
+   Friedrich, P
+   Spatz, HC
+AF Aszódi, A
+   Müller, U
+   Friedrich, P
+   Spatz, H C
+TI Signal convergence on protein kinase A as a molecular correlate of learning.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB The response of a reaction network composed of protein kinase A, calpain, and  protein phosphatase to transient cAMP and Ca2+ signals was studied. An essential  feature of signal convergence is that the regulatory subunit of cAMP-dissociated  protein kinase A undergoes limited proteolysis by the Ca(2+)-activated proteinase  calpain. A dynamic model of this system based on kinetic differential equations  was built and simulated by computer. The system shows analogies to typical  features of associative learning such as acquisition, contiguity detection,  extinction, and memory decay, suggesting that these biochemical reactions may be  part of the molecular mechanism of learning in Drosophila.
+C1 Institute for Enzymology, Hungarian Academy of Sciences, Budapest.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JUL 1
+PY 1991
+VL 88
+IS 13
+BP 5832
+EP 6
+DI 10.1073/pnas.88.13.5832
+PG -5826
+WC Calpain; metabolism; Computer Simulation; Cyclic AMP; metabolism; Enzyme Activation; In Vitro Techniques; Kinetics; Learning; physiology; Models, Biological; Phosphoprotein Phosphatases; metabolism; Protein Kinases; metabolism; Time Factors
+UT PubMed:1648232
+PM 1648232
+DA 1991-07-01
+ER
+
+PT J
+AU Schopf, JW
+AF Schopf, J W
+TI Collapse of the Late Proterozoic ecosystem.
+SO South African journal of geology : being the transactions of the Geological
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-30; NASA Program Exobiology; Non-NASA Center
+AB Evidence accumulated over the past two decades is now sufficient to permit an  initial quantitative assessment of the patterns of biotic diversity and  extinction that occurred during Proterozoic time. Because of limitations in both  the quality and quantity of data currently available, however, generalizations  thus derived must be regarded as tentative. Nevertheless, read literally,  available palaeontological data appear to indicate that the global ecosystem  experienced a gradual but massive collapse between 1 000 Ma and the beginning of  the Phanerozoic, a supposition consistent with other lines of geological and  geochemical evidence. A possible forcing agent for such a collapse appears to  have been a decrease in ambient levels of carbon dioxide and a resultant decrease  in average global temperature, photosynthetic efficiency, and primary  productivity.
+C1 Department of Earth and Space Sciences, University of California, Los Angeles 90024, USA.
+NR 0
+TC 0
+SN 
+EI 1012-075
+J9 South Afr J Geol
+PD JAN 1
+PY 1991
+VL 94
+IS 1
+BP 33
+EP 43
+DI 
+PG 10
+WC Animals; Biological Evolution; Carbon Dioxide; analysis; Ecosystem; Fossils; Geological Phenomena; Geology; Models, Theoretical; Paleontology; Photosynthesis; Plankton; South Africa; Temperature
+UT PubMed:11538702
+PM 11538702
+DA 1991-01-01
+ER
+
+PT J
+AU Jewell, JM
+   Aggarwal, ID
+AF Jewell, J M
+   Aggarwal, I D
+TI Determination of intrinsic mid-infrared absorption of a fluoride glass.
+SO Optics letters
+LA English
+DT Journal Article
+AB The intrinsic mid-infrared optical absorption of a  ZrF(4)-BaF(2)-LaF(3)-AlF(3)-NaF (ZBLAN) glass has been determined by combining  laser calorimetry and spark-source mass spectrographic analysis. The total  optical absorption of four samples of varying purity was measured at 3.9 microm  with laser calorimetry. The extrinsic contribution to the total absorption for  each glass was calculated from the measured concentration of rare-earth impurity  ions and known extinction coefficients. The intrinsic absorption of this glass at  3.9 microm determined from the difference between the total measured absorption  and the calculated extrinsic absorption is 6.11 (+/-0.61) x 10(-4) cm(-1).
+NR 0
+TC 0
+SN 
+EI 0146-959
+J9 Opt Lett
+PD OCT 15
+PY 1991
+VL 16
+IS 20
+BP 1554
+EP 6
+DI 10.1364/ol.16.001554
+PG -1548
+UT PubMed:19777029
+PM 19777029
+DA 1991-10-15
+ER
+

@@ -1,0 +1,445 @@
+PT J
+AU Hughes, HG
+   Ferguson, JA
+   Stephens, DH
+AF Hughes, H G
+   Ferguson, J A
+   Stephens, D H
+TI Sensitivity of a lidar inversion algorithm to parameters relating atmospheric
+SO Applied optics
+LA English
+DT Journal Article
+AB A solution of the single-scattering lidar equation requires a relationship  between the coefficients of backscatter beta(r) and extinction sigma(r) to be of  the form beta(r) = C2sigma(r)k, where C2 and k are parameters independent of  range r. The sensitivity of a particular lidar inversion algorithm to  uncertainties in C2 and k is investigated using a measured lidar return which  indicated the atmosphere to be essentially horizontally homogeneous during a  reduced visibility condition. Starting with the measured power returned as a  function of range, extinction coefficients and average visibilities are  calculated using the inversion algorithm for different values of C2 and k and  compared with those inferred from the lidar return using the slope method. The  calculated extinction coefficients (and visibilities) were found to be extremely  sensitive to uncertainties in C2. This questions the usefulness of the lidar  inversion algorithm for aerosol extinction applications when the air mass  characteristics change along the measurement path.
+C1 Naval Ocean Systems Center, Ocean & Atmospheric Sciences Division, San Diego, California 92152-5000, USA.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD JUN 1
+PY 1985
+VL 24
+IS 11
+BP 1609
+EP 13
+DI 10.1364/ao.24.001609
+PG -1596
+UT PubMed:18223764
+PM 18223764
+DA 1985-06-01
+ER
+
+PT J
+AU Schlatter, D
+   Waldvogel, S
+   Zülli, F
+   Suter, F
+   Portmann, W
+   Zuber, H
+AF Schlatter, D
+   Waldvogel, S
+   Zülli, F
+   Suter, F
+   Portmann, W
+   Zuber, H
+TI Purification, amino-acid sequence and some properties of the ferredoxin isolated
+SO Biological chemistry Hoppe-Seyler
+LA English
+DT Journal Article
+AB Ferredoxin was isolated from the aerobic, thermophilic and acidophilic bacterium  Bacillus acidocaldarius and its sequence of 78 amino acids completely determined  by automated Edman degradation of the protein and of peptides derived from  chemical cleavage between aspartic acid and proline and from enzymatic  digestions. The optical spectrum of the oxidized protein has a broad maximum  around 400 nm. The ferredoxin is thermostable: its absorbance begins to decrease  only at incubation over 71 degrees C. The number of iron and inorganic sulphur  atoms per molecule was determined to be 5.3 and 5.0, respectively. The calculated  molar extinction coefficient was 23 000 M-1 X cm-1, the molecular mass of the  apoferredoxin 8 872 Da. Contrary to all expectations, the sequence of B.  acidocaldarius ferredoxin shows very little homology to that of B.  stearothermophilus but closely resembles that of Thermus thermophilus.
+NR 0
+TC 0
+SN 
+EI 0177-359
+J9 Biol Chem Hoppe Seyler
+PD MAR 1
+PY 1985
+VL 366
+IS 3
+BP 223
+EP 31
+DI 10.1515/bchm3.1985.366.1.223
+PG -192
+WC Amino Acid Sequence; Bacillus; analysis; Carboxypeptidases; Electron Spin Resonance Spectroscopy; Endopeptidases; Ferredoxins; analysis; Hydrolysis; Iron; analysis; Metalloendopeptidases; Methylation; Molecular Weight; Peptides; analysis; Phycoerythrin; analysis; Pigments, Biological; analysis; Sulfur; analysis; Trypsin
+UT PubMed:2988582
+PM 2988582
+DA 1985-03-01
+ER
+
+PT J
+AU Hasegawa, M
+   Kishino, H
+   Yano, T
+AF Hasegawa, M
+   Kishino, H
+   Yano, T
+TI Dating of the human-ape splitting by a molecular clock of mitochondrial DNA.
+SO Journal of molecular evolution
+LA English
+DT Journal Article
+AB A new statistical method for estimating divergence dates of species from DNA  sequence data by a molecular clock approach is developed. This method takes into  account effectively the information contained in a set of DNA sequence data. The  molecular clock of mitochondrial DNA (mtDNA) was calibrated by setting the date  of divergence between primates and ungulates at the Cretaceous-Tertiary boundary  (65 million years ago), when the extinction of dinosaurs occurred. A generalized  least-squares method was applied in fitting a model to mtDNA sequence data, and  the clock gave dates of 92.3 +/- 11.7, 13.3 +/- 1.5, 10.9 +/- 1.2, 3.7 +/- 0.6,  and 2.7 +/- 0.6 million years ago (where the second of each pair of numbers is  the standard deviation) for the separation of mouse, gibbon, orangutan, gorilla,  and chimpanzee, respectively, from the line leading to humans. Although there is  some uncertainty in the clock, this dating may pose a problem for the widely  believed hypothesis that the pipedal creature Australopithecus afarensis, which  lived some 3.7 million years ago at Laetoli in Tanzania and at Hadar in Ethiopia,  was ancestral to man and evolved after the human-ape splitting. Another likelier  possibility is that mtDNA was transferred through hybridization between a  proto-human and a proto-chimpanzee after the former had developed bipedalism.
+NR 0
+TC 0
+SN 
+EI 0022-284
+J9 J Mol Evol
+PD JAN 1
+PY 1985
+VL 22
+IS 2
+BP 160
+EP 74
+DI 10.1007/BF02101694
+PG -86
+WC Animals; Biological Evolution; DNA, Mitochondrial; genetics; Genes; Haplorhini; genetics; Humans; Mathematics; Models, Genetic; Nucleic Acid Hybridization; Primates; genetics; Proteins; genetics; Species Specificity
+UT PubMed:3934395
+PM 3934395
+DA 1985-01-01
+ER
+
+PT J
+AU Weyler, W
+   Salach, JI
+AF Weyler, W
+   Salach, J I
+TI Purification and properties of mitochondrial monoamine oxidase type A from human
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB A high yield purification scheme for monoamine oxidase A from human placental  mitochondria is described. The enzyme is solubilized by a combination of  treatment with phospholipase A and C and extraction with Triton X-100 and further  purified by partitioning between dextran and polyethylene glycol polymers. The  enzyme was obtained in 35% yield and high purity on DEAE-Sepharose CL-6B  chromatography. This product, 90% catalytically active, showed a single major and  several minor bands on sodium dodecyl sulfate-polyacrylamide gel electrophoresis.  Further purification could be achieved by additional chromatography using Bio-Gel  HTP, but concomitant loss of catalytic activity occurred (enzyme remained about  60% active). The difference extinction coefficient for flavinox--flavinred at 456  nm was 10,800 +/- 350 m-1 cm-1. A sulfhydryl to flavin ratio of 7.5 was obtained  when enzyme was denatured with sodium dodecyl sulfate, reduced with  2-mercaptoethanol, and titrated with 2,2'-dipyridyl disulfide. Anaerobic  titration with 0.5 eq of sodium dithionite gave rise to the red anionic flavin  radical, and full reduction was observed on further addition of reagent. The Km  value for kynuramine was essentially the same for mitochondria (0.12 mM) and  enzyme after DEAE-Sepharose CL-6B chromatography (0.17 mM). The concentration of  clorgyline and deprenyl required for 50% inactivation also remained essentially  unchanged. Incubation of the enzyme with 2,2'-dipyridyl disulfide caused  inactivation in a biphasic manner with apparent second-order rate constants of  1230 M-1 min-1 and 235 M-1 min-1 for the rapid and slow phase, respectively. This  inactivation was largely abolished by the inclusion of the competitive inhibitor  amphetamine (Ki = 20 microM) in the incubation mixture. Analysis by sodium  dodecyl sulfate-polyacrylamide gel electrophoresis indicated a subunit molecular  mass of 60-64 kDa, about 1.5-2.5 kDa higher than human liver monoamine oxidase B.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD OCT 25
+PY 1985
+VL 260
+IS 24
+BP 13199
+EP 207
+DI 
+PG -12992
+WC 2,2'-Dipyridyl; analogs & derivatives; Amphetamine; pharmacology; Animals; Cattle; Chromatography; Clorgyline; pharmacology; Disulfides; Electrophoresis, Polyacrylamide Gel; Female; Flavins; metabolism; Humans; Kinetics; Mitochondria; enzymology; Molecular Weight; Monoamine Oxidase; isolation & purification; Monoamine Oxidase Inhibitors; pharmacology; Oxidation-Reduction; Placenta; enzymology; Pregnancy; Selegiline; pharmacology; Solubility; Sulfhydryl Compounds; metabolism
+UT PubMed:3932340
+PM 3932340
+DA 1985-10-25
+ER
+
+PT J
+AU Klotz, AV
+   Glazer, AN
+AF Klotz, A V
+   Glazer, A N
+TI Characterization of the bilin attachment sites in R-phycoerythrin.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB The amino acid sequence around the sites of attachment of all the bilin  prosthetic groups of Gastroclonium coulteri R-phycoerythrin, (alpha beta)6 gamma,  have been determined. The sequences of tryptic peptides derived from the alpha  and beta subunits are (Formula: see text) where the designations alpha and beta  refer to the subunits from which the peptides derived. Cysteinyl residues  involved in bilin attachment are indicated with an asterisk. Each peptide carries  a single bilin, either phycoerythrobilin (PEB) or phycourobilin (PUB).  Spectroscopic studies on the gamma subunit indicate the presence of one PEB and  three PUB groups. However, five unique tryptic peptides, gamma-A through gamma-E,  were characterized, indicating that Gastroclonium R-phycoerythrin is a mixture of  at least two species, (alpha beta)6 gamma and (alpha beta)6 gamma', with gamma  subunits differing in amino acid sequence. The sequences of the gamma subunit  bilin peptides (see below) were not homologous to those from alpha and beta  subunits of any biliprotein. (Formula: see text) The bilins in all these peptides  are attached through single linkages to a cysteinyl residue, except for the  phycourobilin on peptide beta-3 which is attached through two thioether linkages  to cysteinyl residues 10 amino acids apart. The availability of small bilin  peptides was exploited to obtain more accurate molar extinction coefficients for  peptide-linked PEB and PUB groups. Application of these extinction coefficients  in the calculation of the bilin content of R-, B-, and C-phycoerythrins shows  that there are 5 bilins/alpha beta in each of these three biliprotein types.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD APR 25
+PY 1985
+VL 260
+IS 8
+BP 4856
+EP 63
+DI 
+PG -4793
+WC Amino Acid Sequence; Bile Pigments; metabolism; Chromogenic Compounds; metabolism; Peptide Hydrolases; metabolism; Phycoerythrin; analysis; Pigments, Biological; analysis; Rhodophyta; analysis
+UT PubMed:3886644
+PM 3886644
+DA 1985-04-25
+ER
+
+PT J
+AU Stenseth, NC
+   Kirkendall, LR
+   Moran, N
+AF Stenseth, Nils Chr
+   Kirkendall, Lawrence R
+   Moran, Nancy
+TI ON THE EVOLUTION OF PSEUDOGAMY.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB A. density- and frequency-dependent model for the evolution and maintenance of  pseudogamous females is developed and analyzed. Ecological as well as  evolutionary aspects of pseudogamy are discussed. Criteria are described for the  stable coexistence of sexual females and pseudogamous females under natural  conditions. The conditions for invasion of a normal bisexual population by  pseudogamous females are less stringent than the conditions for stable  coexistence. Hence, we expect that some populations will be characterized by  unstable sex ratios over time (with the resulting local extinction due to lack of  males) while other populations will be characterized by stable sex ratios over  time. If high population sex ratios (i.e., many females to few males) are to be  stable, the net population growth rate must be large, and there can be no  successful male preference for sexual females.
+C1 Department of Biology, Division of Zoology, University of Oslo, P.O. Box 1050, Blindern, 0316, Oslo 3, Norway.
+   Department of Biology, Division of Zoology, University of Oslo, P.O. Box 1050, Blindern, 0316, Oslo 3, Norway.
+   Museum of Zoology, Division of Biological Sciences, University of Michigan, Ann Arbor, Michigan, 48109.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD MAR 1
+PY 1985
+VL 39
+IS 2
+BP 294
+EP 307
+DI 10.1111/j.1558-5646.1985.tb05667.x
+PG 13
+UT PubMed:28564229
+PM 28564229
+DA 1985-03-01
+ER
+
+PT J
+AU den, Boer PJ
+AF den Boer, P J
+TI Fluctuations of density and survival of carabid populations.
+SO Oecologia
+LA English
+DT Journal Article
+AB Standardized and all-year pitfall-sampling during a number of years gives  reliable estimates of the yearly changes in size (year-catches) of the local  breeding populations (interaction groups) of carabid species. From sampling runs  at 89 sites, 2,893 estimates of coefficients of net reproduction (R) of 64  carabid species were obtained. The R-values of all species appeared to be  lognormally distributed (LND). For each species realistic fluctuations of density  could thus be simulated after estimation of mean and standard deviation of the  fitted LND (Appendix). Simulation results were compared with field data in two  ways: 1. The range between highest and lowest density (logarithmic range: LR),  only for those sampling runs of 4-12 years that are not interrupted by zero  year-catches. These LR-values were compared with those from simulated runs at  similar catch-levels (n), i.e. runs with the highest catch between 1/2·3 (n) and  1/2·3 (n+1), if n=1, 2,..., 7. As the number of uninterrupted (by zero  year-catches) time series of catches decreases at lower catch-levels, by which  the distribution of LR-values becomes skewed, each sampling run from the field  could only be compared with simulations at the same catch-level. It thus  appeared, that in the field density usually fluctuated within wider ranges than  could be expected from the concerning simulations (where density fluctuated  according to R-values drawn at random from the fitted LND). This means, that in  the field the succession of R-values generally is less favourable than at random.  This was especially evident for species with high powers of dispersal (T-species;  glossary). In species with low powers of dispersal (L-species) the density range  (LR) of field populations only at higher catch-levels agreed well with the  expected values from the simulations. 2. The number of zero year-catches in  sampling runs of 4-12 years taking into account the catch-level. In the field  very low densities as a cause of zero year-catches cannot be distinguished from  extinction and/or (re) founding (turnover). In the simulations the density level  (start density) can be chosen such that only very low densities can still be a  cause of zero year-catches (pseudo-turnover), the chance of which is higher the  lower the catch-level. Correcting the field data for pseudo-turnover for each  species gives estimates of the actual turnover. Local populations of carabid  species thus appear to survive for only restricted periods, in T-species around  10 years, in L-species around 40 years. This fits in well with previous findings  on differences in the Distribution of Population Sizes (DPS; glossary) between  species (Den Boer 1977). The survival times of local populations are not so much  determined by the instability of the habitat, but more by the instability of the  populations themselves. The low survival times of local populations of T-species  seem directly to result from the high level of dispersal.
+C1 Biological Station of Agricultural, University Wageningen, Kampsweg 27, NL-9418 PD, Wijster (Drenthe), The Netherlands.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD OCT 1
+PY 1985
+VL 67
+IS 3
+BP 322
+EP 330
+DI 10.1007/BF00384936
+PG 8
+UT PubMed:28311564
+PM 28311564
+DA 1985-10-01
+ER
+
+PT J
+AU Prothero, DR
+AF Prothero, D R
+TI Mid-oligocene extinction event in north american land mammals.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Interest in extraterrestrial causes for the apparent 26-to 32-million-year  periodicity of mass extinctions has focused on the terminal Eocene event and  older events, although there is now evidence of a mid-Oligocene event near the  early/late Oligocene boundary, or about 32.4 million years ago. An abrupt  (200,000 years or less) mid-Oligocene extinction event appears in the record of  North American land mammals, which results in the selective disappearance of  archaic members of the fauna and later diversification of other taxa. The  selective nature of the extinctions suggests climatic and ecological causes  rather than an extraterrestrial catastrophe. Increased mid-Oligocene glaciation,  worldwide cooling, a major regression event, and abrupt changes in the flora are  probably the immediate causes, and these may have resulted from changes in global  oceanic circulation.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD AUG 9
+PY 1985
+VL 229
+IS 4713
+BP 550
+EP 1
+DI 10.1126/science.229.4713.550
+PG -549
+UT PubMed:17732437
+PM 17732437
+DA 1985-08-09
+ER
+
+PT J
+AU Lande, R
+AF Lande, R
+TI The fixation of chromosomal rearrangements in a subdivided population with local
+SO Heredity
+LA English
+DT Journal Article
+AB The fixation of major chromosomal rearrangements with a heterozygote disadvantage  is modelled as a simple example of Wright's shifting balance process of evolution  in a strongly subdivided population. Chromosomal mutations with an inferior  heterozygote become fixed in a local population (or deme) by random genetic drift  and spread by migration and colonization. Wright postulated a process of  selective diffusion in which the numbers of emigrants and colonizers dispersed  from a deme increase with the mean fitness of individuals in it. The present  models show that interdeme selection during the spread of a mutation depends more  on the capacity of the mutant to invade and become established in other demes  than on selective diffusion, unless there is rapid local extinction and  colonization. The intensity of interdeme selection is reduced by random local  extinction and colonization, and when these processes are rapid (with no  selective diffusion) the expected fixation rate of spontaneous mutations with a  heterozygote disadvantage approaches that in a single isolated deme. Local  extinction and colonization, and selection on the homozygotes, accelerate the  spread of chromosomal mutations which are destined to be fixed.
+NR 0
+TC 0
+SN 
+EI 0018-067
+J9 Heredity (Edinb)
+PD JUN 1
+PY 1985
+VL 54 ( Pt 3)
+IS 
+BP 323
+EP 32
+DI 10.1038/hdy.1985.43
+PG -291
+WC Animals; Biological Evolution; Chromosomes; physiology; Heterozygote; Mathematics; Models, Genetic; Mutation; Stochastic Processes
+UT PubMed:4019220
+PM 4019220
+DA 1985-06-01
+ER
+
+PT J
+AU Kaplan, N
+   Darden, T
+   Langley, CH
+AF Kaplan, N
+   Darden, T
+   Langley, C H
+TI Evolution and extinction of transposable elements in Mendelian populations.
+SO Genetics
+LA English
+DT Journal Article
+AB A model of the evolution of a transposable element family in a Mendelian host  population is proposed that incorporates heritable phenotypic mutations in the  elements. The temporal behavior of the numbers of mutant and wild-type elements  is studied, and the expected extinction time of the transposable element family  is examined. Our results indicate that, if the mutant can be transposed equally  well in the presence of the wild type, then it can be expected to be found in  preponderance, whereas elements, such as retroviruses, where the transposing  genome and its phenotypic expression are coupled, may be characterized by a low  mutant frequency.
+NR 0
+TC 0
+SN 
+EI 0016-673
+J9 Genetics
+PD FEB 1
+PY 1985
+VL 109
+IS 2
+BP 459
+EP 80
+DI 10.1093/genetics/109.2.459
+PG -379
+WC Animals; Biological Evolution; DNA Transposable Elements; Genetic Variation; Genetics, Population; Models, Biological; Mutation
+UT PubMed:2982700
+PM 2982700
+DA 1985-02-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI Magnetic reversals and mass extinctions.
+SO Nature
+LA English
+DT Journal Article
+AB Previous analyses of the time distribution of reversals of the Earth's magnetic  field have yielded mixed results. Some authors have claimed significant  periodicities of order 10(7) yr whereas others have reported failure to reject  null hypothesis of random spacing at that scale. Because of repeated suggestions  that field reversal is linked to biological extinction, further analysis of the  magnetic times series is appropriate. I present here the results of a study of  the reversal record of the past 165 Myr. A stationary periodicity of 30 Myr  emerges (superimposed on the non-stationarities already established by others),  which predicts pulses of increased reversal activity centered at 10, 40, 70, ...  Myr BP.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD MAR 28
+PY 1985
+VL 314
+IS 6009
+BP 341
+EP 3
+DI 10.1038/314341a0
+PG -338
+WC Biological Evolution; Magnetics; Models, Statistical; Monte Carlo Method; Paleontology; statistics & numerical data; Periodicity; Poisson Distribution
+UT PubMed:11541995
+PM 11541995
+DA 1985-03-28
+ER
+
+PT J
+AU Blake, RD
+   Hydorn, TG
+AF Blake, R D
+   Hydorn, T G
+TI Spectral analysis for base composition of DNA undergoing melting.
+SO Journal of biochemical and biophysical methods
+LA English
+DT Journal Article
+AB A microcomputer-controlled spectrophotometer is described for obtaining the base  composition of melting domains in DNA from derivative melting curves. Values have  been determined for the differential molar extinction coefficients for the A-T  and G-C base pair at the three wavelengths most useful for spectral analysis of  base composition, 260, 270 and 282 nm. The average RMS error for these values was  29 l(mol X cm)-1 for the melting of 14 DNA specimens ranging in base composition  from 0-0.72 F(G + C). A precision of approximately 1% in base composition of  domains is possible. Such analysis is useful for confirming or establishing  assignments of domains to particular subtransitional features in high resolution  melting curves.
+NR 0
+TC 0
+SN 
+EI 0165-022
+J9 J Biochem Biophys Methods
+PD NOV 1
+PY 1985
+VL 11
+IS 6
+BP 307
+EP 16
+DI 10.1016/0165-022x(85)90023-5
+PG -291
+WC Base Composition; Computers; DNA; analysis; DNA, Bacterial; analysis; Mass Spectrometry; Solvents; Temperature
+UT PubMed:4067177
+PM 4067177
+DA 1985-11-01
+ER
+
+PT J
+AU Hofmann, E
+   Eschrich, K
+   Schellenberger, W
+AF Hofmann, E
+   Eschrich, K
+   Schellenberger, W
+TI Temporal organization of the phosphofructokinase/fructose-1,6-biphosphatase
+SO Advances in enzyme regulation
+LA English
+DT Journal Article
+AB The dynamic and functional organization of the  fructose-6-phosphate/fructose-1,6-bisphosphate cycle has been investigated in an  open and homogeneous reconstituted enzyme system containing phosphofructokinase,  fructose-1,6-biphosphatase, pyruvate kinase, adenylate kinase and glucose  6-phosphate isomerase. The properties of this system were analyzed by a model  based on the kinetic properties of the individual enzymes. It could be shown that  in a broad parameter region sustained oscillations arise. At low maximum  activities of phosphofructokinase a domain of multiple stationary states occurs,  in which stable stationary states can coexist with a stable oscillatory or with  an alternate stable stationary state. The occurrence of oscillations and the  emergence of alternate stationary motions are caused mainly by the reciprocal  effect of the allosteric effectors AMP and fructose-2,6-bisphosphatase must be  involved in the reaction network. The study of bisphosphatase. The attained  states can either be glycolytic or gluconeogenic, their metabolic efficiencies  depend mainly on the maximum activities of phosphofructokinase and  fructose-1,6-bisphosphatase as well as on the supply of fructose-6-phosphate and  fructose-1,6-bisphosphate. Efficient metabolic states arise only when both the  enzyme concentrations and the rates of substrate supply favor either the  glycolytic or the gluconeogenic mode of action. At medium maximum concentrations  of the enzymes oscillations occur, in which glycolytic and gluconeogenic states  are consecutively passed. A high rate of substrate cycling is observed only at  the transitions between the functionally antagonistic phases of the  periodicities. By this temporal organization the mean efficiency of the states is  increased. The integration of fructose-2,6-bisphosphate as very sensitively  acting activator of phosphofructokinase and inhibitor of  fructose-1,6-bisphosphatase gives rise either to emergence of oscillations or of  their extinction. Generally, the glycolytic mode is favored by this effector  because of its stimulatory action on the phosphofructokinase activity.
+NR 0
+TC 0
+SN 
+EI 0065-257
+J9 Adv Enzyme Regul
+PD JAN 1
+PY 1985
+VL 23
+IS 
+BP 331
+EP 62
+DI 10.1016/0065-2571(85)90055-x
+PG -269
+WC Fructose-Bisphosphatase; metabolism; Fructosediphosphates; pharmacology; Gluconeogenesis; Glycolysis; Models, Biological; Phosphofructokinase-1; isolation & purification; Saccharomyces cerevisiae; enzymology
+UT PubMed:3000145
+PM 3000145
+DA 1985-01-01
+ER
+
+PT J
+AU Roberts, S
+   Holder, MD
+AF Roberts, S
+   Holder, M D
+TI Effect of classical conditioning on an internal clock.
+SO Journal of experimental psychology. Animal behavior processes
+LA English
+DT Journal Article
+AB Six experiments with rats used a psychophysical choice procedure to study the  internal clock used to discriminate duration. They investigated if the clock is  sensitive to the signal value (associative strength) of a stimulus. The  experiments involved two types of trials. On choice trials, a stimulus lasted a  short (e.g., 3 s) or long (e.g., 12 s) duration; then the rats chose between two  levers. The rewarded choice depended on the duration of the stimulus. On  conditioning trials, the stimulus used on choice trials was presented, but it  ended without food (extinction trials) or with food (pairing trials) regardless  of what the rat did. The main stimulus minus accuracy with the long stimulus.  Experiment 1 showed that extinction trials increased short bias relative to  training without conditioning trials or to training with pairing trials. The rest  of the experiments tested explanations of these results. The same results were  found when extinction trials were the same duration as the short stimulus  (Experiment 2), when extinction trials were a random duration (Experiment 5), and  when the signal value of the conditioned stimulus was changed in another way  (Experiment 6). The effect of conditioning trials was modality specific  (Experiments 3 and 4). Of the explanations considered, the best one--the only one  not contradicted at least once--is that changing the signal value of a stimulus  changes how the clock times the stimulus. Reducing signal value reduces the  measured duration.
+NR 0
+TC 0
+SN 
+EI 0097-740
+J9 J Exp Psychol Anim Behav Process
+PD APR 1
+PY 1985
+VL 11
+IS 2
+BP 194
+EP 214
+DI 10.1037//0097-7403.11.2.194
+PG 20
+WC Animals; Biological Clocks; Conditioning, Classical; physiology; Discrimination Learning; physiology; Discrimination, Psychological; physiology; Extinction, Psychological; physiology; Male; Psychophysics; Rats; Time Perception; physiology
+UT PubMed:4009121
+PM 4009121
+DA 1985-04-01
+ER
+
+PT J
+AU Ferigolo, J
+AF Ferigolo, J
+TI Evolutionary trends of the histological pattern in the teeth of Edentata
+SO Archives of oral biology
+LA English
+DT Journal Article
+AB In a comparative study of the dental structure of Edentata, the central tissue  was identified as a modified orthodentine, except in the Glyptodontidae where an  osteodentine was found. Some evolutionary trends of the tissues in these teeth  may have been related with the extinction of ground sloths. Comparative studies  of the tissues in mammalian teeth seem to be good tests for systematics.
+NR 0
+TC 0
+SN 
+EI 0003-996
+J9 Arch Oral Biol
+PD JAN 1
+PY 1985
+VL 30
+IS 1
+BP 71
+EP 82
+DI 10.1016/0003-9969(85)90027-5
+PG 11
+WC Animals; Biological Evolution; Dental Cementum; anatomy & histology; Dentin; anatomy & histology; Fossils; Microscopy, Electron, Scanning; Tooth; anatomy & histology; Xenarthra; anatomy & histology
+UT PubMed:3857888
+PM 3857888
+DA 1985-01-01
+ER
+

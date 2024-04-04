@@ -1,0 +1,151 @@
+PT J
+AU Plattner, L
+AF Plattner, L
+TI Optical properties of the scales of Morpho rhetenor butterflies: theoretical and
+SO Journal of the Royal Society, Interface
+LA English
+DT Journal Article
+AB A study of the optical properties of the largely periodic microstructure  occurring on the wings of the iridescent tropical butterfly Morpho rhetenor and  responsible for its structural colouration is reported. An extensive measurement  of the back-scattering of visible light from butterfly scales was performed for  various angles of incidence. Efficient low-pass filter behaviour was observed for  all angles of incidence and polarizations, with near-complete transmission at  wavelengths above the threshold of 550 nm. The angular spread of the  back-scattered light was found to be organized in lobes with total extinction of  the specular reflection for all conditions of incidence. Retro-reflector  behaviour was also observed for angles of incidence of 30 degrees and above.  Additionally, the role of periodic geometrical features found in the  microstructure for the generation of its spectral response was analysed  theoretically. Using finite-difference time-domain and near-field to far-field  transformation techniques, the back-scattering of visible light by models was  computed numerically and the relevance of geometrical features for the production  of structural colour and diffraction was demonstrated.
+C1 Electronics and Computer Science Department, University of Southampton, Southampton SO17 1BJ, UK. luca.plattner@hitachigst.com
+NR 0
+TC 0
+SN 1742-566
+EI 1742-568
+J9 J R Soc Interface
+PD JUL 20
+PY 2006
+VL 1
+IS 1
+BP 49
+EP 59
+DI 10.1098/rsif.2004.0006
+PG 10
+WC Animals; Butterflies; physiology; Colorimetry; methods; Computer Simulation; Light; Models, Biological; Optics and Photonics; Refractometry; methods; Scattering, Radiation; Skin; ultrastructure; Skin Physiological Phenomena; Wings, Animal; physiology
+UT PubMed:16849152
+PM 16849152
+DA 2006-07-20
+ER
+
+PT J
+AU Zattoni, A
+   Loli, Piccolomini E
+   Torsi, G
+   Reschiglian, P
+AF Zattoni, Andrea
+   Loli Piccolomini, Elena
+   Torsi, Giancarlo
+   Reschiglian, Pierluigi
+TI Turbidimetric detection method in flow-assisted separation of dispersed samples.
+SO Analytical chemistry
+LA English
+DT Journal Article
+AB Characterization of dispersed samples is an outstanding trend in analytical  science. Among flow-assisted separation techniques for dispersed samples, size  exclusion chromatography, hydrodynamic chromatography, and field-flow  fractionation are the most widely applied. With dispersed analytes separated by  these techniques, the UV/vis spectrophotometric detectors work as turbidimeters.  To directly convert the analytical signal for quantitative analysis, the  extinction properties of the dispersed analyte must be known. A new method is  proposed to experimentally obtain-by single-run, flow-assisted separation with  UV/vis diode-array detectors-the mass-size (or number-size) distribution function  of the analytes when a retention-to-size relationship is either theoretically or  empirically available for the chosen separation technique. This approach needs  neither standards nor reliance on a method to predict the optical properties of  the analytes. Theory and original algorithms are presented. Algorithms are then  tested to optimize the numerical routines. Accuracy and robustness of the method  are evaluated by simulation, and limitations for the application to experimental  data are described. Finally, first application to field-flow fractionation shows  validity of the method when applied to a few real cases.
+C1 Department of Chemistry "G. Ciamician", University of Bologna, Via Selmi 2, I-40126 Bologna, Italy.
+NR 0
+TC 0
+SN 
+EI 0003-270
+J9 Anal Chem
+PD FEB 10
+PY 2006
+VL 75
+IS 23
+BP 6469
+EP 77
+DI 10.1021/ac034729c
+PG -6392
+UT PubMed:16465697
+PM 16465697
+DA 2006-02-10
+ER
+
+PT J
+AU Penny, D
+   Phillips, MJ
+AF Penny, David
+   Phillips, Matthew J
+TI The rise of birds and mammals: are microevolutionary processes sufficient for
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB It is a basis of darwinian evolution that the microevolutionary mechanisms that  can be studied in the present are sufficient to account for macroevolution.  However, this idea needs to be tested explicitly, as highlighted here by the  example of the superceding of dinosaurs and pterosaurs by birds and placental  mammals that occurred near the Cretaceous/Tertiary boundary approximately 65  million years ago. A major problem for testing the sufficiency of  microevolutionary processes is that independent ideas (such as the existence of  an extraterrestrial impact, and the extinction of dinosaurs) were linked without  the evidence for each idea being evaluated separately. Here, we suggest and  discuss five testable models for the times and divergences of modern mammals and  birds. Determination of the model that best represents these events will enable  the role of microevolutionary mechanisms to be evaluated. The question of the  sufficiency of microevolutionary processes for macroevolution is solvable, and  available evidence supports an important role for biological processes in the  initial decline of dinosaurs and pterosaurs.
+C1 Allan Wilson Center for Molecular Ecology and Evolution, Massey University, Palmerston North, New Zealand. d.penny@massey.ac.nz
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD MAY 17
+PY 2006
+VL 19
+IS 10
+BP 516
+EP 22
+DI 10.1016/j.tree.2004.07.015
+PG -494
+UT PubMed:16701316
+PM 16701316
+DA 2006-05-17
+ER
+
+PT J
+AU Sodhi, NS
+   Koh, LP
+   Brook, BW
+   Ng, PK
+AF Sodhi, Navjot S
+   Koh, Lian Pin
+   Brook, Barry W
+   Ng, Peter K L
+TI Southeast Asian biodiversity: an impending disaster.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Southeast Asia has the highest relative rate of deforestation of any major  tropical region, and could lose three quarters of its original forests by 2100  and up to 42% of its biodiversity. Here, we report on the current state of its  biota and highlight the primary drivers of the threat of extinction now faced by  much of the unique and rich fauna and flora of the region. Furthermore, the known  impacts on the biodiversity of Southeast Asia are likely to be just the tip of  the iceberg, owing to the paucity of research data. The looming Southeast Asian  biodiversity disaster demands immediate and definitive actions, yet such measures  continue to be constrained by socioeconomic factors, including poverty and lack  of infrastructure. Any realistic solution will need to involve a  multidisciplinary strategy, including political, socioeconomic and scientific  input, in which all major stakeholders (government, non-government, national and  international organizations) must participate.
+C1 Department of Biological Sciences, National University of Singapore, 14 Science Drive 4, Singapore 117543, Republic of Singapore. dbsns@nus.edu.sg
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD MAY 17
+PY 2006
+VL 19
+IS 12
+BP 654
+EP 60
+DI 10.1016/j.tree.2004.09.006
+PG -594
+UT PubMed:16701328
+PM 16701328
+DA 2006-05-17
+ER
+
+PT J
+AU Kaiser, R
+AF Kaiser, Roman
+TI Vanishing flora--lost chemistry: the scents of endangered plants around the
+SO Chemistry & biodiversity
+LA English
+DT Review
+AB As part of our broad and ongoing evaluation of the olfactory components of  fragrant plants and flowers during the past 25 years, we have encountered an  astounding number of interestingly scented, but endangered plant species. In  appreciation of nature's marvels in these species, we are compiling a report on  their scent compositions and complementary information in an upcoming book  'Vanishing Flora--Lost Chemistry'. In this paper, a few examples of endangered  plant species and their scent components are presented as a brief introduction to  the concept of the book project.
+C1 Givaudan Schweiz AG, Ueberlandstrasse 138, CH-8600 Dübendorf.
+NR 0
+TC 0
+SN 1612-188
+EI 
+J9 Chem Biodivers
+PD DEC 29
+PY 2006
+VL 1
+IS 1
+BP 13
+EP 27
+DI 10.1002/cbdv.200490005
+PG 14
+WC Animals; Bees; physiology; Butterflies; physiology; Extinction, Biological; Flowers; physiology; Odorants; analysis; Orchidaceae; physiology; Pheromones; chemistry; Plant Extracts; chemistry; Smell; physiology
+UT PubMed:17191773
+PM 17191773
+DA 2006-12-29
+ER
+

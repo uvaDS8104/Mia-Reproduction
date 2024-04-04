@@ -1,0 +1,2287 @@
+PT J
+AU Negi, JG
+   Tiwari, RK
+   Rao, KNN
+AF Negi, J. G.
+   Tiwari, R. K.
+   Rao, K. N. N.
+TI 'Clean' spectral analysis of long-term sea-level changes
+SO TERRA NOVA
+LA English
+DT Article
+AB A new 'clean' spectral technique has been applied, for the first time, to analyse a record of long-term sea-level fluctuation during the last 200 million year (Myr). The technique is based on a one dimensional complex deconvolution algorithm and removes the effects of the data sampling as well as the artifacts arising from the choice of data window. The analysis reveals a dominant periodicity of 33 Myr in the sea-level variations. This periodicity compares well with the known half-period of the Sun's oscillation perpendicular to the galactic plane. Interestingly, a 33 Myr periodicity can also be correlated with the reported mass extinction cycles and other geological periodicities. The results suggest galactic forcing as a possible driving mechanism for quasi-periodic terrestrial processes.
+C1 [Negi, J. G.; Tiwari, R. K.; Rao, K. N. N.] Natl Geophys Res Inst, Theoret Geophys Grp, Hyderabad 500007, Andhra Pradesh, India.
+C3 Council of Scientific & Industrial Research (CSIR) - India; CSIR - National Geophysical Research Institute (NGRI)
+RP Negi, JG (corresponding author), Natl Geophys Res Inst, Theoret Geophys Grp, Hyderabad 500007, Andhra Pradesh, India.
+CR ALVAREZ W, 1984, NATURE, V308, P718, DOI 10.1038/308718a0
+   CLUBE SVM, 1982, EARTH PLANET SC LETT, V57, P251, DOI 10.1016/0012-821X(82)90148-0
+   Courtillot VE, 1987, EOS TRANSACTIONS OF THE AMERICAN GEOPHYSICAL UNION, V68, P0, DOI 10.1029/EO068i014p00193
+   DREHER JW, 1986, NATURE, V320, P239, DOI 10.1038/320239a0
+   DUVALL TL, 1984, NATURE, V310, P19, DOI 10.1038/310019a0
+   Gradstein, 1988, SCIENCE, V241, P599
+   Gradstein, 1900, V241, V0, P609
+   Hallam A, 1984, NATURE, V38, P686
+   Haq BU, 1988, SCIENCE, V241, P599
+   HAQ BU, 1987, SCIENCE, V235, P1156, DOI 10.1126/science.235.4793.1156
+   Mathew RK, 1988, SCIENCE, V0, P241
+   Mathew RK, 1988, SCIENCE, V235, P1156
+   MCCREA WH, 1981, P ROY SOC LOND A MAT, V375, P1, DOI 10.1098/rspa.1981.0038
+   MCCREA WH, 1975, NATURE, V255, P607, DOI 10.1038/255607a0
+   NEGI JG, 1983, GEOPHYS RES LETT, V10, P713, DOI 10.1029/GL010i008p00713
+   OFFICER CB, 1985, SCIENCE, V227, P1161, DOI 10.1126/science.227.4691.1161
+   PANDEY OP, 1987, GEOPHYS J INT, V89, P857, DOI 10.1111/j.1365-246X.1987.tb05198.x
+   RAMPINO MR, 1984, SCIENCE, V226, P1427, DOI 10.1126/science.226.4681.1427
+   RAUP DM, 1984, P NATL ACAD SCI-BIOL, V81, P801, DOI 10.1073/pnas.81.3.801
+   ROBERTS DH, 1987, ASTRON J, V93, P968, DOI 10.1086/114383
+   STANLEY SM, 1988, AM J SCI, V288, P334, DOI 10.2475/ajs.288.4.334
+NR 21
+TC 11
+Z9 12
+U1 0
+U2 3
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0954-4879
+EI 1365-3121
+J9 TERRA NOVA
+JI Terr. Nova
+PD MAR 15
+PY 1990
+VL 2
+IS 2
+BP 138
+EP 141
+DI 10.1111/j.1365-3121.1990.tb00054.x
+PG 4
+WC Geosciences, Multidisciplinary
+SC Geology
+GA V41QW
+UT WOS:000209561700005
+DA 2024-04-03
+ER
+
+PT J
+AU MCCARTNEY, K
+   HUFFMAN, AR
+   TREDOUX, M
+AF MCCARTNEY, K
+   HUFFMAN, AR
+   TREDOUX, M
+TI A PARADIGM FOR ENDOGENOUS CAUSATION OF MASS EXTINCTIONS
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 17
+Z9 20
+U1 0
+U2 0
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 125
+EP 138
+DI 
+PG 14
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00015
+DA 2024-04-03
+ER
+
+PT J
+AU SEIDENSTICKER, KJ
+   SCHMIDTKALER, T
+AF SEIDENSTICKER, KJ
+   SCHMIDTKALER, T
+TI EXTINCTION MAPS OF DUST CLOUDS FROM SURFACE PHOTOMETRY
+SO IAU SYMPOSIA
+LA English
+DT Article
+ID brightness; region
+AB We present a new method, based on surface photometry, which allows one to make the spatial resolution of extinction maps of dark clouds as fine as necessary. Applying this technique to the Coalsack (iota = 302-degrees, b = 0-degrees), we derived an extinction map and the dust mass M(D) = (62 +/- 25) M. The density was found to vary rho approximately r-0.8, typical for stable clouds.
+RP SEIDENSTICKER, KJ (corresponding author), RUHR UNIV BOCHUM, INST ASTRON, POSTFACH 102148, W-4630 BOCHUM 1, GERMANY.
+CR CERNICHARO J, 1985, ASTRON ASTROPHYS, V149, P273
+   FALGARONE E, 1985, ASTRON ASTROPHYS, V142, P157
+   LILLIE CF, 1976, ASTROPHYS J, V208, P64, DOI 10.1086/154582
+   MATTILA K, 1970, ASTRON ASTROPHYS, V9, P53
+   MATTILA K, 1976, ASTRON ASTROPHYS, V47, P77
+   SEIDENSTICKER KJ, 1982, ASTRON ASTROPHYS, V114, P60
+NR 6
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0074-1809
+EI 
+J9 IAU SYMP
+PD JUN 15
+PY 1990
+VL 0
+IS 139
+BP 239
+EP 240
+DI 
+PG 2
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA ET892
+UT WOS:A1990ET89200044
+DA 2024-04-03
+ER
+
+PT J
+AU MICHEL, FC
+AF MICHEL, FC
+TI GAMMA-RAY BURSTS FROM EXTINCT NEUTRON-STARS
+SO JOURNAL OF GEOMAGNETISM AND GEOELECTRICITY
+LA English
+DT Article
+ID evolution; accretion; disks
+AB In the Michel-Dessler theory of pulsars, pulsar action is stimulated by the presence of a fossil Kepler disk.  Pulsar extinction occurs when this disk is pushed beyond the corotation distance.  Once pulsar action ceases, a thin disk will very slowly expand away from this very dense reservoir under internal viscous forces.  When the inner edge approaches sufficiently close to the star, a runaway ionization instability that will cause this thin disk to become fully ionized and be precipitated onto the neutron star surface.  Quite nominal estimates suggest that energies of 10(39) ergs or more could be released with rise times as fast as 0.3 milliseconds.  Because every extinct pulsar would be surrounded by such a disk, there should be a large number of such objects and we estimate that pulses could be produced at the rate of several a month from the nearby (few hundred parsecs) spherically distributed population of the otherwise inactive neutron stars.  The mass of the reservoir (estimated to be about 10(-5) M.) would be adequate to supply one burst/year over the age of the universe.  Our rough estimate, however, is that each source bursts only once in about 10(5) years.  These numbers seem broadly consistent with observed properties of gamma-ray bursters.
+RP MICHEL, FC (corresponding author), RICE UNIV,DEPT SPACE PHYS & ASTRON,HOUSTON,TX 77251, USA.
+CR BATH GT, 1982, MON NOT R ASTRON SOC, V199, P267, DOI 10.1093/mnras/199.2.267
+   EVANS WD, 1980, ASTROPHYS J, V237, PL7, DOI 10.1086/183222
+   GHOSH P, 1979, ASTROPHYS J, V234, P296, DOI 10.1086/157498
+   GLEN G, 1980, ASTROPHYS J, V239, P671, DOI 10.1086/158154
+   KAFKA P, 1984, HIGH ENERGY TRANSIEN, V115, P578
+   Krause-Polstorff J, 1985, MON NOT R ASTRON SOC, V213, P43, DOI 10.1093/MNRAS/213
+   LANDAU LD, 1958, FLUID MECHANICS, V0, P47
+   MANCHESTER RN, 1977, PULSARS, V0, P154
+   MICHEL FC, 1981, ASTROPHYS J, V251, P654, DOI 10.1086/159511
+   MICHEL FC, 1980, ASTROPHYS SPACE SCI, V72, P175, DOI 10.1007/BF00642176
+   MICHEL FC, 1982, REV MOD PHYS, V54, P1, DOI 10.1103/RevModPhys.54.1
+   MICHEL FC, 1983, ASTROPHYS J, V266, P188, DOI 10.1086/160769
+   MICHEL FC, 1974, PLANET SPACE SCI, V22, P1501, DOI 10.1016/0032-0633(74)90015-4
+   MICHEL FC, 1984, ASTROPHYS J, V279, P807, DOI 10.1086/161950
+   PACYNSKI B, 1980, ACTA ASTRON, V30, P127
+   VANRIPER KA, 1981, ASTROPHYS J, V244, PL13, DOI 10.1086/183469
+NR 17
+TC 0
+Z9 0
+U1 0
+U2 0
+PU TERRA SCIENTIFIC PUBL CO
+PI TOKYO
+PA 302 JIYUGAOKA-KOMATSU BLDG 24-17 MIDORIGAOKA 2-CHOME, TOKYO TOKYO 152, JAPAN
+SN 0022-1392
+EI 
+J9 J GEOMAGN GEOELECTR
+JI J. Geomagn. Geoelectr.
+PD JUN 15
+PY 1990
+VL 42
+IS 12
+BP 1341
+EP 1349
+DI 10.5636/jgg.42.1341
+PG 9
+WC Geosciences, Multidisciplinary
+SC Geology
+GA EY628
+UT WOS:A1990EY62800001
+DA 2024-04-03
+ER
+
+PT J
+AU THACKERAY, JF
+AF THACKERAY, JF
+TI RATES OF EXTINCTION IN MARINE-INVERTEBRATES - FURTHER COMPARISON BETWEEN BACKGROUND AND MASS EXTINCTIONS
+SO PALEOBIOLOGY
+LA English
+DT Article
+RP THACKERAY, JF (corresponding author), UNIV CAPE TOWN,DEPT ARCHAEOL,RONDEBOSCH 7700,SOUTH AFRICA.
+CR BOYAJIAN GF, 1986, GEOLOGY, V14, P955, DOI 10.1130/0091-7613(1986)14<955:PTIBEC>2.0.CO;2
+   FLESSA KW, 1985, NATURE, V313, P216, DOI 10.1038/313216a0
+   HARLAND WB, 1980, GEOLOGIC TIME SCALE, V0, P0
+   KITCHELL JA, 1984, SCIENCE, V226, P689, DOI 10.1126/science.226.4675.689
+   QUINN JF, 1983, SCIENCE, V219, P1239, DOI 10.1126/science.219.4589.1239
+   RAUP DM, 1983, SCIENCE, V219, P1240, DOI 10.1126/science.219.4589.1240
+   RAUP DM, 1986, SCIENCE, V231, P833, DOI 10.1126/science.11542060
+   RAUP DM, 1984, P NATL ACAD SCI-BIOL, V81, P801, DOI 10.1073/pnas.81.3.801
+   RAUP DM, 1982, SCIENCE, V215, P1501, DOI 10.1126/science.215.4539.1501
+   Sepkoski JJ, 1986, PATTERNS PROCESSES H, V0, P0
+   STANLEY SM, 1984, EXTINCTIONS, V0, P0
+   VANVALEN LM, 1984, NATURE, V307, P50, DOI 10.1038/307050a0
+NR 12
+TC 13
+Z9 13
+U1 0
+U2 4
+PU PALEONTOLOGICAL SOC INC
+PI ITHACA
+PA 1259 TRUMANSBURG ROAD, ITHACA, NY 14850
+SN 0094-8373
+EI 
+J9 PALEOBIOLOGY
+JI Paleobiology
+PD WIN 15
+PY 1990
+VL 16
+IS 1
+BP 22
+EP 24
+DI 10.1017/S0094837300009702
+PG 3
+WC Biodiversity Conservation; Ecology; Evolutionary Biology; Paleontology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Evolutionary Biology; Paleontology
+GA DG903
+UT WOS:A1990DG90300004
+DA 2024-04-03
+ER
+
+PT J
+AU CAMERON, M
+   LISEAU, R
+AF CAMERON, M
+   LISEAU, R
+TI UV OBSERVATIONS OF HERBIG-HARO OBJECTS ASSOCIATED WITH BIPOLAR MOLECULAR OUTFLOWS - HH-7, HH-11, AND HH-29
+SO ASTRONOMY & ASTROPHYSICS
+LA English
+DT Article
+DE L-1551/HH-29; NGC-1333/HH-7-11-STARS; MASS LOSS; PRE-MAIN SEQUENCE; STAR; SHOCK WAVES; RADIATION MECHANISMS; GENERAL; INTERSTELLAR MEDIUM; EXTINCTION; MOLECULES
+ID ultraviolet explorer iue; dark cloud; iras observations; emission-lines; orion nebula; swp camera; o-iii; spectrum; h-2; excitation
+AB We present IUE observations of the shock excited visible nebulae HH7, HH11, and HH29. These Herbig-Haro objects were selected because they share the property of being physically associated with the two most prominent bipolar molecular outflows from young low luminosity stars and yet they show widely different states of excitation (ionization) in their optical emission line spectra. In order to study the time dependence of the radiation processes we have collected several spectorgrammes in the wavelength range 1200 to 3000 angstrom over a period of almost three years. The individual UV observations of these objects made with the IUE all appear very faint and we have developed an alternative extraction method different from that commonly used for the reduction of IUE data. Our simple method is applied to the data in image space, therefore not violating the photometry, and its reliability is demonstrated. We introduce a UV colour index for Herbig-Haro objects which is extinction-free for dust constituents giving rise to theta-Orionis extinction curves and compare our observed values with those calculated for a recombining hydrogenic plasma. With the possible exception of HH 11, we find large deviations from the 2(2)S-1(2)S two photon decay continuum of atomic hydrogen, which was predicted to dominate the emission at short wavelengths particularly in low excitation HH objects. We also find that the H2+ free-bound emission does not offer a solution to the UV continuum problem in HH objects. The continuum of HH 29 has varied considerably in both intensity and spectral slope, although it retained roughly is substructural shape, during the three years of observation. Comparison of the accompanying high ionization line fluxes with theoretical shock wave models marginally indicates a variation of the shock speed. To explain both continuum and line changes with time we propose a model invoking the clumpiness of the interstellar medium at the position of HH 29. In no object are we able to detect any lines due to fluorescent H-2 emission which are seen in other low excitation HH objects. For HH 7-11, which emit strongly in the infrared quadrupole lines, we find that dust extinction alone can account for the lack of the UV lines in the IUE spectra of these objects. For HH 11 we are able to determine the (total) radiative loss rate from the far ultaviolet to the infrared. The major losses occur through the emission of continuum photons from this low excitation nebula. However, radiative losses are of little importance for HH 11. Furthermore, the enigmatically low shock velocity of only approximately 20 to 30 km s-1 is confirmed in this high velocity object (approximately 200 km s-1). We estimate a mass loss rate of M approximately 1-3 10(-6) M. yr-1 from SSV 13, the stellar wind from which is thought to excite the HH object. This value of the mass loss rate is close to that derived from HI and CO observations and indicates that the wind from SSV 13 is not very well collimated even at the distance of only approximately 0.02 pc from the central source.
+C1 CNR, IST FIS SPAZIO INTERPLANETARIO, CASELLA POSTALE 27, I-00044 FRASCATI, ITALY.
+   MAX PLANCK INST EXTRATERRESTR PHYS, W-8046 GARCHING, GERMANY.
+   STOCKHOLM OBSERV, S-13336 SALTSJOBADEN, SWEDEN.
+   UNIV LONDON UNIV COLL, DEPT PHYS & ASTRON, LONDON WC1E 6BT, ENGLAND.
+C3 Istituto Nazionale Astrofisica (INAF); Consiglio Nazionale delle Ricerche (CNR); Max Planck Society; Stockholm University; University of London; University College London
+CR AGGARWAL KM, 1983, ASTROPHYS J SUPPL S, V52, P387, DOI 10.1086/190873
+   Allison AC, 1970, ATOMIC DATA, V1, P289
+   BALUJA KL, 1981, J PHYS B-AT MOL OPT, V14, PL11, DOI 10.1088/0022-3700/14/2/001
+   BATES DR, 1952, MON NOT R ASTRON SOC, V112, P40, DOI 10.1093/mnras/112.1.40
+   BERRILLI F, 1989, MON NOT R ASTRON SOC, V237, P1
+   BLACK JH, 1987, ASTROPHYS J, V322, P412, DOI 10.1086/165740
+   BOGGESS A, 1978, NATURE, V275, P372, DOI 10.1038/275372a0
+   BOHLIN RC, 1981, ASTROPHYS J, V249, P109, DOI 10.1086/159265
+   BOHLIN RC, 1988, ASTROPHYS J SUPPL S, V66, P209, DOI 10.1086/191253
+   BOHM KH, 1984, ASTROPHYS J, V277, P216, DOI 10.1086/161686
+   BOHM KH, 1981, ASTROPHYS J, V245, PL113, DOI 10.1086/183537
+   BOHM KH, 1983, REV MEX ASTRON ASTR, V7, P55
+   BOHM KH, 1987, ASTROPHYS J, V316, P349, DOI 10.1086/165205
+   BOHM KH, 1983, ASTRON ASTROPHYS, V125, P23
+   BOHM KH, 1990, ASTROPHYS J, V348, P297, DOI 10.1086/168236
+   BROWN A, 1981, NATURE, V290, P34, DOI 10.1038/290034a0
+   BROWN RL, 1970, ASTROPHYS J, V160, P939, DOI 10.1086/150483
+   BRUGEL EW, 1982, ASTROPHYS J, V262, PL35, DOI 10.1086/183907
+   BRUGEL EW, 1985, ASTROPHYS J, V292, PL75, DOI 10.1086/184476
+   BUCKINGHAM RA, 1952, MON NOT R ASTRON SOC, V112, P382, DOI 10.1093/mnras/112.4.382
+   CARDELLI JA, 1988, ASTRON J, V95, P516, DOI 10.1086/114651
+   CARDELLI JA, 1988, ASTRON J, V95, P673
+   CASSATELLA A, 1985, ASTRON ASTROPHYS, V144, P335
+   CASSATELLA A, 1900, V31, V0, P13
+   CLARKE JT, 1981, NASA CP, V2171, P787
+   COHEN M, 1979, ASTROPHYS J SUPPL S, V41, P743, DOI 10.1086/190641
+   CUDWORTH KM, 1979, ASTRON J, V84, P548, DOI 10.1086/112447
+   DINERSTEIN HL, 1985, ASTROPHYS J, V291, P561, DOI 10.1086/163096
+   DOPITA MA, 1982, ASTROPHYS J, V261, P183, DOI 10.1086/160329
+   DRAPER PW, 1985, MON NOT R ASTRON SOC, V216, PP7, DOI 10.1093/mnras/216.1.7P
+   ELIAS JH, 1978, ASTROPHYS J, V224, P857, DOI 10.1086/156436
+   FRIDLUND CVM, 1984, ASTRON ASTROPHYS, V137, P0
+   FRIDLUND CVM, 1989, ASTRON ASTROPHYS, V223, P0
+   FRIDLUND CVM, 1989, ASTRON ASTROPHYS, V213, P310
+   GONDHALEKAR PM, 1987, EXPLORING UNIVERSE I, V0, P671
+   GOODRICH RW, 1986, ASTRON J, V92, P855
+   HARRIS AW, 1983, CITED INDIRECTLY, V0, P0
+   HARTIGAN P, 1987, ASTROPHYS J, V316, P323, DOI 10.1086/165204
+   HERBIG GH, 1977, ASTROPHYS J, V217, P693, DOI 10.1086/155615
+   HERBIG GH, 1983, ASTRON J, V88, P1040, DOI 10.1086/113392
+   HOLM A, 1982, ASTRON ASTROPHYS, V112, P341
+   HOLM A, 1981, IUE NASA NEWSLETTER, V15, P74
+   JENNINGS RE, 1987, MON NOT R ASTRON SOC, V226, P461, DOI 10.1093/mnras/226.2.461
+   JORDAN C, 1979, MON NOT R ASTRON SOC, V187, P473, DOI 10.1093/mnras/187.3.473
+   JORDAN C, 1978, ASTROPHYS J, V226, P687, DOI 10.1086/156651
+   Kaplan S, 1966, INTERSTELLAR GAS DYN, V2nd, P0
+   Karzas WJ, 1961, ASTROPHYS J S, V6, P167, DOI 10.1086/190063
+   KNEE LBG, 1990, UNPUB, V0, P0
+   LADA CJ, 1985, ANNU REV ASTRON ASTR, V23, P267, DOI 10.1146/annurev.aa.23.090185.001411
+   LEE MG, 1988, ASTRON J, V96, P1690, DOI 10.1086/114921
+   LIGHTFOOT JF, 1986, MON NOT R ASTRON SOC, V221, P993, DOI 10.1093/mnras/221.4.993
+   LISEAU R, 1986, ASTROPHYS J, V304, P459, DOI 10.1086/164180
+   LISEAU R, 1988, ASTRON ASTROPHYS, V192, P153
+   LISEAU R, 1983, REV MEXICANA ASTRON, V7, P120
+   LISEAU R, 1985, THESIS U STOCKHOLM, V0, P0
+   LIZANO S, 1988, ASTROPHYS J, V328, P763, DOI 10.1086/166335
+   MATHIS JS, 1987, EXPLORING UNIVERSE I, V0, P517
+   MUNDT R, 1983, ASTROPHYS J, V277, P216
+   MUNOZ JR, 1985, IEU ESA NEWSLETTER, V23, P58
+   NORMAN C, 1979, ASTROPHYS J, V228, P197, DOI 10.1086/156836
+   OLIVERSON NA, 1984, IUE NASA NEWSLETTER, V24, P27
+   RODRIGUEZ LF, 1990, ASTROPHYS J, V352, P645, DOI 10.1086/168567
+   RUDOLPH A, 1988, ASTROPHYS J, V326, PL31, DOI 10.1086/185117
+   SARCANDER M, 1985, ASTROPHYS J, V288, PL51, DOI 10.1086/184420
+   SAVAGE BD, 1979, ANNU REV ASTRON ASTR, V17, P73, DOI 10.1146/annurev.aa.17.090179.000445
+   SCHIFFER FH, 1982, NASA IUE NEWSLETTER, V18, P64
+   SCHWARTZ RD, 1983, ANNU REV ASTRON ASTR, V21, P209, DOI 10.1146/annurev.aa.21.090183.001233
+   SCHWARTZ RD, 1985, ASTRON J, V90, P1820, DOI 10.1086/113883
+   SCHWARTZ RD, 1983, ASTROPHYS J, V268, PL37, DOI 10.1086/184025
+   SEAB CG, 1983, ASTROPHYS J, V275, P652, DOI 10.1086/161563
+   SOLF J, 1987, ASTRON J, V93, P1172, DOI 10.1086/114399
+   SONNEBORN G, 1983, CITED INDIRECTLY, V0, P0
+   SPITZER L, 1978, PHYSICAL PROCESSES I, V0, P131
+   STOCKE JT, 1988, ASTROPHYS J SUPPL S, V68, P229, DOI 10.1086/191287
+   STROM KM, 1986, ASTROPHYS J SUPPL S, V62, P39, DOI 10.1086/191133
+   STROM SE, 1974, ASTROPHYS J, V191, P111, DOI 10.1086/152948
+   TURNER J, 1977, ASTROPHYS J SUPPL S, V35, P281, DOI 10.1086/190481
+   ZEALEY WJ, 1984, ASTRON ASTROPHYS, V140, P0
+   ZINNECKER H, 1989, ASTROPHYS J, V342, P337, DOI 10.1086/167596
+   IUE ESA NEWSLETTER, 1900, P43, V0, P0
+NR 80
+TC 16
+Z9 16
+U1 0
+U2 0
+PU EDP SCIENCES S A
+PI LES ULIS CEDEX A
+PA 17, AVE DU HOGGAR, PA COURTABOEUF, BP 112, F-91944 LES ULIS CEDEX A, FRANCE
+SN 0004-6361
+EI 
+J9 ASTRON ASTROPHYS
+JI Astron. Astrophys.
+PD DEC 15
+PY 1990
+VL 240
+IS 2
+BP 409
+EP 428
+DI 
+PG 20
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA EP777
+UT WOS:A1990EP77700028
+DA 2024-04-03
+ER
+
+PT J
+AU ALVAREZ, W
+AF ALVAREZ, W
+TI INTERDISCIPLINARY ASPECTS OF RESEARCH ON IMPACTS AND MASS EXTINCTIONS - A PERSONAL VIEW
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 0
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 93
+EP 97
+DI 
+PG 5
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00011
+DA 2024-04-03
+ER
+
+PT J
+AU MCKINNEY, ML
+AF MCKINNEY, ML
+TI MASS EXTINCTIONS - PROCESSES AND EVIDENCE - DONOVAN,SK
+SO SCIENCE
+LA English
+DT Book Review
+C1 UNIV TENNESSEE,GRAD PROGRAM ECOL,KNOXVILLE,TN 37996.
+C3 University of Tennessee System; University of Tennessee Knoxville
+RP MCKINNEY, ML (corresponding author), UNIV TENNESSEE,DEPT GEOL SCI,KNOXVILLE,TN 37996, USA.
+CR DONOVAN SK, 1989, MASS EXTINCTIONS PRO, V0, P0
+NR 1
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER ASSOC ADVANCEMENT SCIENCE
+PI WASHINGTON
+PA 1200 NEW YORK AVE, NW, WASHINGTON, DC 20005
+SN 0036-8075
+EI 
+J9 SCIENCE
+JI Science
+PD JAN 26
+PY 1990
+VL 247
+IS 4941
+BP 475
+EP 476
+DI 10.1126/science.247.4941.475
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA CK705
+UT WOS:A1990CK70500047
+PM 17788615
+DA 2024-04-03
+ER
+
+PT J
+AU CROSS, AT
+   PHILLIPS, TL
+AF CROSS, AT
+   PHILLIPS, TL
+TI COAL-FORMING PLANTS THROUGH TIME IN NORTH-AMERICA
+SO INTERNATIONAL JOURNAL OF COAL GEOLOGY
+LA English
+DT Article; Proceedings Paper
+ID swamp vegetation; west texas; pollen; angiosperm; morphology; resolution; spores; basin; flora; peat
+AB Economically important coals of North America were formed principally from autochthonous peats of freshwater swamps.  North American coals of different ages are generally characterized by different dominant swamp trees or occasionally by shrubs or herbs.  Carbonized compressions and permineralized or vitrinized tissues within the coal, well-preserved plants in coal-ball concretions, and microfossils (cuticles, spores, pollen, resins and other identifiable plant detritus), all contribute to identification of plants that formed coal. Of principal importance in coal formation are vascular plants.  Interaction of bacteria and fungi have been important in degradation of peat to form most humic (banded) coals dominated by tissues and organs of vascular plants.  Their alteration products and algae constitute significant amounts, by volume, of some coals, particularly sapropelic, canneloid and boghead layers.  Algae have contributed to some singular coal accumulations locally, one as early as Precambrian. Compression floras from clastic sediments proximal to coal, or included in clastic partings, may or may not represent peat-swamp plants that formed coals.  This needs to be corroborated by fossils from within the coal.  Roof-shale floras occasionally indicate coal-bed plant assemblages, but more often, they represent different environments or habitats in which organic-rich mudstones or carbonaceous shales, but not economic coals, might have accumulated. Identification of plants comprising floras of coals and associated rocks of any age presents difficulties according to kinds of plants and plant parts present, preservational states, etc.  Most peat-swamp plants represent atypical terrestrial communities adapted to hydrologically influenced succession, in habitats of low pH and low nutrient availability.  Such communities are constituted of a comparatively limited inventory of tree, shrub and herb types, generally widely distributed within coal-forming peat-swamp habitats, often occurring repetitiously for long periods of time, in coal-bearing strata. Floras of localized coal seams of Late Devonian to Late Mississippian age are generally dominated by fossil remains of lycopods.  Floras in locally developed, thin, Middle to Late Devonian coals of Northwest Territories are dominated by lycopod spores.  A thin Late Devonian coal in West Virginia also contains meager lycopod debris transported from near-swamp habitats, but the coal is dominated by plant material from a scrambling, fern-like shrub. Five major kinds of tropical to subtropical trees contributed to the peats that formed the principal Pennsylvanian coal beds:  lycopods, tree ferns, calamites, seed ferns and cordaites.  The extensive diversity in the architectural framework of stems (combinations of supporting or strengthening tissues), and the nature of the wood, bark or fibrous tissues in stem and root systems of these plants, greatly modified the role of each in contributing mass to the peat accumulation and ultimately to the remaining volume of each in coal.  Coal-ball studies have demonstrated that the peat was comprised of much bark and root material when the coal flora was dominated by lycopods, or of roots and some foliage when dominated by tree ferns.  Wood was a relatively minor component of the biomass constituting the peat except in swamps with abundant cordaites or calamites.  Pennsylvanian peat swamps were dominated successively by several types of lycopod trees and later by tree ferns, following the extinction of many lycopods. Early Permian coal floras of the Appalachians represent a waning of tree-fern-dominated Late Pennsylvanian floras with minor elements of callipterids and conifers.  In the southwest U.S.A., the Early Permian coal floras are present only in the gigantopterid province.  Those coals contain significant ferns, seed ferns, lycopods and conifers.  Late Triassic floras in coals of the Atlantic margin rift basins are dominated by cycadophytes and ferns.  The palynofloras of these coal beds demonstrate close relationship of these strata with those in the High Atlas, Morocco.  Mid-Jurassic coals of Oaxaca, Mexico, are characterized by cycadeoids and a glossopterid and lack conifers and ginkgophytes.  Late Jurassic coal floras of the Canadian and American Rocky Mountains are dominated by cycadophytes, with ferns, conifers and ginkgophytes, in descending importance.  Early Cretaceous coal floras are exemplified by the Kootenai Formation of Montana and equivalents in Alberta and Saskatchewan.  Great floral diversity characterizes these with several conifers present (Taxodiaceae, Elatocladus and Arthrotaxites) that were absent from the Morrison Formation below.  These represent delta-plain swamps of temperate climate.  Many ferns, pteridosperms and bryophytes are present, but cycadophytes and ginkgophytes are limited. Late Cretaceous and Tertiary swamps were first dominated by woody conifers and later by mixtures of conifers and dicots, depending on paleolatitude.  Wood, including that of root systems, was a major peat component.  Generic diversity in peat swamps increased markedly with Late Cretaceous evolution of flowering plants.  The Late Cretaceous is characterized in the Rocky Mountains and Great Plains areas by diverse floras rich in angiosperms.  Cenomanian floras of Texas and Oklahoma lack the abundant angiospermous palynofloras of the coals of the eastern Gulf Coast.  Late Cretaceous coal floras are well represented on the western margin of the Western Interior seaway.  Several arborescent conifers (Sequoia, Brachyphyllum, Moriconia) and angiosperms (Rhamnites, Platanus, Cissus) identify peat-forming warm-temperate swamps of that period.  Several types of modern peat swamps have served as models for the interpretation of Tertiary coal floras.  However, decreasing similarity of these models to increasingly older Tertiary coal floras constrain the accuracy of interpretation of the kinds of plants and the depositional and paleoclimatic conditions.
+C1 UNIV ILLINOIS,URBANA,IL 61801.
+C3 University of Illinois System; University of Illinois Urbana-Champaign
+RP CROSS, AT (corresponding author), MICHIGAN STATE UNIV,E LANSING,MI 48824, USA.
+CR ALVIN KL, 1982, REV PALAEOBOT PALYNO, V37, P71, DOI 10.1016/0034-6667(82)90038-0
+   Anderson JAR, 1961, PH. D. THESIS, V0, P0
+   Anderson JAR, 1983, ECOSYSTEMS OF THE WORLD 4B. MIRES: SWAMP, V0, P181
+   ANDERSON JAR, 1975, REV PALAEOBOT PALYNO, V19, P291, DOI 10.1016/0034-6667(75)90049-4
+   ANDERSSON F, 1970, BOT NOTISER, V123, P9
+   Unknown -, 1986, PALYNOLOGY, V10, P256
+   Unknown -, 1980, PLANTS INVADE LAND, V0, P0
+   Arnold CA, 1962, CONTRIBUTIONS FROM THE MUSEUM OF PALEONTOLOGY UNIVERSITY OF MICHIGAN, V17, P241
+   ASH SR, 1976, J PALEONTOL, V50, P799
+   ASH SR, 1976, N M GEOL SOC FIELD C, V27, P197
+   ASH SR, 1969, 613D US GEOL SURV PR, V0, PD1
+   Ayers WB, 1984, INT ASS SEDIMENTOLOG, V7, P61
+   BALSLEY JK, 1983, AM ASS PET GEOL FIEL, V0, P0
+   BARTRAM KM, 1987, COAL COAL BEARING ST, V32, P187
+   BASINGER JF, 1984, SCIENCE, V224, P511, DOI 10.1126/science.224.4648.511
+   BELL WA, 1956, 285 CAN GEOL SURV ME, V0, P0
+   BEST GR, 1984, OKEFENOKEE SWAMP ITS, V0, P132
+   BREYER JA, 1986, J SEDIMENT PETROL, V56, P510
+   Brown JT, 1972, THESIS U MONTANA MIS, V0, P0
+   BROWN ROLAND W, 1933, PROC U S NATION MUS, V82, P1
+   BROWN RW, 1946, AAPG BULL, V30, P238
+   BROWN RW, 1962, 375 US GEOL SURV PRO, V0, P0
+   BURGER K, 1985, EC GEOLOGY COAL OIL, V4, P449
+   Casagrande DJ, 1987, LONDON GEOLOGICAL SO, V32, P87, DOI 10.1144/GSL.SP.1987.032.01.07
+   CECIL CB, 1985, INT J COAL GEOL, V5, P195, DOI 10.1016/0166-5162(85)90014-X
+   CHALONER WG, 1959, PALAEONTOL, V1, P321
+   CHANEY RW, 1954, ECOLOGY, V35, P145, DOI 10.2307/1931111
+   COHEN A D, 1980, PALAEONTOGRAPHICA ABTEILUNG B PALAEOPHYTOLOGIE, V172, P125
+   Cohen AD, 1987, COAL COAL BEARING ST, V32, P107, DOI 10.1144/GSL.SP.1987.032.01.08
+   Cohen AD, 1977, PALAEONTOGRAPHICA B, V162, P71
+   CORNET B, 1973, SCIENCE, V182, P1243, DOI 10.1126/science.182.4118.1243
+   Cornet B, 1977, GEOBOTANY, V0, P165
+   COUSMINER HL, 1976, SCIENCE, V191, P943, DOI 10.1126/science.191.4230.943
+   COX RS, 1986, J PALEONTOL, V66, P952
+   CRANE PR, 1985, ANN MISSOURI BOT GAR, V71, P384
+   CREPET WL, 1977, AM J BOT, V64, P714, DOI 10.2307/2441724
+   CROSS AT, 1988, BOT SOC AM ABST, V0, P106
+   CROSS AT, 1975, FIELD GUIDE ROAD LOG, V0, P0
+   CROSS AT, 1958, GEOL URV OHIO B, V57, P191
+   CROSS AT, 1970, GEOLOGY MICHIGAN, V0, P439
+   Cross AT, 1952, 2 C OR CONST COAL JU, V0, P32
+   CROSS AT, 1988, FIELD GUIDEBOOK UPPE, V0, P0
+   CROSS AT, 1983, ANN MO BOT GARD, V69, P676
+   Darrah WC, 1975, AGE DUNKARD, V0, P81
+   DAUGHERTY LH, 1941, CARNEGIE I WASHINGTO, V526, P0
+   DELEVORYAS T, 1981, REV PALAEOBOT PALYNO, V34, P345, DOI 10.1016/0034-6667(81)90050-6
+   DELEVORYAS T, 1981, AM J BOT, V68, P1003, DOI 10.2307/2443232
+   DILCHER DL, 1984, ANN MO BOT GARD, V71, P351, DOI 10.2307/2399030
+   DILCHER DL, 1970, AM J BOT, V57, P153, DOI 10.2307/2440507
+   DILCHER DL, 1974, PALEOBOTANIST, V20, P7
+   DIMICHELE W A, 1987, PALAIOS, V2, P146, DOI 10.2307/3514642
+   DIMICHELE WA, 1988, REV PALAEOBOT PALYNO, V56, P151, DOI 10.1016/0034-6667(88)90080-2
+   DIMICHELE WA, 1986, LAND PLANTS NOTES SH, V0, P97
+   DONALDSON AC, 1985, INT J COAL GEOL, V5, P167, DOI 10.1016/0166-5162(85)90013-8
+   Dorf E, 1942, CARNEGIE I WASH YR B, V508, P1
+   Dorf E, 1942, CARNEGIE I WASHINGTO, V508, P79
+   Doyle JA, 1976, ORIGIN EARLY EVOLUTI, V0, P139
+   Doyle JA, 1977, PALYNOLOGY, V1, P43, DOI 10.1080/01916122.1977.9989150
+   DOYLE JA, 1969, J ARNOLD ARBOR, V50, P0
+   DUNAY RE, 1974, REV PALAEOBOT PALYNO, V17, P179, DOI 10.1016/0034-6667(74)90099-2
+   EBLE CF, 1986, COMPASS, V63, P58
+   EBLE CF, 1989, FIELD TRIB GUIDEB T, V143, P133
+   ELSIK WC, 1986, GEOLOGY GULF COAST L, V0, P146
+   ELSIK WL, 1978, U TEXAS BUR ECON GEO, V90, P21
+   Engelhardt DW, 1964, MISS GEOL EC TOPOGR, V104, P65
+   FENSOME RA, 1983, THESIS U SASKATCHEWA, V0, P0
+   Fontaine WM, 1889, US GEOL SURV MONOGR, V15, P0
+   FONTAINE WM, 1883, US GEOL SURV MONOGR, V6, P0
+   FREDERIKSEN N O, 1980, PALYNOLOGY, V4, P125
+   Frederiksen NO, 1981, COMMUNITIES PAST, V0, P493
+   FREDERIKSEN NO, 1980, J PALEONTOL, V54, P728
+   FROELICH AJ, 1985, 2ND US GEOL SURV WOR, V0, P1
+   GILLESPIE WH, 1981, NATURE, V293, P462, DOI 10.1038/293462a0
+   Groot JJ, 1961, PALAEONTOGRAPHICA B, V108, P121
+   Gussow WC, 1960, TRANSACTIONS OF THE ROYAL SOCIETY OF CANADA (3), V54, P45
+   Habib D, 1966, PALAEONTOLOGY, V9, P629
+   HACQUEBARD PA, 1957, MICROPALEONTOLOGY, V3, P301, DOI 10.2307/1484439
+   HICKEY LJ, 1975, ANN MO BOT GARD, V62, P538, DOI 10.2307/2395267
+   HICKEY LJ, 1973, N D GEOL SURV MISC S, V50, P105
+   HICKEY LJ, 1977, 150 GEOL SOC AM MEM, V0, P0
+   JAMEOSSANAIE A, 1987, N M BUR MINES MIN RE, V112, P0
+   KAISER WR, 1978, COLO GEOL SURV RESOU, V4, P67
+   Knowlton FH, 1917, US GEOL SURV PROF F, V108, P73
+   Knowlton FH, 1917, UNITED STATES GEOLOGICAL SURVEY PROFESSIONAL PAPER, V101, P223
+   KNOWLTON FH, 1914, US GEOL SURV PROF D, V85, P39
+   KOSANKE RM, 1981, GEOL SOC AM ABST PRO, V13, P490
+   Lapasha C, 1985, PALAEONTOGRAPHICA B, V196, P111
+   LAPASHA C A, 1984, PALAEONTOGRAPHICA ABTEILUNG B PALAEOPHYTOLOGIE, V194, P109
+   Leopold EB, 1964, GEOLOGICAL SURVEY BULLETIN, V1160-E, P71, DOI 10.3133/B1160E
+   LEPOLD EB, 1972, FLORISTICS PALEOFLOR, V0, P147
+   LESQUEREUX L, 1892, US GEOL SURV MONOGR, V17, P0
+   LITWIN RJ, 1985, REV PALAEOBOT PALYNO, V44, P101, DOI 10.1016/0034-6667(85)90030-2
+   LYONS P C, 1989, PALAIOS, V4, P480, DOI 10.2307/3514592
+   LYONS PC, 1987, IN PRESS 11TH CR INT, V0, P0
+   MACGINITIE HD, 1969, U CALIF BERKELEY PUB, V83, P0
+   MACGINITIE HD, 1941, CARNEGIE I WASHINGTO, V543, P1
+   MACNEAL DL, 1958, PHILADELPHIA ACADEMY, V10, P0
+   MAMAY SH, 1984, SCIENCE, V223, P279, DOI 10.1126/science.223.4633.279
+   MAMAY SH, 1988, AM J BOT, V75, P1409, DOI 10.2307/2444464
+   MAY FE, 1985, US GEOLOGICAL SURVEY, V1614, P97
+   MAY FE, 1979, PRELIMINARY GEOLOGIC, V0, P113
+   MCCOMAS MA, 1988, OHIO J SCI, V88, P48
+   McGREGOR DC, 1960, PALAEONTOLOGY, V3, P26
+   MILLER C N JR, 1984, PALAEONTOGRAPHICA ABTEILUNG B PALAEOPHYTOLOGIE, V193, P1
+   MILLER CN, 1987, ANN MO BOT GARD, V74, P692, DOI 10.2307/2399447
+   MILLER CN, 1982, REV PALAEOBOT PALYNO, V37, P99, DOI 10.1016/0034-6667(82)90039-2
+   MULLER JAN, 1968, MICROPALEONTOLOGY NY, V14, P1, DOI 10.2307/1484763
+   NORRIS G, 1982, ONT GEOL SURV STUDY, V21, P93
+   NORRIS G, 1975, GEOL ASSOC CAN SPEC, V13, P333
+   Paden Phillips P, 1971, POLLEN SPORES, V13, P279
+   Parker LR, 1975, BRIGHAM YOUNG UNIVERSITY OF GEOLOGICAL STUDIES, V22, P99
+   PARKER LR, 1987, AM J BOT, V74, P694
+   PARKER LR, 1976, THESIS MICHIGAN STAT, V0, P0
+   PEPPERS RA, 1969, 445 ILL STATE GEOL S, V0, P0
+   PERSON C P, 1982, PALAEONTOGRAPHICA ABTEILUNG B PALAEOPHYTOLOGIE, V180, P82
+   Phillips PP, 1971, POLLEN SPORES, V13, P447
+   PHILLIPS TL, 1985, INT J COAL GEOL, V5, P43, DOI 10.1016/0166-5162(85)90010-2
+   PHILLIPS TL, 1984, INT J COAL GEOL, V3, P205, DOI 10.1016/0166-5162(84)90019-3
+   PHILLIPS TL, 1979, REV PALAEOBOT PALYNO, V27, P239, DOI 10.1016/0034-6667(79)90014-9
+   PHILLIPS TL, 1981, PALEOBOTANY PALEOECO, V0, P231
+   PIERCE RL, 1961, MINN GEOL SURV B, V42, P0
+   Pocock S, 1962, PALAEONTOGRAPHICA, V111, P1
+   POCOCK SAJ, 1970, PALAEONTOGRAPHICA B, V130, P1
+   POTTER FW, 1976, PALAEONTOGRAPHICA, V157, P44
+   RAVN RL, 1986, 7 IOW GEOL SURV TECH, V0, P0
+   Read C, 1937, 186F US GEOL SURV, V0, P105
+   READ CB, 1961, US GEOL SURV RES, V832, P0
+   READ CB, 1964, 454K US GEOL SURV PR, V0, P0
+   Robbins EI, 1988, TRIASSIC-JURASSIC RIFTING: NORTH AMERICA AND NORTH AFRICA, V0, P649
+   ROBBINS EI, 1988, 1988 IAS INT S SED R, V0, P219
+   ROBBINS EI, 1985, 946 US GEOL SURV CIR, V0, P27
+   ROTHWELL GW, 1984, AM J BOT, V71, P1031, DOI 10.2307/2443377
+   SABLE EG, 1986, 974 US GEOL SURV CIR, V0, P59
+   SANDERS RB, 1968, USA J PALYNOL, V2, P17
+   SANTANTONIO D, 1977, PEDOBIOLOGIA, V17, P1
+   SATCHELL LS, 1984, 6TH INT PAL C CALG, V0, P146
+   SAUNDERS WB, 1974, GEOL SOC AM BULL, V85, P979, DOI 10.1130/0016-7606(1974)85<979:FAFTEC>2.0.CO;2
+   Scheckler SE, 1986, ANN GEOLOGIQUE BELGI, V109, P209
+   SCHEMEL MART P, 1950, JOUR PALEONTOL, V24, P232
+   SCHINDEL DE, 1980, PALEOBIOLOGY, V6, P408, DOI 10.1017/S0094837300003596
+   SCHINDEL DE, 1982, PALEOBIOLOGY, V8, P340, DOI 10.1017/S0094837300007090
+   Schultz G, 1973, PALAEONTOGRAPHICA B, V141, P63
+   SCOTT RA, 1979, PRELIMINARY GEOLOGIC, V0, P89
+   Shaffer BL, 1969, THESIS MICHIGAN STAT, V0, P0
+   SINGH C, 1964, RES COUNC ALBERTA B, V15, P0
+   Singh C, 1975, GEOL ASSOC CANADA SP, V13, P365
+   SINGH C, 1971, RES COUNC ALBERTA B, V28, P0
+   SMILEY C J, 1969, AM ASSOC PET GEOL BULL, V53, P2079
+   SMILEY C J, 1969, AM ASSOC PET GEOL BULL, V53, P482
+   SMILEY CHAPLES J, 1967, AMER ASS PETROL GEOL BULL, V51, P849
+   Smith AHV, 1962, P YORKS GEOL SOC, V33, P423, DOI 10.1144/PYGS.33.4.423
+   SMITH AHV, 1967, 1 SPEC PAP PAL, V0, P0
+   SPICER RA, 1986, GEOLOGY, V14, P703, DOI 10.1130/0091-7613(1986)14<703:PEFCNP>2.0.CO;2
+   SPRUNK GC, 1940, 615 US BUR MIN TECH, V0, P1
+   SRIVASTAVA SK, 1981, REV PALAEOBOT PALYNO, V35, P155, DOI 10.1016/0034-6667(81)90107-X
+   Staplin FL, 1960, PALAEONTOGR ABT B, V107, P1
+   Teichmuller M, 1982, STACHS TEXTBOOK OF COAL PETROLOGY, V0, P5
+   THAYN GF, 1973, THESIS BRIGHAM YOUNG, V0, P0
+   THAYNE GF, 1983, GREAT BASIN NAT, V43, P394
+   THIESSEN R, 1937, 573 US BUR MIN TECH, V0, P1
+   THIESSEN R, 1925, 1321 US GEOL SURV PR, V0, P121
+   Tidwell WD, 1975, COMMON FOSSIL PLANTS, V0, P0
+   Tidwell WD, 1981, ADVANCES IN SAN JUAN PALEONTOLOGY, V0, P307
+   TIDWELL WD, 1972, GEOL SOC AM ABSTR, V4, P417
+   TIDWELL WD, 1976, GEOL STUDIES, V22, P77
+   TSCHUDY RH, 1981, REV PALAEOBOT PALYNO, V35, P283, DOI 10.1016/0034-6667(81)90113-5
+   TSCHUDY RH, 1973, 743B US GEOL SURV PR, V0, P0
+   TSCHUDY RH, 1965, 525B US GEOL SURV, V0, PB64
+   TYLER SA, 1957, GEOL SOC AM BULL, V68, P1293, DOI 10.1130/0016-7606(1957)68[1293:ACFPUH]2.0.CO;2
+   Vogellehner D, 1967, PALAEONTOGRAPHICA B, V121, P30
+   Vogellehner D, 1968, PALAEONTOGRAPHICA ABTEILUNG B, V124, P125
+   WAGNER RH, 1989, INT J COAL GEOL, V12, P523, DOI 10.1016/0166-5162(89)90064-5
+   WARD LF, 1905, US GEOL SURV MONOGR, V48, P0
+   WARD LF, 1885, US GEOL SURV ANN REP, V6, P399
+   WARG JB, 1973, GEOSCI MAN, V7, P39
+   WILLARD DA, 1989, GEOL SOC AM ABSTR, V21, P53
+   WILSON LR, 1962, 49 OKL GEOL SURV CIR, V0, P0
+   WINSLOW MR, 1959, ILL STATE GEOL SURV, V86, P0
+   WINSTON RB, 1989, FIELD TRIP GUIDEB T, V143, P118
+   WOLFE JA, 1977, 997 US GEOL SURV PRO, V0, P0
+   WOOD GH, 1983, 891 US GEOL SURV CIR, V0, P0
+NR 186
+TC 49
+Z9 53
+U1 0
+U2 45
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0166-5162
+EI 
+J9 INT J COAL GEOL
+JI Int. J. Coal Geol.
+PD DEC 15
+PY 1990
+VL 16
+IS 1-3
+BP 1
+EP 46
+DI 10.1016/0166-5162(90)90012-N
+PG 46
+WC Energy & Fuels; Geosciences, Multidisciplinary
+SC Energy & Fuels; Geology
+GA EQ014
+UT WOS:A1990EQ01400002
+DA 2024-04-03
+ER
+
+PT J
+AU DROBYSHEVSKII, EM
+AF DROBYSHEVSKII, EM
+TI 30-MILLION-YEAR EXTINCTIONS, SNC METEORITES, AND ASTEROIDS IN SMALL ORBITS
+SO SOVIET ASTRONOMY LETTERS
+LA English
+DT Article
+ID comet showers; impact ejecta; solar-system; planets; periodicity; collisions; evolution; origin; cloud; mass
+AB Allowance for the great (up to approximately 100 times) strengthening of rock material under conditions of compression from all sides, and also for the jet-like pattern of gas outflow from impact craters, suggests gas-dynamical ejection of asteroid-size objects (with diameters up to approximately 1 km) from the Earth during random hyperimpacts with energy equivalents of approximately greater-than 10(6) megatons of TNT.  Such impacts on a continental surface occur every 25 to 30 million years, on the average.  A terrestrial origin for some AAA-asteroids (the Aten, Apollo, and Amor groups) explains the duration (approximately 3 million years) and step-like nature of the 30 million year extinctions, suggests a source of the SNC meteorites, and also removes the problems associated with assuming a Martian origin for the latter (their overabundance in comparison with lunar meteorites, their small crystallization ages, the lack of a reasonably young, large crater on Mars, etc.).
+RP DROBYSHEVSKII, EM (corresponding author), AF IOFFE PHYSICOTECH INST,LENINGRAD,USSR.
+CR ALVAREZ LW, 1980, SCIENCE, V208, P1095, DOI 10.1126/science.208.4448.1095
+   BADYUKOV DL, 1987, 20TH ALL UN MET C TA, V0, P0
+   BAILEY ME, 1987, MON NOT R ASTRON SOC, V227, P863, DOI 10.1093/mnras/227.4.863
+   BAZILEVSKII AT, 1983, IMPACT CRATERS MOON, V0, P0
+   Beresnev BI, 1976, HYDROEXTRUSION PROCE, V0, P0
+   CLARK SP, 1966, HDB PHYSICAL CONSTAN, V0, P0
+   CLUBE SVM, 1982, Q J ROY ASTRON SOC, V23, P45
+   Drobyshevski EM, 1988, PISMA V ASTRONOMICHESKIE ZHURNAL, V14, P85
+   DROBYSHEVSKI EM, 1981, MOON PLANETS, V24, P13
+   DROBYSHEVSKI EM, 1989, EARTH MOON PLANETS, V44, P7, DOI 10.1007/BF00054329
+   DROBYSHEVSKII EM, 1988, 1244 AK NAUK SSSR AF, V0, P0
+   DROBYSHEVSKII EM, 1989, 1315 AK NAUK SSSR AF, V0, P0
+   HILLS JG, 1981, ASTRON J, V86, P1730, DOI 10.1086/113058
+   HUT P, 1987, NATURE, V329, P118, DOI 10.1038/329118a0
+   KINSLAND GL, 1977, J APPL PHYS, V48, P978, DOI 10.1063/1.323719
+   LECAR M, 1973, ICARUS, V20, P422, DOI 10.1016/0019-1035(73)90015-8
+   LEVSKII LK, 1988, METEORITIKA, V0, P134
+   McSween H, 1987, METEORITES AND THEIR PARENT PLANETS, V0, P0
+   MCSWEEN HY, 1985, REV GEOPHYS, V23, P391, DOI 10.1029/RG023i004p00391
+   MELOSH HJ, 1984, ICARUS, V59, P234, DOI 10.1016/0019-1035(84)90026-5
+   NEWELL ND, 1982, GEOLOGICAL SOC AM SP, V190, P0
+   Nyquist LE, 1984, JOURNAL OF GEOPHYSICAL RESEARCH, V89, P631, DOI 10.1029/JB089iS02p0B631
+   NYQUIST LE, 1983, J GEOPHYS RES S, V88, P0
+   OKEEFE JD, 1986, SCIENCE, V234, P346, DOI 10.1126/science.234.4774.346
+   OKEEFE JD, 1977, SCIENCE, V198, P1249, DOI 10.1126/science.198.4323.1249-a
+   OLSSONSTEEL D, 1987, MON NOT R ASTRON SOC, V227, P501, DOI 10.1093/mnras/227.2.501
+   Opik EJ, 1963, ADV. ASTRON. ASTROPHYS, V2, P219
+   ORTH CJ, 1988, GEOPHYS RES LETT, V15, P346, DOI 10.1029/GL015i004p00346
+   RAUP DM, 1984, P NATL ACAD SCI-BIOL, V81, P801, DOI 10.1073/pnas.81.3.801
+   Roddy DJ, 1987, INTERNATIONAL JOURNAL OF IMPACT ENGINEERING, V5, P525
+   Shoemaker E M, 1979, EARTH-CROSSING ASTEROIDS - ORBITAL CLASSES, V0, P0
+   SIMONENKO AN, 1979, METEORITES FRAGMENTS, V0, P0
+   SPRATT CE, 1987, J ROY ASTRON SOC CAN, V81, P8
+   STEEL DI, 1985, MON NOT R ASTRON SOC, V212, P817, DOI 10.1093/mnras/212.4.817
+   STIGLER SM, 1987, SCIENCE, V238, P940, DOI 10.1126/science.238.4829.940
+   VALTIER AA, 1987, 20TH ALL UN MET C TA, V0, P0
+   VICKERY A, 1986, J GEOPHYS RES-SOLID, V91, P14139, DOI 10.1029/JB091iB14p14139
+   Vickery AM, 1987, INT J IMPACT ENG, V5, P655
+   VICKERY AM, 1987, SCIENCE, V237, P738, DOI 10.1126/science.237.4816.738
+   Wasson JT, 1979, ASTEROIDS, V0, P926
+   WETHERILL GW, 1984, METEORITICS, V19, P1
+   WRIGHT IP, 1989, NATURE, V340, P220, DOI 10.1038/340220a0
+NR 42
+TC 3
+Z9 3
+U1 0
+U2 0
+PU AMER INST PHYSICS
+PI WOODBURY
+PA CIRCULATION FULFILLMENT DIV, 500 SUNNYSIDE BLVD, WOODBURY, NY 11797-2999
+SN 0360-0327
+EI 
+J9 SOV ASTRON LETT+
+PD MAY-JUN 15
+PY 1990
+VL 16
+IS 3
+BP 193
+EP 196
+DI 
+PG 4
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA ET404
+UT WOS:A1990ET40400007
+DA 2024-04-03
+ER
+
+PT J
+AU FLESSA, KW
+AF FLESSA, KW
+TI THE FACTS OF MASS EXTINCTIONS
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 1
+Z9 2
+U1 0
+U2 1
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 1
+EP 7
+DI 
+PG 7
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00001
+DA 2024-04-03
+ER
+
+PT J
+AU MYERS, N
+AF MYERS, N
+TI MASS EXTINCTIONS - WHAT CAN THE PAST TELL US ABOUT THE PRESENT AND THE FUTURE
+SO GLOBAL AND PLANETARY CHANGE
+LA English
+DT Article; Proceedings Paper
+RP MYERS, N (corresponding author), UPPER MEADOW,OLD RD,OXFORD OX3 8SZ,ENGLAND.
+CR Unknown -, 1987, OUR COMMON FUTURE, V0, P0
+   Unknown -, 1982, BIOL DIVERSIFICATION, V0, P0
+   Unknown -, 1981, CONSERVATION AND EVOLUTION, V0, P0
+   BENTON MJ, 1987, BIOL REV, V62, P305, DOI 10.1111/j.1469-185X.1987.tb00666.x
+   BENTON MJ, 1985, NATURE, V316, P811, DOI 10.1038/316811a0
+   Berggren WilliamA, 1984, CATASTROPHES EARTH H, V0, P0
+   BROWN L, 1989, STATE WORLD 1989, V0, P0
+   BUFFETAUT E, 1984, NATURE, V310, P276, DOI 10.1038/310276a0
+   BUFFETAUT E, 1987, SHORT HIST VERTEBRAT, V0, P0
+   CHALONER WG, 1989, IN PRESS PHILOS T R, V0, P0
+   Ehrlich P, 1981, EXTINCTION, V0, P0
+   Eldredge N, 1986, TIME FRAMES, V0, P0
+   ELLIOTT DK, 1986, DYNAMICS EXTINCTION, V0, P183
+   ERWIN DH, 1987, EVOLUTION, V41, P1177, DOI 10.1111/j.1558-5646.1987.tb02459.x
+   HALLAM A, 1987, SCIENCE, V238, P1237, DOI 10.1126/science.238.4831.1237
+   HICKEY LJ, 1984, CATASTROPHES EARTH H, V0, P279
+   HOLLAND HD, 1984, PATTERNS CHANGE EVOL, V0, P0
+   HSU KJ, 1989, HIST BIOL, V2, P1
+   JABLONSKI D, 1986, SCIENCE, V231, P129, DOI 10.1126/science.231.4734.129
+   Jablonski D, 1986, P183, V0, P0
+   JABLONSKI D, 1986, PATTERNS PROCESSES H, V0, P0
+   JANZEN D, 1986, OIKOS, V47, P1, DOI 10.2307/3565912
+   KATES RW, 1989, 1989 BROWN U AS FEIN, V0, P0
+   KAUFFMAN EG, 1989, ABRUPT CHANGES GLOBA, V0, P0
+   KENDERGH CS, 1973, ORNITHOL MONOGR, V14, P0
+   Knoll AH, 1984, EXTINCTIONS, V0, P21
+   KNOLL AH, 1986, PATTERNS OF CHANGE IN PLANT COMMUNITIES THROUGH GEOLOGICAL TIME, V0, P126
+   LARWOOD GP, 1988, EXTINCTION SURVIVAL, V0, P0
+   Lowe-McConnell RH, 1987, ECOLOGICAL STUDIES T, V0, P0
+   MAY RM, 1988, SCIENCE, V241, P1441, DOI 10.1126/science.241.4872.1441
+   Mayr E, 1976, EVOLUTION DIVERSITY, V0, P0
+   Mayr E, 1982, GROWTH BIOL THOUGHT, V0, P0
+   MAYR E, 1988, OBSERVATIONS EVOLUTI, V0, P0
+   McLaren DJ, 1989, HISTORICAL BIOLOGY, V2, P5
+   MILKMAN R, 1982, PERSPECTIVES EVOLUTI, V0, P0
+   Myers N, 1988, ENVIRONMENTALIST, V8, P187, DOI 10.1007/BF02240252
+   MYERS N, 1987, CONSERVATION BIOLOGY, V1, P14, DOI 10.1111/j.1523-1739.1987.tb00004.x
+   MYERS N, 1987, HM ALBRIGHT LECTURE, V0, P0
+   MYERS N, 1989, RES PROPOSAL ADDITIO, V0, P0
+   Niklas KJ, 1985, PHANEROZOIC DIVERSIT, V0, PP97, DOI 10.1515/9781400855056.97
+   Nitecki MH, 1984, EXTINCTIONS, V0, P0
+   Nitecki MatthewH, 1989, EVOLUTIONARY PROGRESS, V0, P0
+   Ornstein RobertE, 1989, NEW WORLD NEW MIND: MOVING TOWARD CONSCIOUS EVOLUTION, V1st, P0
+   PETERS R, 1990, IN PRESS CONSEQUENCE, V0, P0
+   Raup DM, 1988, P51, V0, P0
+   RAUP DM, 1987, PALAEONTOLOGY, V30, P1
+   RAUP DM, 1986, SCIENCE, V231, P1528, DOI 10.1126/science.11542058
+   RAUP DM, 1979, SCIENCE, V206, P217, DOI 10.1126/science.206.4415.217
+   RAUP DM, 1986, SCIENCE, V231, P833, DOI 10.1126/science.11542060
+   RAUP DM, 1984, P NATL ACAD SCI-BIOL, V81, P801, DOI 10.1073/pnas.81.3.801
+   RAUP DM, 1982, SCIENCE, V215, P1501, DOI 10.1126/science.215.4539.1501
+   RAVEN PH, 1987, WERE KILLING OUR WOR, V0, P0
+   SCHOPF TJM, 1982, EVOLUTION, V36, P114
+   SEPKOSKI JJ, 1981, NATURE, V293, P435, DOI 10.1038/293435a0
+   SEPKOSKI JJ, 1984, PALEOBIOLOGY, V10, P246, DOI 10.1017/S0094837300008186
+   SEPKOSKI JJ, 1987, SCIENCE, V235, P64, DOI 10.1126/science.11539724
+   SEPKOSKI JJ, 1988, PALEOBIOLOGY, V14, P221, DOI 10.1017/S0094837300011969
+   SHEEHAN PM, 1986, GEOLOGY, V14, P868, DOI 10.1130/0091-7613(1986)14<868:DFAABT>2.0.CO;2
+   SIMBERLOFF D, 1976, SCIENCE, V194, P572, DOI 10.1126/science.194.4265.572
+   Simberloff D, 1986, P165, V0, P0
+   Soule ME, 1980, CONSERVATION BIOLOGY: AN EVOLUTIONARY-ECOLOGICAL PERSPECTIVE, V0, P1
+   Stanley SM, 1981, THE NEW EVOLUTIONARY TIME TABLE: FOSSILS, V0, P0
+   Stanley SM, 1986, EARTH AND LIFE THROUGH TIME, V0, P0
+   Stanley SM, 1979, MACROEVOLUTION PATTE, V0, P0
+   STANLEY SM, 1987, EXTINCTION, V0, P0
+   STENSETH NC, 1984, OIKOS, V43, P417, DOI 10.2307/3544168
+   Traverse A, 1988, HISTORICAL BIOLOGY, V1, P277
+   Valentine JW, 1969, PALAEONTOLOGY, V12, P684
+   VANHALEN LM, 1985, EVOL THEORY, V7, P133
+   Vermeij GJ, 1986, P231, V0, P0
+   VITOUSEK PM, 1986, BIOSCIENCE, V36, P368, DOI 10.2307/1310258
+   WALLISER OH, 1986, GLOBAL BIOEVENTS, V0, P0
+   WESTERN D, 1989, CONSERVATION BIOL NE, V0, P0
+   Wilson EO, 1988, BIODIVERSITY, V0, P0
+NR 77
+TC 15
+Z9 24
+U1 0
+U2 9
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-8181
+EI 
+J9 GLOBAL PLANET CHANGE
+JI Glob. Planet. Change
+PD MAY 15
+PY 1990
+VL 82
+IS 1-2
+BP 175
+EP 185
+DI 
+PG 11
+WC Geography, Physical; Geosciences, Multidisciplinary
+SC Physical Geography; Geology
+GA DT472
+UT WOS:A1990DT47200019
+DA 2024-04-03
+ER
+
+PT J
+AU THOMAS, E
+AF THOMAS, E
+TI LATE CRETACEOUS EARLY EOCENE MASS EXTINCTIONS IN THE DEEP-SEA
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 100
+Z9 108
+U1 0
+U2 5
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 481
+EP 495
+DI 
+PG 15
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00047
+DA 2024-04-03
+ER
+
+PT J
+AU DAVENPORT, SA
+   WDOWIAK, TJ
+   JONES, DD
+   WDOWIAK, P
+AF DAVENPORT, SA
+   WDOWIAK, TJ
+   JONES, DD
+   WDOWIAK, P
+TI CHONDRITIC METAL TOXICITY AS A SEED STOCK KILL MECHANISM IN IMPACT-CAUSED MASS EXTINCTIONS
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 1
+Z9 1
+U1 0
+U2 0
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 71
+EP 76
+DI 
+PG 6
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00008
+DA 2024-04-03
+ER
+
+PT J
+AU PAULAY, G
+AF PAULAY, G
+TI EFFECTS OF LATE CENOZOIC SEA-LEVEL FLUCTUATIONS ON THE BIVALVE FAUNAS OF TROPICAL OCEANIC ISLANDS
+SO PALEOBIOLOGY
+LA English
+DT Article
+ID permo-triassic extinctions; long-distance dispersal; french-polynesia; coral reefs; mass extinction; tuamotu-islands; evolution; pacific; mollusks; atoll
+AB The frequent late Cenozoic glacial ages were accompanied by sea-level falls of 100-150 m amplitude. These falls stranded the complex inner-reef platforms and lagoons of tropical Pacific islands, while outer-reef-slope habitats persisted, although displaced downslope. The effects of glacial regressions on bivalves were studied by examining the zonation of species across reef systems and species composition on tectonically uplifted islands, islands with, effectively, local low sea stands. I show that qualitative habitat loss (the stranding of inner-reef habitats) was responsible for the local extinction of about one-third of the bivalve species that inhabit central Pacific islands during high sea stands, whereas quantitative loss of habitat area and climatic effects were inconsequential. Soft-sediment habitats, and consequently soft-bottom bivalves, were more drastically affected by sea-level fluctuations than were hard-bottom habitats and bivalves. Although many bivalve species were extirpated in the central Pacific during low sea stands, they survived in the western Pacific, where the different geomorphology of many marine systems provided refugia for lagoonal species. Thus, a large proportion of Pacific bivalve species has very dynamic distributions, undergoing great range reductions and expansions with falls and rises of sea level, and much of the present central Pacific lagoonal fauna is of Holocene age. Several implications of these findings are discussed.
+RP NATL MUSEUM NAT HIST, DEPT PALEOBIOL, WASHINGTON, DC 20560 USA.
+CR BLANC F, 1983, CR ACAD SCI III-VIE, V297, P199
+   BLANC F, 1985, 5TH P INT COR REEF C, V4, P113
+   BOUCOT AJ, 1983, J PALEONTOL, V57, P1
+   Briggs JC, 1974, MARINE BIOGEOGRAPHY, V0, P0
+   CHAPPELL J, 1986, NATURE, V324, P137, DOI 10.1038/324137a0
+   Chevalier J-P, 1979, CAHIERS DE LINDO-PACIFIQUE, V1, P129
+   CHEVALIER JP, 1977, 2ND P INT S COR FOSS, V0, P359
+   CHEVALIER JP, 1981, 4TH P INT COR REEF S, V2, P177
+   CLIMAP Project Members, 1976, SCIENCE, V191, P1131
+   COOPE GR, 1979, ANNU REV ECOL SYST, V10, P247, DOI 10.1146/annurev.es.10.110179.001335
+   CRAME JA, 1986, CORAL REEFS, V4, P183, DOI 10.1007/BF00427940
+   Daly RA, 1910, AM J SCI, V30, P297
+   Davis MB, 1981, FOREST SUCCESSION, V0, PP132, DOI 10.1007/978-1-4612-5950-3_10
+   Davis MB, 1976, GEOSCIENCE AND MAN, V13, P13
+   DUBOIS J, 1975, TECTONOPHYSICS, V26, P189, DOI 10.1016/0040-1951(75)90089-X
+   FLESSA KW, 1978, PALEOBIOLOGY, V4, P359, DOI 10.1017/S0094837300006059
+   FRAZIER J, 1985, MAR ECOL-P S Z N I, V6, P127, DOI 10.1111/j.1439-0485.1985.tb00134.x
+   FROST SH, 1977, 3RD P INT COR REEF S, V2, P353
+   GIBBONS JRH, 1986, J PAC HIST, V21, P58, DOI 10.1080/00223348608572529
+   GRIGG RW, 1988, SCIENCE, V240, P1737, DOI 10.1126/science.240.4860.1737
+   HALLAM A, 1989, PHILOS T ROY SOC B, V325, P437, DOI 10.1098/rstb.1989.0098
+   HALLAM A, 1984, ANNU REV EARTH PL SC, V12, P205, DOI 10.1146/annurev.ea.12.050184.001225
+   HAQ BU, 1987, SCIENCE, V235, P1156, DOI 10.1126/science.235.4793.1156
+   Heckel PH, 1974, REEFS IN SPACE AND TIME - SELECTED EXAMPLES FROM THE RECENT AND ANCIENT. SEPM SPECIAL PUBLICATION, V0, P90
+   HIGHSMITH RC, 1985, MAR ECOL PROG SER, V25, P169, DOI 10.3354/meps025169
+   Hopley D, 1982, GEOMORPHOLOGY GREAT, V0, P0
+   JABLONSKI D, 1980, PALEOBIOLOGY, V6, P397, DOI 10.1017/S0094837300003584
+   Jablonski D, 1986, P183, V0, P0
+   Jablonski D, 1985, P335, V0, P0
+   JABLONSKI D, 1986, MALACOLOGIA, V27, P43
+   JOKIEL PL, 1989, MAR BIOL, V101, P483, DOI 10.1007/BF00541650
+   JOKIEL PL, 1984, CORAL REEFS, V3, P113, DOI 10.1007/BF00263761
+   Jokiel PL, 1978, ATOLL RES B, V221, P73
+   Kauffman EG, 1973, P353, V0, P0
+   KAUFMAN EG, 1979, CRETACEOUS TERTIARY, V2, P29
+   Kay EA, 1967, VENUS KYOTO, V25, P94
+   KAY E A, 1976, MICRONESICA, V12, P187
+   KAY EA, 1983, BIOGEOGRAPHY TROPICA, V72, P15
+   KAY EA, 1980, LYON ARBORETUM LECTU, V9, P0
+   KOHN AJ, 1983, OECOLOGIA, V60, P293, DOI 10.1007/BF00376841
+   KOHN AJ, 1983, B MAR SCI, V33, P528
+   KUHLMANN DHH, 1986, PSZNI MAR ECOL, V7, P75
+   KUKLA GJ, 1977, EARTH-SCI REV, V13, P307, DOI 10.1016/0012-8252(77)90125-8
+   LADD HS, 1960, AM J SCI, V258, P137
+   LEGENDRE L, 1988, MAR ECOL PROG SER, V47, P153, DOI 10.3354/meps047153
+   MARAGOS JE, 1986, CORAL REEFS, V4, P141, DOI 10.1007/BF00427935
+   MARSH LM, 1983, B MAR SCI, V33, P671
+   Marshall JF, 1982, CORAL REEFS, V1, P21, DOI 10.1007/BF00286536
+   MARSHALL JF, 1985, CORAL REEFS, V4, P11, DOI 10.1007/BF00302199
+   MARTINSON DG, 1987, QUATERNARY RES, V27, P1, DOI 10.1016/0033-5894(87)90046-9
+   MCMANUS JW, 1985, TAHITI, V4, P133
+   MOORE TC, 1980, MAR MICROPALEONTOL, V5, P215, DOI 10.1016/0377-8398(80)90012-2
+   Newell ND, 1967, GEOL SOC AM SPEC PAP, V0, P63
+   NEWELL ND, 1971, OUTLINE HIST TROPICA, V0, P0
+   NEWMAN WA, 1987, B MAR SCI, V41, P361
+   NEWMAN WA, 1983, B MAR SCI, V33, P633
+   NEWMAN WA, 1986, CRUSTACEAN BIOGEOGRA, V0, P21
+   OLAFSSON EB, 1986, J ANIM ECOL, V55, P517, DOI 10.2307/4735
+   PAULAY G, 1989, AM ZOOL, V29, P0
+   PAULAY G, 1990, CORAL REEFS, V9, P51, DOI 10.1007/BF00368800
+   Paulay G, 1987, ATOLL RES BULL, V0, PP1, DOI 10.5479/SI.00775630.298.1
+   PAULAY G, 1985, 5TH P INT COR REEF C, V4, P89
+   Paulay G, 1988, THESIS U WASHINGTON, V0, P0
+   PAULAY G, 1989, 6TH P INT COR REEF S, V3, P461
+   Pianka EricR, 1988, EVOL ECOL, V0, P0
+   PIRAZZOLI PA, 1988, PALAEOGEOGR PALAEOCL, V68, P153, DOI 10.1016/0031-0182(88)90037-5
+   POHLO R, 1982, J MOLLUS STUD, V48, P245, DOI 10.1093/oxfordjournals.mollus.a065646
+   POHLO R, 1969, PROCEEDINGS OF THE MALACOLOGICAL SOCIETY OF LONDON, V38, P361
+   POTTS DC, 1983, B MAR SCI, V33, P619
+   POTTS DC, 1984, PALEOBIOLOGY, V10, P48, DOI 10.1017/S0094837300008010
+   POTTS DC, 1985, 5TH P INT COR REEF C, V4, P127
+   RAFFI S, 1985, PALEOBIOLOGY, V11, P368, DOI 10.1017/S0094837300011684
+   RICARD M, 1977, 3RD P INT COR REEF S, V1, P343
+   RICARD M, 1976, CAHIERS PACIFIQUE, V19, P383
+   Salvat B, 1967, CAHIERS DU PACIFIQUE, VNo. 11, P7
+   SALVAT B, 1971, SOC ITALIANA SCI NAT, V112, P330
+   SALVAT D, 1972, CAHIERS PACIFIQUE, V16, P30
+   SCHELTEMA RS, 1983, B MAR SCI, V33, P545
+   SCHOPF TJM, 1974, J GEOL, V82, P129, DOI 10.1086/627955
+   Sepkoski JJ, 1982, GEOLOGICAL SOC AM, V190, P283
+   SEPKOSKI J J JR, 1976, PALEOBIOLOGY, V2, P298
+   SHEPPARD CRC, 1982, MAR ECOL PROG SER, V7, P83, DOI 10.3354/meps007083
+   SIMBERLOFF DS, 1974, J GEOL, V82, P267, DOI 10.1086/627962
+   SOURNIA A, 1976, J EXP MAR BIOL ECOL, V21, P129, DOI 10.1016/0022-0981(76)90034-4
+   SOURNIA A, 1976, VIE MILIEU B OCEANOG, V26, P243
+   Spencer T, 1987, Z. GEOMORPHOL., V63, P87
+   STANLEY S M, 1986, PALAIOS, V1, P17, DOI 10.2307/3514456
+   Stanley SM, 1984, P69, V0, P0
+   STANLEY SM, 1986, PALEOBIOLOGY, V12, P89, DOI 10.1017/S0094837300003006
+   STANLEY SM, 1980, GEOLOGY, V8, P422, DOI 10.1130/0091-7613(1980)8<422:LCIPPA>2.0.CO;2
+   STANLEY SM, 1984, GEOLOGY, V12, P205, DOI 10.1130/0091-7613(1984)12<205:TABCIT>2.0.CO;2
+   STANLEY SM, 1981, NATURE, V293, P457, DOI 10.1038/293457a0
+   Steers JA, 1977, BIOLOGY AND GEOLOGY OF CORAL REEFS, V4, P21
+   STEHLI FG, 1967, GEOL SOC AM BULL, V78, P455, DOI 10.1130/0016-7606(1967)78[455:TDORBA]2.0.CO;2
+   STEHLI FG, 1971, SYST ZOOL, V20, P115, DOI 10.2307/2412052
+   STODDART D R, 1976, MICRONESICA, V12, P1
+   Stoddart DR, 1985, Z. GEOMORPHOL., V57, P121
+   STODDART DR, 1973, GEOGRAPHY, V58, P313
+   STODDART DR, 1973, OCEANOGRAPHY S PACIF, V0, P475
+   TAPPAN H, 1973, EARTH-SCI REV, V9, P207, DOI 10.1016/0012-8252(73)90092-5
+   Tappan H, 1970, GEOL SOC AM SPEC PAP, V127, P247
+   TAYLOR J D, 1978, PALAEONTOLOGY (OXFORD), V21, P1
+   Valentine JW, 1973, EVOLUTIONARY PALEOEC, V0, P0
+   VERMEIJ GJ, 1989, MAR ECOL PROG SER, V57, P293, DOI 10.3354/meps057293
+   VERMEIJ GJ, 1987, EVOLUTION, V41, P1046, DOI 10.1111/j.1558-5646.1987.tb05875.x
+   VERMEIJ GJ, 1986, MALACOLOGIA, V27, P29
+   Vermeij GJ, 1987, EVOLUTION ESCALATION, V0, P0
+   WILSON EO, 1969, BROOKHAVEN SYM BIOL, V0, P38
+   WISE KP, 1981, PALEOBIOLOGY, V7, P394, DOI 10.1017/S0094837300004681
+   YONEKURA N, 1986, SEA LEVEL CHANGES MI, V0, P44
+NR 114
+TC 87
+Z9 99
+U1 0
+U2 15
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0094-8373
+EI 1938-5331
+J9 PALEOBIOLOGY
+JI Paleobiology
+PD FAL 15
+PY 1990
+VL 16
+IS 4
+BP 415
+EP 434
+DI 10.1017/S0094837300010162
+PG 20
+WC Biodiversity Conservation; Ecology; Evolutionary Biology; Paleontology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Evolutionary Biology; Paleontology
+GA EU531
+UT WOS:A1990EU53100002
+DA 2024-04-03
+ER
+
+PT J
+AU BUFFETAUT, E
+AF BUFFETAUT, E
+TI THE RELEVANCE OF PAST MASS EXTINCTIONS TO AN UNDERSTANDING OF CURRENT AND FUTURE EXTINCTION PROCESSES
+SO GLOBAL AND PLANETARY CHANGE
+LA English
+DT Article; Proceedings Paper
+RP BUFFETAUT, E (corresponding author), UNIV PARIS 06,CNRS,PALEONTOL VERTEBRES LAB,4 PL JUSSIEU,F-75252 PARIS 05,FRANCE.
+CR BENTON MJ, 1987, MEM SOC GEOL FR, V150, P21
+   BUFFETAUT E, 1984, NATURE, V310, P276, DOI 10.1038/310276a0
+   Buffetaut E, 1987, SHORT HIST VERTEBRAT, V0, P0
+   ERWIN DH, 1987, EVOLUTION, V41, P1177, DOI 10.1111/j.1558-5646.1987.tb02459.x
+   HSU KJ, 1989, HIST BIOL, V2, P1
+   JABLONSKI D, 1986, SCIENCE, V231, P129, DOI 10.1126/science.231.4734.129
+   Jablonski D, 1986, P183, V0, P0
+   Martin PS, 1984, P354, V0, P0
+   McLaren DJ, 1989, HISTORICAL BIOLOGY, V2, P5
+   RAUP DM, 1986, SCIENCE, V231, P1528, DOI 10.1126/science.11542058
+   RAUP DM, 1982, SCIENCE, V215, P1501, DOI 10.1126/science.215.4539.1501
+   Sepkoski JJ, 1982, GEOLOGICAL SOC AM, V190, P283
+   Sepkoski JJ, 1986, PATTERNS PROCESSES H, V0, P277
+   Stanley SM, 1987, EXTINCTION, V0, P0
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 8
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-8181
+EI 
+J9 GLOBAL PLANET CHANGE
+JI Glob. Planet. Change
+PD MAY 15
+PY 1990
+VL 82
+IS 1-2
+BP 169
+EP 174
+DI 
+PG 6
+WC Geography, Physical; Geosciences, Multidisciplinary
+SC Physical Geography; Geology
+GA DT472
+UT WOS:A1990DT47200018
+DA 2024-04-03
+ER
+
+PT J
+AU MELDAHL, KH
+AF MELDAHL, KH
+TI SAMPLING, SPECIES ABUNDANCE, AND THE STRATIGRAPHIC SIGNATURE OF MASS EXTINCTION - A TEST USING HOLOCENE TIDAL FLAT MOLLUSKS
+SO GEOLOGY
+LA English
+DT Article
+RP MELDAHL, KH (corresponding author), UNIV ARIZONA,DEPT GEOSCI,TUCSON,AZ 85721, USA.
+CR ALVAREZ LW, 1987, PHYSICS TODAY JUL, V0, P24
+   FLESSA KW, 1990, IN PRESS GLOBAL CATA, V0, P0
+   FLESSA KW, 1987, PALEONTOLOGICAL SOC, V2, P0
+   HALLAM A, 1987, SCIENCE, V238, P1237, DOI 10.1126/science.238.4831.1237
+   HUT P, 1987, NATURE, V329, P118, DOI 10.1038/329118a0
+   KOCH CF, 1988, PALEOBIOLOGY, V14, P126, DOI 10.1017/S0094837300011878
+   MCKINNEY ML, 1986, GEOLOGY, V14, P36, DOI 10.1130/0091-7613(1986)14<36:BGA>2.0.CO;2
+   Paul CRC, 1982, THE ADEQUACY OF THE FOSSIL RECORD. PROBLEMS OF PHYLOGENETIC RECONSTRUCTION, V0, P75
+   Perch-Nielsen KJMcKenzie He, 1982, GEOLOGICAL SOCIETYOF, V190, P353
+   RAUP DM, 1986, SCIENCE, V231, P1528, DOI 10.1126/science.11542058
+   RAUP DM, 1989, PHILOS T ROY SOC B, V325, P421, DOI 10.1098/rstb.1989.0097
+   Signor PW, 1982, GEOLOGICAL SOC AM SP, V190, P291, DOI 10.1130/SPE190-p291
+   SPRINGER M, 1988, J GEOL, V96, P228, DOI 10.1086/629212
+   STANLEY SM, 1984, GEOLOGY, V12, P205, DOI 10.1130/0091-7613(1984)12<205:TABCIT>2.0.CO;2
+   STRAUSS D, 1989, MATH GEOL, V21, P411, DOI 10.1007/BF00897326
+   WARD P, 1986, GEOLOGY, V14, P899, DOI 10.1130/0091-7613(1986)14<899:MMBAEP>2.0.CO;2
+NR 16
+TC 39
+Z9 43
+U1 0
+U2 8
+PU GEOLOGICAL SOC AMERICA
+PI BOULDER
+PA PO BOX 9140 3300 PENROSE PLACE, BOULDER, CO 80301
+SN 0091-7613
+EI 
+J9 GEOLOGY
+JI Geology
+PD SEP 15
+PY 1990
+VL 18
+IS 9
+BP 890
+EP 893
+DI 10.1130/0091-7613(1990)018<0890:SSAATS>2.3.CO;2
+PG 4
+WC Geology
+SC Geology
+GA DZ051
+UT WOS:A1990DZ05100022
+DA 2024-04-03
+ER
+
+PT J
+AU TEICHERT, C
+AF TEICHERT, C
+TI MILD MASS EXTINCTION
+SO GEOTIMES
+LA English
+DT Letter
+RP TEICHERT, C (corresponding author), UNIV ROCHESTER,DEPT GEOL SCI,ROCHESTER,NY 14627, USA.
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 0
+PU AMER GEOLOGICAL INST
+PI ALEXANDRIA
+PA 4220 KING ST, ALEXANDRIA, VA 22302-1507
+SN 0016-8556
+EI 
+J9 GEOTIMES
+JI Geotimes
+PD MAR 15
+PY 1990
+VL 35
+IS 3
+BP 4
+EP 4
+DI 
+PG 1
+WC Geosciences, Multidisciplinary
+SC Geology
+GA CT490
+UT WOS:A1990CT49000002
+DA 2024-04-03
+ER
+
+PT J
+AU [Anonymous]
+AF [Anonymous]
+TI WHAT CAUSED THE MASS EXTINCTION
+SO SCIENTIFIC AMERICAN
+LA English
+DT Editorial Material
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SCI AMERICAN INC
+PI NEW YORK
+PA 415 MADISON AVE, NEW YORK, NY 10017
+SN 0036-8733
+EI 
+J9 SCI AM
+JI Sci.Am.
+PD OCT 15
+PY 1990
+VL 263
+IS 4
+BP 76
+EP 77
+DI 
+PG 2
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA EG782
+UT WOS:A1990EG78200011
+DA 2024-04-03
+ER
+
+PT J
+AU BAUM, M
+   ANDRUS, T
+   JACOBS, WJ
+AF BAUM, M
+   ANDRUS, T
+   JACOBS, WJ
+TI EXTINCTION OF A CONDITIONED EMOTIONAL RESPONSE - MASSED AND DISTRIBUTED EXPOSURES
+SO BEHAVIOUR RESEARCH AND THERAPY
+LA English
+DT Article
+C1 UNIV LETHBRIDGE,4401 UNIV DR,LETHBRIDGE T1K 3M4,ALBERTA,CANADA.
+   RENSSELAER POLYTECH INST,TROY,NY 12181.
+C3 University of Lethbridge; Rensselaer Polytechnic Institute
+CR ANNAU Z, 1961, J COMP PHYSIOL PSYCH, V54, P428, DOI 10.1037/h0042199
+   BANKART B, 1974, BEHAV RES THER, V12, P53, DOI 10.1016/0005-7967(74)90031-X
+   BAUM M, 1988, BEHAV PSYCHOTHER, V16, P38, DOI 10.1017/S014134730000848X
+   BAUM M, 1971, CAN J PSYCHOLOGY, V25, P138, DOI 10.1037/h0082375
+   BERMAN JS, 1972, BEHAV RES THER, V10, P247, DOI 10.1016/0005-7967(72)90041-1
+   BOUDEWYNS PA, 1983, FLOOD IMPLOSIVE THER, V0, P0
+   FOA EB, 1980, BEHAV RES THER, V18, P333, DOI 10.1016/0005-7967(80)90092-3
+   FRANCHINA JJ, 1975, BEHAV RES THER, V13, P1, DOI 10.1016/0005-7967(75)90046-7
+   JACOBS WJ, 1988, PAVLOVIAN J BIOL SCI, V23, P29
+   JACOBS WJ, 1985, PSYCHOL REV, V92, P512, DOI 10.1037/0033-295X.92.4.512
+   JACOBS WJ, 1990, IN PRESS NEUROBIOLOG, V0, P0
+   LANYON RI, 1968, BEHAV RES THER, V6, P323, DOI 10.1016/0005-7967(68)90065-X
+   MARTASIAN PJ, 1989, EFFECTS MULTIPLE RES, V0, P0
+   POLIN TA, 1959, J PSYCHOL, V47, P235
+   RAMSAY RW, 1966, BEHAV RES THER, V4, P205, DOI 10.1016/0005-7967(66)90067-2
+   RODGER RS, 1975, BRIT J MATH STAT PSY, V28, P71, DOI 10.1111/j.2044-8317.1975.tb00549.x
+   RODGER RS, 1975, BRIT J MATH STAT PSY, V28, P213
+   RODGER RS, 1974, BRIT J MATH STAT PSY, V27, P127
+   SHEARMAN RW, 1970, BEHAV RES THER, V8, P227, DOI 10.1016/0005-7967(70)90067-7
+   SHIFF P, 1972, J COMP PHYSIOL PSYCH, V81, P356
+   SHIPLEY RH, 1974, J COMP PHYSIOL PSYCH, V87, P699, DOI 10.1037/h0036997
+   STERN R, 1973, ARCH GEN PSYCHIAT, V28, P270
+   THYER BA, 1988, ADV BEHAV RES THER, V10, P105, DOI 10.1016/0146-6402(88)90011-2
+NR 23
+TC 12
+Z9 14
+U1 0
+U2 4
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 0005-7967
+EI 
+J9 BEHAV RES THER
+JI Behav. Res. Ther.
+PD JUN 15
+PY 1990
+VL 28
+IS 1
+BP 63
+EP 68
+DI 10.1016/0005-7967(90)90055-N
+PG 6
+WC Psychology, Clinical
+SC Psychology
+GA CJ567
+UT WOS:A1990CJ56700006
+PM 2302150
+DA 2024-04-03
+ER
+
+PT J
+AU ZAPATER, IG
+   ULLAH, AHJ
+   WODZINSKI, RJ
+AF ZAPATER, IG
+   ULLAH, AHJ
+   WODZINSKI, RJ
+TI EXTRACELLULAR ALPHA-GALACTOSIDASE (EC 3.2.1.22) FROM ASPERGILLUS-FICUUM NRRL-3135 PURIFICATION AND CHARACTERIZATION
+SO PREPARATIVE BIOCHEMISTRY
+LA English
+DT Article
+ID polyacrylamide-gel electrophoresis; optimum acid-phosphatase; soybean milk; root-tips; glycosidases; isoenzymes; sequence; phytase; niger
+AB Extracellular alpha-galactosidase, a glycoprotein from the extracellular culture fluid of Aspergillus ficuum grown on glucose and raffinose in a batch culture system, was purified to homogeneity in five steps by ion exchange and hydrophobic interaction chromatography. The molecular mass of the enzyme was 70.8 Kd by SDS polyacrylamide gel electrophoresis and 74.1 Kd by gel permeation HPLC. On the basis of a molecular mass of 70.7 Kd, the molar extinction coefficient of the enzyme at 279 nm was estimated to be 6.1 X10(4) M-1 cm-1. The purified enzyme was remarkably stable at 0-degrees-C. It had a broad temperature optimum and maximum catalytic activity was at 60-degrees-C. It retained 33% of its activity after 10 min. at 65-degrees-C. It had a pH optimum of 6.0. It retained 62% of its activity after 12 hours at pH 2.3. The K(ms) for p-nitrophenyl-alpha-D-galactopyranoside, o-nitrophenyl-alpha-D-galactopyranoside and m-nitrophenyl-alpha-D-galactopyranoside are: 1462, 839 and 718-mu-M. The enzyme was competitively inhibited by mercury (19.8-mu-M), silver (21.5-mu-M), copper (0.48 mM), zinc (0.11 mM), galactose (64.0 mM) and fructose (60.3 mM). It was inhibited non-competitively by glucose (83.2 mM) and uncompetitively by mannose (6.7 mM).
+C1 USDA ARS, SO REG RES LAB, NEW ORLEANS, LA 70124 USA.
+   UNIV CENT FLORIDA, DEPT MOLEC BIOL & MICROBIOL, ORLANDO, FL 32816 USA.
+C3 United States Department of Agriculture (USDA); State University System of Florida; University of Central Florida
+CR ADYA S, 1977, J BACTERIOL, V129, P850, DOI 10.1128/JB.129.2.850-856.1977
+   ANNUNZIATO ME, 1986, J FOOD SCI, V51, P1370, DOI 10.1111/j.1365-2621.1986.tb13127.x
+   BAHL OP, 1969, J BIOL CHEM, V244, P2970
+   BECKER R, 1974, J FOOD SCI, V39, P766, DOI 10.1111/j.1365-2621.1974.tb17975.x
+   BENES K, 1980, BIOL PLANTARUM, V22, P210, DOI 10.1007/BF02892742
+   BRADFORD MM, 1976, ANAL BIOCHEM, V72, P248, DOI 10.1016/0003-2697(76)90527-3
+   BRYAN JK, 1977, ANAL BIOCHEM, V78, P513, DOI 10.1016/0003-2697(77)90111-7
+   CALLOWAY DH, 1971, J FOOD SCI, V36, P251, DOI 10.1111/j.1365-2621.1971.tb04036.x
+   CIVAS A, 1984, BIOCHEM J, V219, P849, DOI 10.1042/bj2190849
+   CRUZ R, 1982, J FOOD SCI, V47, P1973, DOI 10.1111/j.1365-2621.1982.tb12925.x
+   CRUZ R, 1981, J FOOD SCI, V46, P1196, DOI 10.1111/j.1365-2621.1981.tb03022.x
+   DEY PM, 1981, PHYTOCHEMISTRY, V20, P45, DOI 10.1016/0031-9422(81)85216-8
+   DEY PM, 1983, J BIOL CHEM, V258, P923
+   DEY PM, 1969, BIOCHEM J, V115, P47, DOI 10.1042/bj1150047
+   DEY PM, 1972, ADV ENZYMOL RAMB, V36, P91
+   DEY PM, 1984, ADV ENZYMOLOGY, V56, P164
+   Flowers H M, 1979, ADV ENZYMOL RELAT AREAS MOL BIOL, V48, P29
+   HADACOVA V, 1977, BIOL PLANTARUM, V19, P436, DOI 10.1007/BF02922980
+   KAPITANY RA, 1973, ANAL BIOCHEM, V56, P361, DOI 10.1016/0003-2697(73)90202-9
+   KILPATRICK DC, 1976, BIOCHEM J, V158, P409, DOI 10.1042/bj1580409
+   LAEMMLI UK, 1970, NATURE, V227, P680, DOI 10.1038/227680a0
+   MALHOTRA OP, 1967, BIOCHEM J, V103, P739, DOI 10.1042/bj1030739
+   MATHEW CD, 1986, PHYTOCHEMISTRY, V25, P2439, DOI 10.1016/S0031-9422(00)84485-4
+   MATHEW CD, 1987, PHYTOCHEMISTRY, V26, P1299, DOI 10.1016/S0031-9422(00)81798-7
+   McIlvaine TC, 1921, J BIOL CHEM, V49, P183
+   REYNOLDS JH, 1974, BIOTECHNOL BIOENG, V16, P135, DOI 10.1002/bit.260160110
+   SCOPES RK, 1987, PROTEIN PURIFICATION, V0, P176
+   SCRIMSHAW NS, 1979, SOY PROTEIN HUMAN NU, V0, P121
+   SPEAKE BK, 1981, ARCH BIOCHEM BIOPHYS, V210, P110, DOI 10.1016/0003-9861(81)90170-3
+   STEGGERDA FR, 1970, J FOOD SCI, V35, P634
+   SUGIMOTO H, 1970, JOURNAL OF FOOD SCIENCE, V35, P655, DOI 10.1111/j.1365-2621.1970.tb04836.x
+   SUZUKI H, 1969, AGR BIOL CHEM TOKYO, V33, P506, DOI 10.1080/00021369.1969.10859355
+   THANANUNKUL D, 1976, J FOOD SCI, V41, P173, DOI 10.1111/j.1365-2621.1976.tb01128.x
+   Ulezlo I V, 1982, PRIKL BIOKHIM MIKROBIOL, V18, P3
+   ULLAH AHJ, 1988, PREP BIOCHEM, V18, P37, DOI 10.1080/00327488808062512
+   ULLAH AHJ, 1987, PREP BIOCHEM, V17, P397, DOI 10.1080/00327488708062504
+   ULLAH AHJ, 1987, PREP BIOCHEM, V17, P63, DOI 10.1080/00327488708062477
+   ULLAH AHJ, 1988, PREP BIOCHEM, V18, P443, DOI 10.1080/00327488808062543
+NR 38
+TC 29
+Z9 37
+U1 0
+U2 9
+PU MARCEL DEKKER INC
+PI NEW YORK
+PA 270 MADISON AVE, NEW YORK, NY 10016 USA
+SN 0032-7484
+EI 
+J9 PREP BIOCHEM
+JI Prep. Biochem.
+PD JUN 15
+PY 1990
+VL 20
+IS 3-4
+BP 263
+EP 296
+DI 10.1080/00327489008050201
+PG 34
+WC Biochemistry & Molecular Biology
+SC Biochemistry & Molecular Biology
+GA FG185
+UT WOS:A1990FG18500006
+PM 2287609
+DA 2024-04-03
+ER
+
+PT J
+AU STANLEY, SM
+AF STANLEY, SM
+TI DELAYED RECOVERY AND THE SPACING OF MAJOR EXTINCTIONS
+SO PALEOBIOLOGY
+LA English
+DT Article
+ID mass extinctions; fossil record; early oligocene; late eocene; periodicity; paleoceanography; psychrosphere; survivorship; mollusks; neogene
+AB Approximate periodicity for peak rates of global extinction during the past 250 m.y. may have resulted from delayed recovery following major extinction events.  Two components can be envisioned for such delays:  persistence of inimical environmental conditions for some time after the onset of the crisis, and slow restoration of vulnerable taxa.  This general hypothesis is consistent with statistical evidence of linkage between measured rates of extinction of marine invertebrate genera for contiguous stages and substages of the geologic column.  The nine broad valleys between the "periodic" peak rates for the past 250 m.y. exhibit only three trivial secondary peaks, indicating that, if the pattern is not artifactual, trends in global rates of extinction have not readily been abruptly reversed.  Moreover, the smooth observed trends reflect the fact that regional crises tend to remove many species but few genera.  To some degree, high rates of extinction that precede peak rates must represent bias of the incomplete fossil record (the Signor-Lipps effect).  High rates that immediately follow peak rates also may, to a degree, reflect biological legacy:  (1) final extinction of weakened genera or (2) extinction of new genera that contain few species or represent failed evolutionary "experiments."  Nonetheless, there is evidence that protracted intervals of stressful environmental conditions contributed to high rates of extinction preceding or following certain peak intervals, including the Scythian, Cenomanian, Early Paleocene, and Early Oligocene.  The reef-building rudists, for example, suffered heavy extinction during both Cenomanian and Turonian time and then failed to recover quickly. The late Neogene record of bivalve molluscs in the Western Atlantic offers a more detailed picture of delayed recovery.  Here early intervals of glacial expansion caused heavy extinction, leaving an impoverished, eurythermal fauna that was virtually unaffected by late Pleistocene glacial episodes.  The episode of heavy extinction in Late Eocene time exhibits a similar phenomenon on a worldwide scale.  Among the planktonic foraminifera, warm-adapted stenothermal species died out, and eurythermal forms predominated throughout Oligocene time; restoration of vulnerable, stenothermal species proceeded gradually during the Miocene Epoch.  This example of delayed recovery and others like it following earlier global crises may have prevented such crises from following one another in rapid succession, yielding an appearance of periodicity.
+C1 JOHNS HOPKINS UNIV,DEPT EARTH & PLANETARY SCI,BALTIMORE,MD 21218.
+C3 Johns Hopkins University
+CR Addicott WO, 1966, 523C US GEOL SURV PR, V0, P0
+   ANSTEY RL, 1978, PALEOBIOLOGY, V4, P407, DOI 10.1017/S0094837300006151
+   AUBRY MP, 1983, AAPG BULL, V67, P415
+   BENSON RH, 1975, LETHAIA, V8, P69, DOI 10.1111/j.1502-3931.1975.tb00919.x
+   BERGGREN WA, 1985, GEOL SOC AM BULL, V96, P1407, DOI 10.1130/0016-7606(1985)96<1407:CG>2.0.CO;2
+   BERGGREN WA, 1989, GEOLOGICAL SOC AM AB, V21, P0
+   CIFELLI R, 1969, SYST ZOOL, V18, P154, DOI 10.2307/2412601
+   COLLINSON ME, 1981, NATURE, V291, P315, DOI 10.1038/291315a0
+   CRONIN TM, 1990, IN PRESS MARINE MICR, V0, P0
+   David FN, 1956, NONPARAMETRIC STAT B, V0, P0
+   Dockery DTIII, 1986, PALAIOS, V1, P582
+   ERWIN D H, 1989, PALAIOS, V4, P424, DOI 10.2307/3514587
+   Fischer AG, 1977, DEEP WATER CARBONATE, V25, P19
+   Flugel E, 1984, PALAEONTOGRAPHICA AMERICANA, V0, P0
+   Gobbett DJ, 1973, ATLAS PALAEOBIOGEOGR, V0, P152
+   HALLAM A, 1986, NATURE, V319, P765, DOI 10.1038/319765a0
+   HANSEN T A, 1987, PALAIOS, V2, P69, DOI 10.2307/3514573
+   HANSEN TA, 1988, PALEOBIOLOGY, V14, P37, DOI 10.1017/S0094837300011787
+   Harland WB, 1982, GEOLOGIC TIME SCALE, V0, P0
+   HART MB, 1990, IN PRESS MAJOR EVOLU, V0, P0
+   Hazel JE, 1971, BULLETIN CENT RECH PAU, V5, P361
+   Hickman CS, 1980, BULL AM PALEONTOL, V78, P1
+   JABLONSKI D, 1986, SCIENCE, V231, P129, DOI 10.1126/science.231.4734.129
+   JOHNSON CC, 1990, EXTINCTION EVENETS E, V0, P205
+   JONES DS, 1986, J PALEONTOL, V60, P107, DOI 10.1017/S0022336000021557
+   KELLER G, 1986, MAR MICROPALEONTOL, V10, P267, DOI 10.1016/0377-8398(86)90032-0
+   KELLER G, 1989, GEOLOGICAL SOC AM AB, V21, P0
+   Kennett JP, 1983, NEOGENE PLANKTONIC F, V0, P0
+   KENNETT JP, 1976, NATURE, V260, P513, DOI 10.1038/260513a0
+   KENNETT JP, 1977, J GEOPHYS RES-OC ATM, V82, P3843, DOI 10.1029/JC082i027p03843
+   KENNETT JP, 1986, INITIAL REP DEEP SEA, V90, P1493
+   KITCHELL JA, 1984, SCIENCE, V226, P689, DOI 10.1126/science.226.4675.689
+   Kummel B, 1973, P225, V0, P0
+   KUMMEL B, 1972, BULLETIN OF THE MUSEUM OF COMPARATIVE ZOOLOGY, V143, P365
+   Kurten B, 1971, THE AGE OF MAMMALS, V0, P0
+   McKinney ML, 1989, HIST BIOL, V2, P273, DOI 10.1080/08912968909386507
+   Olsson AA, 1961, MOLLUSKS TROPICAL E, V0, P0
+   PETUCH EJ, 1982, PALAEOGEOGR PALAEOCL, V37, P277, DOI 10.1016/0031-0182(82)90041-4
+   PLOTNICK RE, 1989, GEOL SOC AM ABST PRO, V21, P0
+   Pomerol C, 1982, CENOZOIC ERA, V0, P0
+   PROTHERO DR, 1985, SCIENCE, V229, P550, DOI 10.1126/science.229.4713.550
+   PROTHERO DR, 1989, GEOLOGICAL SOC AM AB, V21, P0
+   PROTHERO DR, 1986, PALEOBIOLOGY, V11, P389
+   QUINN JF, 1983, SCIENCE, V219, P1239, DOI 10.1126/science.219.4589.1239
+   RAUP DM, 1983, SCIENCE, V219, P1240, DOI 10.1126/science.219.4589.1240
+   RAUP DM, 1984, P NATL ACAD SCI-BIOL, V81, P801, DOI 10.1073/pnas.81.3.801
+   RAUP DM, 1982, SCIENCE, V215, P1501, DOI 10.1126/science.215.4539.1501
+   Ross CA, 1982, RECENT FOSSIL BRYOZO, V0, P199
+   SAUNDERS JB, 1972, PALEOCENE RECENT PLA, V15, P769
+   Sepkoski JJJr, 1986, P3, V0, P0
+   SEPKOSKI JJ, 1989, J GEOL SOC LONDON, V146, P7, DOI 10.1144/gsjgs.146.1.0007
+   SEPKOSKI JJ, 1984, MILWAUKEE PUBLIC MUS, V51, P0
+   SEPKOSKI JJ, 1986, GLOBAL BIOEVENTS, V0, P47
+   Signor PW, 1982, GEOLOGICAL SOC AM SP, V190, P291, DOI 10.1130/SPE190-p291
+   STANLEY G D JR, 1988, PALAIOS, V3, P170
+   STANLEY S M, 1986, PALAIOS, V1, P17, DOI 10.2307/3514456
+   Stanley SM, 1979, MACROEVOLUTION PATTE, V0, P0
+   STANLEY SM, 1981, NATURE, V293, P457, DOI 10.1038/293457a0
+   STANLEY SM, 1986, EXTINCTION, V0, P0
+   STANLEY SM, 1982, 3RD P N AM PAL CONV, V2, P505
+   STOTT LD, 1989, GEOLOGICAL SOC AM AB, V21, P0
+   Van Valen L, 1973, EVOL THEORY, V1, P1, DOI 10.1038/344864A0
+   Vermeij GJ, 1978, BIOGEOGRAPHY ADAPTAT, V0, P0
+   VERMEIJ GJ, 1980, GEOL SOC AM PROG ABS, V12, P541
+   VOIGT E, 1981, NEWSL STRATIGR, V10, P92
+   WESTERMANN G, 1984, EPISODES, V7, P26, DOI 10.18814/epiiugs/1984/v7i2/006
+   WOLFE JA, 1978, AM SCI, V66, P694
+   WOLFE JA, 1989, GEOLOGICAL SOC AM AB, V21, P0
+   YIN HF, 1985, NEWSL STRATIGR, V15, P13
+NR 69
+TC 60
+Z9 65
+U1 0
+U2 20
+PU PALEONTOLOGICAL SOC INC
+PI ITHACA
+PA 1259 TRUMANSBURG ROAD, ITHACA, NY 14850
+SN 0094-8373
+EI 
+J9 PALEOBIOLOGY
+JI Paleobiology
+PD FAL 15
+PY 1990
+VL 16
+IS 4
+BP 401
+EP 414
+DI 10.1017/S0094837300010150
+PG 14
+WC Biodiversity Conservation; Ecology; Evolutionary Biology; Paleontology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Evolutionary Biology; Paleontology
+GA EU531
+UT WOS:A1990EU53100001
+DA 2024-04-03
+ER
+
+PT J
+AU STOTHERS, RB
+   RAMPINO, MR
+AF STOTHERS, RB
+   RAMPINO, MR
+TI PERIODICITY IN FLOOD BASALTS, MASS EXTINCTIONS, AND IMPACTS - A STATISTICAL VIEW AND A MODEL
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 4
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 9
+EP 18
+DI 
+PG 10
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00002
+DA 2024-04-03
+ER
+
+PT J
+AU BROCK, CA
+   RADKE, LF
+   HOBBS, PV
+AF BROCK, CA
+   RADKE, LF
+   HOBBS, PV
+TI SULFUR IN PARTICLES IN ARCTIC HAZES DERIVED FROM AIRBORNE INSITU AND LIDAR MEASUREMENTS
+SO JOURNAL OF GEOPHYSICAL RESEARCH-ATMOSPHERES
+LA English
+DT Article
+ID stratospheric aerosol; air-pollution; response characteristics; aircraft measurements; atmospheric aerosols; light-scattering; mass content; spring 1983; extinction; backscattering
+AB Quantitative information is needed on arctic hazes in order to determine their effects on the radiation budget, clouds, the albedo and chemical properties of the arctic snowpack, and on ecosystems in the Arctic. Using airborne observations from lidar, and in situ measurements of particle light-scattering coefficients, aerosol size distributions and meteorological parameters, we have related backscattering measured by the lidar to the mass concentrations of particles in two mesoscale haze layers encountered in the North American Arctic. Assuming that the haze particles were composed of H2SO4 in thermodynamic equilibrium with the ambient air, good agreement is obtained between sulfur concentrations measured on filters and those derived from the particle size distributions and lidar measurements. Time-height cross sections are shown of the airborne concentrations of sulfur in particles derived from lidar backscatter measurements in a haze layer. The average concentrations of sulfur in accumulation mode particles in the two haze layers were 0.3 and 0.4-mu-g m-3, and the maximum concentration was approximately 3-mu-g m-3, with substantial horizontal and vertical variability. We estimate lower limits for the total sulfur in particles in the two haze layers to be approximately 3X10(4) and approximately 1X10(5) kg, respectively.
+RP BROCK, CA (corresponding author), UNIV WASHINGTON, DEPT ATMOSPHER SCI, AK-40, SEATTLE, WA 98195 USA.
+CR BAILEY IH, 1984, GEOPHYS RES LETT, V11, P397, DOI 10.1029/GL011i005p00397
+   BARRIE LA, 1986, ATMOS ENVIRON, V20, P643, DOI 10.1016/0004-6981(86)90180-0
+   BARRIE LA, 1989, ATMOS ENVIRON, V23, P2505, DOI 10.1016/0004-6981(89)90262-X
+   BARRIE LA, 1985, ATMOS ENVIRON, V19, P1995, DOI 10.1016/0004-6981(85)90108-8
+   BIGG EK, 1980, J APPL METEOROL, V19, P521, DOI 10.1175/1520-0450(1980)019<0521:COAAFB>2.0.CO;2
+   BLANCHET JP, 1989, ATMOS ENVIRON, V23, P2609, DOI 10.1016/0004-6981(89)90269-2
+   BODHAINE BA, 1981, ATMOS ENVIRON, V15, P1375, DOI 10.1016/0004-6981(81)90344-9
+   BROCK CA, 1989, J ATMOS CHEM, V9, P129, DOI 10.1007/BF00052828
+   CARLSON TN, 1981, ATMOS ENVIRON, V15, P1473, DOI 10.1016/0004-6981(81)90354-1
+   CHARLSON RJ, 1969, ENVIRON SCI TECHNOL, V3, P913, DOI 10.1021/es60033a002
+   CLARKE AD, 1984, GEOPHYS RES LETT, V11, P405, DOI 10.1029/GL011i005p00405
+   CLARKE AD, 1985, ATMOS ENVIRON, V19, P2045, DOI 10.1016/0004-6981(85)90113-1
+   Collins RTH, 1976, TOPICS IN APPLIED PHYSICS, V14, P71
+   CURRY A, 1990, IN PRESS J CLIMATOL, V0, P0
+   DENNIS R, 1957, IND ENG CHEM, V49, P294, DOI 10.1021/ie50566a049
+   EZCURRA A, 1985, ATMOS ENVIRON, V19, P1125, DOI 10.1016/0004-6981(85)90197-0
+   FLYGER H, 1980, J AEROSOL SCI, V11, P95, DOI 10.1016/0021-8502(80)90149-4
+   GARVEY DM, 1983, AEROSOL SCI TECH, V2, P477, DOI 10.1080/02786828308958651
+   GOBBI GP, 1989, J GEOPHYS RES-ATMOS, V94, P9909, DOI 10.1029/JD094iD07p09909
+   HOFF RM, 1988, J APPL METEOROL, V27, P125, DOI 10.1175/1520-0450(1988)027<0125:VSOAHO>2.0.CO;2
+   HOFMANN DJ, 1983, J GEOPHYS RES-OCEANS, V88, P3777, DOI 10.1029/JC088iC06p03777
+   HUSAR RB, 1978, ATMOS ENVIRON, V12, P549, DOI 10.1016/0004-6981(78)90236-6
+   ISHIZAKA Y, 1989, J ATMOS CHEM, V9, P149, DOI 10.1007/BF00052829
+   IVERSEN T, 1989, ATMOS ENVIRON, V23, P2571, DOI 10.1016/0004-6981(89)90267-9
+   JAGER H, 1988, AEROSOLS CLIMATE, V0, P215
+   JORANGER E, 1984, GEOPHYS RES LETT, V11, P365, DOI 10.1029/GL011i005p00365
+   KENT GS, 1983, APPL OPTICS, V22, P1655, DOI 10.1364/AO.22.001655
+   KENT GS, 1978, APPL OPTICS, V17, P3763, DOI 10.1364/AO.17.003763
+   KUNZ GJ, 1983, APPL OPTICS, V22, P1955, DOI 10.1364/AO.22.001955
+   LAZRUS AL, 1984, GEOPHYS RES LETT, V11, P417, DOI 10.1029/GL011i005p00417
+   LEAITCH WR, 1984, J CLIM APPL METEOROL, V23, P916, DOI 10.1175/1520-0450(1984)023<0916:SPACPO>2.0.CO;2
+   LEAITCH WR, 1989, J ATMOS CHEM, V9, P187, DOI 10.1007/BF00052832
+   MCMURRY PH, 1989, ATMOS ENVIRON, V23, P97
+   MORLEY BM, 1990, J APPL METEOROL, V29, P268, DOI 10.1175/1520-0450(1990)029<0268:ALODA>2.0.CO;2
+   OTTAR B, 1986, ATMOS ENVIRON, V20, P87, DOI 10.1016/0004-6981(86)90209-X
+   OTTAR B, 1981, ATMOS ENVIRON, V15, P1439, DOI 10.1016/0004-6981(81)90350-4
+   PALMER KF, 1975, APPL OPTICS, V14, P208, DOI 10.1364/AO.14.000208
+   Patton GW, 1989, TELLUS B, V41, P243, DOI 10.1111/j.1600-0889.1989.tb00304.x
+   PINNICK RG, 1979, J AEROSOL SCI, V10, P55, DOI 10.1016/0021-8502(79)90136-8
+   PINNICK RG, 1980, J GEOPHYS RES-OCEANS, V85, P4059, DOI 10.1029/JC085iC07p04059
+   POST MJ, 1986, J GEOPHYS RES-ATMOS, V91, P5222, DOI 10.1029/JD091iD04p05222
+   PUI DYH, 1987, AEROSOL SCI TECH, V7, P301, DOI 10.1080/02786828708959166
+   RAATZ WE, 1984, J CLIM APPL METEOROL, V23, P1052, DOI 10.1175/1520-0450(1984)023<1052:LRTTOP>2.0.CO;2
+   RADKE LF, 1989, J ATMOS CHEM, V9, P161, DOI 10.1007/BF00052830
+   RADKE LF, 1989, ATMOS ENVIRON, V23, P2417, DOI 10.1016/0004-6981(89)90253-9
+   RADKE LF, 1984, GEOPHYS RES LETT, V11, P401, DOI 10.1029/GL011i005p00401
+   RADKE LF, 1984, GEOPHYS RES LETT, V11, P393, DOI 10.1029/GL011i005p00393
+   RAHN KA, 1981, ATMOS ENVIRON, V15, P1447, DOI 10.1016/0004-6981(81)90351-6
+   REAGAN JA, 1977, J APPL METEOROL, V16, P911, DOI 10.1175/1520-0450(1977)016<0911:APPIFL>2.0.CO;2
+   ROSEN H, 1985, ATMOS ENVIRON, V19, P2203, DOI 10.1016/0004-6981(85)90129-5
+   RUSSELL PB, 1976, Q J ROY METEOR SOC, V102, P675, DOI 10.1002/qj.49710243313
+   RUSSELL PB, 1981, J ATMOS SCI, V38, P1295, DOI 10.1175/1520-0469(1981)038<1295:SACMOT>2.0.CO;2
+   SALEMINK H, 1985, APPL OPTICS, V24, P447, DOI 10.1364/AO.24.000447
+   SALEMINK HWM, 1984, APPL PHYS B-PHOTO, V34, P187, DOI 10.1007/BF00697633
+   SCHNELL RC, 1984, GEOPHYS RES LETT, V11, P361, DOI 10.1029/GL011i005p00361
+   SEM GJ, 1979, ADV PARTICLE SAMPLIN, V0, P276
+   SHAW GE, 1985, ATMOS ENVIRON, V19, P2025, DOI 10.1016/0004-6981(85)90110-6
+   SHERIDAN PJ, 1989, ATMOS ENVIRON, V23, P2371, DOI 10.1016/0004-6981(89)90250-3
+   SHERIDAN PJ, 1989, J ATMOS CHEM, V9, P267, DOI 10.1007/BF00052837
+   SHERIDAN PJ, 1985, ATMOS ENVIRON, V19, P2159, DOI 10.1016/0004-6981(85)90124-6
+   SWISSLER TJ, 1982, J ATMOS SCI, V39, P909, DOI 10.1175/1520-0469(1982)039<0909:ACOLAB>2.0.CO;2
+   Tang IN, 1976, JOURNAL OF AEROSOL SCIENCE, V7, P361, DOI 10.1016/0021-8502(76)90022-7
+   Tang IN, 1980, GENER.AEROSOLS FACIL.EXPOSURE EXP., V0, P153
+   TRIVETT NBA, 1988, ATMOS OCEAN, V26, P341, DOI 10.1080/07055900.1988.9649308
+   VANDEVEN MJM, 1980, J AEROSOL SCI, V11, P281, DOI 10.1016/0021-8502(80)90102-0
+   VAUGHAN JM, 1988, NATURE, V332, P709, DOI 10.1038/332709a0
+   WAGGONER AP, 1981, ATMOS ENVIRON, V15, P1891, DOI 10.1016/0004-6981(81)90224-9
+   WAGGONER AP, 1971, THESIS U WASH SEATTL, V0, P0
+   WEAST RC, 1983, CRC HDB CHEM PHYSICS, V0, PB78
+   WENDLING P, 1985, ATMOS ENVIRON, V19, P2181, DOI 10.1016/0004-6981(85)90127-1
+   Whitby KT, 1979, AEROSOL MEASUREMENT, V0, P145
+   WILLEKE K, 1975, JAPCA J AIR WASTE MA, V25, P529, DOI 10.1080/00022470.1975.10470110
+NR 73
+TC 26
+Z9 27
+U1 0
+U2 10
+PU AMER GEOPHYSICAL UNION
+PI WASHINGTON
+PA 2000 FLORIDA AVE NW, WASHINGTON, DC 20009 USA
+SN 2169-897X
+EI 
+J9 J GEOPHYS RES-ATMOS
+JI J. Geophys. Res.-Atmos.
+PD DEC 20
+PY 1990
+VL 95
+IS D13
+BP 22369
+EP 22387
+DI 10.1029/JD095iD13p22369
+PG 19
+WC Meteorology & Atmospheric Sciences
+SC Meteorology & Atmospheric Sciences
+GA EQ840
+UT WOS:A1990EQ84000004
+DA 2024-04-03
+ER
+
+PT J
+AU VICKERY, AM
+   MELOSH, HJ
+AF VICKERY, AM
+   MELOSH, HJ
+TI ATMOSPHERIC EROSION AND IMPACTOR RETENTION IN LARGE IMPACTS, WITH APPLICATION TO MASS EXTINCTIONS
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 21
+Z9 22
+U1 0
+U2 0
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 289
+EP 300
+DI 
+PG 12
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00029
+DA 2024-04-03
+ER
+
+PT J
+AU HALLAM, A
+AF HALLAM, A
+TI THE END-TRIASSIC MASS EXTINCTION EVENT
+SO GLOBAL CATASTROPHES IN EARTH HISTORY : AN INTERDISCIPLINARY CONFERENCE ON IMPACTS, VOLCANISM, AND MASS MORTALITY
+LA English
+DT Proceedings Paper
+NR 0
+TC 43
+Z9 45
+U1 0
+U2 13
+PU GEOLOGICAL SOC AMERICA INC
+PI BOULDER
+PA BOULDER
+SN 
+EI 
+J9 GEOL S AM S
+PD JUN 15
+PY 1990
+VL 247
+IS 
+BP 577
+EP 583
+DI 
+PG 7
+WC Astronomy & Astrophysics; Geology; Geosciences, Multidisciplinary; Paleontology
+SC Astronomy & Astrophysics; Geology; Paleontology
+GA BU92D
+UT WOS:A1990BU92D00055
+DA 2024-04-03
+ER
+
+PT J
+AU FARMER, WM
+AF FARMER, WM
+TI DIFFERENCES IN CONCENTRATION LENGTHS COMPUTED USING BAND-AVERAGED MASS EXTINCTION COEFFICIENTS AND BAND-AVERAGED TRANSMITTANCE
+SO PROPAGATION ENGINEERING : THIRD IN A SERIES
+LA English
+DT Proceedings Paper
+NR 0
+TC 0
+Z9 0
+U1 0
+U2 1
+PU SPIE - INT SOC OPTICAL ENGINEERING
+PI BELLINGHAM
+PA BELLINGHAM
+SN 
+EI 
+J9 P SOC PHOTO-OPT INS
+PD JUN 15
+PY 1990
+VL 1312
+IS 
+BP 249
+EP 260
+DI 10.1117/12.21884
+PG 12
+WC Engineering, Multidisciplinary; Environmental Sciences; Optics
+SC Engineering; Environmental Sciences & Ecology; Optics
+GA BS31F
+UT WOS:A1990BS31F00023
+DA 2024-04-03
+ER
+
+PT J
+AU MEYERS, PA
+   SIMONEIT, BRT
+AF MEYERS, PA
+   SIMONEIT, BRT
+TI GLOBAL COMPARISONS OF ORGANIC-MATTER IN SEDIMENTS ACROSS THE CRETACEOUS TERTIARY BOUNDARY
+SO ORGANIC GEOCHEMISTRY
+LA English
+DT Article
+DE K/T BOUNDARY; BIOMARKERS; ROCK-EVAL; ANTEISO-ALKANES; N-ALKANOIC ACIDS; CARBON ISOTOPES
+ID drilling project leg-86; stable isotope; el-kef; geochemical evidence; lipid geochemistry; extinction events; mass extinctions; stevns-klint; tunisia; foraminifera
+AB The Cretaceous/Tertiary (K/T) boundary is marked by extensive changes in the sedimentary fossil record of continental and marine life. Organic matter in sediments from above and below the K/T boundary has been studied to identify consequences of the biotic extinctions and of the changes in biological productivity which occurred at this time. Data from locations encompassing a variety of marine paleoenvironments were examined to assess the global extent and local expressions of these biological changes. Characterizations of organic matter included Rock-Eval pyrolysis, stable carbon isotope ratios, and distributions of extractable biomarkers. In general, organic carbon concentrations are a few tenths of a percent in the chalks and marls above and below the K/T boundary; in some boundary clay samples concentrations up to 5% are found. The elevated amounts near the boundary result from oxidation of marine organic matter, consequent dissolution of carbonates, and concentration of the surviving organic matter. At all locations, the organic matter has been microbially reworked and evidently was deposited in oxidizing environments. Carbon isotope shifts in open marine sediments suggest biological productivity was depressed following the K/T boundary. Repetition of these changes at different locations verifies the global extent of the boundary event, yet local variations in its expression are evident.
+C1 OREGON STATE UNIV, COLL OCEANOG, CORVALLIS, OR 97331 USA.
+C3 Oregon State University
+RP UNIV MICHIGAN, DEPT GEOL SCI, ANN ARBOR, MI 48109 USA.
+CR ALVAREZ W, 1984, SCIENCE, V223, P1135, DOI 10.1126/science.223.4641.1135
+   BENNER R, 1987, NATURE, V329, P708, DOI 10.1038/329708a0
+   BOURGEOIS J, 1988, SCIENCE, V241, P567, DOI 10.1126/science.241.4865.567
+   CRONIN JR, 1989, NATURE, V339, P423, DOI 10.1038/339423a0
+   CROWLEY TJ, 1988, SCIENCE, V240, P996, DOI 10.1126/science.240.4855.996
+   DIESTERHAASS L, 1986, MAR GEOL, V73, P1, DOI 10.1016/0025-3227(86)90108-8
+   DUNN DA, 1980, J SEDIMENT PETROL, V50, P631, DOI 10.2110/jsr.50.631
+   EMEIS KC, 1986, 7 OC DRILL PROGR OC, V0, P0
+   JASPER JP, 1989, NATURE, V342, P60, DOI 10.1038/342060a0
+   JIANG MJ, 1986, MICROPALEONTOLOGY, V32, P232, DOI 10.2307/1485619
+   Katz BJ, 1983, ORG GEOCHEM, V4, P195, DOI 10.1016/0146-6380(83)90041-4
+   KELLER G, 1989, PALAEOGEOGR PALAEOCL, V73, P243, DOI 10.1016/0031-0182(89)90007-2
+   KELLER G, 1988, MAR MICROPALEONTOL, V13, P239, DOI 10.1016/0377-8398(88)90005-9
+   KELLER G, 1988, PALAEOGEOGR PALAEOCL, V66, P153, DOI 10.1016/0031-0182(88)90198-8
+   MAGARITZ M, 1985, NEWSL STRATIGR, V15, P100
+   MAGARITZ M, 1989, GEOLOGY, V17, P337, DOI 10.1130/0091-7613(1989)017<0337:CMFEEA>2.3.CO;2
+   MICHEL HV, 1985, INITIAL REP DEEP SEA, V86, P533
+   MONECHI S, 1985, INITIAL REP DEEP SEA, V86, P301, DOI 10.2973/dsdp.proc.86.110.1985
+   Muller G, 1971, NEUES JB MINERAL, V10, P446
+   OFFICER CB, 1987, NATURE, V326, P143, DOI 10.1038/326143a0
+   OURISSON G, 1979, PURE APPL CHEM, V51, P709, DOI 10.1351/pac197951040709
+   Risatti JB, 1984, ORG GEOCHEM, V6, P93, DOI 10.1016/0146-6380(84)90030-5
+   ROHMER M, 1980, NATURWISSENSCHAFTEN, V67, P456, DOI 10.1007/BF00405643
+   SAITO T, 1986, NATURE, V323, P253, DOI 10.1038/323253a0
+   SCHIMMELMANN A, 1984, EARTH PLANET SC LETT, V68, P392, DOI 10.1016/0012-821X(84)90124-9
+   SCHMITZ B, 1988, GEOLOGY, V16, P1068, DOI 10.1130/0091-7613(1988)016<1068:OOMIWD>2.3.CO;2
+   SCHMITZ B, 1988, GEOCHIM COSMOCHIM AC, V52, P229, DOI 10.1016/0016-7037(88)90072-5
+   SHACKLETON NJ, 1984, INITIAL REP DEEP SEA, V74, P613
+   SIMONEIT BRT, 1987, INITIAL REP DEEP SEA, V93, P1211
+   SIMONEIT BRT, 1986, MAR GEOL, V70, P9, DOI 10.1016/0025-3227(86)90087-3
+   SIMONEIT BRT, 1985, INITIAL REP DEEP SEA, V86, P671
+   SLOAN RE, 1986, SCIENCE, V232, P629, DOI 10.1126/science.232.4750.629
+   TSCHUDY RH, 1984, SCIENCE, V225, P1030, DOI 10.1126/science.225.4666.1030
+   VANHINTE JE, 1987, INITIAL REP DEEP SEA, V93, P277
+   VENKATESAN MI, 1989, NATURE, V338, P57, DOI 10.1038/338057a0
+   WOLBACH WS, 1985, SCIENCE, V230, P167, DOI 10.1126/science.230.4722.167
+   WRIGHT AA, 1985, INITIAL REP DEEP SEA, V86, P799
+   Zachos JC, 1986, PALEOCEANOGRAPHY, V1, P5, DOI 10.1029/PA001i001p00005
+   ZACHOS JC, 1989, NATURE, V337, P61, DOI 10.1038/337061a0
+   ZACHOS JC, 1985, INITIAL REP DEEP SEA, V86, P513
+   ZHOU M, 1989, NATURE, V339, P463
+NR 41
+TC 18
+Z9 21
+U1 0
+U2 11
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0146-6380
+EI 1873-5290
+J9 ORG GEOCHEM
+JI Org. Geochem.
+PD JUN 15
+PY 1990
+VL 16
+IS 4-6
+BP 641
+EP 648
+DI 10.1016/0146-6380(90)90106-A
+PG 8
+WC Geochemistry & Geophysics
+SC Geochemistry & Geophysics
+GA EU555
+UT WOS:A1990EU55500001
+DA 2024-04-03
+ER
+
+PT J
+AU WILSON, RA
+AF WILSON, RA
+TI REEXAMINATION OF ROTHERMEL FIRE SPREAD EQUATIONS IN NO-WIND AND NO-SLOPE CONDITIONS
+SO USDA FOREST SERVICE INTERMOUNTAIN RESEARCH STATION RESEARCH PAPER
+LA English
+DT Article
+DE FIRE BEHAVIOR; FIRE MODELING; INTENSITY; FUELS; MOISTURE
+AB This paper reformulates the empirical fire spread equations of Rothermel, based on a tenfold increase in the data base of laboratory test fires.  The experiment was performed at zero windspeed, with zero slope and uniform fuel particle size.  Major revisions include the propagating flux ratio, the reaction velocity, and the moisture damping coefficient.  These parameters remain functions of the observable fuel bed variables.  Also, we redefine or reinterpret many of the fuels' descriptive parameters such as the net loading, the heat of combustion, fuel bed bulk density, flame residence time, and heat of ignition.  As before, spread rate is based on an energy balance ratio of power source and heat sink terms. We use Frandsen's (1973) formulation for effective bulk density to account for that fraction of the fuel bed that must be raised to ignition temperature.  The enthalpic load of ignition also includes the energy required for complete pyrolyzation of the fuel as reported earlier. We also use Susott's (1984) method of determining the "flaming" heat of combustion, thus separating the gaseous and carbonaceous mass fractions of pyrolysis.  This provides that the heat of combustion will account for many of the physiochemical effects of minerals, and so on, on the production rate of the gaseous fuel.  Thus the reaction intensity is of the flames alone and specifically excludes energy derived from burning char whether in the flaming zone or not.  It is still measured as an energy density within the combustion zone. In this new formulation, moisture damping is completely divorced from fire extinction.  Fire extinction is properly handled by a probability function acting on the reaction velocity.  Moisture damping is a simple, negative exponential function of the fuel moisture, wherein each fuel sample has a characteristic moisture content.  In the experiment, the characteristic fuel moisture was dependent only on the size of the fuel particles; however, it is further shown that it will vary greatly with the physiology of different fuels (bark covered, live or fresh-fallen foliage, decayed wood, and so on). The formula for reaction velocity begins with Anderson's 8d (1985) rule-of-thumb, which provides that the burning residence time in minutes is equal to eight times the fuel particle thickness in inches.  The burning rate is limited by the free path for radiation or heat flux to propagate through the fuel bed, and further restricted by limiting the effect of excessive fuel loading or bed depth.  A probability function shuts the fire down at very light fuel loads or high fuel moisture content as previously reported.  The concept of optimum packing ratio is abandoned. Following Rothermel, the propagating flux is some fraction of the reaction intensity, empirically formulated as the propagating flux ratio.  It is an elementary function of the free optical path through the fuel bed. Procedure is outlined whereby the manager in the field may estimate the probabilities that his real fire behavior will depart from the prediction.
+RP WILSON, RA (corresponding author), US FOREST SERV,INTERMOUNTAIN RES STN,RHINELANDER,WI 54501, USA.
+NR 0
+TC 2
+Z9 2
+U1 0
+U2 3
+PU USDA FOR SERV INT EXP STA
+PI OGDEN
+PA 324 25TH ST, OGDEN, UT 84401
+SN 0146-3551
+EI 
+J9 USDA FOR SERV INT R
+JI USDA For. Serv. Intermt. Res. Stn. Res. Pap.
+PD NOV 15
+PY 1990
+VL 0
+IS 434
+BP 1
+EP 13
+DI 
+PG 13
+WC Forestry
+SC Forestry
+GA FA438
+UT WOS:A1990FA43800001
+DA 2024-04-03
+ER
+
+PT J
+AU ERWIN, DH
+AF ERWIN, DH
+TI CARBONIFEROUS-TRIASSIC GASTROPOD DIVERSITY PATTERNS AND THE PERMO-TRIASSIC MASS EXTINCTION
+SO PALEOBIOLOGY
+LA English
+DT Article
+C1 MICHIGAN STATE UNIV, DEPT GEOL SCI, E LANSING, MI 48824 USA.
+C3 Michigan State University
+CR BATTEN RL, 1985, AM MUSEUM NOVITATE 3, V2829, P0
+   BATTEN RL, 1973, CANADIAN SOC PETROLE, V2, P596
+   BOTTJER D J, 1988, PALAIOS, V3, P540, DOI 10.2307/3514444
+   BOYAJIAN GF, 1986, GEOLOGY, V14, P955, DOI 10.1130/0091-7613(1986)14<955:PTIBEC>2.0.CO;2
+   Branson CC, 1948, MEMOIR, V26, P0
+   ERWIN D H, 1989, PALAIOS, V4, P424, DOI 10.2307/3514587
+   ERWIN DH, 1989, TRENDS ECOL EVOL, V4, P225, DOI 10.1016/0169-5347(89)90165-1
+   Gauch H, 1982, MULTIVARIATE ANAL CO, V0, P0
+   GILINSKY NL, 1987, PALEOBIOLOGY, V13, P427
+   HAAS O, 1953, B AM MUS NAT HIST, V101, P3
+   HASZPRUNAR G, 1988, J MOLLUS STUD, V54, P367, DOI 10.1093/mollus/54.4.367
+   Hill MO, 1979, TWINSPAN, V0, P0
+   HOARE RD, 1980, J PALEONTOL, V54, P159
+   HOARE RD, 1978, J PALEONTOL, V52, P850
+   JABLONSKI D, 1986, SCIENCE, V231, P129, DOI 10.1126/science.231.4734.129
+   KASE T, 1989, LETHAIA, V22, P149, DOI 10.1111/j.1502-3931.1989.tb01677.x
+   Kitchell JA, 1985, P277, V0, P0
+   Knight JB, 1960, TREATISE ON INVERTEBRATE PALEONTOLOGY, V0, P0
+   LINDBERG DR, 1988, MALACOLOGICAL REV S, V4, P35
+   LINSLEY RM, 1978, MALACOLOGIA, V17, P193
+   MCLEAN JH, 1981, MALACOLOGIA, V21, P291
+   PALMER AR, 1983, GEOLOGY, V11, P503, DOI 10.1130/0091-7613(1983)11<503:TDONAG>2.0.CO;2
+   PEEL JS, 1984, SPEC PAP PALAEONTOL, V32, P1
+   Ponder WF, 1988, MALACOLOGICAL REV S, V4, P288
+   RAUP DM, 1979, SCIENCE, V206, P217, DOI 10.1126/science.206.4415.217
+   SEPKOSKI JJ, 1989, J GEOL SOC LONDON, V146, P7, DOI 10.1144/gsjgs.146.1.0007
+   SEPKOSKI JJ, 1984, PALEOBIOLOGY, V10, P246, DOI 10.1017/S0094837300008186
+   SEPKOSKI JJ, 1982, MILWAUKEE PUBLIC MUS, V51, P0
+   SIGNOR PW, 1984, PALEOBIOLOGY, V10, P229, DOI 10.1017/S0094837300008174
+   SIGNOR PW, 1986, GEOL SSOC AM ABSTR P, V18, P750
+   SMITH AB, 1988, EVOL BIOL, V23, P127
+   SMITH AB, 1988, PALAEONTOLOGY, V31, P799
+   STANLEY GD, 1977, J PALEONTOL, V51, P161
+   VALENTINE JW, 1986, B MAR SCI, V39, P607
+   VERMEIJ G J, 1977, PALEOBIOLOGY, V3, P245
+   VERMEIJ GJ, 1981, SCIENCE, V214, P1024, DOI 10.1126/science.214.4524.1024
+   Vermeij GJ, 1987, EVOLUTION ESCALATION, V0, P0
+   Wenz W, 1938, HANDBUCH DER PALAEOZOOLOGIE, V6, P1
+   YIN HF, 1983, J PALEONTOL, V57, P515
+   YIN HF, 1983, J PALEONTOL, V57, P162
+   YIN HF, 1983, J PALEONTOL, V57, P1098
+   YOCHELSON EL, 1984, J PALEONTOL, V58, P259
+   YOCHELSON EL, 1967, US GEOLOGICAL SURVEY, V1210, P0
+NR 44
+TC 33
+Z9 37
+U1 0
+U2 6
+PU CAMBRIDGE UNIV PRESS
+PI NEW YORK
+PA 32 AVENUE OF THE AMERICAS, NEW YORK, NY 10013-2473 USA
+SN 0094-8373
+EI 1938-5331
+J9 PALEOBIOLOGY
+JI Paleobiology
+PD SPR 15
+PY 1990
+VL 16
+IS 2
+BP 187
+EP 203
+DI 10.1017/S0094837300009878
+PG 17
+WC Biodiversity Conservation; Ecology; Evolutionary Biology; Paleontology
+SC Biodiversity & Conservation; Environmental Sciences & Ecology; Evolutionary Biology; Paleontology
+GA EL090
+UT WOS:A1990EL09000005
+DA 2024-04-03
+ER
+
+PT J
+AU COURTILLOT, V
+AF COURTILLOT, V
+TI DECCAN VOLCANISM AT THE CRETACEOUS TERTIARY BOUNDARY - PAST CLIMATIC CRISES AS A KEY TO THE FUTURE
+SO GLOBAL AND PLANETARY CHANGE
+LA English
+DT Article
+ID magnetic-field reversals; flood-basalt volcanism; polar wander path; geomagnetic-field; mass extinctions; age estimation; mantle; traps; eruptions; gubbio
+AB The proposal that the Deccan flood basalts erupted over at most 500,000 years, rather precisely at the Cretaceous-Tertiary boundary (KTB), is briefly reviewed.  Geochemical anomalies with a complex signature are found in many sedimentary sections and could reflect multiple volcanic events, with the major one occurring in possibly some 10,000 years at KTB time, for which an absolute age can be proposed from Deccan Ar ages (65.7 +/- 2.0 Ma; N = 24 ages).  The fact that short-term (< 10(6) yr) KTB anomalies in the sedimentary record often ride on longer term (> 10(6) yr) anomalies is interpreted as being due to two different modes of convection in the mantle ("instability" vs "normal"), with a common primary cause.  It is suggested that this cause lies in major approximately 170 Ma fluctuations in thickness of the D" layer, possibly with second order fluctuations with 30 Ma periodicity.
+RP COURTILLOT, V (corresponding author), INST PHYS GLOBE,PALEOMAGNETISME & GEODYNAM LAB,4 PL JUSSIEU,F-75252 PARIS 05,FRANCE.
+CR ALVAREZ LW, 1980, SCIENCE, V208, P1095, DOI 10.1126/science.208.4448.1095
+   Asaro F, 1988, EOS: TRANSACTIONS OF THE AMERICAN GEOPHYSICAL UNION, V69, P301
+   BESSE J, 1989, GEOLOGY, V17, P88, DOI 10.1130/0091-7613(1989)017<0088:CAROAE>2.3.CO;2
+   BESSE J, 1988, J GEOPHYS RES-SOLID, V93, P11791, DOI 10.1029/JB093iB10p11791
+   BESSE J, 1986, THESIS U PARIS 7 PAR, V0, P0
+   CARTER NL, 1990, TECTONOPHYSICS, V171, P373, DOI 10.1016/0040-1951(90)90111-K
+   COURTILLOT V, 1988, NATURE, V333, P843, DOI 10.1038/333843a0
+   COURTILLOT V, 1987, SCIENCE, V237, P1140, DOI 10.1126/science.237.4819.1140
+   COURTILLOT V, 1986, EARTH PLANET SC LETT, V80, P361, DOI 10.1016/0012-821X(86)90118-4
+   COURTILLOT V, 1990, SCI AM OCT, V263, P53
+   COURTILLOT V, 1988, C GLOBAL CATASTROPHE, V0, P31
+   Courtillot VE, 1987, EOS TRANSACTIONS OF THE AMERICAN GEOPHYSICAL UNION, V68, P0, DOI 10.1029/EO068i014p00193
+   CROCKET JH, 1988, GEOLOGY, V16, P77, DOI 10.1130/0091-7613(1988)016<0077:DONMAT>2.3.CO;2
+   DEVINE JD, 1984, J GEOPHYS RES, V89, P6309, DOI 10.1029/JB089iB07p06309
+   DUNCAN RA, 1988, NATURE, V333, P841, DOI 10.1038/333841a0
+   GOVINDAN A, 1981, 9 P IND C MICR STRAT, V0, P81
+   HUT P, 1987, NATURE, V329, P118, DOI 10.1038/329118a0
+   JAEGER JJ, 1989, GEOLOGY, V17, P316, DOI 10.1130/0091-7613(1989)017<0316:PVOTAO>2.3.CO;2
+   JAVOY M, 1989, EARTH PLANET SC LETT, V94, P409, DOI 10.1016/0012-821X(89)90157-X
+   JONES GM, 1977, J GEOPHYS RES, V82, P1703, DOI 10.1029/JB082i011p01703
+   Klootwijk CT, 1979, GEODYNAMICS OF PAKISTAN, V0, P41
+   LIVERMORE RA, 1984, GEOPHYS J ROY ASTR S, V79, P939, DOI 10.1111/j.1365-246X.1984.tb02878.x
+   Loper DE, 1988, EOS T AM GEOPHYS UN, V69, P961
+   LOPER DE, 1988, J GEOL, V96, P1, DOI 10.1086/629189
+   LOPER DE, 1986, GEOPHYS RES LETT, V13, P1525, DOI 10.1029/GL013i013p01525
+   LOWRIE W, 1977, GEOL SOC AM BULL, V88, P374, DOI 10.1130/0016-7606(1977)88<374:UCMSAG>2.0.CO;2
+   LUCK JM, 1983, SCIENCE, V222, P613, DOI 10.1126/science.222.4624.613
+   Margolis SV, 1987, PALEOCEANOGRAPHY, V2, P361, DOI 10.1029/PA002i004p00361
+   MCFADDEN PL, 1986, PHYS EARTH PLANET IN, V43, P22, DOI 10.1016/0031-9201(86)90118-4
+   MCFADDEN PL, 1984, J GEOPHYS RES, V89, P3354, DOI 10.1029/JB089iB05p03354
+   MORGAN WJ, 1983, TECTONOPHYSICS, V94, P123, DOI 10.1016/0040-1951(83)90013-6
+   MORGAN WJ, 1981, SEA, V7, P43
+   MORGAN WJ, 1988, C GLOBAL CATASTROPHE, V0, P126
+   OFFICER C, 1987, NATURE, V26, P143
+   Officer C. B., 1989, EOS, V70, P659, DOI 10.1029/89EO00405
+   PANDE K, 1988, WORKSHOP DECCAN FLOO, V0, P145
+   RAMPINO MR, 1988, SCIENCE, V241, P663, DOI 10.1126/science.241.4866.663
+   RAMPINO MR, 1987, NATURE, V327, P468, DOI 10.1038/327468a0
+   RAMPINO MR, 1988, ANNU REV EARTH PL SC, V16, P73, DOI 10.1146/annurev.ea.16.050188.000445
+   RICE A, 1987, PHYS EARTH PLANET IN, V48, P167, DOI 10.1016/0031-9201(87)90120-8
+   RICHARDS MA, 1989, SCIENCE, V246, P103, DOI 10.1126/science.246.4926.103
+   ROCCHIA R, 1988, CR ACAD SCI II, V307, P1217
+   ROCCHIA R, 1989, 20TH LUN PLAN SCI C, V0, P914
+   Sepkoski JJ, 1982, GEOLOGICAL SOC AM, V190, P283
+   STODDARD PR, 1988, GEOLOGY, V16, P296, DOI 10.1130/0091-7613(1988)016<0296:AEOTDT>2.3.CO;2
+   STOTHERS RB, 1986, GEOPHYS RES LETT, V13, P725, DOI 10.1029/GL013i008p00725
+   TOUTAIN JP, 1989, IRIDIUM BEARING SUBL, V0, P0
+   VANDAMME D, 1991, IN PRESS REV GEOPHYS, V0, P0
+   WENSINK H, 1973, TECTONOPHYSICS, V17, P41, DOI 10.1016/0040-1951(73)90064-4
+   West WD, 1981, GEOL SOC IND MEM, V3, P277
+   WHITE R, 1989, J GEOPHYS RES-SOLID, V94, P7685, DOI 10.1029/JB094iB06p07685
+   WHITE RS, 1989, EOS, V70, P1480
+   WHITE RS, 1989, EOS, V70, P1490
+   ZOLLER WH, 1983, SCIENCE, V222, P1118, DOI 10.1126/science.222.4628.1118
+   1987, 1900, V329, V0, P586
+NR 56
+TC 12
+Z9 13
+U1 0
+U2 2
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0921-8181
+EI 
+J9 GLOBAL PLANET CHANGE
+JI Glob. Planet. Change
+PD DEC 15
+PY 1990
+VL 89
+IS 3
+BP 291
+EP 299
+DI 10.1016/0921-8181(90)90025-8
+PG 9
+WC Geography, Physical; Geosciences, Multidisciplinary
+SC Physical Geography; Geology
+GA EV984
+UT WOS:A1990EV98400014
+DA 2024-04-03
+ER
+
+PT J
+AU FAZIO, GG
+   DAME, TM
+   KENT, S
+AF FAZIO, GG
+   DAME, TM
+   KENT, S
+TI INFRARED BACKGROUND STARLIGHT - OBSERVATIONS AND GALAXY MODELS
+SO IAU SYMPOSIA
+LA English
+DT Article
+ID on spiral galaxy; galactic-center; surface photometry; disk; emission; region; absorption; plane; dust
+AB The near-infrared region of the spectrum is a particularly advantageous window for observing the distribution of old, evolved stars in the galactic disk and bulge. These stars are important because they provide an excellent tracer of the overall stellar mass distribution. At shorter wavelengths extinction is a serious problem, and at longer wavelengths the flux is dominated by dust emission. A summary of the large-scale diffuse near-infrared observations of the Galaxy is presented, as is a summary of the results obtained from these data on the structure of the galactic disk and bulge. The importance of combining CO and near-infrared maps of similar resolution to determine a three-dimensional model of galactic extinction is demonstrated. The Spacelab-2 Infrared Telescope (IRT) data are used in conjunction with a proposed galactic model to make preliminary measurements of the global scale parameters of the Galaxy.
+RP FAZIO, GG (corresponding author), HARVARD SMITHSONIAN CTR ASTROPHYS, 60 GARDEN ST, CAMBRIDGE, MA 02138 USA.
+CR BAHCALL JN, 1984, ASTROPHYS J, V276, P169, DOI 10.1086/161601
+   BECKLIN EE, 1968, ASTROPHYS J, V151, P145, DOI 10.1086/149425
+   BOHLIN RC, 1978, ASTROPHYS J, V224, P132, DOI 10.1086/156357
+   CATCHPOLE RM, 1989, IAU S, V136, P75
+   Cox P, 1989, ASTRONOMY AND ASTROPHYSICS REVIEW, V1, P49, DOI 10.1007/BF00872484
+   DAME TM, 1987, ASTROPHYS J, V322, P706, DOI 10.1086/165766
+   DRAPATZ S, 1981, IAU S, V96, P261
+   FROGEL JA, 1988, ANNU REV ASTRON ASTR, V26, P51
+   GATLEY I, 1989, IAU S, V136, P361
+   GIARD M, 1988, ASTRON ASTROPHYS, V201, P0
+   GLASS IS, 1987, MON NOT R ASTRON SOC, V227, P373, DOI 10.1093/mnras/227.2.373
+   Gusten R, 1982, VISTAS IN ASTRONOMY, V26, P159
+   HABING HJ, 1988, ASTRON ASTROPHYS, V200, P40
+   HARRIS AW, 1980, ASTROPHYS SPACE SCI, V72, P111, DOI 10.1007/BF00642169
+   HAYAKAWA S, 1981, ASTRON ASTROPHYS, V100, P116
+   HIROMOTO N, 1984, ASTRON ASTROPHYS, V139, P309
+   HOFMANN W, 1978, ASTRON ASTROPHYS, V70, P427
+   Hulst HCvan de, 1957, LIGHT SCATTERING SMA, V0, P0
+   JONES TJ, 1981, MON NOT R ASTRON SOC, V197, P413, DOI 10.1093/mnras/197.2.413
+   KAWARA K, 1982, PUBL ASTRON SOC JPN, V34, P389
+   KOCH DG, 1988, ASTROPHYS LETT COMM, V27, P211
+   LEBOFSKY MJ, 1979, ASTRON J, V84, P324, DOI 10.1086/112426
+   LEBOFSKY MJ, 1987, GALACTIC CTR, V155, P79
+   LEGER A, 1984, ASTRON ASTROPHYS, V137, P0
+   LITTLE SJ, 1985, ASTRON J, V90, P1812, DOI 10.1086/113882
+   Matsumoto T, 1982, AMERICAN INSTITUTE OF PHYSICS CONFERENCE SERIES, V83, P48, DOI 10.1063/1.33493
+   MELNICK GJ, 1987, TALACTIC CTR, V155, P157
+   NOGUCHI K, 1981, PUBL ASTRON SOC JPN, V33, P583
+   ODA N, 1979, ASTRON ASTROPHYS, V72, P309
+   ODA N, 1985, ASTRON ASTROPHYS, V145, P45
+   OKUDA H, 1981, IAU S, V96, P247
+   OKUDA H, 1983, PREPRINT, V0, P0
+   OKUDA H, 1985, IAU S, V106, P123
+   PRICE SD, 1980, ADA0100289 AFGL TECH, V0, P0
+   PUGET JL, 1985, ASTRON ASTROPHYS, V142, P0
+   RIEKE GH, 1989, IAU S, V136, P21
+   STRONG AW, 1988, ASTRON ASTROPHYS, V207, P1
+   VANDERKRUIT PC, 1981, ASTRON ASTROPHYS, V95, P105
+   VANDERKRUIT PC, 1986, ASTRON ASTROPHYS, V157, P230
+NR 39
+TC 0
+Z9 0
+U1 0
+U2 0
+PU SPRINGER
+PI DORDRECHT
+PA VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS
+SN 0074-1809
+EI 
+J9 IAU SYMP
+PD JUN 15
+PY 1990
+VL 0
+IS 139
+BP 35
+EP 47
+DI 
+PG 13
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA ET892
+UT WOS:A1990ET89200003
+DA 2024-04-03
+ER
+
+PT J
+AU ERWIN, DH
+AF ERWIN, DH
+TI THE END-PERMIAN MASS EXTINCTION
+SO ANNUAL REVIEW OF ECOLOGY AND SYSTEMATICS
+LA English
+DT Review
+RP ERWIN, DH (corresponding author), MICHIGAN STATE UNIV,DEPT GEOL SCI,E LANSING,MI 48824, USA.
+CR ALVAREZ W, 1984, SCIENCE, V223, P1135, DOI 10.1126/science.223.4641.1135
+   BATTEN RL, 1973, CANADIAN SOC PETROLE, V2, P596
+   Benson RH, 1984, P437, V0, P0
+   BENTON MJ, 1987, MEM SOC GEOL FR, V150, P21
+   BRASIER MD, 1900, P37, V0, P0
+   CARR TR, 1980, PALEOBIOLOGY, V6, P427, DOI 10.1017/S0094837300003602
+   CHEN J, 1984, SCI GEOL SINICA, V0, P92
+   Clark DL, 1987, P165, V0, P0
+   CLARK DL, 1986, SCIENCE, V233, P984, DOI 10.1126/science.233.4767.984
+   Colbert EH, 1986, P133, V0, P0
+   COURTILLOT V, 1987, SCIENCE, V237, P1140, DOI 10.1126/science.237.4819.1140
+   CROWELL JC, 1978, AM J SCI, V278, P1345, DOI 10.2475/ajs.278.10.1345
+   CROWLEY TJ, 1988, SCIENCE, V240, P996, DOI 10.1126/science.240.4855.996
+   CROWLEY TJ, 1989, GEOLOGY, V17, P457, DOI 10.1130/0091-7613(1989)017<0457:SCVOTS>2.3.CO;2
+   Dickins JM, 1983, MEMOIR OF THE ASSOCIATION OF AUSTRALASIAN PALAEONTOLOGISTS, V1, P297
+   ERWIN D H, 1989, PALAIOS, V4, P424, DOI 10.2307/3514587
+   ERWIN DH, 1987, EVOLUTION, V41, P1177, DOI 10.1111/j.1558-5646.1987.tb02459.x
+   ERWIN DH, 1990, IN PRESS PALAOBIOLOG, V0, P0
+   ERWIN DH, 1984, GEOL SOC AM ABSTR, V16, P503
+   FISCHER AG, 1965, PROBLEMS PALAEOCLIMA, V0, P566
+   Flugel E, 1984, PALAEONTOGRAPHICA AMERICANA, V0, P0
+   FORNEY GG, 1975, J GEOL, V83, P773, DOI 10.1086/628168
+   FRAKES LA, 1988, NATURE, V333, P547, DOI 10.1038/333547a0
+   GOULD SJ, 1980, PALEOBIOLOGY, V6, P383, DOI 10.1017/S0094837300003572
+   GRUSZCZYNSKI M, 1989, NATURE, V337, P64, DOI 10.1038/337064a0
+   HANSEN T A, 1987, PALAIOS, V2, P69, DOI 10.2307/3514573
+   HATFIELD CB, 1970, GEOL SOC AM BULL, V81, P911, DOI 10.1130/0016-7606(1970)81[911:MECWPG]2.0.CO;2
+   HOFFMAN A, 1989, J GEOL SOC LONDON, V146, P21, DOI 10.1144/gsjgs.146.1.0021
+   HOLSER WT, 1989, NATURE, V337, P39, DOI 10.1038/337039a0
+   Hotton N, 1986, THE ECOLOGY AND BIOLOGY OF MAMMAL-LIKE REPTILES, V0, P0
+   HUSSNER H, 1983, GEOL RUNDSCH, V72, P1, DOI 10.1007/BF01765897
+   JABLONSKI D, 1986, SCIENCE, V231, P129, DOI 10.1126/science.231.4734.129
+   Jablonski D, 1986, P183, V0, P0
+   JABLONSKI D, 1989, PHILOS T ROY SOC B, V325, P357, DOI 10.1098/rstb.1989.0093
+   Jablonski D, 1985, P335, V0, P0
+   JABLONSKI D, 1986, MALACOLOGIA, V27, P43
+   JINWEN H, 1989, HIST BIOL, V2, P73
+   Kier PM, 1965, JOURNAL OF PALEONTOLOGY, V39, P436
+   Kitchell JA, 1985, P277, V0, P0
+   KNOLL AH, 1987, REV PALAEOBOT PALYNO, V50, P127, DOI 10.1016/0034-6667(87)90043-1
+   KNOLL AH, 1984, PHANEROZOIC DIVERSIT, V0, P23
+   LIAO ZT, 1980, CAN J EARTH SCI, V17, P289, DOI 10.1139/e80-028
+   LOGAN A, 1973, CAN SOC PETROL GEOL, V2, P0
+   LOPER DE, 1988, J GEOL, V96, P1, DOI 10.1086/629189
+   MAGARITZ M, 1988, NATURE, V331, P337, DOI 10.1038/331337a0
+   Maxwell WD, 1989, P152, V0, P0
+   MCKINNEY ML, 1985, PALEOBIOLOGY, V11, P227, DOI 10.1017/S0094837300011532
+   Nakazawa K, 1980, GEOLOGY PALEONTOLOGY, V21, P75
+   Newell ND, 1978, SCHRIFTENREIHE DER ERDWISSENSCHAFTLICHEN KOMMISSIONEN, V4, P9
+   Newell ND, 1988, MEMORIE DELLA SOCIETA GEOLOGICA ITALIANA, V34, P303
+   Newell ND, 1967, GEOL SOC AM SPEC PAP, V0, P63
+   NITECKI MH, 1984, EXTINCTIONS, V0, P354
+   Oberhansli H, 1989, HIST BIOL, V2, P37, DOI 10.1080/08912968909386489
+   OLSON EC, 1986, HIST BIOL, V2, P17
+   Padian K, 1985, P41, V0, P0
+   Parrish JM, 1986, P109, V0, P0
+   PAUL CRC, 1988, EXTINCTION SURVIVAL, V0, P155
+   PITRAT CW, 1970, PALAEOGEOGR PALAEOCL, V8, P49, DOI 10.1016/0031-0182(70)90079-9
+   RAMPINO MR, 1988, SCIENCE, V241, P663, DOI 10.1126/science.241.4866.663
+   RAUP DM, 1987, PALAEONTOLOGY, V30, P1
+   RAUP DM, 1979, SCIENCE, V206, P217, DOI 10.1126/science.206.4415.217
+   RAUP DM, 1986, SCIENCE, V231, P833, DOI 10.1126/science.11542060
+   RAUP DM, 1984, P NATL ACAD SCI-BIOL, V81, P801, DOI 10.1073/pnas.81.3.801
+   RAUP DM, 1982, SCIENCE, V215, P1501, DOI 10.1126/science.215.4539.1501
+   RAUP DM, 1985, NATURE, V314, P341, DOI 10.1038/314341a0
+   Rhodes FHT, 1967, THE FOSSIL RECORD, V0, P57
+   ROBINSON PL, 1973, IMPLICATIONS CONTINE, V0, P451
+   ROSS CA, 1985, GEOLOGY, V13, P194, DOI 10.1130/0091-7613(1985)13<194:LPDSAS>2.0.CO;2
+   Schinderwolf OH, 1962, Z DTSCH GEOLOGISCHEN, V114, P430
+   SCHOPF TJM, 1974, J GEOL, V82, P129, DOI 10.1086/627955
+   SCOTESE CR, 1985, 191286 PAL MAPP PROJ, V0, P0
+   SCRUTTON CT, 1988, EXTINCTION SURVIVAL, V0, P65
+   Sepkoski JJJr, 1985, P153, V0, P0
+   SEPKOSKI JJ, 1989, J GEOL SOC LONDON, V146, P7, DOI 10.1144/gsjgs.146.1.0007
+   SEPKOSKI JJ, 1984, PALEOBIOLOGY, V10, P246, DOI 10.1017/S0094837300008186
+   SEPKOSKI JJ, 1987, SCIENCE, V235, P64, DOI 10.1126/science.11539724
+   SEPKOSKI JJ, 1981, PALEOBIOLOGY, V7, P36, DOI 10.1017/S0094837300003778
+   SEPKOSKI JJ, 1982, MILWAUKEE PUBLIC MUS, V51, P125
+   SHENG J-Z, 1984, JOURNAL OF THE FACULTY OF SCIENCE HOKKAIDO UNIVERSITY SERIES IV GEOLOGY AND MINERALOGY, V21, P133
+   SIGNOR PW, 1982, 190 GEOL SOC AM, V0, P291
+   SILVER LT, 1982, 190 GEOL SOC AM SP P, V0, P528
+   SIMBERLOFF DS, 1974, J GEOL, V82, P267, DOI 10.1086/627962
+   STANLEY S M, 1988, PALAIOS, V3, P228, DOI 10.2307/3514533
+   Stanley SM, 1984, P69, V0, P0
+   STANLEY SM, 1988, AM J SCI, V288, P334, DOI 10.2475/ajs.288.4.334
+   STEELE-PETROVIC H M, 1979, PALAEONTOLOGY (OXFORD), V22, P101
+   STEVENS CH, 1977, GEOLOGY, V8, P133
+   STRATHMANN RR, 1978, EVOLUTION, V32, P907, DOI 10.1111/j.1558-5646.1978.tb04643.x
+   TAPPEN H, 1982, 190 GEOL SOC AM SPEC, V0, P265
+   Taylor PD, 1988, EXTINCTION AND SURVIVAL IN THE FOSSIL RECORD, V0, P99
+   TOZER ET, 1979, CAN J EARTH SCI, V16, P1524, DOI 10.1139/e79-139
+   Traverse A, 1988, HISTORICAL BIOLOGY, V1, P277
+   Valentine JW, 1973, EVOLUTIONARY PALEOEC, V0, P0
+   Valentine JW, 1985, PHANEROZOIC DIVERSITY PATTERNS: PROFILES IN MACROEVOLUTION, V0, P0
+   VALENTINE JW, 1978, PALEOBIOLOGY, V4, P55, DOI 10.1017/S0094837300005686
+   VALENTINE JW, 1986, P NATL ACAD SCI USA, V83, P6912, DOI 10.1073/pnas.83.18.6912
+   VALENTINE JW, 1972, J GEOL, V80, P167, DOI 10.1086/627723
+   VALENTINE JW, 1983, EVOLUTION, V37, P1052, DOI 10.1111/j.1558-5646.1983.tb05632.x
+   VALENTINE JW, 1986, B MAR SCI, V39, P607
+   VALENTINE JW, 1973, CAN SOC PETROL GEOL, V2, P759
+   VANVALEN LM, 1984, NATURE, V307, P50, DOI 10.1038/307050a0
+   VEEVERS JJ, 1987, GEOL SOC AM BULL, V98, P475, DOI 10.1130/0016-7606(1987)98<475:LPGEIG>2.0.CO;2
+   WISE KP, 1981, PALEOBIOLOGY, V7, P394, DOI 10.1017/S0094837300004681
+   XU DY, 1985, NATURE, V314, P154, DOI 10.1038/314154a0
+   YIN HF, 1985, J PALEONTOL, V59, P572
+   YIN YS, 1984, DEV GEOSCIENCES, V0, P235
+   Zharkov MA, 1981, HIST PALEOZOIC SALT, V0, P0
+   ZHOU L, 1988, EARTH PLANET SC LETT, V90, P411, DOI 10.1016/0012-821X(88)90139-2
+   ZISHUN L, 1986, ACTA GEOL SINICA, V60, P1
+NR 113
+TC 67
+Z9 76
+U1 1
+U2 31
+PU ANNUAL REVIEWS INC
+PI PALO ALTO
+PA 4139 EL CAMINO WAY, PO BOX 10139, PALO ALTO, CA 94303-0139
+SN 0066-4162
+EI 
+J9 ANNU REV ECOL SYST
+JI Annu. Rev. Ecol. Syst.
+PD JUN 15
+PY 1990
+VL 21
+IS 
+BP 69
+EP 91
+DI 10.1146/annurev.es.21.110190.000441
+PG 23
+WC Ecology; Evolutionary Biology
+SC Environmental Sciences & Ecology; Evolutionary Biology
+GA EK833
+UT WOS:A1990EK83300004
+DA 2024-04-03
+ER
+

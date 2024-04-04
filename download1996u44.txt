@@ -1,0 +1,1415 @@
+PT J
+AU Knoll, AH
+   Bambach, RK
+   Canfield, DE
+   Grotzinger, JP
+AF Knoll, A H
+   Bambach, R K
+   Canfield, D E
+   Grotzinger, J P
+TI Comparative Earth History and Late Permian Mass Extinction.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The repeated association during the late Neoproterozoic Era of large  carbon-isotopic excursions, continental glaciation, and stratigraphically  anomalous carbonate precipitation provides a framework for interpreting the  reprise of these conditions on the Late Permian Earth. A paleoceanographic model  that was developed to explain these stratigraphically linked phenomena suggests  that the overturn of anoxic deep oceans during the Late Permian introduced high  concentrations of carbon dioxide into surficial environments. The predicted  physiological and climatic consequences for marine and terrestrial organisms are  in good accord with the observed timing and selectivity of Late Permian mass  extinction.
+C1 A. H. Knoll is at the Botanical Museum, Harvard University, Cambridge, MA 02138, USA. R. K. Bambach is in the Department of Geological Sciences, VirginiaPolytechnic Institute and State University, Blacksburg, VA 24061, USA. D. E.Canfield is at the Max Planck Institute for Marine Microbiology, Celsiusstrasse1, Bremen 28359, Germany. J. P. Grotzinger is in the Department of Earth,Atmospheric and Planetary Sciences, Massachusetts Institute of Technology,Cambridge, MA 02139, USA.
+NR 0
+TC 0
+SN 1095-920
+EI 
+J9 Science
+PD JUL 26
+PY 1996
+VL 273
+IS 5274
+BP 452
+EP 7
+DI 
+PG -445
+UT PubMed:11541222
+PM 8662528
+DA 1996-07-26
+ER
+
+PT J
+AU Keherly, MJ
+   Hsieh, CC
+   McCombs, JL
+   Merryman, LS
+   Papaconstantinou, J
+AF Keherly, M J
+   Hsieh, C C
+   McCombs, J L
+   Merryman, L S
+   Papaconstantinou, J
+TI Characterization of somatic cell hybrids exhibiting extinction of AFP, albumin
+SO Somatic cell and molecular genetics
+LA English
+DT Journal Article
+AB We utilized an AFP-HPRT transgene, i.e. the HPRT coding sequences under the  regulation of AFP enhancer and promoter sequences, to localize the AFP  extinguisher locus in intertypic somatic cell hybrids (hepatoma X fibroblast).  This hybrid gene construct, which directly links AFP regulation to a reversibly  selective gene, enabled the selection of stably transfected cells which express  AFP, as well as cells showing extinction of AFP. Mouse hepatoma cells stably  transfected with and expressing the transgene were fused to human fibroblasts,  and the resulting somatic cell hybrids were characterized using Southern,  Northern and karyotypic analyses. That several hybrids exhibited the proper  extinction of AFP, AFP-HPRT and albumin suggests coregulation of these genes by  an extinguisher. Segregant lines derived from these hybrids were selected for the  loss of extinguisher activity and for reexpression of the transgene. Karyotypic  analysis of hybrid and segregant lines, exhibiting proper AFP, albumin and  AFP-HPRT phenotypes, revealed that the presence of human chromosome 7 was most  closely associated with the AFP-extinguished state. The hybrids generated in  these studies now make it possible to isolate the sequences responsible for AFP  and albumin extinction.
+C1 Department of Human Biological Chemistry and Genetics, University of Texas, Medical Branch at Galveston 77555, USA.
+NR 0
+TC 0
+SN 
+EI 0740-775
+J9 Somat Cell Mol Genet
+PD MAR 1
+PY 1996
+VL 22
+IS 2
+BP 119
+EP 34
+DI 10.1007/BF02369902
+PG -85
+WC Albumins; genetics; Animals; Carcinoma, Hepatocellular; Chromosomes, Human; Chromosomes, Human, Pair 7; genetics; DNA; analysis; Enhancer Elements, Genetic; genetics; Fibroblasts; Gene Expression Regulation; Humans; Hybrid Cells; physiology; Hypoxanthine Phosphoribosyltransferase; genetics; Karyotyping; Mice; Promoter Regions, Genetic; genetics; RNA, Messenger; analysis; Transfection; Transgenes; genetics; alpha-Fetoproteins; genetics
+UT PubMed:8782491
+PM 8782491
+DA 1996-03-01
+ER
+
+PT J
+AU Wagner, PJ
+AF Wagner, Peter J
+TI CONTRASTING THE UNDERLYING PATTERNS OF ACTIVE TRENDS IN MORPHOLOGIC EVOLUTION.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Constraints; Wright's Rule; mass extinctions; phylogenetic effects; sorting; speciation; trends
+AB Gastropod evolution during the early Paleozoic featured active trends (i.e.,  differential replacement of morphologies) for at least three shell characters.  Selective sorting, either of individual organisms or of whole species, is an  obvious mechanism for such active trends. Sorting of individuals should result in  a disproportionate number of ancestor to descendant transitions being in the same  direction as the trend, whereas sorting of species should result in species with  particular morphologies producing more daughter species. Sorting of species can  occur over long periods of time or it can be concentrated over a particular  interval, such as an extinction event. Constraints on morphologic evolution also  can drive trends, especially in cases where it is easier to produce a particular  morphology than it is to change it. Finally, active trends can be artifacts of  unrelated differential diversification within a clade (i.e., species  hitchhiking), which might result from sorting of species based on  phylogenetically associated characters or simply by chance. Unlike other active  trends, trends attributable to species hitchhiking do not support hypotheses  about selection or evolutionary constraints.
+C1 5734 South Ellis Avenue, Department of Geophysical Sciences, The University of Chicago, Chicago, Illinois, 60637.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD JUN 1
+PY 1996
+VL 50
+IS 3
+BP 990
+EP 1007
+DI 10.1111/j.1558-5646.1996.tb02341.x
+PG 17
+UT PubMed:28565293
+PM 28565293
+DA 1996-06-01
+ER
+
+PT J
+AU Pouchnik, DJ
+   Laverman, LE
+   Janiak-Spens, F
+   Jameson, DM
+   Reinhart, GD
+   Cremo, CR
+AF Pouchnik, D J
+   Laverman, L E
+   Janiak-Spens, F
+   Jameson, D M
+   Reinhart, G D
+   Cremo, C R
+TI Synthesis and spectral characterization of sulfhydryl-reactive fluorescent
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB We synthesized two sulfhydryl-reactive fluorescent probes, Br-ANT  (2-amino-benzoic acid, 2-(bromoacetyl)hydrazide) and Br-MANT  (N-[2-[(bromoacetyl)amino]ethyl]-2-(methylamino)benzamide). Br-ANT and Br-MANT  contain an anthraniloyl and N-methyl anthraniloyl group, respectively, linked to  the sulfhydryl-reactive bromoacetyl moiety. The cysteine adducts have absorption  maxima at 323 and 326 nm, with molar extinction coefficients of 2100 and 2900 M-1  cm-1, for Br-ANT and Br-MANT, respectively, making these probes excellent  acceptors for tryptophan. The absorption spectra and quantum yields were constant  at pH levels useful for protein studies (pH 5-8). Quantum yields of Br-ANT and  Br-MANT were 0.16 and 0.42, emission maxima were 432 and 440 nm, and fluorescence  lifetimes were 1.3 and 7.8 ns, respectively. The emission of Br-ANT-Cys and  Br-MANT-Cys shifted to shorter wavelengths with decreasing solvent polarity.  Polarization values were maximal between 330 and 375 nm. Both probes reacted  selectively and stoichiometrically with the single cysteine residue of a model  protein. The labeled protein exhibited relatively long lifetimes (9-10 ns),  suggesting that these probes will be generally useful for rotational studies.
+C1 Department of Biochemistry and Biophysics, Washington State University, Pullman 99164-4660, USA.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD MAR 1
+PY 1996
+VL 235
+IS 1
+BP 26
+EP 35
+DI 10.1006/abio.1996.0087
+PG 9
+WC Benzamides; chemical synthesis; Fluorescent Dyes; chemical synthesis; Magnetic Resonance Spectroscopy; Mass Spectrometry; Spectrometry, Fluorescence; Sulfhydryl Reagents; chemistry; ortho-Aminobenzoates; chemical synthesis
+UT PubMed:8850543
+PM 8850543
+DA 1996-03-01
+ER
+
+PT J
+AU Mittereder, N
+   March, KL
+   Trapnell, BC
+AF Mittereder, N
+   March, K L
+   Trapnell, B C
+TI Evaluation of the concentration and bioactivity of adenovirus vectors for gene
+SO Journal of virology
+LA English
+DT Journal Article
+AB Development of adenovirus vectors as potential therapeutic agents for multiple  applications of in vivo human gene therapy has resulted in numerous preclinical  and clinical studies. However, lack of standardization of the methods for  quantifying the physical concentration and functionally active fraction of  virions in these studies has often made comparison between various studies  difficult or impossible. This study was therefore carried out to define the  variables for quantification of the concentration of adenovirus vectors. The  methods for evaluation of total virion concentration included electron microscopy  and optical absorbance. The methods for evaluation of the concentration of  functional virions included detection of gene transfer (transgene transfer and  expression) and the plaque assay on 293 cells. Enumeration of total virion  concentration by optical absorbance was found to be a precise procedure, but  accuracy was dependent on physical disruption of the virion to eliminate  artifacts from light scattering and also on a correct value for the extinction  coefficient. Both biological assays for enumerating functional virions were  highly dependent on the assay conditions and in particular the time of virion  adsorption and adsorption volume. Under optimal conditions, the bioactivity of  the vector, defined as the fraction of total virions which leads to detected  target cell infection, was determined to be 0.10 in the plaque assay and 0.29 in  the gene transfer assay. This difference is most likely due to the fact that  detection by gene transfer requires only measurement of levels of transgene  expression in the infected cell whereas plaque formation is dependent on a series  of biological events of much greater complexity. These results show that the  exact conditions for determination of infectious virion concentration and  bioactivity of recombinant adenovirus vectors are critical and must be  standardized for comparability. These observations may be very useful in  comparison of data from different preclinical and clinical studies and may also  have important implications for how adenovirus vectors can optimally be used in  human gene therapy.
+C1 Department of Virology, Genetic Therapy, Inc., Gaithersburg, Maryland 20878, USA.
+NR 0
+TC 0
+SN 1098-551
+EI 0022-538
+J9 J Virol
+PD NOV 1
+PY 1996
+VL 70
+IS 11
+BP 7498
+EP 509
+DI 10.1128/JVI.70.11.7498-7509.1996
+PG -6989
+WC Adenoviridae; genetics; Cell Line, Transformed; Evaluation Studies as Topic; Genetic Therapy; Genetic Vectors; Humans; Mathematical Computing; Models, Biological
+UT PubMed:8892868
+PM 8892868
+DA 1996-11-01
+ER
+
+PT J
+AU Izokh, EP
+AF Izokh, E P
+TI Origin of tektites: an alternative to terrestrial impact theory.
+SO Chemie der Erde : Beitrage zur chemischen Mineralogie, Petrographie und Geologie
+LA English
+DT Journal Article
+AB The Terrestrial Impact Theory (TIT) has won a complete victory over O'Keefe's  lunar volcanic theory, but only because the Moon appears to be the wrong place  for tektites. Indeed, the TIT ignores strong evidence of their volcanic  origin--far from the Moon. The Extraterrestrial Volcanic Comet Theory proposes an  alternative to both of these theories. Major arguments for an extraterrestrial  tektite source are paradoxical: a great time difference between tektite formation  and their arrival on Earth, and also forms, plastic deformations, ice collision  marks, vacuum voids, etc. indicating specific conditions of tektite formation  such as low gravitational field, lack of atmosphere, interaction of hot plastic  tektites with ice, etc. Major evidence of volcanic origin includes: close analogy  between shaped tektites and small volcanic bombs, and between layered tektites  and lava or tuff-lava flows or huge bombs; analogy between flanged tektites and  volcanic bombs ablated by gasjets: long-time, multistage formation of some  tektites that corresponds to wide variations in their radiometric ages;  well-ordered long compositional trends (series) typical of magmatic  differentiation; different compositional tektite families (subseries) comparable  to different stages (phases) of the volcanic process. Thus, different types of  volcanic eruptions under extraterrestrial conditions could be reconstructed based  on tektite properties. It is presumed that tektites were transported to the Earth  by specific eruptive comets, i.e. in the form of ice-tektite agglomerates  launched into space by volcanic explosion. Major arguments favouring comets  include: ice collision marks and imprints as mentioned above; linear band-like  sculpture of the Australasian strewn field as evidence of comet fragmentation and  slope or skipping trajectory of separate fragments; compact coincidence of the  Zhamanshin impact crater with small tektite strewn field as evidence of steep  trajectory of separate comet fragments that disintegrated while entering the  atmosphere. The comet-Earth collision under consideration happened 10,000 years  ago and caused the global catastrophe marked by the sharp Pleistocene-Holocene  boundary, i.e. by abrupt climatic changes, the end of glaciation, mass  extinction, etc. This event can be compared with the "dinosaur" catastrophe at  the K/T boundary 65 Ma, which was also accompanied by tektite fall.
+C1 United Institute of Geology, Geophysics and Mineralogy, Russian Academy of Sciences, Siberian Branch, Novosibirsk, Russia.
+NR 0
+TC 0
+SN 
+EI 0009-281
+J9 Chem Erde
+PD JAN 1
+PY 1996
+VL 56
+IS 
+BP 458
+EP 74
+DI 
+PG -384
+WC Earth, Planet; Extraterrestrial Environment; Fossils; Geological Phenomena; Geology; Glass; Ice; Meteoroids; Paleontology; Volcanic Eruptions
+UT PubMed:11541098
+PM 11541098
+DA 1996-01-01
+ER
+
+PT J
+AU Zhang, Q
+   Xu, D
+AF Zhang, Q
+   Xu, D
+TI Inquiring into indicators and origin of catastrophic events at stratigraphic
+SO Journal of Southeast Asian earth sciences
+LA English
+DT Journal Article
+AB Since 1982, numerous indicators of catastrophic events have been observed at the  main stratigraphic boundaries in China during the Phanerozoic, i.e.  Precambrian-Cambrian, Permian-Triassic, Cretaceous-Tertiary as well as  Ordovician-Silurian and Devonian-Carboniferous boundaries. These markers are  boundary clay layer, microspherules, high Ir anomaly, mass extinction of  organisms and impact of meteorite. We support the hypothesis of the  extraterrestrial origin of catastrophic events and suggest that the events at  different stratigraphic boundaries might be different in features and processes.
+C1 Institute of Geology, State Seismological Bureau, Beijing, China.
+NR 0
+TC 0
+SN 
+EI 0743-954
+J9 J Southeast Asian Earth Sci
+PD MAR 1
+PY 1996
+VL 13
+IS 3-5
+BP 373
+EP 8
+DI 10.1016/0743-9547(96)00043-8
+PG -365
+WC Aluminum Silicates; analysis; Biological Evolution; China; Clay; Geologic Sediments; analysis; Geological Phenomena; Geology; Iridium; analysis; Meteoroids; Minor Planets; Paleontology
+UT PubMed:12747349
+PM 12747349
+DA 1996-03-01
+ER
+
+PT J
+AU Richter, AM
+   Yip, S
+   Meadows, H
+   Jain, AK
+   Neyndorff, H
+   Moreno, G
+   Salet, C
+   Levy, JG
+AF Richter, A M
+   Yip, S
+   Meadows, H
+   Jain, A K
+   Neyndorff, H
+   Moreno, G
+   Salet, C
+   Levy, J G
+TI Photosensitizing potencies of the structural analogues of benzoporphyrin
+SO Journal of clinical laser medicine & surgery
+LA English
+DT Journal Article
+AB Benzoporphyrin derivative (BPD) is a potent photosensitizer in biological  systems. There are four structural analogues of BPD. The analogues share the same  chromophor, which results in their having almost identical optical spectra,  extinction coefficients, and yields of singlet oxygen. Small structural  differences affect their photosensitizing potency in various biological systems,  and thus make them an interesting tool to study the structure-activity  relationship. The ranking of the photosensitizing potency of the analogues  differed depending on the test system. The more efficient photosensitization of  tumor cell lines by the highly lipophilic monoacids as compared to that by less  lipophilic diacids correlated positively with the partition coefficient, and was  related to the rate of diffusion into the cells. However, in the assay systems  where PDT targets were located in the membrane (red blood cells hemolysis,  enveloped vesicular stomatitis virus, isolated mitochondria) there was very  little difference in photosensitizing potency of BPD analogues. The results  indicate that the evaluation of photosensitizers is affected by the test system  and thus for photosensitizers screening purposes, the choice of the test system  should be made based on the intended ultimate use.
+C1 Department of Microbiology and Immunology, University of British Columbia, Vancouver, Canada.
+NR 0
+TC 0
+SN 
+EI 1044-547
+J9 J Clin Laser Med Surg
+PD OCT 1
+PY 1996
+VL 14
+IS 5
+BP 335
+EP 41
+DI 10.1089/clm.1996.14.335
+PG -294
+WC Animals; Cattle; Drug Evaluation; methods; Hemolysis; drug effects; Humans; Mice; Mitochondria, Liver; drug effects; Oxidative Stress; Oxygen; metabolism; Photosensitizing Agents; chemistry; Porphyrins; chemistry; Rats; Singlet Oxygen; Structure-Activity Relationship; Tumor Cells, Cultured; drug effects; Vesicular stomatitis Indiana virus; drug effects
+UT PubMed:9612201
+PM 9612201
+DA 1996-10-01
+ER
+
+PT J
+AU Wignall, PB
+   Twitchett, RJ
+AF Wignall, PB
+   Twitchett, RJ
+TI Oceanic Anoxia and the End Permian Mass Extinction.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Data on rocks from Spitsbergen and the equatorial sections of Italy and Slovenia  indicate that the world's oceans became anoxic at both low and high  paleolatitudes in the Late Permian. Such conditions may have been responsible for  the mass extinction at this time. This event affected a wide range of shelf  depths and extended into shallow water well above the storm wave base.
+C1 Department of Earth Sciences, University of Leeds, Leeds LS2 9JT, UK.
+NR 0
+TC 0
+SN 1095-920
+EI 
+J9 Science
+PD MAY 24
+PY 1996
+VL 272
+IS 5265
+BP 1155
+EP 8
+DI 10.1126/science.272.5265.1155
+PG -1147
+UT PubMed:8662450
+PM 8662450
+DA 1996-05-24
+ER
+
+PT J
+AU de, Vries HH
+   den, Boer PJ
+   van, Dijk TS
+AF de Vries, H H
+   den Boer, P J
+   van Dijk, Th S
+TI Ground beetle species in heathland fragments in relation to survival, dispersal,
+SO Oecologia
+LA English
+DT Journal Article
+DE Dispersal; Ground beetles; Habitat fragmentation; Species-area relationship; Survival
+AB Local numbers of ground beetle species of heathland appeared to be significantly  associated with size of total area, whereas such relationships were not found for  the total number of ground beetle species and eurytopic ground beetle species.  Presence of species with low chances of immigration was highly associated with  area. This is accordance with the "area per se" hypothesis for islands as far as  extinction rates are concerned. The habitat diversity hypothesis and the random  sampling hypothesis are of less importance for explaining this phenomenon. The  importance of dispersal for presence and survival in fragmented habitats could be  demonstrated. This result supports the founding hypothesis, under which founding  of new populations is considered the main effect of dispersal. The frequency of  heathland species with low powers of dispersal in habitats smaller than 10 ha was  76% lower on average than in areas larger than 100 ha. For heathland species with  high powers of dispersal this frequency was only 22% lower on average. The period  of isolation of the habitats studied, 26-113 years, appeared to be too long to  persist for many populations of heathland species with low powers of dispersal.
+C1 Biological Station, Centre for Soil Ecology, Wageningen Agricultural University, Kampsweg 27, 9418 PD, Wijster, The Netherlands.
+   Biological Station, Centre for Soil Ecology, Wageningen Agricultural University, Kampsweg 27, 9418 PD, Wijster, The Netherlands.
+   Biological Station, Centre for Soil Ecology, Wageningen Agricultural University, Kampsweg 27, 9418 PD, Wijster, The Netherlands.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD AUG 1
+PY 1996
+VL 107
+IS 3
+BP 332
+EP 342
+DI 10.1007/BF00328449
+PG 10
+UT PubMed:28307261
+PM 28307261
+DA 1996-08-01
+ER
+
+PT J
+AU Shlifshteyn, A
+   Lang, FD
+   Ayrapetian, R
+AF Shlifshteyn, A
+   Lang, F D
+   Ayrapetian, R
+TI Particulate-matter distribution and its flow from power plants using infrared
+SO Applied optics
+LA English
+DT Journal Article
+AB Spectroscopy measurements made through a continuum having suspended particulate  matter are addressed. The applications presented permit correction of spectral  transmissions as effected by particulate-producing fossil-fuel combustion. The  research is especially applicable to large effluent flows from coal-fired power  plants, whose effluents are studied with in situ (smokestack) radiometers.  Methods involving fast calculation procedures based on measured irradiances in  unabsorbed regions of the IR spectrum are presented. The methodology is based on  wavelength-dependent extinction of radiation by small particles, considering both  elastic scattering and absorbing effects. This extinction leads to an observed  skeweness (or shift) of the blackbody spectral shape. Based on such skeweness,  the particulate number distribution is determined with Mie theory. In order to  simplify, and to speed up the routine for real-time application, a two-step  procedure is presented. During preinstallation calibration with Mie theory, sets  of integral tables are computed for all possible solution values and stored in  computer memory. Based on instantaneous spectral measurements, the appropriate  integral tables are retrieved, then used as inputs in a process leading to  particulate number distribution. Because all time-consuming calculations  associated with Mie theory are performed during preinstallation calibration, the  technique is capable of monitoring particulate emission in real time.  Furthermore, given resolution of the number distribution in combination with  thermodynamic analysis of the system, determination of particulate apparent  density and particulate mass flow rate is made. These values have importance for  environmental reporting. Comparisons of calculated particulate distributions with  in situ measurements are also presented. Confirmatory testing programs conducted  at several power plants are discussed.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD JAN 20
+PY 1996
+VL 35
+IS 3
+BP 351
+EP 63
+DI 10.1364/AO.35.000351
+PG -288
+UT PubMed:21069018
+PM 21069018
+DA 1996-01-20
+ER
+
+PT J
+AU Jablonski, D
+   Sepkoski, JJ Jr
+AF Jablonski, D
+   Sepkoski, J J Jr
+TI Paleobiology, community ecology, and scales of ecological pattern.
+SO Ecology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The fossil record provides a wealth of data on the role of regional processes and  historical events in shaping biological communities over a variety of time  scales. The Quaternary record with its evidence of repeated climatic change shows  that both terrestrial and marine species shifted independently rather than as  cohesive assemblages over scales of thousands of years. Larger scale patterns  also show a strong individualistic component to taxon dynamics; assemblage  stability, when it occurs, is difficult to separate from shared responses to low  rates of environmental change. Nevertheless, the fossil record does suggest that  some biotic interactions influence large-scale ecological and evolutionary  patterns, albeit in more diffuse and protracted fashions than those generally  studied by community ecologists. These include: (1) the resistance by incumbents  to the establishment of new or invading taxa, with episodes of explosive  diversification often appearing contingent on the removal of incumbents at  extinction events; (2) steady states of within-habitat and global diversity at  longer time scales (10(7)-l0(8) yr), despite enormous turnover of taxa; and (3)  morphological and biogeographic responses to increased intensities of predation  and substratum disturbance over similarly long time scales. The behavior of  species and communities over the array of temporal and spatial scales in the  fossil record takes on additional significance for framing conservation  strategies, and for understanding recovery of species, lineages, and communities  from environmental changes.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0012-965
+J9 Ecology
+PD JUL 1
+PY 1996
+VL 77
+IS 5
+BP 1367
+EP 78
+DI 
+PG -1289
+WC Animals; Biological Evolution; Climate; Ecology; Fossils; Insecta; Mammals; Marine Biology; Paleontology; Plants; Reptiles
+UT PubMed:11539425
+PM 11539425
+DA 1996-07-01
+ER
+
+PT J
+AU Spouge, JI
+   Shrager, RI
+   Dimitrov, DS
+AF Spouge, J I
+   Shrager, R I
+   Dimitrov, D S
+TI HIV-1 infection kinetics in tissue cultures.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Despite intensive experimental work on HIV-1, very little theoretical work has  focused on HIV-1 spread in tissue culture. This article uses two systems of  ordinary differential equations to model two modes of viral spread, cell-free  virus and cell-to-cell contact. The two models produce remarkably similar  qualitative results. Simulations using realistic parameter regimes showed that  starting with a small fraction of cells infected, both cell-free viral spread and  direct cell-to-cell transmission give an initial exponential phase of viral  growth, followed by either a crash or a gradual decline, extinguishing the  culture. Under some conditions, an oscillatory phase may precede the extinction.  Some previous models of in vivo HIV-1 infection oscillate, but only in  unrealistic parameter regimes. Experimental tissue infections sometimes display  several sequential cycles of oscillation, however, so our models can at least  mimic them qualitatively. Significantly, the models show that infective  oscillations can be explained by infection dynamics; biological heterogeneity is  not required. The models also display proportionality between infected cells and  cell-free virus, which is reassuringly consistent with assumptions about the  equivalence of several measures of viral load, except that the proportionality  requires a relatively constant total cell concentration. Tissue culture parameter  values can be determined from accurate, controlled experiments. Therefore, if  verified, our models should make interpreting experimental data and extrapolating  it to in vivo conditions sharper and more reliable.
+C1 National Center for Biotechnology Information, National Library of Medicine, Bethesda, Maryland, USA.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD NOV 1
+PY 1996
+VL 138
+IS 1
+BP 1
+EP 22
+DI 10.1016/s0025-5564(96)00064-8
+PG 21
+WC CD4-Positive T-Lymphocytes; virology; Cell Communication; Cells, Cultured; Culture Techniques; HIV Infections; transmission; HIV-1; pathogenicity; Humans; Kinetics; Models, Theoretical; Virion; physiology; Virus Replication
+UT PubMed:8942173
+PM 8942173
+DA 1996-11-01
+ER
+
+PT J
+AU Takakuwa, M
+   Baba, K
+   Miyagi, M
+AF Takakuwa, M
+   Baba, K
+   Miyagi, M
+TI Ultrathin polarizing films for the near-infrared region consisting of stacked
+SO Optics letters
+LA English
+DT Journal Article
+AB We have fabricated an ultrathin polarizing film for the near-infrared region by  stretching a periodic multilayer consisting of gold island layers and glass  layers. A polarizing film with an extinction ratio of 21.5 dB and a thickness of  ~0.2 microm has been realized at the wavelength of 1300 nm by use of a periodic  multilayer of 12 gold island layers with a mass thickness of 21 nm. This  polarizing film could be useful as a micropolarizer for fiber-embedded in-line  optical devices and hybrid integrated optics.
+NR 0
+TC 0
+SN 
+EI 0146-959
+J9 Opt Lett
+PD AUG 1
+PY 1996
+VL 21
+IS 15
+BP 1195
+EP 7
+DI 10.1364/ol.21.001195
+PG -1188
+UT PubMed:19876297
+PM 19876297
+DA 1996-08-01
+ER
+
+PT J
+AU Flaten, TP
+   Alfrey, AC
+   Birchall, JD
+   Savory, J
+   Yokel, RA
+AF Flaten, T P
+   Alfrey, A C
+   Birchall, J D
+   Savory, J
+   Yokel, R A
+TI Status and future concerns of clinical and environmental aluminum toxicology.
+SO Journal of toxicology and environmental health
+LA English
+DT Review
+AB A wide range of toxic effects of aluminum (Al) have been demonstrated in plants  and aquatic animals in nature, in experimental animals by several routes of  exposure, and under different clinical conditions in humans. Aluminum toxicity is  a major problem in agriculture, affecting perhaps as much as 40% of arable soils  in the world. In fresh waters acidified by acid rain, Al toxicity has led to fish  extinction. Aluminum is a very potent neurotoxicant. In humans with chronic renal  failure on dialysis, Al causes encephalopathy, osteomalacia, and anemia. There  are also reports of such effects in certain patient groups without renal failure.  Subtle neurocognitive and psychomotor effects and electroencephalograph (EEG)  abnormalities have been reported at plasma Al levels as low as 50 micrograms/L.  Infants could be particularly susceptible to Al accumulation and toxicity,  reduced renal function being one contributory cause. Recent reports clearly show  that Al accumulation occurs in the tissues of workers with long-term occupational  exposure to Al dusts or fumes, and also indicate that such exposure may cause  subtle neurological effects. Increased efforts should be directed toward defining  the full range of potentially harmful effects in humans. To this end,  multidisciplinary collaborative research efforts are encouraged, involving  scientists from many different specialties. Emphasis should be placed on  increasing our understanding of the chemistry of Al in biological systems, and on  determining the cellular and molecular mechanisms of Al toxicity.
+C1 Department of Chemistry, Norwegian University of Science and Technology, Trondheim, Norway. trond.flaten@avh.unit.no
+NR 0
+TC 0
+SN 
+EI 0098-410
+J9 J Toxicol Environ Health
+PD AUG 30
+PY 1996
+VL 48
+IS 6
+BP 527
+EP 41
+DI 10.1080/009841096161050
+PG -486
+WC Adolescent; Adult; Aged; Aluminum; adverse effects; Alzheimer Disease; etiology; Animals; Central Nervous System; drug effects; Child; Child, Preschool; Ecosystem; Environmental Exposure; standards; Environmental Pollutants; adverse effects; Humans; Infant; Infant, Newborn; Middle Aged; Occupational Exposure
+UT PubMed:8772797
+PM 8772797
+DA 1996-08-30
+ER
+
+PT J
+AU Crabb, R
+   Mackey, MC
+   Rey, AD
+AF Crabb, Rebecca
+   Mackey, Michael C
+   Rey, Alejandro D
+TI Propagating fronts, chaos and multistability in a cell replication model.
+SO Chaos (Woodbury, N.Y.)
+LA English
+DT Journal Article
+AB Numerical solutions to a model equation that describes cell population dynamics  are presented and analyzed. A distinctive feature of the model equation (a  hyperbolic partial differential equation) is the presence of delayed arguments in  the time (t) and maturation (x) variables due to the nonzero length of the cell  cycle. This transport like equation balances a linear convection with a  nonlinear, nonlocal, and delayed reaction term. The linear convection term acts  to impress the value of u(t,x=0) on the entire population while the death term  acts to drive the population to extinction. The rich phenomenology of solution  behaviour presented here arises from the nonlinear, nonlocal birth term. The  existence of this kinetic nonlinearity accounts for the existence and propagation  of soliton-like or front solutions, while the increasing effect of nonlocality  and temporal delays acts to produce a fine periodic structure on the trailing  part of the front. This nonlinear, nonlocal, and delayed kinetic term is also  shown to be responsible for the existence of a Hopf bifurcation and subsequent  period doublings to apparent "chaos" along the characteristics of this hyperbolic  partial differential equation. In the time maturation plane, the combined effects  of nonlinearity, nonlocality, and delays leads to solution behaviour exhibiting  spatial chaos for certain parameter values. Although analytic results are not  available for the system we have studied, consistency and validation of the  numerical results was achieved by using different numerical methods. A general  conclusion of this work, of interest for the understanding of any biological  system modeled by a hyperbolic delayed partial differential equation, is that  increasing the spatio-temporal delays will often lead to spatial complexity and  irregular wave propagation. (c) 1996 American Institute of Physics.
+C1 Department of Applied Mathematics, University of Washington, Seattle, Washington 98195Center for Nonlinear Dynamics and Departments of Physiology, Physics, andMathematics, McGill University, 3655 Drummond, Room 1124, Montreal, Quebec, H3G1Y6, CanadaDepartment of Chemical Engineering, McGill University, 3455 UniversityStreet, Montreal, Quebec, H3A 2A7, Canada.
+NR 0
+TC 0
+SN 1089-768
+EI 
+J9 Chaos
+PD SEP 1
+PY 1996
+VL 6
+IS 3
+BP 477
+EP 492
+DI 10.1063/1.166195
+PG 15
+UT PubMed:12780278
+PM 12780278
+DA 1996-09-01
+ER
+
+PT J
+AU Richards, GP
+   Chao, J
+   Chao, L
+AF Richards, G P
+   Chao, J
+   Chao, L
+TI Tissue kallikreins in evolutionarily diverse vertebrates.
+SO Immunopharmacology
+LA English
+DT Journal Article
+AB A search for tissue kallikreins in lower vertebrates resulted in the discovery of  three novel kallikreins. Tissue kallikrein was isolated from the salivary gland  of the Eastern Atlantic mole, Scalopus aquaticus, and the pancreas of the  Southern frog, Rana berlandieri. A prokallikrein was identified in skeletal  muscle of the black sea bass, Centropristis striata. These enzymes range in  molecular mass from 27 to 36 kDa and are acidic proteins with pIs between 4.2 and  5.3. Bass prokallikrein was activated by trypsin cleavage. These novel  kallikreins were compared with human and rat tissue kallikreins in regard to  immunoreactivity, molecular weight, isoelectric point, extinction coefficient,  susceptibility to serine proteinase inhibitors and their ability to cleave low  molecular weight dog kininogen to release kinin peptides.
+C1 National Marine Fisheries Service, Southeast Fisheries Science Center, Charleston Laboratory, SC 29422, USA.
+NR 0
+TC 0
+SN 
+EI 0162-310
+J9 Immunopharmacology
+PD MAY 1
+PY 1996
+VL 32
+IS 1-3
+BP 94
+EP 5
+DI 10.1016/0162-3109(95)00061-5
+PG -89
+WC Animals; Bass; Dogs; Enzyme Precursors; analysis; Evolution, Molecular; Humans; Moles; Ranidae; Rats; Vertebrates; metabolism
+UT PubMed:8796277
+PM 8796277
+DA 1996-05-01
+ER
+
+PT J
+AU Kahn, E
+   Hotmar, J
+   Frouin, F
+   Di, Paola M
+   Bazin, JP
+   Di, Paola R
+   Bernheim, A
+AF Kahn, E
+   Hotmar, J
+   Frouin, F
+   Di Paola, M
+   Bazin, J P
+   Di Paola, R
+   Bernheim, A
+TI Spectral and dynamic confocal fluorescence characterization of cytogenetic
+SO Analytical cellular pathology : the journal of the European Society for
+LA English
+DT Letter
+AB Investigations were performed on fluorescent in situ hybridization (FISH)  preparations to examine whether factor analysis of medical image sequences  (FAMIS) can be used to isolate fluorescent probes by means of their spectral  and/or extinction dynamic emission properties. FISH is used to track down  chromosomes of interest in cell nuclei and mitoses. Cytogenetic techniques  producing flat preparations of whole cells were assumed to preserve the probes'  access to their targets. To isolate the result of hybridization in the human  nuclear interphase, we used a confocal microscope. Labelling of the targets by  the probes (sequences labelled by FITC and TRITC) in the nuclei stained by  propidium iodide was used as a biological model. We used two methods to isolate  the component parts of the model: multispectral analysis and dynamic studies. In  the case of multispectral analysis, the investigation was performed on 2D and 3D  sequences of 28 images obtained on a single photomultiplier (PM) detector of the  confocal microscope by selection of emission through 10-nm interference filters  in the range of 500-780 nm and by z-displacement in each filter setting. In the  case of dynamic studies, the investigation was performed on sequences of 30-70  images obtained on the same detector by single or average integrated acquisition  of 10-30 scans. Confocal scanning yields images with constant excitation time.  These images were investigated by FAMIS and the results revealed that the spectra  and kinetics as factors, and factor images corresponded to FITC and TRITC stained  targets, as well as to propidium iodide stained interphase. In conclusion, we  would verify that targets were isolated through the spectrum of the fluorescent  probes and could be distinguished from the propidium iodide used to stain the  nuclei. It was also possible to distinguish them from the propidium iodide by  taking into account differences in photobleaching of the different fluorochromes.  The study leads us to process displacements by registration methods prior to  factor analysis to improve the results.
+NR 0
+TC 0
+SN 
+EI 0921-891
+J9 Anal Cell Pathol
+PD OCT 1
+PY 1996
+VL 12
+IS 1
+BP 45
+EP 56
+DI 
+PG 11
+WC Fluorescein-5-isothiocyanate; Fluorescent Dyes; Humans; In Situ Hybridization; Lymphocytes; ultrastructure; Male; Microscopy, Confocal; methods
+UT PubMed:8933908
+PM 8933908
+DA 1996-10-01
+ER
+
+PT J
+AU Blanzieri, E
+   Grandi, F
+   Maio, D
+AF Blanzieri, E
+   Grandi, F
+   Maio, D
+TI High-order behaviour in learning gate networks with lateral inhibition.
+SO Biological cybernetics
+LA English
+DT Journal Article
+AB In this work we present a neural network model incorporating activity-dependent  presynaptic facilitation with multidimensional inputs. The processing unit used  is based on a slightly simplified version of the Learning Gate Model proposed by  Ciaccia et al. (1992). The network topology integrates a well-known biological  neural circuit with a lateral inhibition connection subnet. By means of  simulation experiments, we show that the proposed networks exhibit basic and  high-order features of associative learning. In particular, overshadowing and  blocking are reproduced in the presence of both noise-free and noisy inputs. The  role of noise in the development of high-order learning capabilities is also  discussed.
+C1 C.I.O.C.-C.N.R., Bologna, Italy.
+NR 0
+TC 0
+SN 
+EI 0340-120
+J9 Biol Cybern
+PD JAN 1
+PY 1996
+VL 74
+IS 1
+BP 73
+EP 83
+DI 10.1007/BF00199139
+PG 10
+WC Animals; Conditioning, Psychological; physiology; Cybernetics; Extinction, Psychological; physiology; Habituation, Psychophysiologic; physiology; Learning; physiology; Mathematics; Nerve Net; Neural Inhibition; physiology; Signal Detection, Psychological; physiology; Synapses; physiology
+UT PubMed:8573655
+PM 8573655
+DA 1996-01-01
+ER
+
+PT J
+AU Garcia, R
+   Roersch, C
+AF Garcia, R
+   Roersch, C
+TI [Management policy and utilization of botanical resources in the Dominican
+SO Journal of ethnopharmacology
+LA spa
+DT Journal Article
+AB The Dominican Republic has an extension of 48 442 km2. It occupies the eastern  portion of the island of Hispaniola and is the second in size within the Greater  Antilles. The floral resources of the Island have been extensively exploited  without an adequate management policy. This has led to the destruction of about  90% of the forested lands of the country. The Dominican Republic has about 5600  species of vascular plants, of which 36% are endemic, many of which are in danger  of extinction, due to overexploitation and/or destruction of the habitats. In  order to protect the biodiversity of the Dominican Republic, 22 nature preserves  were created, representing about 13.3% of the national territory. The primary  institutions charged with the management and protection of the flora are the  General Directorate of Forests, National Directorate of Parks, the National  Botanical Garden, and the Department of Wild Life under the State Secretary of  Agriculture (SEA). Numerous laws, resolutions and decrees have been promulgated,  governing forest resources. As to the wildlife, emphasis is given to the  protection of the fauna. At present, there is a technical body, which is  structuring a Forest Code. Export of products of the wild flora is regulated by  the Wildlife Department under the State Secretary of Agriculture (SEA). This  Department also administers regulations for CITES. The Department of Plant  Sanitation of the SEA and the Dominican Centre of Export Promotion (CEDOPEX) are  also involved in the control of the export of biological materials.
+C1 Jardín Botanico Nacional, Santo Domingo, Dominican Republic.
+NR 0
+TC 0
+SN 
+EI 0378-874
+J9 J Ethnopharmacol
+PD APR 1
+PY 1996
+VL 51
+IS 1-3
+BP 147
+EP 60
+DI 10.1016/0378-8741(95)01356-3
+PG -87
+WC Animals; Animals, Wild; genetics; Commerce; legislation & jurisprudence; Conservation of Natural Resources; economics; Developing Countries; Dominican Republic; Ecology; Ecosystem; Forestry; economics; Government Agencies; organization & administration; International Cooperation; Licensure; legislation & jurisprudence; Patents as Topic; legislation & jurisprudence; Plants; genetics
+UT PubMed:9213610
+PM 9213610
+DA 1996-04-01
+ER
+
+PT J
+AU Turner, IM
+   T, Corlett R
+AF Turner, I M
+   T Corlett, R
+TI The conservation value of small, isolated fragments of lowland tropical rain
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Deforestation is occurring at an alarming rate in the lowland tropics. In many  tropical regions, rain forest is restricted to small (<100 ha), isolated  fragments. While only the preservation of large areas of tropical rain forest can  safeguard the complete biota, recent research has shown that a substantial number  of forest species can persist for decades in fragmented forest, though large  vertebrates are susceptible to habitat fragmentation. Inevitably, small fragments  will become the last refuges of many rainforest species that are on the brink of  extinction. In areas with little rain forest remaining, fragments can be the  'seeds' from which to re-establish extensive forest.
+C1 Ian Turner is at the School of Biological Sciences, National University of Singapore, Singapore 119260.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD AUG 1
+PY 1996
+VL 11
+IS 8
+BP 330
+EP 3
+DI 10.1016/0169-5347(96)10046-x
+PG -327
+UT PubMed:21237864
+PM 21237864
+DA 1996-08-01
+ER
+
+PT J
+AU Tanaka, Y
+AF Tanaka, Y
+TI Sexual selection enhances population extinction in a changing environment.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Animal communication systems (sexual and social communications) may cause an  extra selection load on populations because of the cost of the signals. Under  environmental deterioration, the cost of signaling must increase, resulting in an  evolutionary reduction in the signal if it is maintained by natural selection vs.  sexual selection balance. And in turn, the degeneration of the signal tends to  reduce the selection load imposed by the cost. But if female preference resides  in a population, sexual selection may prevent rapid degeneration of the signal,  which is increasingly costly. Hence sexual selection may enhance populational  extinction by increasing selection load under environmental changes. This paper  evaluates the extra selection load that a communication system suffers when an  environment deteriorates or the ecological optimum for a signal changes in the  opposite direction to the sexual selection optimum.
+C1 Department of Biology, College of Arts and Sciences, University of Tokyo, Japan.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD JUN 7
+PY 1996
+VL 180
+IS 3
+BP 197
+EP 206
+DI 10.1006/jtbi.1996.0096
+PG 9
+WC Animal Communication; Animals; Biological Evolution; Environment; Female; Male; Models, Biological; Sexual Behavior, Animal
+UT PubMed:8759528
+PM 8759528
+DA 1996-06-07
+ER
+
+PT J
+AU Hu, O
+   Brunisholz, RA
+   Zuber, H
+AF Hu, O
+   Brunisholz, R A
+   Zuber, H
+TI Proteolytic modifications of the B800-860 complex of the photosynthetic bacterium
+SO Photosynthesis research
+LA English
+DT Journal Article
+AB The modification effects on the absorption and cirular dichroic (CD) spectra of  the isolated B800-860 antenna complex of Rhodocyclus tenuis by a number of  proteolytic enzymes were investigated. The chymotrypsin modifications of the  B800-860 complex led to an about 40% decrease of the 860-nm band and a blue-shift  to 841 nm. The biphasic CD signal related to the B860 BChl disappeared and a new  double CD signal with a zero-crossing point at 842 nm appeared. These absorption  and CD spectral changes suggested that a B800-841 complex resulted after  chymotrypsin digestion. The polypeptide components of the chymotrypsin-modified  B800-860 complex were separated by reverse-phase chromatography, and their amino  acid sequences determined by protein sequencing and mass spectrometry. Sequence  analyses showed that the C-terminal 25 residues of the B800-860-α polypeptide and  the C-terminal 8 residues of the B800-860-β polypeptide were cleaved by  chymotrypsin, and the remaining α, β polypeptide fragments apparently form the  structural basis for the newly-formed B800-841 complex. No significant spectral  change was observed from exposing the isolated B800-860 complex to trypsin,  carboxypeptidase A and the combination of carboxypeptidase A and carboxypeptidase  B. Short-term proteinase K incubation of the B800-860 complex of Rc. tenuis led  to a preferential decrease of the 860-nm absorbance band and its related CD  signals, as compared to the 800-nm absorbance and CD bands, suggesting that the  C-terminal portions of the antenna polypeptides are possibly exposed to the  exterior of the B800-860 complex micelles. Whereas, long-term proteinase K  digestion resulted in the spectral collapse of the B800-860 complex and the  release of free BChls. Our proteolysis experiments support the hypothesis that  the C-terminal portions of the antenna polypeptides play a key role in the  redshift and strong molar extinction of the Qy band of the B850 BChls.
+C1 Institut für Molekularbiologie und Biophysik, ETH-Hönggerberg, CH-8093, Zürich, Switzerland.
+NR 0
+TC 0
+SN 
+EI 0166-859
+J9 Photosynth Res
+PD DEC 1
+PY 1996
+VL 50
+IS 3
+BP 223
+EP 32
+DI 10.1007/BF00033121
+PG -191
+UT PubMed:24271961
+PM 24271961
+DA 1996-12-01
+ER
+
+PT J
+AU Allen, LJ
+   Cormier, PJ
+AF Allen, L J
+   Cormier, P J
+TI Environmentally driven epizootics.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Environmental conditions can be the driving force behind an epizootic.  Environmental changes may favor growth of a particular species, which results in  increased contact rates and spread of a disease. We examine this particular  phenomenon in SI and SIS models and use it to explain the possible disease  outbreaks in nature. Either infected individuals recover from the disease (SIS  model) or suffer disease fatalities (SI model). Epizootic models for a single  population are examined where contact rate depends on population size. A  reproductive number R is defined that depends on environmental carrying capacity.  The single-population models are coupled to form three different two-species  models with intra- and interspecies contact rates that depend on the population  sizes of both populations. The stability results show that it is possible for the  disease to drive one of the populations to extinction, the one with disease  fatalities. The surviving species serves as a reservoir for the disease. Single-  and two-species epizootic models are examined in a particular case where the  contact rates are assumed to be constant. This leads to a new definition for the  contact rate. A complete global analysis is possible in these latter cases. The  results are compared and contrasted with the models with variable contact rates.  The prototype for the models is the spread of disease in wildlife populations,  which includes such diseases as plague or Lyme disease.
+C1 Department of Mathematics, Texas Tech University, Lubbock 79409, USA.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD JAN 1
+PY 1996
+VL 131
+IS 1
+BP 51
+EP 80
+DI 10.1016/0025-5564(95)00011-9
+PG 29
+WC Animals; Communicable Diseases; transmission; Disease Outbreaks; veterinary; Environment; Humans; Mathematics; Models, Biological; Population Dynamics
+UT PubMed:8589538
+PM 8589538
+DA 1996-01-01
+ER
+
+PT J
+AU Hill, JS
+   Davis, RC
+   Yang, D
+   Wen, J
+   Philo, JS
+   Poon, PH
+   Phillips, ML
+   Kempner, ES
+   Wong, H
+AF Hill, J S
+   Davis, R C
+   Yang, D
+   Wen, J
+   Philo, J S
+   Poon, P H
+   Phillips, M L
+   Kempner, E S
+   Wong, H
+TI Human hepatic lipase subunit structure determination.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Chinese hamster ovary cells were stably transfected with a human hepatic lipase  (HL) cDNA. The recombinant enzyme was purified from culture medium in milligram  quantities and shown to have a molecular weight, specific activity, and heparin  affinity equivalent to HL present in human post-heparin plasma. The techniques of  intensity light scattering, sedimentation equilibrium, and radiation inactivation  were employed to assess the subunit structure of HL. For intensity light  scattering, purified enzyme was subjected to size exclusion chromatography  coupled to three detectors in series: an ultraviolet absorbance monitor, a  differential refractometer, and a light scattering photometer. The polypeptide  molecular weight (without carbohydrate contributions) was calculated using the  measurements from the three detectors combined with the extinction coefficient of  human HL. A single protein peak containing HL activity was identified and  calculated to have a molecular mass of 107,000 in excellent agreement with the  expected value for a dimer of HL (106.8 kDa). In addition, sedimentation  equilibrium studies revealed that HL had a molecular mass (with carbohydrate  contributions) of 121 kDa. Finally, to determine the smallest structural unit  required for lipolytic activity, HL was subjected to radiation inactivation.  Purified HL was exposed to various doses of high energy electrons at -135 degrees  C; lipase activity decreased as a single exponential function of the radiation  dose to less than 0.01% remaining activity. The target size of functional HL was  calculated to be 109 kDa, whereas the size of the structural unit was determined  to be 63 kDa. These data indicate that two HL monomer subunits are required for  lipolytic activity, consistent with an HL homodimer. A model for active dimeric  hepatic lipase is presented with implications for physiological function.
+C1 Lipid Research Laboratory, West Los Angeles VA Medical Center, Los Angeles, California 90073, USA.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD SEP 13
+PY 1996
+VL 271
+IS 37
+BP 22931
+EP 6
+DI 10.1074/jbc.271.37.22931
+PG -22925
+WC Animals; Cell Line; Chromatography, Gel; Cricetinae; Cricetulus; Female; Humans; Lipase; chemistry; Liver; enzymology; Protein Conformation; Recombinant Proteins; chemistry; Scattering, Radiation; Transfection; Ultracentrifugation
+UT PubMed:8798474
+PM 8798474
+DA 1996-09-13
+ER
+
+PT J
+AU Pollmann, S
+AF Pollmann, S
+TI A pop-out induced extinction-like phenomenon in neurologically intact subjects.
+SO Neuropsychologia
+LA English
+DT Journal Article
+AB A series of tachistoscopic search experiments was performed to investigate  variations of distractor effects dependent on the relative position and salience  of target and distractor. It was found that highly salient (pop out) items  distracted search for less salient (conjunction) targets and vice versa. However,  only the effect of pop-out distractors was lateralized when paired with a  contralateral target, RVF-distractors leading to a stronger latency increase.  With unimanual response, this effect was stronger in the right hand. When the  distractors were presented in the same visual halffield (VF) as the targets,  effects were of comparable size in both VF.
+C1 Institute of General, Biological and Cognitive Psychology, Free University, Berlin, Germany.
+NR 0
+TC 0
+SN 
+EI 0028-393
+J9 Neuropsychologia
+PD MAY 1
+PY 1996
+VL 34
+IS 5
+BP 413
+EP 25
+DI 10.1016/0028-3932(95)00125-5
+PG -388
+WC Adult; Extinction, Psychological; physiology; Female; Fixation, Ocular; physiology; Functional Laterality; physiology; Humans; Male; Middle Aged; Reaction Time; physiology; Reading; Space Perception; physiology; Visual Fields; physiology; Visual Perception; physiology
+UT PubMed:9148198
+PM 9148198
+DA 1996-05-01
+ER
+
+PT J
+AU Reed, DJ
+   Begon, M
+   Thompson, DJ
+AF Reed, D J
+   Begon, M
+   Thompson, D J
+TI Differential cannibalism and population dynamics in a host-parasitoid system.
+SO Oecologia
+LA English
+DT Journal Article
+DE Biological control; Cannibalism; Plodia interpunctella; Population dynamics; Venturia canescens
+AB The effects of host cannibalism on a host-parasitoid system were explored through  experiment and modelling. In individual encounters between parasitized and  unparasitized Plodia interpunctella larvae, parasitized larvae were more likely  to be cannibalized. Inclusion of this differential cannibalism into a simple  Lotka-Volterra-type model of host-parasitoid population dynamics generates  alternative stable states-including stable coexistence and extinction of the  parasitoid - which depend on starting conditions. Possible mechanisms for  differential cannibalism, and its implications for studies of host-parasitoid  populations and biological control programmes are discussed.
+C1 Population Biology Research Group, Department of Environmental and Evolutionary Biology, The University of Liverpool, Nicholson Building, PO Box 147, L69 3BX,Liverpool, UK.
+   Population Biology Research Group, Department of Environmental and Evolutionary Biology, The University of Liverpool, Nicholson Building, PO Box 147, L69 3BX,Liverpool, UK.
+   Population Biology Research Group, Department of Environmental and Evolutionary Biology, The University of Liverpool, Nicholson Building, PO Box 147, L69 3BX,Liverpool, UK.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD JAN 1
+PY 1996
+VL 105
+IS 2
+BP 189
+EP 193
+DI 10.1007/BF00328545
+PG 4
+UT PubMed:28307081
+PM 28307081
+DA 1996-01-01
+ER
+
+PT J
+AU Stormark, KM
+   Hugdahl, K
+AF Stormark, K M
+   Hugdahl, K
+TI Peripheral cuing of covert spatial attention before and after emotional
+SO The International journal of neuroscience
+LA English
+DT Journal Article
+AB Spatial cuing of attentional shifts were investigated before and after the visual  cue had acquired emotional significance through a classical conditioning  procedure. The study consisted of three phases; an attention preconditioning  phase, the conditioning phase and an attention postconditioning (extinction)  phase. In the attention phases, subjects participated in a trial-by-trial cuing  task, in which the location of the target was validly or invalidly cued by either  a frame-lit or a completely lit rectangle. During conditioning half the subjects  (Conditioning group) had a 90 dB white noise unconditioned stimulus (UCS)  presented together with one of the two attentional cues. This cue was, thus,  turned into a conditioned stimulus (CS+), while the other cue became a CS-. The  Control group received the noise uncontingent upon presentations of these  stimuli. The Conditioning group showed greater skin conductance responses (SCRs)  to the CS+ compared to the CS-, reflecting that a conditioned response was  established. When the CS+ served as attentional cue, there was no difference in  RTs between validly and invalidly cued targets, while responses to invalidly cued  targets were delayed on all other trials. This suggests that the CS+ reduced the  cognitive cost of shifting attention from the cued to the uncued location.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0020-745
+J9 Int J Neurosci
+PD SEP 1
+PY 1996
+VL 86
+IS 3-4
+BP 225
+EP 40
+DI 10.3109/00207459608986713
+PG -185
+WC Adult; Affect; Attention; Conditioning, Psychological; Female; Functional Laterality; Humans; Male; Reaction Time; Space Perception; Spatial Behavior
+UT PubMed:8884393
+PM 8884393
+DA 1996-09-01
+ER
+
+PT J
+AU Hedges, SB
+   Parker, PH
+   Sibley, CG
+   Kumar, S
+AF Hedges, S B
+   Parker, P H
+   Sibley, C G
+   Kumar, S
+TI Continental breakup and the ordinal diversification of birds and mammals.
+SO Nature
+LA English
+DT Journal Article
+AB The classical hypothesis for the diversification of birds and mammals proposes  that most of the orders diverged rapidly in adaptive radiations after the  Cretaceous/Tertiary (K/T) extinction event 65 million years ago. Evidence is  provided by the near-absence of fossils representing modern orders before the K/T  boundary. However, fossil-based estimates of divergence time are known to be  conservative because of sampling biases, and some molecular/time estimates point  to earlier divergences among orders. In an attempt to resolve this controversy,  we have estimated times of divergence among avian and mammalian orders with a  comprehensive set of genes that exhibit a constant rate of substitution. Here we  report molecular estimates of divergence times that average about 50-90% earlier  than those predicted by the classical hypothesis, and show that the timing of  these divergences coincides with the Mesozoic fragmentation of emergent land  areas. This suggests that continental breakup may have been an important  mechanism in the ordinal diversification of birds and mammals.
+C1 Department of Biology and Institute of Molecular Evolutionary Genetics, Pennsylvania State University, University Park, 16802, USA. sbh1@psuvm.psu.edu
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD MAY 16
+PY 1996
+VL 381
+IS 6579
+BP 226
+EP 9
+DI 10.1038/381226a0
+PG -217
+WC Animals; Biological Evolution; Birds; classification; Cell Nucleus; genetics; Evolution, Molecular; Fossils; Genes; Geography; Humans; Mammals; classification; Mitochondria; genetics
+UT PubMed:8622763
+PM 8622763
+DA 1996-05-16
+ER
+
+PT J
+AU Kock, MD
+AF Kock, M D
+TI Wildlife, people and development: veterinary contributions to wildlife health and
+SO Tropical animal health and production
+LA English
+DT Review
+AB Human population pressures, habitat loss, environmental degradation and illegal  hunting in Africa have resulted in the loss of biodiversity and near extinction  of certain wildlife species. The dilemma for Africa is the balancing of  conservation and development. If wildlife is not to become a relic of the past  then it must have more than just aesthetic value. It must contribute materially  to the well being of people who live close to the resource. In fact, appropriate  management of biodiversity would lay the foundations for a more positive future  for the rural people of Africa, with the key being the adoption of an active  adaptive management philosophy. This paper reviews the issue of sustainable use  of wildlife resources and how the Veterinary profession contributes positively to  wildlife health management in Africa. These contributions have been through  increasing veterinary inputs into wildlife management and research, disease  surveillance and prevention, training and education. Wildlife and ecosystems are  increasingly having to be managed in order to save and maintain biological  diversity. Veterinarians have a crucial role to play towards the maintenance of  wildlife health as part of a multi-disciplinary wildlife management team.
+C1 Department of National Parks and Wild Life Management, Harare, Zimbabwe.
+NR 0
+TC 0
+SN 
+EI 0049-474
+J9 Trop Anim Health Prod
+PD FEB 1
+PY 1996
+VL 28
+IS 1
+BP 68
+EP 80
+DI 10.1007/BF02250729
+PG 12
+WC Africa; epidemiology; Alligators and Crocodiles; Animal Diseases; epidemiology; Animal Husbandry; Animals; Animals, Wild; Birds; Conservation of Natural Resources; Ecosystem; Education, Veterinary; Humans; Perissodactyla; Veterinary Medicine
+UT PubMed:8815616
+PM 8815616
+DA 1996-02-01
+ER
+
+PT J
+AU Roberts, BW
+   Newman, ME
+AF Roberts, B W
+   Newman, M E
+TI A model for evolution and extinction.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB We present a model for evolution and extinction in large ecosystems. The model  incorporates the effects of interactions between species and the influences of  abiotic environmental factors. We study the properties of the model by  approximate analytic solution and also by numerical simulation, and use it to  make predictions about the distribution of extinctions and species lifetimes that  we would expect to see in real ecosystems. It should be possible to test these  predictions against the fossil record. The model indicates that a possible  mechanism for mass extinction is the coincidence of a large coevolutionary  avalanche in the ecosystem with a severe environmental disturbance.
+C1 LASSP, Cornell University, Ithaca, NY 14853, USA.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD MAY 7
+PY 1996
+VL 180
+IS 1
+BP 39
+EP 54
+DI 10.1006/jtbi.1996.0076
+PG 15
+WC Animals; Biological Evolution; Computer Simulation; Ecosystem; Environment; Models, Biological
+UT PubMed:8763357
+PM 8763357
+DA 1996-05-07
+ER
+
+PT J
+AU Sinha, S
+   Parthasarathy, S
+AF Sinha, S
+   Parthasarathy, S
+TI Unusual dynamics of extinction in a simple ecological model.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Studies on natural populations and harvesting biological resources have led to  the view, commonly held, that (i) populations exhibiting chaotic oscillations run  a high risk of extinction; and (ii) a decrease in emigration/exploitation may  reduce the risk of extinction. Here we describe a simple ecological model with  emigration/depletion that shows behavior in contrast to this. This model displays  unusual dynamics of extinction and survival, where populations growing beyond a  critical rate can persist within a band of high depletion rates, whereas  extinction occurs for lower depletion rates. Though prior to extinction at lower  depletion rates the population exhibits chaotic dynamics with large amplitudes of  variation and very low minima, at higher depletion rates the population persists  at chaos but with reduced variation and increased minima. For still higher  values, within the band of persistence, the dynamics show period reversal leading  to stability. These results illustrate that chaos does not necessarily lead to  population extinction. In addition, the persistence of populations at high  depletion rates has important implications in the considerations of strategies  for the management of biological resources.
+C1 Centre for Cellular and Molecular Biology, Hyderabad, India.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD FEB 20
+PY 1996
+VL 93
+IS 4
+BP 1504
+EP 8
+DI 10.1073/pnas.93.4.1504
+PG -1496
+WC Animals; Conservation of Natural Resources; Ecology; Models, Theoretical; Nonlinear Dynamics; Population Dynamics
+UT PubMed:8643661
+PM 8643661
+DA 1996-02-20
+ER
+
+PT J
+AU Huether, G
+   Doering, S
+   Rüger, U
+   Rüther, E
+   Schüssler, G
+AF Huether, G
+   Doering, S
+   Rüger, U
+   Rüther, E
+   Schüssler, G
+TI [Psychological stress and neuronal plasticity. An expanded model of the stress
+SO Zeitschrift fur Psychosomatische Medizin und Psychoanalyse
+LA ger
+DT Review
+AB A short survey on results and theories in psychosomatic and neurobiologic stress  research is presented. Based on a comprehensive definition of the stress-reaction  process, the biological and psychological consequences are described which are  elicited by either controllable or uncontrollable stress. We conclude that  controllable stress triggers the stabilization and facilitation of neuronal  networks involved in the generation of appropriate patterns of appraisal and  coping, whereas uncontrollable stress favours the extinction of inappropriate  patterns and the reorganisation of neuronal connections underlying certain  inappropriate behaviors. Both, controllable an uncontrollable  stress-reaction-processes are therefore essential prerequisites of, and inherent  challenges to, the development and adaptation of an individual in an ever  changing external world but may also lead to psychodevelopmental failures and  psychosomatic diseases.
+C1 Klinik für Psychiatrie, Georg-August-Universität Göttingen sowie der Klinik für Medizinische Psychologie und Psychotherapie der Leopold-Franzens-UniversitätInnsbruck.
+NR 0
+TC 0
+SN 
+EI 0340-561
+J9 Z Psychosom Med Psychoanal
+PD JAN 1
+PY 1996
+VL 42
+IS 2
+BP 107
+EP 27
+DI 
+PG -80
+WC Adaptation, Psychological; physiology; Animals; Arousal; physiology; Brain; physiopathology; Humans; Nerve Net; physiopathology; Neuronal Plasticity; physiology; Psychophysiologic Disorders; physiopathology; Stress, Psychological; complications
+UT PubMed:8711955
+PM 8711955
+DA 1996-01-01
+ER
+
+PT J
+AU Marshall, CR
+   Ward, PD
+AF Marshall, CR
+   Ward, PD
+TI Sudden and Gradual Molluscan Extinctions in the Latest Cretaceous of Western
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Incompleteness of the fossil record has confounded attempts to establish the role  of the end-Cretaceous bolide impact in the Late Cretaceous mass extinctions.  Statistical analysis of latest Cretaceous outer-shelf macrofossils from western  European Tethys reveals (i) a major extinction at or near the Cretaceous-Tertiary  (K-T) boundary, probably caused by the impact, (ii) either a faunal abundance  change or an extinction of up to nine ammonite species associated with a  regression event shortly before the boundary, (iii) gradual extinction of most  inoceramid bivalves well before the K-T boundary, and (iv) background extinction  of approximately six ammonites throughout the latest Cretaceous.
+C1 C. R. Marshall, Department of Earth and Space Sciences, Molecular Biology Institute, and Institute for Geophysics and Planetary Physics, University ofCalifornia, Los Angeles, CA 90095-1567, USA. P. D. Ward, Department of GeologicalSciences, AJ-20, University of Washington, Seattle, WA 98195, USA.
+NR 0
+TC 0
+SN 1095-920
+EI 
+J9 Science
+PD NOV 22
+PY 1996
+VL 274
+IS 5291
+BP 1360
+EP 3
+DI 10.1126/science.274.5291.1360
+PG -1357
+UT PubMed:8910273
+PM 8910273
+DA 1996-11-22
+ER
+
+PT J
+AU Didham, RK
+   Ghazoul, J
+   Stork, NE
+   Davis, AJ
+AF Didham, R K
+   Ghazoul, J
+   Stork, N E
+   Davis, A J
+TI Insects in fragmented forests: a functional approach.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Insects are highly susceptible to the adverse effects of forest fragmentation. It  is now beyond any doubt that fragmentation-induced changes in abundance and  species richness occur in many insect groups. However, the study of insects in  fragmented forests is still in its infancy and lacks real direction. Simple  empirical studies are not answering the questions we most want to answer about  fragmented systems. Are we in the midst of a mass-extinction crisis? What is the  functional significance of the immense insect biodiversity? Does biodiversity  loss affect ecosystem functioning? A more focused, functional approach to the  study of forest fragmentation is required to move beyond the description of  pattern and to determine how changes in insect communities affect ecosystem  processes in fragmented forests.
+C1 Biodiversity, Dept of Entomology The Natural History Museum, Cromwell Road, London, UK SW7 5BD
+   NERC Centre for Population Biology, Imperial College atSilwood Park, Ascot, UK SL5 7PY.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD JUN 1
+PY 1996
+VL 11
+IS 6
+BP 255
+EP 60
+DI 10.1016/0169-5347(96)20047-3
+PG -195
+UT PubMed:21237834
+PM 21237834
+DA 1996-06-01
+ER
+
+PT J
+AU Foote, M
+   Raup, DM
+AF Foote, M
+   Raup, D M
+TI Fossil preservation and the stratigraphic ranges of taxa.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB The incompleteness of the fossil record hinders the inference of evolutionary  rates and patterns. Here, we derive relationships among true taxonomic durations,  preservation probability, and observed taxonomic ranges. We use these  relationships to estimate original distributions of taxonomic durations,  preservation probability, and completeness (proportion of taxa preserved), given  only the observed ranges. No data on occurrences within the ranges of taxa are  required. When preservation is random and the original distribution of durations  is exponential, the inference of durations, preservability, and completeness is  exact. However, reasonable approximations are possible given non-exponential  duration distributions and temporal and taxonomic variation in preservability.  Thus, the approaches we describe have great potential in studies of taphonomy,  evolutionary rates and patterns, and genealogy. Analyses of Upper Cambrian-Lower  Ordovician trilobite species, Paleozoic crinoid genera, Jurassic bivalve species,  and Cenozoic mammal species yield the following results: (1) The preservation  probability inferred from stratigraphic ranges alone agrees with that inferred  from the analysis of stratigraphic gaps when data on the latter are available.  (2) Whereas median durations based on simple tabulations of observed ranges are  biased by stratigraphic resolution, our estimates of median duration, extinction  rate, and completeness are not biased.(3) The shorter geologic ranges of  mammalian species relative to those of bivalves cannot be attributed to a  difference in preservation potential. However, we cannot rule out the  contribution of taxonomic practice to this difference. (4) In the groups studied,  completeness (proportion of species [trilobites, bivalves, mammals] or genera  [crinoids] preserved) ranges from 60% to 90%. The higher estimates of  completeness at smaller geographic scales support previous suggestions that the  incompleteness of the fossil record reflects loss of fossiliferous rock more than  failure of species to enter the fossil record in the first place.
+C1 Department of the Geophysical Sciences, University of Chicago, IL 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD APR 1
+PY 1996
+VL 22
+IS 2
+BP 121
+EP 40
+DI 10.1017/s0094837300016134
+PG -81
+WC Animals; Biological Evolution; Classification; Data Interpretation, Statistical; Fossils; Paleontology
+UT PubMed:11539203
+PM 11539203
+DA 1996-04-01
+ER
+
+PT J
+AU Woodruff, RC
+   Huai, H
+   Thompson, JN Jr
+AF Woodruff, R C
+   Huai, H
+   Thompson, J N Jr
+TI Clusters of identical new mutation in the evolutionary landscape.
+SO Genetica
+LA English
+DT Journal Article
+AB In contrast to the common assumption that each new mutant results from a unique,  independent mutation event, clusters of identical premeiotic mutant alleles are  common. Clusters can produce large numbers of related individuals carrying  identical copies of the same new genetic change. By entering the gene pool in  multiple copies at one time, clusters can influence fundamental processes of  population genetics. Here we report evidence that clusters can increase the  arrival and fixation probabilities and can lengthen the average time to  extinction of new mutations. We also suggest it may be necessary to reconsider  other fundamental elements of population genetic theory.
+C1 Department of Biological Sciences, Bowling Green State University, OH 43403, USA.
+NR 0
+TC 0
+SN 
+EI 0016-670
+J9 Genetica
+PD OCT 1
+PY 1996
+VL 98
+IS 2
+BP 149
+EP 60
+DI 10.1007/BF00121363
+PG -89
+WC Animals; Chromosome Mapping; Drosophila melanogaster; genetics; Female; Gene Frequency; Genes, Lethal; Genes, Recessive; Male; Mathematics; Models, Genetic; Sex Characteristics
+UT PubMed:8976063
+PM 8976063
+DA 1996-10-01
+ER
+
+PT J
+AU Pellmyr, O
+   Leebens-Mack, J
+   Huth, CJ
+AF Pellmyr, O
+   Leebens-Mack, J
+   Huth, C J
+TI Non-mutualistic yucca moths and their evolutionary consequences.
+SO Nature
+LA English
+DT Journal Article
+AB Interspecific mutualisms are regarded as having evolved from antagonistic or  commensalistic interactions, with most mutualisms remaining facultative but some  having coevolved into obligate reciprocal dependency. Underlying mutualism is an  intrinsic conflict between the parties, in that each is under selection for  increased exploitation of the other. Theoretical models suggest that this  conflict is a source of evolutionary instability, and that evolution of  'cheating' by one party may lead to reciprocal extinction. Here we present  phylogenic evidence for reversal of an obligate mutualism: within the yucca moth  complex, distinct cheater species derived from obligate pollinators inflict a  heavy cost on their yucca hosts by laying their eggs but not pollinating the  yucca. Phylogenetic data show the cheaters to have existed for a long time.  Coexisting pollinators and cheaters are not sister taxa, supporting predictions  that evolution of cheating within a single pollinator is evolutionarily unstable.  Several lines of evidence support a hypothesis that host shifts preceded the  reversal of obligate mutualism. Host or partner shifts is a mechanism that can  provide a route of evolutionary escape among obligate mutualists in general.
+C1 Department of Biology, Vanderbilt University, Nashville, Tennessee 37235, USA.
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD MAR 14
+PY 1996
+VL 380
+IS 6570
+BP 155
+EP 6
+DI 10.1038/380155a0
+PG -149
+WC Animals; Biological Evolution; DNA, Mitochondrial; genetics; Models, Biological; Molecular Sequence Data; Moths; genetics; Phylogeny; Plants; Reproduction
+UT PubMed:8600388
+PM 8600388
+DA 1996-03-14
+ER
+
+PT J
+AU Glasby, GP
+   Kunzendorf, H
+AF Glasby, G P
+   Kunzendorf, H
+TI Multiple factors in the origin of the Cretaceous/Tertiary boundary: the role of
+SO Geologische Rundschau : Zeitschrift fur allgemeine Geologie
+LA English
+DT Review
+AB A review of the scenarios for the Cretaceous/ Tertiary (K/T) boundary event is  presented and a coherent hypothesis for the origin of the event is formulated.  Many scientists now accept that the event was caused by a meteorite impact at  Chicxulub in the Yucatan Peninsula, Mexico. Our investigations show that the  oceans were already stressed by the end of the Late Cretaceous as a result of the  long-term drop in atmospheric CO2, the long-term drop in sea level and the  frequent development of oceanic anoxia. Extinction of some marine species was  already occurring several million years prior to the K/T boundary. The biota were  therefore susceptible to change. The eruption of the Deccan Traps, which began at  66.2 Ma, coincides with the K/T boundary events. It erupted huge quantities of  H2SO4, HCl, CO2, dust and soot into the atmosphere and led to a significant drop  in sea level and marked changes in ocean temperature. The result was a major  reduction in oceanic productivity and the creation of an almost dead ocean. The  volcanism lasted almost 0.7 m.y. Extinction of biological species was graded and  appeared to correlate with the main eruptive events. Elements such as Ir were  incorporated into the volcanic ash, possibly on soot particles. This horizon  accumulated under anoxic conditions in local depressions and became the marker  horizon for the K/T boundary. An oxidation front penetrated this horizon leading  to the redistribution of elements. The eruption of the Deccan Traps is the  largest volcanic event since the Permian-Triassic event at 245 Ma. It followed a  period of 36 m.y. in which the earth's magnetic field failed to reverse.  Instabilities in the mantle are thought to be responsible for this eruption and  therefore for the K/T event. We therefore believe that the K/T event can be  explained in terms of the effects of the Deccan volcanism on an already stressed  biosphere. The meteorite impact at Chicxulub took place after the onset of Deccan  volcanism. It probably played a regional, rather than global, role in the K/T  extinction.
+C1 Department of Earth Sciences, University of Sheffield, England.
+NR 0
+TC 0
+SN 
+EI 0016-783
+J9 Geol Rundsch
+PD JUN 1
+PY 1996
+VL 85
+IS 2
+BP 191
+EP 210
+DI 10.1007/BF02422228
+PG 19
+WC Atmosphere; chemistry; Biological Evolution; Earth, Planet; Evolution, Planetary; India; Iridium; Meteoroids; Volcanic Eruptions
+UT PubMed:11543126
+PM 11543126
+DA 1996-06-01
+ER
+
+PT J
+AU Griffiths, R
+   Daan, S
+   Dijkstra, C
+AF Griffiths, R
+   Daan, S
+   Dijkstra, C
+TI Sex identification in birds using two CHD genes.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB In theory, birds should control the sex ratio of the offspring they produce. In  practice, we have very limited evidence to support this idea because of our  difficulty in sexing nestling birds. In addition, extinction is facing an  increasing number of birds. Our ability to help includes captive breeding which,  again, is difficult if male and female adults cannot be recognized. Here we  describe the discovery of a W-linked gene in the Great tit (Parus major). It is  named CHD-W (chromodomain-helicase-DNA-binding protein W-linked), it is highly  conserved and it is W-chromosome linked in a range of bird species. These birds  also possess a second, non-W-linked CHD gene (CHD-NW). A single, simple  polymerase chain reaction technique based on both genes can be used to identify  the sex in a wide variety of birds.
+C1 Biological Centre, University of Groningen, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0962-845
+J9 Proc Biol Sci
+PD SEP 22
+PY 1996
+VL 263
+IS 1374
+BP 1251
+EP 6
+DI 10.1098/rspb.1996.0184
+PG -1245
+WC Animals; Birds; genetics; Cloning, Molecular; DNA-Binding Proteins; genetics; Female; Male; Polymerase Chain Reaction; Sex Chromosomes; genetics; Sex Determination Analysis
+UT PubMed:8858876
+PM 8858876
+DA 1996-09-22
+ER
+
+PT J
+AU White, A
+   Begon, M
+   Bowers, RG
+AF White, A
+   Begon, M
+   Bowers, R G
+TI Host-pathogen systems in a spatially patchy environment.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB A discrete model for a host-pathogen system is developed and is used to represent  the dynamics in each patch within a landscape of n x n patches. These patches are  linked by between-generation dispersal to neighbouring patches. Important results  (compared to similar 'coupled map lattice' studies) include an increase in the  likelihood of metapopulation extinction if the natural loss of pathogen particles  is low, and the observation of a radial wave pattern (not previously reported)  where the wavefront propagates uniformly from a central focus. This result has  additional significance in that it permits the system to exhibit 'intermittency'  between two quasi-stable spatial patterns: spirals and radial waves. With  intermittent behaviour, the dynamics may look consistent when viewed at one time  scale, but over a longer time scale they can alter dramatically and repeatedly  between the two patterns. There is also evidence of clear links between spatial  structure and temporal metapopulation behaviour in both the intermittent and  'pure' regions, verified by results from an algorithmic complexity measure and a  spectral analysis of the temporal dynamics.
+C1 Department of Applied Mathematics and Theoretical Physics, University of Liverpool, U.K.
+NR 0
+TC 0
+SN 
+EI 0962-845
+J9 Proc Biol Sci
+PD MAR 22
+PY 1996
+VL 263
+IS 1368
+BP 325
+EP 32
+DI 10.1098/rspb.1996.0050
+PG -293
+WC Animals; Environment; Host-Parasite Interactions; Mathematics; Models, Biological
+UT PubMed:8920254
+PM 8920254
+DA 1996-03-22
+ER
+
+PT J
+AU Houlden, BA
+   England, PR
+   Taylor, AC
+   Greville, WD
+   Sherwin, WB
+AF Houlden, B A
+   England, P R
+   Taylor, A C
+   Greville, W D
+   Sherwin, W B
+TI Low genetic variability of the koala Phascolarctos cinereus in south-eastern
+SO Molecular ecology
+LA English
+DT Journal Article
+AB Genotyping of koalas at CA-repeat microsatellite loci has revealed significant  differences in the levels of allelic diversity (A) and expected heterozygosity  (H(E)) between populations from north-eastern and south-eastern Australia. In the  10 populations studied, allelic diversity ranged from 8.0 in the Nowendoc  population to 1.7 in the Kangaroo Is. population, and values of H(E) ranged from  0.831 in the Nowendoc population to 0.331 in the Kangaroo Is. population. Data  from pooled populations revealed koalas from the north-eastern region had  significantly higher levels of allelic diversity (A = 11.5 +/- 1.4) than those  from south-eastern Australia (A = 5.3 +/- 1.0). Furthermore significantly higher  heterozygosity levels were found in the north-eastern (H(E) = 0.851) vs. the  south-eastern (H(E) = 0.436) regions of Australia. Following a near-extinction  bottleneck in the 1920s, mainland Victorian and Kangaroo Is. koalas have been  involved in an extensive program of relocations. The source populations of the  relocated animals were islands in Westernport Bay, which were founded by very few  individuals in the late 1800s and early 1900s. The significantly lower levels of  variation between south-eastern Australian populations suggests that human  intervention has had a severe effect on levels of genetic diversity in this  region, and this may have long-term genetic consequences.
+C1 School of Biological Science, University of NSW, Australia, bhoulden@rna.bio.mq.edu.au
+NR 0
+TC 0
+SN 
+EI 0962-108
+J9 Mol Ecol
+PD APR 1
+PY 1996
+VL 5
+IS 2
+BP 269
+EP 81
+DI 
+PG -188
+WC Alleles; Animals; Australia; Dinucleotide Repeats; Ecosystem; Gene Frequency; Genetic Variation; Genetics, Population; Genotype; Heterozygote; Humans; Inbreeding; Linkage Disequilibrium; Marsupialia; genetics; Polymorphism, Genetic
+UT PubMed:8673272
+PM 8673272
+DA 1996-04-01
+ER
+
+PT J
+AU Schat, CL
+   Kuperman, MN
+   Wio, HS
+AF Schat, C L
+   Kuperman, M N
+   Wio, H S
+TI An exact analytical solution of a three-component model for competitive
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB A three-component competition system is modeled as a reaction-diffusion process.  An exact analytical solution has been found that indicates that in certain  situations the classical results on extinction and coexistence of  Lotka-Volterra-type equations are no longer valid. Cases with one or both  predators diffuse are analyzed, and the stability question is discussed.
+C1 CNEA, Dpto. Física-Tandar, Buenos Aires, Argentina.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD JAN 15
+PY 1996
+VL 131
+IS 2
+BP 205
+EP 18
+DI 10.1016/0025-5564(95)00051-8
+PG -187
+WC Animals; Ecosystem; Mathematics; Models, Biological; Nonlinear Dynamics; Predatory Behavior; Species Specificity
+UT PubMed:8589545
+PM 8589545
+DA 1996-01-15
+ER
+
+PT J
+AU Carpenter, AM
+   Carr, JA
+AF Carpenter, A M
+   Carr, J A
+TI The effects of melanocortin peptides and corticosterone on habituation in the
+SO Hormones and behavior
+LA English
+DT Journal Article
+AB We investigated the ability of various melanocortin peptides and corticosterone  to influence habituation of prey-catching behavior in the toad, Bufo cognatus.  Male toads were injected with various melanocortin peptide fragments or  corticosterone 30 min prior to acquisition. Adrenocorticotropin (ACTH[1-39]),  ACTH[4-10], and N-acetyl ACTH[1-13] amide (alpha-MSH) significantly decreased the  number of turning reactions during acquisition in relation to controls. The  effects of the noncorticotropic ACTH fragments were rapid and transient,  occurring within the first 20 min of acquisition. Corticosterone caused a slight  but significant decrease in the number of turning reactions. Neither des-acetyl  alpha-MSH nor (Nle4, D-Phe7) alpha-MSH had any effect on acquisition. ACTH[1-39]  was the only peptide that delayed extinction. The ability of alpha-MSH to  facilitate acquisition was not observed in the presence of the alpha-MSH  antagonist U-76188E. These data suggest that the effects of ACTH on habituation  are, in part, independent of effects on glucocorticoid secretion. Apparently,  similar structural requirements are necessary for the behavioral effects of  melanocortins in amphibians and mammals.
+C1 Department of Biological Sciences, Texas Tech University, Lubbock 79409-3131, USA.
+NR 0
+TC 0
+SN 
+EI 0018-506
+J9 Horm Behav
+PD SEP 1
+PY 1996
+VL 30
+IS 3
+BP 236
+EP 43
+DI 10.1006/hbeh.1996.0028
+PG -193
+WC Adrenocorticotropic Hormone; pharmacology; Animals; Behavior, Animal; drug effects; Corticosterone; pharmacology; Discrimination, Psychological; drug effects; Habituation, Psychophysiologic; drug effects; Male; Peptides; pharmacology; Radioimmunoassay; Rana esculenta
+UT PubMed:8918679
+PM 8918679
+DA 1996-09-01
+ER
+

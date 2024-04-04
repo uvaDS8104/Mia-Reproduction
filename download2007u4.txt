@@ -1,0 +1,126 @@
+PT J
+AU Hernández-Suárez, CM
+   Marquet, PA
+   Velasco-Hernández, JX
+AF Hernández-Suárez, C M
+   Marquet, P A
+   Velasco-Hernández, J X
+TI Threshold parameters and metapopulation persistence.
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB A method is presented to estimate the minimum viable metapopulation size based on  the basic reproductive number R(0) and the expected time to extinction tau(E) for  epidemiological models. We exemplify our approach with two simple deterministic  metapopulation models of the patch occupancy type and then proceed to stochastic  versions that permit the estimation of the minimum viable metapopulation size.
+C1 Centro Universitario de Investigación en Ciencias Básicas, CGIC, Universidad de Colima, Gonzalo de Sandoval 444, Colima, Col. 28045 México. cmh2@cgic.ucol.mx
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD SEP 22
+PY 2007
+VL 61
+IS 2
+BP 341
+EP 53
+DI 10.1006/bulm.1998.0084
+PG -288
+WC Animals; Basic Reproduction Number; Conservation of Natural Resources; Ecosystem; Extinction, Biological; Models, Biological; Population Dynamics; Stochastic Processes
+UT PubMed:17883213
+PM 17883213
+DA 2007-09-22
+ER
+
+PT J
+AU Kerr, RA
+AF Kerr, R A
+TI EARTH SCIENCE: Did Volcanoes Drive Ancient Extinctions?
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB With the publication in recent weeks of two papers on a mass extinction 183  million years ago, researchers can add five suggestive cases to the list of  extinctions with known causes. These extinctions coincide with massive  outpourings of lava, accompanied by signs that global warming threw the  ocean-atmosphere system out of whack. Although no one can yet pin any of these  mass extinctions with certainty on the volcanic eruptions, scientists say it's  unlikely that they're all coincidences.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD SEP 11
+PY 2007
+VL 289
+IS 5482
+BP 1130
+EP 1
+DI 10.1126/science.289.5482.1130
+PG -1129
+UT PubMed:17833400
+PM 17833400
+DA 2007-09-11
+ER
+
+PT J
+AU Lyman, RL
+   O'Brien, MJ
+AF Lyman, R L
+   O'Brien, M J
+TI Chronometers and units in early archaeology and paleontology.
+SO American antiquity
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0002-731
+J9 Am Antiq
+PD JAN 16
+PY 2007
+VL 65
+IS 4
+BP 691
+EP 707
+DI 
+PG 16
+WC Archaeology; history; Biological Evolution; Chronology as Topic; Extinction, Biological; Fossils; Geology; history; History, 19th Century; History, 20th Century; Paleontology; history
+UT PubMed:17216897
+PM 17216897
+DA 2007-01-16
+ER
+
+PT J
+AU Zaldívar, ME
+   Rocha, O
+   Glander, KE
+   Aguilar, G
+   Huertas, AS
+   Sánchez, R
+   Wong, G
+AF Zaldívar, Maria E
+   Rocha, Oscar
+   Glander, Kenneth E
+   Aguilar, Gabriel
+   Huertas, Ana S
+   Sánchez, Ronald
+   Wong, Grace
+TI Distribution, ecology, life history, genetic variation, and risk of extinction of
+SO Revista de biologia tropical
+LA English
+DT Journal Article
+AB We examined the association between geographic distribution, ecological traits,  life history, genetic diversity, and risk of extinction in nonhuman primate  species from Costa Rica. All of the current nonhuman primate species from Costa  Rica are included in the study; spider monkeys (Ateles geoffroyi), howling  monkeys (Alouatta palliata), capuchins (Cebus capucinus), and squirrel monkeys  (Saimiri oerstedii). Geographic distribution was characterized accessing existing  databases. Data on ecology and life history traits were obtained through a  literature review. Genetic diversity was characterized using isozyme  electrophoresis. Risk of extinction was assessed from the literature. We found  that species differed in all these traits. Using these data, we conducted a  Pearson correlation between risk of extinction and ecological and life history  traits, and genetic variation, for widely distributed species. We found a  negative association between risk of extinction and population birth and growth  rates; indicating that slower reproducing species had a greater risk of  extinction. We found a positive association between genetic variation and risk of  extinction; i.e., species showing higher genetic variation had a greater risk of  extinction. The relevance of these traits for conservation efforts is discussed.
+C1 Universidad de Costa Rica, Escuela de Biología, Ciudad Universitaria Rodrigo Facio, San José, Costa Rica. marizaldivar@hotmail.com
+NR 0
+TC 0
+SN 
+EI 0034-774
+J9 Rev Biol Trop
+PD MAR 17
+PY 2007
+VL 52
+IS 3
+BP 679
+EP 93
+DI 10.15517/rbt.v1i2.15355
+PG -586
+WC Alouatta; genetics; Animals; Atelinae; genetics; Cebus; genetics; Costa Rica; Ecosystem; Extinction, Biological; Genetic Variation; genetics; Haplorhini; genetics; Population Density; Population Dynamics; Risk Factors; Saimiri; genetics
+UT PubMed:17361561
+PM 17361561
+DA 2007-03-17
+ER
+

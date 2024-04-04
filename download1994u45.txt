@@ -1,0 +1,1422 @@
+PT J
+AU Broekemeier, KM
+   Krebsbach, RJ
+   Pfeiffer, DR
+AF Broekemeier, K M
+   Krebsbach, R J
+   Pfeiffer, D R
+TI Inhibition of the mitochondrial Ca2+ uniporter by pure and impure ruthenium red.
+SO Molecular and cellular biochemistry
+LA English
+DT Journal Article
+AB Commercial ruthenium red is often purified by a single recrystallization as  described by Luft, J.H. (1971) Anat Rec 171, 347-368, which yields small amounts  of material having an apparent molar extinction coefficient of approximately  67,400 at 533 nm. A simple modification to the procedure dramatically improves  the yield, allowing crystallization to be repeated. Three times recrystallized  ruthenium red has an apparent extinction coefficient of approximately 85,900, the  highest value reported to date. Both crude and highly purified ruthenium red can  be shown to inhibit reverse activity of the mitochondrial Ca2+ uniporter  (uncoupled mitochondria), provided that care is taken to minimize and account for  Ca2+ release through the permeability transition pore. Crude ruthenium red is  7-10 fold more potent than the highly purified material in this regard, on an  actual ruthenium red concentration basis. The same relative potency is seen  against forward uniport (coupled mitochondria), however, the I50 values are 10  fold lower for both the crude and purified preparations. These data demonstrate  unambiguously that the energy state of mitochondria affects the sensitivity of  the Ca2+ uniporter to ruthenium red preparations, and that both the forward and  reverse reactions are subject to complete inhibition. The data suggest, however,  that the active inhibitor may not be ruthenium red per se, but one or more of the  other ruthenium complexes which are present in ruthenium red preparations.
+C1 Ohio State University, Department of Medical Biochemistry, Columbus 43210-1218.
+NR 0
+TC 0
+SN 
+EI 0300-817
+J9 Mol Cell Biochem
+PD OCT 12
+PY 1994
+VL 139
+IS 1
+BP 33
+EP 40
+DI 10.1007/BF00944201
+PG 7
+WC Animals; Biological Transport; Calcium; pharmacokinetics; Calcium Channels; drug effects; Calcium-Binding Proteins; antagonists & inhibitors; Cell Fractionation; Ion Channels; drug effects; Magnesium; pharmacokinetics; Male; Mitochondria, Liver; drug effects; Rats; Rats, Sprague-Dawley; Ruthenium Red; isolation & purification; Strontium; pharmacokinetics
+UT PubMed:7531818
+PM 7531818
+DA 1994-10-12
+ER
+
+PT J
+AU Mata, L
+   Vives, M
+   Vicente, G
+AF Mata, L
+   Vives, M
+   Vicente, G
+TI Extinction of Vibrio cholerae in acidic substrata: contaminated fish marinated
+SO Revista de biologia tropical
+LA English
+DT Journal Article
+AB Millions of Vibrio cholerae O1 El Tor were rapidly eliminated when added to  commercial ceviche prepared by marination of mahi-mahi fish in lime juice.  Likewise, large masses of viable vibrios present in laboratory contaminated fish,  were readily eliminated after immersion in lime juice, during the preparation of  ceviche. The killing effect was evident within 5 min of exposure of vibrios to  lime juice, with reductions of more than 99.9% of the initial bacterial mass.  After 2 h of marination of fish with lime juice (the minimum recommended), no  vibrios were detected in the lowest working dilutions (1:10, 1:100). The Vibrio  mass eliminated by lime juice was 2 to 6 logarithms greater than the maximum  infectious dose, and 4 to 8 logs greater than the minimum infectious dose to  induce cholera El Tor. Also, the killing time was shorter than the elapsing time  between preparing and serving food in homes or restaurants. The traditional  marination of fish with lime juice or its addition to seafood and meals  immediately before consumption, should be protected and promoted to prevent  infection with cholera vibrios. In the face of an epidemic of cholera,  consumption of ceviche prepared with lime juice would be one of the safest ways  to avoid infection with V. cholerae.
+C1 Sección de Infección-Nutrición, Universidad de Costa Rica, San Pedro.
+NR 0
+TC 0
+SN 
+EI 0034-774
+J9 Rev Biol Trop
+PD DEC 1
+PY 1994
+VL 42
+IS 3
+BP 479
+EP 85
+DI 
+PG -394
+WC Animals; Cholera; prevention & control; Citrus; Fishes; Food Handling; methods; Food Microbiology; Vibrio cholerae
+UT PubMed:7501869
+PM 7501869
+DA 1994-12-01
+ER
+
+PT J
+AU Hugdahl, K
+   Saban, S
+   Johnsen, BH
+   Brobeck, CG
+AF Hugdahl, K
+   Saban, S
+   Johnsen, B H
+   Brobeck, C G
+TI Hemispheric asymmetry and human associative learning: interactions with
+SO Integrative physiological and behavioral science : the official journal of the
+LA English
+DT Journal Article
+AB In a previous study (Hugdahl & Brobeck, 1986) it was shown that Pavlovian  conditioning to an auditory verbal conditioned stimulus (CS) initially presented  only to the left cerebral hemisphere was stronger than when the same CS was  presented to the right hemisphere. This was followed up in the present study by  controlling for the possibility that the effect was caused by laterally biased  attention. The study was performed using the "dichotic extinction paradigm,"  which consists of three different phases. During the habituation phase, the CS+  and CS- were presented binaurally and separated in time. During the acquisition  phase, the CS+ was followed by a white-noise unconditioned stimulus (UCS). During  the dichotic extinction phase, the CS+ and CS- were presented dichotically, i.e.,  simultaneous presentations on each trial. Half of the subjects had the CS+ in the  right ear, and half had the CS+ in the left ear. Each group was further divided  into two subgroups, with one subgroup instructed to attend only to the right ear  input, and the other subgroup to attend only to the left ear input. During  acquisition, larger electrodermal responses were obtained to the CS+ than to the  CS-. During dichotic extinction, the CS+ right ear group showed superior  resistance to extinction compared to the CS+ left ear group, with no effect of  the manipulation of attention. The effect was, however, attenuated when levels of  acquisition was used as covariates in an analysis of covariance. There were  overall larger responses from the left hand recording.
+C1 University of Bergen, Department of Biological and Medical Psychology, Norway.
+NR 0
+TC 0
+SN 
+EI 1053-881
+J9 Integr Physiol Behav Sci
+PD JAN 1
+PY 1994
+VL 29
+IS 1
+BP 25
+EP 38
+DI 10.1007/BF02691279
+PG 13
+WC Adult; Association Learning; physiology; Attention; physiology; Cerebral Cortex; physiology; Conditioning, Classical; physiology; Dichotic Listening Tests; Dominance, Cerebral; physiology; Extinction, Psychological; physiology; Galvanic Skin Response; physiology; Humans; Male; Psychophysiology; Speech Perception; physiology
+UT PubMed:8018549
+PM 8018549
+DA 1994-01-01
+ER
+
+PT J
+AU Cushman, JH
+   Boggs, CL
+   Weiss, SB
+   Murphy, DD
+   Harvey, AW
+   Ehrlich, PR
+AF Cushman, J Hall
+   Boggs, Carol L
+   Weiss, Stuart B
+   Murphy, Dennis D
+   Harvey, Alan W
+   Ehrlich, Paul R
+TI Estimating female reproductive success of a threatened butterfly: influence of
+SO Oecologia
+LA English
+DT Journal Article
+DE Adult emergence time Conservation biology; Euphydryas editha bayensis Hostplant phenology; Lifetime reproductive success
+AB We estimated lifetime reproductive success of Euphydryas editha bayensis  (Nymphalidae), a federally listed threatened butterfly, based on age-specific  fecundity and both adult and offspring survival. Our results indicate that the  relative timing of adult emergence and larval hosplant senescence strongly  influenced reproductive success of females. For 1992, we estimated that only  8-21% of the eggs laid by females emerging on the 1st day of the 4-week flight  season would produce larvae that reach diapause. This figure dropped to 1-5% for  females emerging 7 days into the flight season. Within our entire sample, we  estimated that 64-88% of the females produced offspring with less than a 2%  probability of reaching diapause. These estimates are particularly striking given  that they are based on only one source of larval mortality - prediapause  starvation due to hostplant senescence. This dependence of reproductive success  on the relative timing of female emergence and hostplant senescence may reduce  effective population size and render E. editha bayensis especially vulnerable to  local extinction events.
+C1 Department of Biological Sciences, Standord University, 94305, Stanford, CA, USA.
+   Center for Conservation Biology, Department of Biological Sciences, Stanford University, 94305, Stanford, CA, USA.
+   Center for Conservation Biology, Department of Biological Sciences, Stanford University, 94305, Stanford, CA, USA.
+   Department of Biological Sciences, Standord University, 94305, Stanford, CA, USA.
+   Department of Invertebrates, American Museum of Natural History, Central Park West at 79th Street, 10024, New York, NY, USA.
+   Center for Conservation Biology, Department of Biological Sciences, Stanford University, 94305, Stanford, CA, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD SEP 1
+PY 1994
+VL 99
+IS 1-2
+BP 194
+EP 200
+DI 10.1007/BF00317101
+PG 6
+UT PubMed:28313966
+PM 28313966
+DA 1994-09-01
+ER
+
+PT J
+AU Salamon, Z
+   Wang, Y
+   Tollin, G
+   Macleod, HA
+AF Salamon, Z
+   Wang, Y
+   Tollin, G
+   Macleod, H A
+TI Assembly and molecular organization of self-assembled lipid bilayers on solid
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB The structural properties of lipid films, made from a squalene/butanol solution  containing varying amounts (0-15 mg/ml) of egg phosphatidylcholine and deposited  on a thin metallic silver layer, were investigated using surface plasmon  resonance (SPR) spectroscopy. Optical parameters (thickness, refractive index and  extinction coefficient) of such supported self-assembled lipid membranes were  obtained from a theoretical analysis of the experimental SPR curves. The mass of  the lipid membrane and the area and volume occupied by one lipid molecule were  also calculated. The results were consistent with the formation of durable and  homogeneous lipid bilayers on the solid substrate, and indicated similarities in  structural properties between the present lipid bilayers and freely suspended and  Langmuir-Blodgett bilayer membranes. Such bilayers represent a simple model for  biological membranes, as well as providing a means of immobilizing proteins for  various practical applications, including receptor-based sensors and molecular  devices. The results confirm the value of the SPR technique for investigating the  properties of thin biomolecular dielectric films deposited on a metal surface.
+C1 Department of Biochemistry, University of Arizona, Tucson 85721.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD NOV 2
+PY 1994
+VL 1195
+IS 2
+BP 267
+EP 75
+DI 10.1016/0005-2736(94)90266-6
+PG -192
+WC Lipid Bilayers; chemistry; Phosphatidylcholines; chemistry; Spectrum Analysis
+UT PubMed:7947920
+PM 7947920
+DA 1994-11-02
+ER
+
+PT J
+AU Johnsen, BH
+   Hugdahl, K
+AF Johnsen, B H
+   Hugdahl, K
+TI Brain asymmetry and autonomic conditioning: sensitization control.
+SO Integrative physiological and behavioral science : the official journal of the
+LA English
+DT Journal Article
+AB In the present experiment we report effects of cerebral asymmetry, or laterality,  during classical conditioning to facial emotional stimuli. Twenty-five female  subjects were presented with slides of a happy face in one visual half-field  (VHF), and simultaneously a slide of an angry face in the other VHF, followed by  shock as the unconditioned stimulus (UCS). To control for effects of  sensitization, a new stimulus, never associated with the UCS, was introduced in  the extinction phase. Dependent measures were phasic heart rate responses (HR)  and skin conductance responses (SCR). The HR results showed a significant right  hemisphere effect for the CS-UCS association, that was not attributable to UCS  sensitization. No significant effects were found for the SCRs. The basic HR  finding was a right hemisphere superiority for learning of a conditioned  association.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 1053-881
+J9 Integr Physiol Behav Sci
+PD OCT 1
+PY 1994
+VL 29
+IS 4
+BP 395
+EP 405
+DI 10.1007/BF02691359
+PG 10
+WC Adult; Autonomic Nervous System; physiology; Brain; physiology; Conditioning, Classical; physiology; Electrooculography; Electroshock; Extinction, Psychological; physiology; Facial Expression; Female; Functional Laterality; physiology; Galvanic Skin Response; physiology; Habituation, Psychophysiologic; physiology; Heart Rate; physiology; Humans; Visual Fields; physiology
+UT PubMed:7696136
+PM 7696136
+DA 1994-10-01
+ER
+
+PT J
+AU Sahley, CL
+   Boulis, NM
+   Schurman, B
+AF Sahley, C L
+   Boulis, N M
+   Schurman, B
+TI Associative learning modifies the shortening reflex in the semi-intact leech
+SO Behavioral neuroscience
+LA English
+DT Journal Article
+AB Three experiments addressed the importance of the inter-event relationships of  contiguity and contingency for associative learning in the semi-intact leech. It  was found that both of these relationships are important for the leech to acquire  a learned association between a touch (conditional stimulus, CS) and shock  (unconditional stimulus, US). The learning can be extinguished if training is  followed by explicitly unpaired presentations of the CS and US, which removes the  contiguity between the stimuli. Learning is degraded by the introduction of  unpredicted USs, as well as by unreinforced presentations of the CS (CS  preexposure), both manipulations reduce the contingency between the CS and US.  These results suggest that the associative process in both vertebrates and  invertebrates share considerable functional similarity in the inter-event  relationships important to learning.
+C1 Department of Biological Sciences, Purdue University, West Lafayette, Indiana 49707.
+NR 0
+TC 0
+SN 
+EI 0735-704
+J9 Behav Neurosci
+PD APR 1
+PY 1994
+VL 108
+IS 2
+BP 340
+EP 6
+DI 10.1037//0735-7044.108.2.340
+PG -334
+WC Animals; Association Learning; physiology; Conditioning, Classical; physiology; Electric Stimulation; Extinction, Psychological; physiology; Leeches; physiology; Muscle Contraction; physiology; Neurons; physiology; Reflex; physiology; Retention, Psychology; physiology; Touch; physiology
+UT PubMed:8037878
+PM 8037878
+DA 1994-04-01
+ER
+
+PT J
+AU McGuirl, MA
+   McCahon, CD
+   McKeown, KA
+   Dooley, DM
+AF McGuirl, M A
+   McCahon, C D
+   McKeown, K A
+   Dooley, D M
+TI Purification and characterization of pea seedling amine oxidase for
+SO Plant physiology
+LA English
+DT Journal Article
+AB Pea (Pisum sativum L.) seedling amine oxidase (EC 1.4.3.6) is the first amine  oxidase to be crystallized that diffracts to atomic resolution (2.5 A). Extensive  modifications of a published purification procedure were necessary to obtain  protein that would give diffraction-quality crystals. Here we report the improved  purification and also use this high-purity protein to reexamine some fundamental  characteristics of pea seedling amine oxidase. The extinction coefficient at 280  nm (epsilon 1%(280)) and the molecular mass of the protein are investigated by a  variety of techniques, yielding epsilon 1%(280) = 20 cm-1 and a mass 150 +/- 6  kD. In addition, the stoichiometry of the metal and organic cofactors, Cu(II) and  6-hydroxy dopa (Topa) quinone, respectively, is examined. The ratio of  Cu(II):Topa:protein monomer is found to be 1:1:1.
+C1 Department of Chemistry and Biochemistry, Montana State University, Bozeman 59717.
+NR 0
+TC 0
+SN 1532-254
+EI 0032-088
+J9 Plant Physiol
+PD NOV 1
+PY 1994
+VL 106
+IS 3
+BP 1205
+EP 11
+DI 10.1104/pp.106.3.1205
+PG -1194
+WC Amine Oxidase (Copper-Containing); Chromatography; Chromatography, DEAE-Cellulose; Chromatography, Gel; Copper; analysis; Crystallography, X-Ray; Dihydroxyphenylalanine; analogs & derivatives; Durapatite; Electrophoresis, Polyacrylamide Gel; Fabaceae; enzymology; Molecular Weight; Oxidoreductases Acting on CH-NH Group Donors; chemistry; Plants, Medicinal; Spectrophotometry
+UT PubMed:7824646
+PM 7824646
+DA 1994-11-01
+ER
+
+PT J
+AU Lenski, RE
+   May, RM
+AF Lenski, R E
+   May, R M
+TI The evolution of virulence in parasites and pathogens: reconciliation between two
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB According to conventional wisdom, parasites and pathogens should evolve reduced  virulence to their hosts, because more virulent parasites and pathogens are more  likely to drive their hosts, and themselves, to extinction. But this view has  been criticized for its reliance on group selection. According to an alternative  perspective, selection will favor whatever level of virulence maximizes the rate  of increase of the parasite or pathogen. This optimum virulence depends on the  functional relationship between a parasite or pathogen's transmissibility and its  effect on host mortality, with selection often favoring an intermediate degree of  virulence. The thesis of this paper is that models in which intermediate levels  of virulence are favored lead quite naturally to the further conclusion that  parasites and pathogens should-up to a point-become less virulent over time, once  the feedbacks between ecological and evolutionary processes are incorporated into  the analysis. As a consequence of successive adaptations by the parasite or  pathogen, the density of susceptible hosts is reduced, thereby altering the  balance between selective forces so as to favor reduced virulence. However, the  evolutionarily stable strategy that is achieved is bounded away from complete  avirulence. We conclude that models in which intermediate virulence is favored do  not necessarily contradict the conventional wisdom in the long run; in fact,  these models provide a simple mechanistic explanation for the evolution of  reduced virulence.
+C1 Center for Microbial Ecology, Michigan State University, East Lansing 48824.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD AUG 7
+PY 1994
+VL 169
+IS 3
+BP 253
+EP 65
+DI 10.1006/jtbi.1994.1146
+PG -188
+WC Animals; Biological Evolution; Host-Parasite Interactions; Humans; Mathematics; Models, Genetic; Parasites; pathogenicity; Parasitic Diseases; immunology; Virulence; genetics
+UT PubMed:7967617
+PM 7967617
+DA 1994-08-07
+ER
+
+PT J
+AU Powers, TP
+   Shows, TB
+   Davidson, RL
+AF Powers, T P
+   Shows, T B
+   Davidson, R L
+TI Pigment-cell-specific genes from fibroblasts are transactivated after chromosomal
+SO Molecular and cellular biology
+LA English
+DT Journal Article
+AB Human and mouse fibroblast chromosomes carrying tyrosinase or b-locus genes were  introduced, by microcell hybridization, into pigmented Syrian hamster melanoma  cells, and the microcell hybrids were tested for transactivation of the  fibroblast tyrosinase and b-locus genes. By using species-specific PCR  amplification to distinguish fibroblast and melanoma cDNAs, it was demonstrated  that the previously silent fibroblast tyrosinase and b-locus genes were  transactivated following chromosomal transfer into pigmented melanoma cells.  However, transactivation of the mouse fibroblast tyrosinase gene was unstable in  microcell hybrid subclones and possibly dependent on a second fibroblast locus  that could have segregated in the subclones. This second locus was not necessary  for transactivation of the fibroblast b-locus gene, thus demonstrating  noncoordinate transactivation of fibroblast tyrosinase and b-locus genes.  Transactivation of the fibroblast tyrosinase gene in microcell hybrids apparently  is dependent on the absence of a putative fibroblast extinguisher locus for  tyrosinase gene expression, which presumably is responsible for the extinction of  pigmentation in hybrids between karyotypically complete fibroblasts and melanoma  cells.
+C1 Department of Genetics, University of Illinois College of Medicine, Chicago 60612.
+NR 0
+TC 0
+SN 1098-554
+EI 0270-730
+J9 Mol Cell Biol
+PD FEB 1
+PY 1994
+VL 14
+IS 2
+BP 1179
+EP 90
+DI 10.1128/mcb.14.2.1179-1190.1994
+PG -1089
+WC Animals; Base Sequence; Cell Line; Chromosomes; physiology; Cricetinae; DNA Primers; Fibroblasts; enzymology; Gene Expression Regulation, Enzymologic; Humans; Melanoma, Experimental; metabolism; Mesocricetus; Mice; Molecular Sequence Data; Monophenol Monooxygenase; genetics; Oligonucleotides, Antisense; Pigments, Biological; biosynthesis; Polymerase Chain Reaction; Transcriptional Activation; Transfection
+UT PubMed:8289799
+PM 8289799
+DA 1994-02-01
+ER
+
+PT J
+AU Bullock, MA
+   Stoker, CR
+   McKay, CP
+   Zent, AP
+AF Bullock, M A
+   Stoker, C R
+   McKay, C P
+   Zent, A P
+TI A coupled soil-atmosphere model of H2O2 on Mars.
+SO Icarus
+LA English
+DT Journal Article
+DE NASA Center ARC; NASA Discipline Exobiology; NASA Discipline Number 52-70; NASA Program Exobiology
+AB The Viking Gas Chromatograph Mass Spectrometer failed to detect organic compounds  on Mars, and both the Viking Labeled Release and the Viking Gas Exchange  experiments indicated a reactive soil surface. These results have led to the  widespread belief that there are oxidants in the martian soil. Since H2O2 is  produced by photochemical processes in the atmosphere of Mars, and has been shown  in the laboratory to reproduce closely the Viking LR results, it is a likely  candidate for a martian soil oxidant. Here, we report on the results of a coupled  soil/atmosphere transport model for H2O2 on Mars. Upon diffusing into the soil,  its concentration is determined by the extent to which it is adsorbed and by the  rate at which it is catalytically destroyed. An analytical model for calculating  the distribution of H2O2 in the martian atmosphere and soil is developed. The  concentration of H2O2 in the soil is shown to go to zero at a finite depth, a  consequence of the nonlinear soil diffusion equation. The model is parameterized  in terms of an unknown quantity, the lifetime of H2O2 against heterogeneous  catalytic destruction in the soil. Calculated concentrations are compared with a  H2O2 concentration of 30 nmoles/cm3, inferred from the Viking Labeled Release  experiment. A significant result of this model is that for a wide range of H2O2  lifetimes (up to 10(5) years), the extinction depth was found to be less than 3  m. The maximum possible concentration in the top 4 cm is calculated to be  approximately 240 nmoles/cm3, achieved with lifetimes of greater than 1000 years.  Concentrations higher than 30 nmoles/cm3 require lifetimes of greater than 4.3  terrestrial years. For a wide range of H2O2 lifetimes, it was found that the  atmospheric concentration is only weakly coupled with soil loss processes. Losses  to the soil become significant only when lifetimes are less than a few hours. If  there are depths below which H2O2 is not transported, it is plausible that  organic compounds, protected from an oxidizing environment, may still exist. They  would have been deposited by meteors, or be the organic remains of past life.
+C1 Laboratory for Atmospheric and Space Physics, University of Colorado, Boulder 80309-0392, USA. ZODIAC::BULLOCK
+NR 0
+TC 0
+SN 
+EI 0019-103
+J9 Icarus
+PD JAN 1
+PY 1994
+VL 107
+IS 1
+BP 142
+EP 54
+DI 10.1006/icar.1994.1012
+PG -88
+WC Atmosphere; analysis; Extraterrestrial Environment; Hydrogen Peroxide; analysis; Mars; Models, Chemical; Oxidants; analysis; Photochemistry; Soil; analysis; Space Flight
+UT PubMed:11539124
+PM 11539124
+DA 1994-01-01
+ER
+
+PT J
+AU LoGrasso, PV
+   Cornell-Kennon, S
+   Boettcher, BR
+AF LoGrasso, P V
+   Cornell-Kennon, S
+   Boettcher, B R
+TI Cloning, expression, and characterization of human apolipoprotein(a) kringle
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB A portion of kringle IV37 (KIV37) of apolipoprotein (a), (apo(a)), was polymerase  chain reaction-cloned from human liver cDNA. The protein product of this clone  was expressed in Escherichia coli as a poly histidine fusion protein. Based on  recovery of purified fusion apo(a) KIV37 protein expression levels were estimated  to be 10 mg/g of E. coli cell paste. Mass spectral analysis showed the molecular  mass of fusion apo(a) KIV37 to be 12,260 +/- 1 daltons. Almost all fusion apo(a)  KIV37 was expressed as inclusion bodies and had to be refolded. Fusion apo(a)  KIV37 was isolated from the inclusion bodies and purified by lysine-Sepharose  affinity chromatography by eluting with 0.2 M epsilon-aminocaproic acid. The  fusion protein was treated with thrombin to yield a homogeneous, functional  apo(a) KIV37 domain composed of 92 amino acids having a molecular mass of 10,510  +/- 1 daltons. N-terminal protein sequencing and amino acid analysis have  confirmed the sequence and composition of apo(a) KIV37. The molar extinction  coefficient, epsilon, for apo(a) KIV37 was determined to be 3.1 x 10(4) M-1 cm-1,  and the pI was measured to be 6.7 +/- 0.1. In addition, the dissociation  constants, Kd, for a series of 11 lysine analogs have been determined by  measuring the change in intrinsic fluorescence of apo(a) KIV37 upon saturable  binding with these compounds. Kd values ranged from 4.2 +/- 0.9 microM for  trans-4-(aminomethyl)cyclohexanecarboxylic acid to 4.6 +/- 0.4 mM for L-arginine.  Apo(a) KIV37 binds to plasmin-treated fibrinogen with an EC50 value of 14 +/- 1.2  microM and prevents the binding of Lp(a) to plasmin-treated fibrinogen with an  IC50 value of 16 +/- 6 microM. Lp(a) binds to the plasmin-treated fibrinogen  surface with an EC50 value of approximately 1.0 +/- 0.3 nM. These studies  demonstrate that apo(a) KIV37 can be expressed at high levels, refolded properly,  and used as a fully functional lysine-binding domain. In addition, these results  also demonstrate that apo(a) KIV37 provides the major interaction of Lp(a) with  fibrinogen. One additional weak binding site in Lp(a) is adequate to describe  overall Lp(a) binding to fibrinogen.
+C1 Department of Atherosclerosis and Vascular Biology, Sandoz Pharmaceuticals Corporation, East Hanover, New Jersey 07936.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD AUG 26
+PY 1994
+VL 269
+IS 34
+BP 21820
+EP 7
+DI 
+PG -21813
+WC Apolipoproteins A; biosynthesis; Base Sequence; Cloning, Molecular; Escherichia coli; genetics; Fibrinogen; drug effects; Fibrinolysin; pharmacology; Humans; Kringles; genetics; Lysine; analogs & derivatives; Molecular Sequence Data; Peptide Fragments; biosynthesis; Protein Folding; Recombinant Fusion Proteins; biosynthesis
+UT PubMed:8063825
+PM 8063825
+DA 1994-08-26
+ER
+
+PT J
+AU Ginis, I
+   Faller, DV
+AF Ginis, I
+   Faller, D V
+TI Quantitative estimation of the degree of cell spreading on different surfaces and
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB A simple, rapid, and quantitative method for estimation of the degree of  spreading of fluorescently labeled cells adherent to an artificial or biological  surface has been designed, based on the principle that the medium between  adherent cells and the surface of adhesion absorbs fluorescent light emitted by  the adherent cells. Using the Beer-Lambert equation for extinction coefficient of  monochromatic light, we have calculated the factor by which fluorescence signal  actually emitted from cells adherent to the bottom of the microtiter well would  differ from the fluorescence of these cells detected by a bottom-scanning plate  reader. The physical nature of cell-cell ligand-receptor bridges depends on many  parameters, such as the type of the receptor(s), the intensity and direction of a  stress force, blockade of the receptors with monoclonal antibodies (MAb), and  transfer of adhesion mediation to different ligand-receptor pairs. When employed  in various adhesion models, this new technique has demonstrated quantitative  changes of cellular spreading of human neutrophils adherent to different  extracellular matrix protein-coated surfaces and to endothelial cells after  neutrophil/endothelial cell activation or in the presence of MAb directed against  neutrophil integrins. These measurements of spreading of adherent cells appear  more sensitive than visual observation of cellular morphology on biological  surfaces or cells.
+C1 Cancer Research Center, Boston University School of Medicine, Massachusetts 02118.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD JUN 1
+PY 1994
+VL 219
+IS 2
+BP 288
+EP 96
+DI 10.1006/abio.1994.1268
+PG -192
+WC Cell Adhesion; Cell Movement; Cells, Cultured; Endothelium, Vascular; cytology; Extracellular Matrix Proteins; Humans; Leukocytes; cytology; Neutrophils; cytology; Spectrometry, Fluorescence; instrumentation; Umbilical Veins
+UT PubMed:8080085
+PM 8080085
+DA 1994-06-01
+ER
+
+PT J
+AU May, RM
+   Nowak, MA
+AF May, R M
+   Nowak, M A
+TI Superinfection, metapopulation dynamics, and the evolution of diversity.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Using both analytic and numerical methods, we elucidate the dynamical properties  of a class of metapopulation models in which many different species/strains  contend for persistence, with local extinction of subpopulations being balanced  by colonization of other patches. The species/strains have a strict competitive  hierarchy with a given species/strain "taking over" any patch occupied by a  lower-ranking species/strain; competitively inferior species/strains compensate  by having higher colonization rates and/or lower patch death rates. New  species/strains keep appearing, so that we can follow the evolution of the  system. Such models may be metaphors for multispecies metapopulations, or for the  evolution of virulence (where the patches are hosts, who are infected with  various strains of a pathogen, and then die or recover at strain-dependent  rates). Our emphasis is on a set of questions relating to the evolution of  diversity. How many species/strains are present after a long time, t?  Asymptotically, this number continues to increase very slowly, as ln t. What are  the relative abundances of the species/strains? Under a broad range of  assumptions about the mutations which produce new species/strains, the  rank-abundance distribution is roughly geometric (as is commonly observed in  early succession and other "ecologically one-dimensional" situations); some of  our analysis here is based in part on an interesting but unproved mathematical  conjecture about a new kind of probabilistic/combinatorial problem. If the number  of patches/hosts is permanently reduced--by habitat destruction or  vaccination--what happens? Characteristically, there is an initial sharp loss of  species/strains (with selective removal of the competitive dominants), with  subsequent slow recovery as new mutants continue to partition the now-diminished  "niche space" (but the pristine levels of virulence are not regained).
+C1 Department of Zoology, University of Oxford, U.K.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD SEP 7
+PY 1994
+VL 170
+IS 1
+BP 95
+EP 114
+DI 10.1006/jtbi.1994.1171
+PG 19
+WC Animals; Biological Evolution; Genetic Variation; Models, Biological; Parasites; pathogenicity; Superinfection; parasitology; Virulence
+UT PubMed:7967636
+PM 7967636
+DA 1994-09-07
+ER
+
+PT J
+AU Bush, AO
+   Kennedy, CR
+AF Bush, A O
+   Kennedy, C R
+TI Host fragmentation and helminth parasites: hedging your bets against extinction.
+SO International journal for parasitology
+LA English
+DT Journal Article
+AB We consider the probability of parasite extinction due to anthropogenic  fragmentation of host populations and in the absence of host extinction. We  conclude that extinction at infrapopulation and infracommunity levels is both  common and trivial. Extinction may occur in communities at higher levels but only  if metapopulations or suprapopulations become extinct. Suprapopulations are  highly complex and unlikely to become extinct in the face of simple host  fragmentation. We acknowledge parasite metapopulations as being the most likely  to become extinct, but only locally. Our reasoning for this is that, in the  absence of complete host extinction, populations of the parasite in other  fragments are likely to serve as sources for reinvasion (e.g. a rescue effect).  We identify a number of features that may act as hedges against extinction for  many parasites and conclude by attempting to identify what form an extinction  might take.
+C1 Department of Zoology, Brandon University, Manitoba, Canada.
+NR 0
+TC 0
+SN 
+EI 0020-751
+J9 Int J Parasitol
+PD DEC 1
+PY 1994
+VL 24
+IS 8
+BP 1333
+EP 43
+DI 10.1016/0020-7519(94)90199-6
+PG -1290
+WC Animals; Biological Evolution; Helminths; physiology; Host-Parasite Interactions; Models, Biological; Population Dynamics; Reproduction; Species Specificity
+UT PubMed:7729985
+PM 7729985
+DA 1994-12-01
+ER
+
+PT J
+AU Sedelnikova, SE
+   Shikaeva, OS
+   Avlijakulov, NK
+   Muranova, TA
+   Markova, LF
+   Kashparov, IA
+   Garber, MB
+AF Sedelnikova, S E
+   Shikaeva, O S
+   Avlijakulov, N K
+   Muranova, T A
+   Markova, L F
+   Kashparov, I A
+   Garber, M B
+TI Proteins of the Thermus thermophilus ribosome. Purification of proteins from the
+SO Biochimie
+LA English
+DT Journal Article
+AB Special procedures have been developed to isolate and purify 26 of the 30  individual proteins of the large ribosomal subunit from Thermus thermophilus.  Sixteen of them have been purified under non-denaturing conditions to be used for  crystallization and further structural studies. These proteins have been  characterized by their amino acid content, molecular mass, UV-spectrum and  extinction coefficient. An additional 10 proteins have been purified by reverse  phase chromatography. Thirteen proteins have been identified by homological E  coli proteins.
+C1 Institute of Protein Research, Russian Academy of Sciences, Puschchino, Moscow region.
+NR 0
+TC 0
+SN 
+EI 0300-908
+J9 Biochimie
+PD JAN 1
+PY 1994
+VL 76
+IS 5
+BP 440
+EP 51
+DI 10.1016/0300-9084(94)90121-x
+PG -389
+WC Amino Acid Sequence; Chromatography, Ion Exchange; Electrophoresis, Gel, Two-Dimensional; Molecular Sequence Data; Molecular Weight; Ribosomal Proteins; isolation & purification; Ribosomes; metabolism; Sequence Homology, Amino Acid; Spectrophotometry, Ultraviolet; Thermus thermophilus; metabolism
+UT PubMed:7849111
+PM 7849111
+DA 1994-01-01
+ER
+
+PT J
+AU Hugdahl, K
+   Wester, K
+AF Hugdahl, K
+   Wester, K
+TI Auditory neglect and the ear extinction effect in dichotic listening: a reply to
+SO Brain and language
+LA English
+DT Journal Article
+AB In our reply to Beaton and McCarthy (1993), we argue that the issue of ear  extinction in dichotic listening also should take into account lesion site and  lesion extension. When the lesion is primarily affecting the auditory pathways,  the resulting dichotic dysfunction may be an ear extinction effect. However, when  the lesion is outside of the auditory system, the absence of reports from one ear  may be part of a larger cognitive deficit, involving more complex processes, like  orientation and attention. Thus, by constraining the definition of an "ear  extinction effect" to a perceptual deficit, Beaton and McCarthy confounds the  issue of ear extinction with auditory neglect. In our reply we also present some  new data from a patient with a left-sided thalamic pulvinar lesion, contrasting  his dichotic listening performance with the patient reported in our original 1991  study.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0093-934
+J9 Brain Lang
+PD JAN 1
+PY 1994
+VL 46
+IS 1
+BP 166
+EP 73
+DI 10.1006/brln.1994.1009
+PG -93
+WC Adult; Auditory Perception; Brain Diseases; complications; Cognition Disorders; etiology; Dichotic Listening Tests; Functional Laterality; Humans; Magnetic Resonance Imaging; Male; Radiography; Task Performance and Analysis; Thalamus; diagnostic imaging
+UT PubMed:8131041
+PM 8131041
+DA 1994-01-01
+ER
+
+PT J
+AU Sato, K
+   Matsuda, H
+   Sasaki, A
+AF Sato, K
+   Matsuda, H
+   Sasaki, A
+TI Pathogen invasion and host extinction in lattice structured populations.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB We examined the propagation of an infectious disease and the eventual extinction  of the host population in a lattice-structured population. Both the host  colonization and pathogen transmission processes are assumed to be restricted to  act between the nearest neighbor sites. The model is analyzed by an improved  version of pair approximation (IPA). Pair approximation is a technique to trace  the dynamics of the number of nearest neighbor pairs having particular states,  and IPA takes account of the clustering property of lattice models more  precisely. The results are checked by computer simulations. The analysis shows:  (i) in a one-dimensional lattice population, a pathogen cannot invade a host  population no matter how large is the transmission rate; (ii) in a  two-dimensional lattice population, pathogens will drive the host to extinction  if the transmission rate is larger than a threshold. These results indicate that  spatially structured population models may give qualitatively different results  from conventional population models, such as Lotka-Volterra ones, without spatial  structure.
+C1 Department of Biology, Faculty of Science, Kyushu University, Fukuoka, Japan.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1994
+VL 32
+IS 3
+BP 251
+EP 68
+DI 10.1007/BF00163881
+PG -183
+WC Biometry; Disease Transmission, Infectious; Humans; Mathematics; Models, Biological; Monte Carlo Method
+UT PubMed:8182357
+PM 8182357
+DA 1994-01-01
+ER
+
+PT J
+AU Stone, JE
+   Akhtar, N
+   Botchway, S
+   Pennock, CA
+AF Stone, J E
+   Akhtar, N
+   Botchway, S
+   Pennock, C A
+TI Interaction of 1,9-dimethylmethylene blue with glycosaminoglycans.
+SO Annals of clinical biochemistry
+LA English
+DT Journal Article
+AB The specific binding of 1,9-dimethylmethylene blue (DMB) with glycosaminoglycans  (GAGs) was studied including molecular analysis of the GAG species using mass  spectrometry. The dye solution was unstable under any storage conditions.  Inorganic analysis showed that the purity of the dye was variable from different  sources. False negative results could be obtained when using impure dye. Binding  of the dye with GAG resulted in the formation of a complex with an absorption  maximum at 525 nm. The absorbance of the complex was linearly correlated with GAG  concentration up to 150 mg/L. The specific molar extinction coefficients of  individual GAG molecules were calculated in relation to the molar absorbance of  the GAG-dye complex and the carbon and nitrogen contents of the GAGs. The results  indicated that binding of dye occurred at both the ionized sulphate and carboxyl  groups on the GAG molecules. Improvements of the DMB-binding method for the  measurement of GAGs are suggested.
+C1 Department of Paediatric Chemical Pathology, St Michael's Hospital, Bristol, UK.
+NR 0
+TC 0
+SN 
+EI 0004-563
+J9 Ann Clin Biochem
+PD MAR 1
+PY 1994
+VL 31 ( Pt 2)
+IS 
+BP 147
+EP 52
+DI 10.1177/000456329403100206
+PG -95
+WC Drug Storage; Glycosaminoglycans; chemistry; Mass Spectrometry; Methylene Blue; analogs & derivatives; Spectrophotometry, Ultraviolet
+UT PubMed:8060093
+PM 8060093
+DA 1994-03-01
+ER
+
+PT J
+AU Bjerknes, M
+AF Bjerknes, M
+TI Simple stochastic theory of stem cell differentiation is not simultaneously
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB It is shown that a simple Galton-Watson branching process model of the stem-cell  pool in intestinal crypts is not simultaneously consistent with observations of  the dynamics of replacement of normal by mutant crypt stem cells and other  observations which put limits on the probability of crypt loss through extinction  of all stem cells. This is because the limits on extinction probability forces  the probability that a stem-cell division yields only non-stem cells to be small,  but such a small probability makes it unlikely that a mutant stem-cell clone  would expand while the normal stem-cell clones decay (it is more likely that both  normal and mutant clones persist). It is suggested that the fundamental  assumptions of independence and constancy of stem-cell behavior are flawed.
+C1 Department of Anatomy, University of Toronto, Ontario, Canada.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD JUN 21
+PY 1994
+VL 168
+IS 4
+BP 349
+EP 65
+DI 10.1006/jtbi.1994.1115
+PG -284
+WC Cell Differentiation; physiology; Intestinal Mucosa; cytology; Markov Chains; Models, Biological; Mutation; physiology; Stem Cells; cytology
+UT PubMed:8072296
+PM 8072296
+DA 1994-06-21
+ER
+
+PT J
+AU Baldwin, IT
+   Huh, S
+AF Baldwin, Ian T
+   Huh, Sowan
+TI Primary function for a chemical defense? Nicotine does not protect Datura
+SO Oecologia
+LA English
+DT Journal Article
+DE Chemical defense; Datura stramonium; Nicotine; UV-protection
+AB The chemical defenses of plants are thought to play many different functional  roles, all of which in some way decrease the costs of deploying the defense.  However, few of these other functions have been tested with metabolites that are  clearly defensive. Nicotine is a potent chemical defense with a high molar  extinction coefficient in the UV, is a potent quencher of free radical pecies  produced by UV absorption in vitro, and is known to increase in concentration  after exposure to UV radiation. Hence this chemical defense may also function to  protect against UV-induced damage. We examined nicotine's potential  photoprotective role in two experiments by culturing Datura stramonium L plants  in hydroponic solutions containing nicotine at two concentrations, and by  exposing nicotine-containing and nicotine-free plants to UV radiation, which  allowed us to manipulate nicotine contents independently of UV exposure. Plants  with high levels of nicotine were not more resistant to UV-induced damage but,  instead, exhibited greater decreases in photosynthetic capacity than did  nicotine-free controls. Proposed multifunctional roles for chemical defenses  deserve closer scrutiny.
+C1 Department of Biological Sciences, SUNY at Buffalo, Cooke Hall, 14260, Buffalo, NY, USA.
+   Department of Biological Sciences, SUNY at Buffalo, Cooke Hall, 14260, Buffalo, NY, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD MAR 1
+PY 1994
+VL 97
+IS 2
+BP 243
+EP 247
+DI 10.1007/BF00323156
+PG 4
+UT PubMed:28313935
+PM 28313935
+DA 1994-03-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI The role of extinction in evolution.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Review
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The extinction of species is not normally considered an important element of  neodarwinian theory, in contrast to the opposite phenomenon, speciation. This is  surprising in view of the special importance Darwin attached to extinction, and  because the number of species extinctions in the history of life is almost the  same as the number of originations; present-day biodiversity is the result of a  trivial surplus of originations, cumulated over millions of years. For an  evolutionary biologist to ignore extinction is probably as foolhardy as for a  demographer to ignore mortality. The past decade has seen a resurgence of  interest in extinction, yet research on the topic is still at a reconnaissance  level, and our present understanding of its role in evolution is weak. Despite  uncertainties, extinction probably contains three important elements. (i) For  geographically widespread species, extinction is likely only if the killing  stress is one so rare as to be beyond the experience of the species, and thus  outside the reach of natural selection. (ii) The largest mass extinctions produce  major restructuring of the biosphere wherein some successful groups are  eliminated, allowing previously minor groups to expand and diversify. (iii)  Except for a few cases, there is little evidence that extinction is selective in  the positive sense argued by Darwin. It has generally been impossible to predict,  before the fact, which species will be victims of an extinction event.
+C1 Department of Geophysical Sciences, University of Chicago, IL 60637.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JUL 19
+PY 1994
+VL 91
+IS 15
+BP 6758
+EP 63
+DI 10.1073/pnas.91.15.6758
+PG -6695
+WC Animals; Biological Evolution; Origin of Life; Selection, Genetic
+UT PubMed:8041694
+PM 8041694
+DA 1994-07-19
+ER
+
+PT J
+AU Bown, TM
+   Holroyd, PA
+   Rose, KD
+AF Bown, T M
+   Holroyd, P A
+   Rose, K D
+TI Mammal extinctions, body size, and paleotemperature.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB There is a general inverse relationship between the natural logarithm of tooth  area (a body size indicator) of some fossil mammals and paleotemperature during  approximately 2.9 million years of the early Eocene in the Bighorn Basin of  northwest Wyoming. When mean temperatures became warmer, tooth areas tended to  become smaller. During colder times, larger species predominated; these generally  became larger or remained the same size. Paleotemperature trends also markedly  affected patterns of local (and, perhaps, regional) extinction and immigration.  New species appeared as immigrants during or near the hottest (smaller forms) and  coldest (larger forms) intervals. Paleotemperature trend reversals commonly  resulted in the ultimate extinction of both small forms (during cooling  intervals) and larger forms (during warming intervals). These immigrations and  extinctions mark faunal turnovers that were also modulated by sharp increases in  sediment accumulation rate.
+C1 U.S. Geological Survey, Federal Center, Denver, CO 80225.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD OCT 25
+PY 1994
+VL 91
+IS 22
+BP 10403
+EP 6
+DI 10.1073/pnas.91.22.10403
+PG -10397
+WC Animals; Biological Evolution; Body Constitution; Fossils; Mammals; anatomy & histology; Paleontology; Temperature; Tooth; anatomy & histology; Wyoming
+UT PubMed:7937963
+PM 7937963
+DA 1994-10-25
+ER
+
+PT J
+AU Sahley, CL
+AF Sahley, C L
+TI Serotonin depletion impairs but does not eliminate classical conditioning in the
+SO Behavioral neuroscience
+LA English
+DT Journal Article
+AB The goal of these experiments was to test the role of serotonin (5HT) in  classical conditioning of the touch-elicited shortening reflex in the leech  (Hirudo medicinalis). The toxin 5,7-dihydroxytryptamine (5,7-DHT) was used to  deplete serotonin. The results indicated that 5HT depletion significantly impairs  the expression of conditioned responding; however, depleted leeches experiencing  conditioned stimulus-unconditioned stimulus (CS-US) pairings still performed  significantly better than depleted leeches experiencing unpaired CS-US  presentations, suggesting that a 5HT-dependent mechanism does not account fully  for learning in this preparation. Moreover, the residual pairing dependent effect  is observed, although the depletions eliminate sensitization, suggesting that the  amplification of sensitization may not be sufficient to account for classical  conditioning of this reflex. Histological analyses of the ganglia revealed an  absence of staining in 100% of the Retzius cells in the toxin group.
+C1 Department of Biological Sciences, Purdue University, West Lafayette, Indiana 47907.
+NR 0
+TC 0
+SN 
+EI 0735-704
+J9 Behav Neurosci
+PD DEC 1
+PY 1994
+VL 108
+IS 6
+BP 1043
+EP 52
+DI 10.1037//0735-7044.108.6.1043
+PG -991
+WC Animals; Arousal; physiology; Association Learning; physiology; Conditioning, Classical; physiology; Extinction, Psychological; physiology; Ganglia, Invertebrate; physiology; Habituation, Psychophysiologic; physiology; Leeches; physiology; Microscopy, Fluorescence; Reflex; physiology; Serotonin; physiology; Synaptic Transmission; physiology
+UT PubMed:7893396
+PM 7893396
+DA 1994-12-01
+ER
+
+PT J
+AU Cooper, A
+AF Cooper, A
+TI Ancient DNA sequences reveal unsuspected phylogenetic relationships within New
+SO Experientia
+LA English
+DT Journal Article
+AB Ancient DNA sequences from preserved specimens are increasingly being used for  the investigation of Pacific Island ecosystems prior to the large scale  modification and extinction of endemic biota associated with human colonization.  However, many difficulties are associated with the use of ancient DNA sequences  in studies of genetically close taxa. In this paper, these difficulties are  discussed as they relate to a study involving extinct and extant members of an  ancient New Zealand avian family, the New Zealand wrens (Acanthisittidae).  Sequences of the mitochondrial small ribosomal subunit RNA gene (12S) were  obtained from museum specimens of several wren taxa in order to investigate their  phylogenetic relationships and the taxonomic status of a rock wren (Xenicus  gilviventris) subspecies. Limitations due to sample size and 12S sequence  variability as well as the difficulties in authenticating ancient DNA sequences  prevent firm conclusions but the data suggest unsuspected phylogenetic  relationships exist and raise the possibility that conservation management of  rock wren populations is required.
+C1 School of Biological Sciences, Victoria University of Wellington, New Zealand.
+NR 0
+TC 0
+SN 
+EI 0014-475
+J9 Experientia
+PD JUN 15
+PY 1994
+VL 50
+IS 6
+BP 558
+EP 63
+DI 10.1007/BF01921725
+PG -495
+WC Animals; Base Sequence; Birds; genetics; DNA; analysis; Fossils; Molecular Sequence Data; New Zealand; Phylogeny; Polymerase Chain Reaction
+UT PubMed:8020616
+PM 8020616
+DA 1994-06-15
+ER
+
+PT J
+AU Benton, MJ
+AF Benton, M J
+TI Palaeontological data and identifying mass extinctions.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB It is often assumed that mass extinctions may be read directly from the fossil  record. However, recent work on the Cretaceous-Tertiary (K-T) boundary has shown  the difficulty of doing this. For example, it is hard to tell whether the  stratigraphic ranges of taxa are complete or not, and what the shape of an  extinction really is. Range completeness may be assessed by (1) a statistical  approach to the relative completeness of ranges of taxa, and (2) tests based on  collecting effort near the ends of ranges. Tests carried out recently suggest  that the record is good in parts and getting better. Hence, palaeontologists  ought to be able to document the nature of extinction events ever more precisely.
+C1 Dept of Geology, University of Bristol, Bristol, UKBS8 1RJ.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD MAY 1
+PY 1994
+VL 9
+IS 5
+BP 181
+EP 5
+DI 10.1016/0169-5347(94)90083-3
+PG -176
+UT PubMed:21236813
+PM 21236813
+DA 1994-05-01
+ER
+
+PT J
+AU Harvey, PH
+   May, RM
+   Nee, S
+AF Harvey, Paul H
+   May, Robert M
+   Nee, Sean
+TI PHYLOGENIES WITHOUT FOSSILS.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Cladogenesis; density dependence; evolution; extinction; phylogeny
+AB Phylogenies that are reconstructed without fossil material often contain  approximate dates for lineage splitting. For example, particular nodes on  molecular phylogenies may be dated by known geographic events that caused  lineages to split, thereby calibrating a molecular clock that is used to date  other nodes. On the one hand, such phylogenies contain no information about  lineages that have become extinct. On the other hand, they do provide a  potentially useful testing ground for ideas about evolutionary processes. Here we  first ask what such reconstructed phylogenies should be expected to look like  under a birth-death process in which the birth and death parameters of lineages  remain constant through time. We show that it is possible to estimate both the  birth and death rates of lineages from the reconstructed phylogenies, even though  they contain no explicit information about extinct lineages. We also show how  such phylogenies can reveal mass extinctions and how their characteristic  footprint can be distinguished from similar ones produced by density-dependent  cladogenesis.
+C1 Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1 3PS, UK.
+   Natural Environment Research Council Centre for Population Biology, Imperial 
+   Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1 3PS, UK.
+   Natural Environment Research Council Centre for Population Biology, Imperial 
+   Department of Zoology, University of Oxford, South Parks Road, Oxford, OX1 3PS, UK.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD JUN 1
+PY 1994
+VL 48
+IS 3
+BP 523
+EP 529
+DI 10.1111/j.1558-5646.1994.tb01341.x
+PG 6
+UT PubMed:28568267
+PM 28568267
+DA 1994-06-01
+ER
+
+PT J
+AU Cnubben, NH
+   Blaauboer, B
+   Juyn, S
+   Vervoort, J
+   Rietjens, IM
+AF Cnubben, N H
+   Blaauboer, B
+   Juyn, S
+   Vervoort, J
+   Rietjens, I M
+TI A spectrophotometric assay for the detection of 2-aminophenols in biological
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB A sensitive and efficient spectrophotometric assay is described for the  determination of 2-aminophenols in biological samples. Using ferric ions as a  metal catalyst, 2-aminophenol dimerizes in an acidic aqueous environment to  2-hydroxyisophenoxazin-3-one, an intensively colored dye. The newly developed  assay is suitable for the detection of 2-aminophenols in the micromolar range.  The paper demonstrates that this chemical assay is also applicable for the  determination of 2-aminophenols substituted with a halogen at the ortho, meta, or  para position of the aromatic ring with respect to the amino moiety, lambda max,  and the molar extinction coefficient varying with the substituent pattern.  Results obtained for fluorinated 2-aminophenol detection in biological samples by  either this new method or 19F NMR are similar. This observation corroborates that  the newly developed assay is suitable for detection of 2-aminophenols in  biological samples.
+C1 Department of Biochemistry, Agricultural University, Wageningen, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD JUL 1
+PY 1994
+VL 220
+IS 1
+BP 165
+EP 71
+DI 10.1006/abio.1994.1314
+PG -94
+WC Aminophenols; analysis; Aniline Compounds; chemistry; Animals; Calibration; Coloring Agents; analysis; Cytochrome P-450 Enzyme System; chemistry; Hydrocarbons, Halogenated; chemistry; In Vitro Techniques; Magnetic Resonance Spectroscopy; Male; Mass Spectrometry; Microsomes, Liver; chemistry; Molecular Structure; Oxazines; analysis; Rats; Rats, Wistar; Reproducibility of Results; Spectroscopy, Fourier Transform Infrared
+UT PubMed:7978241
+PM 7978241
+DA 1994-07-01
+ER
+
+PT J
+AU Beckmann, D
+   Beckmann, G
+AF Beckmann, D
+   Beckmann, G
+TI [Anthropology of the father role].
+SO Zeitschrift fur klinische Psychologie, Psychopathologie und Psychotherapie
+LA ger
+DT Journal Article
+AB The anthropological basic characteristics of the "father role" are presented by  means of biological and early cultural aspects. The "father role" in its origin  arose from mothercentered groups. For them only the "social fatherhood" was of  any importance. The female primary groups accepted that man as being "the father"  who could provide maximum protection for mother and children. It was not until  the post ice-age extinction of many wild animals and the transition to owning of  domestic animals--the capital of the shepherds--that patriarchy did develop. Now  the "biological fatherhood" as a means of controlling female fertility changed to  be the focal point within euroasian cultures.
+C1 Abteilung Medizinische Psychologie, Justus-Liebig-Universität Giessen.
+NR 0
+TC 0
+SN 
+EI 0723-655
+J9 Z Klin Psychol Psychopathol Psychother
+PD JAN 1
+PY 1994
+VL 42
+IS 2
+BP 176
+EP 87
+DI 
+PG -89
+WC Animals; Anthropology, Cultural; Biological Evolution; Father-Child Relations; Female; Gender Identity; Humans; Male; Mother-Child Relations; Paternal Behavior
+UT PubMed:7941640
+PM 7941640
+DA 1994-01-01
+ER
+
+PT J
+AU Drallmeier, JA
+AF Drallmeier, J A
+TI Hydrocarbon-vapor measurements in pulsed fuel sprays.
+SO Applied optics
+LA English
+DT Journal Article
+AB The feasibility of the use of a nonintrusive, line-of-sight averaging, infrared  extinction technique for the quantitative measurement of fuel-vapor concentration  and flux in transient sprays has been examined. A collinear visible and infrared  system with a compact sandwich detector design allows for the detection of  radiation at both wavelengths simultaneously. With a controlled simulated fuel  spray that consists of styrene spheres and methane vapor, vapor concentrations  were measured within 10% of the known input value for a large range of particle  loadings. Quantitative measurements were also made in a transient isooctane spray  with an automotive-type injector. The time-resolved vapor mole fraction,  velocity, and mass flux were compared with the transient liquid-phase  characteristics obtained with a phase/Doppler anemometer system. The combined use  of both instruments for discerning differences in liquid and vapor transport is  discussed.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD NOV 20
+PY 1994
+VL 33
+IS 33
+BP 7781
+EP 8
+DI 10.1364/AO.33.007781
+PG -7773
+UT PubMed:20962990
+PM 20962990
+DA 1994-11-20
+ER
+
+PT J
+AU Richert, C
+   Wessels, JM
+   Müller, M
+   Kisters, M
+   Benninghaus, T
+   Goetz, AE
+AF Richert, C
+   Wessels, J M
+   Müller, M
+   Kisters, M
+   Benninghaus, T
+   Goetz, A E
+TI Photodynamic antitumor agents: beta-methoxyethyl groups give access to
+SO Journal of medicinal chemistry
+LA English
+DT Journal Article
+AB Porphycene photosensitizers bearing two or four methoxyethyl side chains were  synthesized in nine steps from commercially available starting materials. Ether  cleavage led to (hydroxyethyl)- and (bromoethyl)porphycenes that were converted  to vinyl and benzo derivatives. Five of the side chain-functionalized porphycenes  were biologically studied in comparison with two tetra-n-propylporphycenes.  Porphycenes were incorporated in small unilamellar liposomes and incubated with  cultivated SSK2 murine fibrosarcoma cells. Cellular uptake and phototoxicity 24 h  after 5 J/cm2 laser light treatment were determined. The porphycenes tested were  between 17 and 220 times more photodynamically active than the currently  clinically used sensitizer Photofrin, although extinction coefficients of the  porphycenes' irradiated bands are only approximately 10-fold higher. The LD50  concentration for SSK2 cells in the incubation medium was as low as (8.5 +/- 2.8)  x 10(-9) M for tetrakis(methoxyethyl)porphycene. Two methoxy or hydroxy groups  enhanced cellular uptake, three or four methoxy groups both enhanced and  accelerated cellular uptake of tetraalkylporphycenes. Half-life times of the  uptake processes varied between (0.14 +/- 0.04) and (14 +/- 4) h and cellular  saturation levels between (1.2 +/- 0.2) and (26 +/- 3) pmol/10(5) cells. When  individual uptake rates were accounted for, all porphycenes had a similar  "cellular" phototoxicity, pointing toward a common mechanism of action. Evidence  is presented for the assumption that cell membranes are the primary targets of  the tested porphycenes and that membrane solubility may play a critical role in  their photodynamic efficiency. The results show that nonionic polar side chain  functionalities can strongly enhance cellular uptake and antitumor activity of  lipophilic porphyrinoids and thus that the known lipophilicity/activity  relationship can be reversed for very hydrophobic sensitizers.
+C1 Institute for Organic Chemistry, University Cologne, Köln, Germany.
+NR 0
+TC 0
+SN 
+EI 0022-262
+J9 J Med Chem
+PD AUG 19
+PY 1994
+VL 37
+IS 17
+BP 2797
+EP 807
+DI 10.1021/jm00043a019
+PG -1990
+WC Animals; Antineoplastic Agents; chemical synthesis; Biological Transport; Cell Survival; drug effects; Drug Carriers; Drug Design; Fibrosarcoma; metabolism; Lethal Dose 50; Light; Liposomes; Magnetic Resonance Spectroscopy; Mass Spectrometry; Mice; Molecular Structure; Photochemotherapy; Photosensitizing Agents; chemical synthesis; Porphyrins; chemical synthesis; Spectrometry, Mass, Fast Atom Bombardment; Spectrophotometry; Structure-Activity Relationship; Tumor Cells, Cultured
+UT PubMed:8064807
+PM 8064807
+DA 1994-08-19
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Extinction and the fossil record.
+SO Geotimes
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+C1 Department of the Geophysical Sciences, University of Chicago, Ill. 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0016-855
+J9 Geotimes
+PD MAR 1
+PY 1994
+VL 39
+IS 3
+BP 15
+EP 7
+DI 
+PG -8
+WC Animals; Biological Evolution; Fossils; Marine Biology; Paleontology
+UT PubMed:11539586
+PM 11539586
+DA 1994-03-01
+ER
+
+PT J
+AU Muzio, RN
+   Segura, ET
+   Papini, MR
+AF Muzio, R N
+   Segura, E T
+   Papini, M R
+TI Learning under partial reinforcement in the toad (Bufo arenarum): effects of
+SO Behavioral and neural biology
+LA English
+DT Journal Article
+AB Two experiments studied the adjustment of toads (Bufo arenarum) to partial  reinforcement in a runway. In Experiment 1, two groups received 24 daily trials  of either continuous reinforcement (CR) or 50% partial reinforcement (PR).  Training parameters that facilitate the PR extinction effect (greater resistance  to extinction after PR than CR training) in rats were selected. PR impaired  performance during acquisition but had no effect on performance during extinction  relative to CR. In Experiment 2, four groups were trained in a factorial design  involving CR and PR, and a lesion of the medial pallium and a sham operation.  Performance during acquisition was again impaired by PR, but the medial pallium  lesions had no effect. The lesion, however, increased resistance to extinction  after both CR and PR training. The results are discussed in relation to  comparative research on learning and to the hypothesized homology of the  amphibian medial pallium and the mammalian hippocampal formation.
+C1 Instituto de Biología y Medicina Experimental, Buenos Aires, Argentina.
+NR 0
+TC 0
+SN 
+EI 0163-104
+J9 Behav Neural Biol
+PD JAN 1
+PY 1994
+VL 61
+IS 1
+BP 36
+EP 46
+DI 10.1016/s0163-1047(05)80042-1
+PG 10
+WC Animals; Behavior, Animal; physiology; Brain; physiology; Bufo arenarum; physiology; Conditioning, Psychological; physiology; Extinction, Psychological; physiology; Hippocampus; physiology; Learning; physiology; Male; Models, Biological; Reinforcement, Psychology
+UT PubMed:8129684
+PM 8129684
+DA 1994-01-01
+ER
+
+PT J
+AU Taylor, MA
+   Pavlou, S
+   Kevrekidis, IG
+AF Taylor, M A
+   Pavlou, S
+   Kevrekidis, I G
+TI Microbial predation in coupled chemostats: a global study of two coupled
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Predator-prey systems in continuously operated chemostats exhibit sustained  oscillations over a wide range of operating conditions. When two such chemostats  interact through flow exchange, the interplay of the oscillation frequencies  gives rise to a wealth of dynamic behavior patterns. Using numerical bifurcation  techniques, we perform a detailed computational study of these patterns and the  transitions between them as the coupling strength and relative frequencies of the  two chemostats vary. We concentrate on certain strong resonance phenomena between  the two frequencies as well as their mutual extinction and provide a  representative sampling of possible phase portraits for our model system. Our  observations corroborate recent mathematical results and case studies of coupled  nonlinear chemical oscillators in which regions of mutual extinction as well as  the Arnol'd structure for two-parameter families of maps of the plane have been  observed. We highlight certain unexpected features of the operating diagram  discovered through our computational study and discuss their implication for the  dynamic response of the chemostat system.
+C1 Department of Chemical Engineering, Princeton University, New Jersey.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD JUL 1
+PY 1994
+VL 122
+IS 1
+BP 25
+EP 66
+DI 10.1016/0025-5564(94)90081-7
+PG 41
+WC Animals; Bacteria; growth & development; Ecosystem; Eukaryota; growth & development; Mathematics; Models, Biological
+UT PubMed:8081048
+PM 8081048
+DA 1994-07-01
+ER
+
+PT J
+AU Brownson, EA
+   Sengstake, CB
+   Chambers, KC
+AF Brownson, E A
+   Sengstake, C B
+   Chambers, K C
+TI The role of serum testosterone in the accelerated extinction of a conditioned
+SO Physiology & behavior
+LA English
+DT Journal Article
+AB Fluid deprivation decreases serum testosterone (T) levels and increases the rate  of extinction of a conditioned taste aversion in Sprague-Dawley male rats. It has  been suggested that the decreased serum levels may be the primary factor  responsible for the accelerated extinction rates during fluid deprivation. To  test the generality of this hypothesis, the effect of fluid deprivation on T  levels and extinction rate was investigated in Fischer 344 male rats. Extinction  rates were accelerated in Fischer 344 rats but T levels were not decreased. In a  second study, the behavioral and hormonal responses of Fischer 344 and  Sprague-Dawley males to fluid deprivation were compared. Extinction rates were  increased in both strains of rat by fluid deprivation, but serum T levels were  decreased in fluid-deprived Sprague-Dawley males and not Fischer 344 males. It  was suggested that the accelerated extinction in fluid-deprived Sprague-Dawley  males was primarily due to decreases in serum T levels, while the faster  extinction in deprived Fisher 344 males could be accounted for by decreases in  sensitivity to T.
+C1 Department of Biological Sciences, University of Southern California, Los Angeles 90089.
+NR 0
+TC 0
+SN 
+EI 0031-938
+J9 Physiol Behav
+PD FEB 1
+PY 1994
+VL 55
+IS 2
+BP 273
+EP 8
+DI 10.1016/0031-9384(94)90133-3
+PG -265
+WC Animals; Avoidance Learning; physiology; Dihydrotestosterone; blood; Extinction, Psychological; physiology; Lithium Chloride; pharmacology; Male; Rats; Rats, Inbred F344; Rats, Sprague-Dawley; Species Specificity; Taste; physiology; Testosterone; blood; Water Deprivation; physiology
+UT PubMed:8153165
+PM 8153165
+DA 1994-02-01
+ER
+
+PT J
+AU Lago, JA
+   Kosten, TR
+AF Lago, J A
+   Kosten, T R
+TI Stimulant withdrawal.
+SO Addiction (Abingdon, England)
+LA English
+DT Review
+AB The current paper is a review of the literature on abstinence symptomatology  after stimulant use. The studies performed indicate biological and physical  changes during abstinence. One outpatient study suggests a phasic model of  stimulant abstinence which is characterized by a 'crash', 'withdrawal', and  'extinction' phase. However, two inpatient studies do not confirm these findings.  In contrast, these latter two studies did not find a crash phase and reported a  gradual improvement of mood during these 21-day and 28-day inpatient stays.  Biological measures suggest changes in receptor, endocrinological and  neurochemical activity. One study found hyperprolactinemia throughout the 4-week  period, while another study using PET and FDG ([18F]-Fluorodeoxyglucose) found  increased brain glucose metabolism in the dopamine-rich areas of the basal  ganglia and orbitofrontal cortex. Another study using PET and  F18-Methylspiroperidol found decreased dopamine D2 receptor binding during  cocaine withdrawal and also a separate study using PET and F-18-Dopa discovered  low dopaminergic brain activity. To date, few studies have been performed, and  the lack of clear-cut physical withdrawal symptoms as seen in alcohol, sedative,  and opiate withdrawal makes it difficult to demonstrate definitively the presence  of withdrawal during stimulant abstinence. Amphetamine withdrawal has been less  studied, but empirical data suggest that the symptoms are similar to cocaine  withdrawal. Further studies are needed to better delineate the presence of acute  versus chronic post-use symptoms.
+C1 Yale University School of Medicine, Department of Psychiatry Substance Abuse Research Center, Connecticut.
+NR 0
+TC 0
+SN 
+EI 0965-214
+J9 Addiction
+PD NOV 1
+PY 1994
+VL 89
+IS 11
+BP 1477
+EP 81
+DI 10.1111/j.1360-0443.1994.tb03746.x
+PG -1396
+WC Affect; drug effects; Amphetamines; adverse effects; Animals; Arousal; drug effects; Brain; drug effects; Cocaine; adverse effects; Dopamine; physiology; Humans; Neurologic Examination; drug effects; Substance Withdrawal Syndrome; etiology; Substance-Related Disorders; physiopathology
+UT PubMed:7841859
+PM 7841859
+DA 1994-11-01
+ER
+
+PT J
+AU Krebs, RA
+   Loeschcke, V
+AF Krebs, R A
+   Loeschcke, V
+TI Response to environmental change: genetic variation and fitness in Drosophila
+SO EXS
+LA English
+DT Journal Article
+AB Drosophila buzzatii typically may encounter high temperatures in nature, and this  species is genetically variable for resistance to stress, both within and among  populations. Fitness of survivors to stress, however, was reduced, and observed  as a reduction in male fertility and female fecundity. With time following  exposure to severe stress, reproductive capacity improved, but lifetime offspring  production still was reduced significantly. This effect would greatly reduce a  population's recovery from small size, which could occur following exposure to  some man-made or environmental extreme. Although the results presented here were  obtained for effects of heat stress, such consequences likely apply to a wide  range of natural and man-made environmental stresses, including heavy metal  toxicity or other pollutants. Low levels of these pollutants may not cause an  observable effect on populations, even if some individuals are killed or  offspring production is decreased. If genetic variation for resistance is  present, higher tolerance may evolve. However, if concentrations are permitted to  rise too far, some stress threshold may be reached, as observed for thermal  stress, causing mass die-off or sterility and, possibly, local extinction.  Understanding the effects of stress is important when preparing programs for the  conservation of species. Organisms generally do not become extinct when resources  are abundant and the climate benign, but unfortunately, no guarantee can be made  that environmental conditions in any locality will remain stable over a long  time. Consequently, a high possibility of exposure to an extreme stress in an  area would greatly reduce its usefulness as a reserve. Likewise, when choosing  organisms for reintroduction, stress resistance of the chosen individuals and  high levels of genetic variation within a population would be valuable. The  organisms placed there must be able to change. Analysis of stress resistance (at  non-lethal levels) among either family groups or for different populations would  be very useful when deciding which individuals to reintroduce to an area or place  in a reserve. Additionally, analysis may suggest that stress resistance is very  low in a population or species. If identified, particular care may be taken to  monitor the occurrence of that stress in the environment, and to take action to  protect the population from that stress. Preservation of species should be  designed for the future, with the goal to preserve, not simply to postpone  extinction.
+C1 Department of Ecology and Genetics, University of Aarhus, Denmark.
+NR 0
+TC 0
+SN 
+EI 1023-294
+J9 EXS
+PD JAN 1
+PY 1994
+VL 68
+IS 
+BP 309
+EP 21
+DI 10.1007/978-3-0348-8510-2_24
+PG -288
+WC Analysis of Variance; Animals; Conservation of Natural Resources; Drosophila; genetics; Environment; Female; Longevity; Male; Selection, Genetic; Temperature
+UT PubMed:8032136
+PM 8032136
+DA 1994-01-01
+ER
+
+PT J
+AU Stanley, SM
+   Yang, X
+AF Stanley, S M
+   Yang, X
+TI A double mass extinction at the end of the paleozoic era.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Three tests based on fossil data indicate that high rates of extinction recorded  in the penultimate (Guadalupian) stage of the Paleozoic era are not artifacts of  a poor fossil record. Instead, they represent an abrupt mass extinction that was  one of the largest to occur in the past half billion years. The final mass  extinction of the era, which took place about 5 million years after the  Guadalupian event, remains the most severe biotic crisis of all time. Taxonomic  losses in the Late Permian were partitioned among the two crises and the  intervening interval, however, and the terminal Permian crisis eliminated only  about 80 percent of marine species, not 95 or 96 percent as earlier estimates  have suggested.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 25
+PY 1994
+VL 266
+IS 5189
+BP 1340
+EP 4
+DI 10.1126/science.266.5189.1340
+PG -1336
+UT PubMed:17772839
+PM 17772839
+DA 1994-11-25
+ER
+
+PT J
+AU Sears, LL
+   Finn, PR
+   Steinmetz, JE
+AF Sears, L L
+   Finn, P R
+   Steinmetz, J E
+TI Abnormal classical eye-blink conditioning in autism.
+SO Journal of autism and developmental disorders
+LA English
+DT Journal Article
+AB Cerebellar and limbic system pathologies have been reported in persons with  autism. Because these brain areas are involved centrally in the acquisition and  performance in classical eye-blink conditioning, this study evaluated  conditioning in 11 persons with autism. Compared to matched controls, persons  with autism learned the task faster but performed short-latency, high-amplitude  conditioned responses. In addition, differences in learning the extinction rates  systematically varied with age thus suggesting a developmental conditioning  abnormality in autism. The observed pattern of eye-blink conditioning may  indicate that persons with autism have the ability to rapidly associate paired  stimuli but, depending on processing of certain contextual information, have  impairments in modulating the timing and topography of the learned responses.  This abnormality may relate to deviant cerebellar-hippocampal interactions. The  classical eye-blink conditioning paradigm may provide a useful model for  understanding the biological and behavioral bases of autism.
+C1 Department of Pediatrics, University of Louisville School of Medicine, Kentucky.
+NR 0
+TC 0
+SN 
+EI 0162-325
+J9 J Autism Dev Disord
+PD DEC 1
+PY 1994
+VL 24
+IS 6
+BP 737
+EP 51
+DI 10.1007/BF02172283
+PG -686
+WC Adolescent; Adult; Association Learning; physiology; Autistic Disorder; physiopathology; Cerebellum; physiopathology; Child; Conditioning, Classical; physiology; Conditioning, Eyelid; physiology; Extinction, Psychological; physiology; Female; Hippocampus; physiopathology; Humans; Limbic System; physiopathology; Male; Neural Pathways; physiopathology; Reaction Time; physiology; Reflex, Abnormal; physiology
+UT PubMed:7844097
+PM 7844097
+DA 1994-12-01
+ER
+
+PT J
+AU Rogers, JS
+AF Rogers, James S
+TI CENTRAL MOMENTS AND PROBABILITY DISTRIBUTION OF COLLESS'S COEFFICIENT OF TREE
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Extinction; phylogenetic trees; probability distribution; speciation; tree balance
+AB The great increase in the number of phylogenetic studies of a wide variety of  organisms in recent decades has focused considerable attention on the balance of  phylogenetic trees-the degree to which sister clades within a tree tend to be of  equal size-for at least two reasons: (1) the degree of balance of a tree may  affect the accuracy of estimates of it; (2) the degree of balance, or imbalance,  of a tree may reveal something about the macroevolutionary processes that  produced it. In particular, variation among lineages in rates of speciation or  extinction is expected to produce trees that are less balanced than those that  result from phylogenetic evolution in which each extant species of a group has  the same probability of speciation or extinction. Several coefficients for  measuring the balance or imbalance of phylogenetic trees have been proposed. I  focused on Colless's coefficient of imbalance (7) for its mathematical  tractability and ease of interpretation. Earlier work on this statistic produced  exact methods only for calculating the expected value. In those studies, the  variance and confidence limits, which are necessary for testing the departure of  observed values of I from the expected, were estimated by Monte Carlo simulation.  I developed recursion equations that allow exact calculation of the mean,  variance, skewness, and complete probability distribution of I for two different  probability-generating models for bifurcating tree shapes. The Equal-Rates Markov  (ERM) model assumes that trees grow by the random speciation and extinction of  extant species, with all species that are extant at a given time having the same  probability of speciation or extinction. The Equal Probability (EP) model assumes  that all possible labeled trees for a given number of terminal taxa have the same  probability of occurring. Examples illustrate how these theoretically derived  probabilities and parameters may be used to test whether the evolution of a  monophyletic group or set of monophyletic groups has proceeded according to a  Markov model with equal rates of speciation and extinction among species, that  is, whether there has been significant variation among lineages in expected rates  of speciation or extinction.
+C1 Department of Biological Sciences, University of New Orleans, New Orleans, Louisiana, 70148.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD DEC 1
+PY 1994
+VL 48
+IS 6
+BP 2026
+EP 2036
+DI 10.1111/j.1558-5646.1994.tb02230.x
+PG 10
+UT PubMed:28565170
+PM 28565170
+DA 1994-12-01
+ER
+
+PT J
+AU Tsujita, M
+   Tomita, S
+   Miura, S
+   Ichikawa, Y
+AF Tsujita, M
+   Tomita, S
+   Miura, S
+   Ichikawa, Y
+TI Characteristic properties of retinal oxidase (retinoic acid synthase) from rabbit
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB Retinal oxidase (retinoic acid synthase) (EC 1.2.3.11) was purified  electrophoretically, as a single protein band, from rabbit liver cytosol. The  characteristic properties, enzymatic reaction mechanism, substrate specificity  and kinetic parameters for retinals and molecular oxygen of the retinal oxidase  were investigated. The Km values for all-trans-retinal of the retinal oxidase was  the lowest than those for the other retinal derivatives. The retinal oxidase is a  metalloflavoenzyme containing 2 FADs as the coenzyme, and 8 irons, 2 molybdenums,  2 disulfide bonds and 8 inorganic sulfurs. Its relative molecular mass was  determined to be 270 kDa by gel filtration HPLC on a TSKgel G3000swXL column. Its  minimum molecular mass was estimated to be 135 kDa by SDS-PAGE. The optical  spectrum of the retinal oxidase showed absorption peaks at 275, 340 and 450 nm,  and shoulders at 420 and 473 nm, in the oxidized form. The molecular extinction  coefficients of the oxidase at selected wavelengths were determined. Circular  dichroism spectra of the retinal oxidase were measured in the ultraviolet and  visible regions. These spectra showed positive absorption in the visible region.  The amino-acid composition was determined. The activity of the oxidase was not  affected by any cofactors, such as NADP+, NAD+, NADPH and NADH, and it did not  occur under anaerobic conditions. The oxidase was not inhibited by BOF-4272, a  potent inhibitor of xanthine dehydrogenase, or rat anti-xanthine dehydrogenase  IgG. Experiments on retinoic acid formation under 18O2 or H2(18)O demonstrated  that the oxygen of water was incorporated into retinoic acid by the retinal  oxidase, but not molecular oxygen.
+C1 Department of Biochemistry, Kagawa Medical School, Japan.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD JAN 11
+PY 1994
+VL 1204
+IS 1
+BP 108
+EP 16
+DI 10.1016/0167-4838(94)90039-6
+PG -92
+WC Aldehyde Oxidoreductases; antagonists & inhibitors; Amino Acids; analysis; Animals; Cytosol; enzymology; Kinetics; Liver; enzymology; Male; Metals; analysis; Rabbits; Retinal Dehydrogenase; Retinaldehyde; metabolism; Sulfur; analysis; Temperature
+UT PubMed:8305467
+PM 8305467
+DA 1994-01-11
+ER
+
+PT J
+AU Sikder, A
+   Roy, AB
+AF Sikder, A
+   Roy, A B
+TI A co-evolutionary model of mutualism from a commensal association on
+SO Bio Systems
+LA English
+DT Journal Article
+AB This paper considers a Lotka-Volterra type of model of competition between a  commensal pair of species and a mutualistic pair, presumed to have descended from  a single ancestral pair of species. The species are behaviourally isolated but  compete for resources. We have studied in detail the effects of the benefits of  mutualism over commensalism. Specifically, it is shown that co-evolution of the  mutalistic pair from the commensal association is not possible if (i) some of the  interacting parameters coincide for the two pairs, or (ii) mutualists suffer more  from competition, or (iii) mutualists produce a smaller competitive effect. If  the costs of mutualism are density-independent, co-evolution of the mutualism is  possible provided (i) the specific growth rate(s) of one or both of the  mutualistic species is positive at the steady state of the commensal pair and  (ii) the specific growth rate(s) of one or both of the commensal species is  positive at the steady state of the mutualistic pair. Lastly, whenever the  mutualists co-exist with the commensalists and the feasible interior equilibrium  of the model is unstable, we have shown that the co-evolutionary model of  mutualism collapses to the stable two-species mutualistic relationship, causing  the ultimate extinction of both the species of the original commensal  association.
+C1 Department of Mathematics, Jadavpur University, Calcutta, India.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1994
+VL 32
+IS 1
+BP 39
+EP 60
+DI 10.1016/0303-2647(94)90018-3
+PG 21
+WC Animals; Biological Evolution; Ecosystem; Feedback; Models, Biological; Population Dynamics; Predatory Behavior
+UT PubMed:8018840
+PM 8018840
+DA 1994-01-01
+ER
+
+PT J
+AU Krasnopolsky, VA
+   Pollack, JB
+AF Krasnopolsky, V A
+   Pollack, J B
+TI H2O-H2SO4 system in Venus' clouds and OCS, CO, and H2SO4 profiles in Venus'
+SO Icarus
+LA English
+DT Journal Article
+DE NASA Center ARC; NASA Discipline Exobiology; NASA Discipline Number 50-50; NASA Program Exobiology
+AB A coupled problem of diffusion and condensation is solved for the H2SO4-H2O  system in Venus' cloud layer. The position of the lower cloud boundary and  profiles of the H2O and H2SO4 vapor mixing ratios and of the H2O/H2SO4 ratio of  sulfuric acid aerosol and its flux are calculated as functions of the column  photochemical production rate of sulfuric acid, phi H2SO4. Variations of the  lower cloud boundary are considered. Our basic model, which is constrained to  yield fH2O (30 km) = 30 ppm (Pollack et al. 1993), predicts the position of the  lower cloud boundary at 48.4 km coinciding with the mean Pioneer Venus value, the  peak H2SO4 mixing ratio of 5.4 ppm, and the H2SO4 production rate phi H2SO4 = 2.2  x 10(12) cm-2 sec-1. The sulfur to sulfuric acid mass flux ratio in the clouds is  1 : 27 in this model, and the mass loading ratio may be larger than this value if  sulfur particles are smaller than those of sulfuric acid. The model suggests that  the extinction coefficient of sulfuric acid particles with radius 3.7 micrometers  (mode 3) is equal to 0.3 km-1 in the middle cloud layer. The downward flux of CO  is equal to 1.7 x 10(12) cm-2 sec-1 in this model. Our second model, which is  constrained to yield fH2SO4 = 10 ppm at the lower cloud boundary, close to the  value measured by the Magellan radiooccultations, predicts the position of this  boundary to be at 46.5 km, which agrees with the Magellan data; fH2O(30 km) = 90  ppm, close to the data of Moroz et al. (1983) at this altitude; phi H2SO4 = 6.4 x  10(12) cm-2 sec-1; and phi co = 4.2 x 10(12) cm-2 sec-1. The S/H2SO4 flux mass  ratio is 1 : 18, and the extinction coefficient of the mode 3 sulfuric acid  particles is equal to 0.9 km-1 in the middle cloud layer. A strong gradient of  the H2SO4 vapor mixing ratio near the bottom of the cloud layer drives a large  upward flux of H2SO4, which condenses and forms the excessive downward flux of  liquid sulfuric acid, which is larger by a factor of 4-7 than the flux in the  middle cloud layer. This is the mechanism of formation of the lower cloud layer.  Variations of the lower cloud layer are discussed. Our modeling of the OCS and CO  profiles in the lower atmosphere measured by Pollack et al. (1993) provides a  reasonable explanation of these data and shows that the rate coefficient of the  reaction SO3 + CO --> CO2 + SO2 is equal to 10(-11) exp(-(13,100 +/- 1000)/T)  cm3/s. The main channel of the reaction between SO3 and OCS is CO2 + (SO)2, and  its rate coefficient is equal to 10(-11) exp(-(8900 +/- 500)T)cm3/s. In the  conditions of Venus' lower atmosphere, (SO)2 is removed by the reaction (SO)2 +  OCS --> CO + S2 + SO2. The model predicts an OCS mixing ratio of 28 ppm near the  surface.
+C1 Laboratory for Extraterrestrial Physics, NASA/Goddard Space Flight Center, Greenbelt, Maryland 20771, USA. ys2vk@lepvax.gsfc.nasa.gov
+NR 0
+TC 0
+SN 
+EI 0019-103
+J9 Icarus
+PD MAY 1
+PY 1994
+VL 109
+IS 1
+BP 58
+EP 78
+DI 10.1006/icar.1994.1077
+PG 20
+WC Atmosphere; Carbon; chemistry; Carbon Monoxide; chemistry; Extraterrestrial Environment; Iron Compounds; chemistry; Models, Chemical; Photochemistry; Sulfur Dioxide; chemistry; Sulfur Oxides; chemistry; Sulfuric Acids; chemistry; Venus; Water; analysis
+UT PubMed:11539137
+PM 11539137
+DA 1994-05-01
+ER
+
+PT J
+AU Gould, SJ
+AF Gould, S J
+TI Tempo and mode in the macroevolutionary reconstruction of Darwinism.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Review
+AB Among the several central meanings of Darwinism, his version of Lyellian  uniformitarianism--the extrapolationist commitment to viewing causes of  small-scale, observable change in modern populations as the complete source, by  smooth extension through geological time, of all magnitudes and sequences in  evolution--has most contributed to the causal hegemony of microevolution and the  assumption that paleontology can document the contingent history of life but  cannot act as a domain of novel evolutionary theory. G. G. Simpson tried to  combat this view of paleontology as theoretically inert in his classic work,  Tempo and Mode in Evolution (1944), with a brilliant argument that the two  subjects of his title fall into a unique paleontological domain and that modes  (processes and causes) can be inferred from the quantitative study of tempos  (pattern). Nonetheless, Simpson did not cash out his insight to paleontology's  theoretical benefit because he followed the strict doctrine of the Modern  Synthesis. He studied his domain of potential theory and concluded that no actual  theory could be found--and that a full account of causes could therefore be  located in the microevolutionary realm after all. I argue that Simpson was unduly  pessimistic and that modernism's belief in reductionistic unification (the  conventional view of Western intellectuals from the 1920s to the 1950s) needs to  be supplanted by a postmodernist commitment to pluralism and multiple levels of  causation. Macro- and microevolution should not be viewed as opposed, but as  truly complementary. I describe the two major domains where a helpful  macroevolutionary theory may be sought--unsmooth causal boundaries between levels  (as illustrated by punctuated equilibrium and mass extinction) and hierarchical  expansion of the theory of natural selection to levels both below (gene and  cell-line) and above organisms (demes, species, and clades). Problems remain in  operationally defining selection at non-organismic levels (emergent traits vs.  emergent fitness approaches, for example) and in specifying the nature and basis  of levels, but this subject should be the central focus in formulating a more  ample and satisfactory general theory of evolution on extended Darwinian  principles.
+C1 Museum of Comparative Zoology, Harvard University, Cambridge, MA 02138.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JUL 19
+PY 1994
+VL 91
+IS 15
+BP 6764
+EP 71
+DI 10.1073/pnas.91.15.6764
+PG -6693
+WC Animals; Biological Evolution; Models, Biological; Paleontology; Selection, Genetic
+UT PubMed:8041695
+PM 8041695
+DA 1994-07-19
+ER
+
+PT J
+AU Sara, SJ
+   Vankov, A
+   Hervé, A
+AF Sara, S J
+   Vankov, A
+   Hervé, A
+TI Locus coeruleus-evoked responses in behaving rats: a clue to the role of
+SO Brain research bulletin
+LA English
+DT Review
+AB Neuromodulatory properties of noradrenaline (NA) suggest that the  coreruleo-cortical NA projection should play an important role in attention and  memory processes. Our research is aimed at providing some behavioral evidence.  Single units of the locus coeruleus (LC) are recorded during controlled  behavioral situations, in order to relate LC activation to specific behavioral  contexts. LC cells respond in burst to imposed novel sensory stimuli or to novel  objects encountered during free exploration. When there is no predictive value of  the stimulus or no behavioral response required, there is rapid habituation of  the LC response. When a stimulus is then associated with reinforcement, there is  a renewed response, which is transient. During extinction, LC neuronal responses  reappear. Thus, LC cells respond to novelty or change in incoming information,  but do not have a sustained response to stimuli, even when they have a high level  of biological significance. The gating and tuning action of NA released in target  sensory systems would promote selective attention to relevant stimuli at the  critical moment of change. The adaptive behavioral outcome would result from the  integration of retrieved memory with the sensory information selected from the  environment.
+C1 Institut des Neurosciences, Université P & M Curie, Paris, France.
+NR 0
+TC 0
+SN 
+EI 0361-923
+J9 Brain Res Bull
+PD JAN 1
+PY 1994
+VL 35
+IS 5-6
+BP 457
+EP 65
+DI 10.1016/0361-9230(94)90159-7
+PG -392
+WC Animals; Behavior, Animal; physiology; Locus Coeruleus; cytology; Memory; physiology; Neurons; metabolism; Norepinephrine; metabolism; Rats
+UT PubMed:7859103
+PM 7859103
+DA 1994-01-01
+ER
+

@@ -1,0 +1,651 @@
+PT J
+AU Orning, L
+   Hammarström, S
+AF Orning, L
+   Hammarström, S
+TI Isolation and characterization of 15-hydroxylated metabolites of leukotriene C4.
+SO FEBS letters
+LA English
+DT Journal Article
+AB A polar metabolite of leukotriene C4 was formed by sequential conversions with  soybean lipoxygenase I and liver peroxidase. The structure of this product was  found to be 5(S),  15(S)-dihydroxy-6(R)-S-glutathionyl-7,9,13-trans-11-cis-eicosatetraenoic acid  (15-hydroxy-delta 13-trans-leukotriene C3. The HPLC behaviour, the molar  extinction coefficient and the biological activity of the metabolite are  reported. Preliminary evidence suggests that this product is formed by mammalian  tissues.
+NR 0
+TC 0
+SN 
+EI 0014-579
+J9 FEBS Lett
+PD MAR 21
+PY 1983
+VL 153
+IS 2
+BP 253
+EP 6
+DI 10.1016/0014-5793(83)80618-8
+PG -247
+WC Animals; Arachidonic Acids; Chromatography, High Pressure Liquid; Eicosanoids; Guinea Pigs; Ileum; drug effects; Kinetics; Lipoxygenase; metabolism; Muscle Contraction; drug effects; Oligopeptides; Plants; enzymology; SRS-A; analogs & derivatives; Glycine max
+UT PubMed:6413247
+PM 6413247
+DA 1983-03-21
+ER
+
+PT J
+AU Hart, IR
+AF Hart, I R
+TI Tumor cell hybridization and neoplastic progression.
+SO Symposium on Fundamental Cancer Research
+LA English
+DT Review
+AB In the experiments reported here, I was unable to detect any fusion between host  cells and transplanted tumor cells; however, spontaneous hybridization between  tumor cells appears to occur in the B16 melanoma. This hybridization was  demonstrated by mixing together B16-F10RR cells (universal fusers) and B16-F10  cells, allowing them to grow in close juxtaposition, and recovering putative  hybrids in the appropriate selection media. The tumor cell-tumor cell composition  of the resultant hybrids is inferred from the relative frequency of fusions,  compared with the infrequency of tumor cell-host cell fusion when single  populations of B16-F10RR cells were used, and by the chromosomal content of the  hybrids. Definitive proof that hybridization occurs between both types of tumor  cell rather than between a tumor cell and some other type of cell would require  the use of a third biochemical marker on the unmarked tumor cells. I am now  repeating these experiments using B16-F10 cells that exhibit resistance to the  neomycinlike antibiotic G418. Nonetheless, it is not surprising to find that such  closely related tumor cells fuse with one another. The efficiency of in vitro  hybridization mediated by polyethylene glycol is increased when the hybridizing  cells are histologically or developmentally related, so that B16 melanoma cells  fuse more readily with one another than they do with unrelated cells such as  UV-2237 cells (I. Hart, unpublished observations). Moreover, early hybridization  protocols did not call for the use of fusogens, but merely the cocultivation of  participating cells in the two-dimensional constraints of a tissue culture dish  (e.g., Barski et al. 1961, Silagi 1967). Presumably, the increased contact  between cells within a growing tumor mass would increase the likelihood of such  spontaneous fusion. In vivo hybridization could play a significant role in  neoplastic progression and variation in metastatic efficiency by at least two  separate, but not necessarily mutually exclusive, mechanisms. First, fusion of  two contiguous tumor cells would increase the chromosome content of the resultant  single cell; this increase in ploidy could facilitate and heighten the apparent  inherent genetic instability of neoplastic cells (Nowell 1976). Although  segregation and chromosome loss may or may not be random or preferential in  nature (Campbell and Worton 1981), the mere occurrence of such a phenomenon could  also cause chromosomal disjunction and the possible extinction and reexpression  of specific genes, which would lead to the independent variation and progression  of different tumor cell characteristics in the manner cited by Foulds  (1969).(ABSTRACT TRUNCATED AT 400 WORDS)
+NR 0
+TC 0
+SN 
+EI 0190-121
+J9 Symp Fundam Cancer Res
+PD JAN 1
+PY 1983
+VL 36
+IS 
+BP 133
+EP 43
+DI 
+PG -90
+WC Animals; Cell Fusion; Cell Line; Cells, Cultured; Clone Cells; Genotype; Humans; Hybrid Cells; Karyotyping; Melanoma; genetics; Mice; Mice, Inbred C3H; Mice, Inbred C57BL; Neoplasm Metastasis; pathology
+UT PubMed:6382503
+PM 6382503
+DA 1983-01-01
+ER
+
+PT J
+AU Moras, D
+   Lorber, B
+   Romby, P
+   Ebel, JP
+   Giegé, R
+   Lewit-Bentley, A
+   Roth, M
+AF Moras, D
+   Lorber, B
+   Romby, P
+   Ebel, J P
+   Giegé, R
+   Lewit-Bentley, A
+   Roth, M
+TI Yeast tRNAAsp-aspartyl-tRNA synthetase: the crystalline complex.
+SO Journal of biomolecular structure & dynamics
+LA English
+DT Review
+AB Aspartyl-tRNA synthetase from yeast, a dimer of molecular weight 125,000 and its  cognate tRNA (Mr = 24,160) were co-crystallized using ammonium sulfate as  precipitant agent. The presence in the crystals of both components in the  two-to-one stoichiometric ratio was demonstrated by electrophoresis, biological  activity assays and crystallographic data. Crystals belong to the cubic space  group I432 with cell parameter of 354 A and one complex particle per asymmetric  unit. The solvent content of about 78% is favorable for a low resolution  structural investigation. By exchanging H2O for D2O in mother liquors, advantage  can be taken from contrast variation techniques with neutron radiations.  Diffraction data to 20 A resolution were measured at five different contrasts,  two of them being close to the theoretical matching point of RNA and protein in  the presence of ammonium sulfate. The experimental extinction of the diffracted  signal was observed to be close to 36% D2O, significantly different from the  predicted value of 41%. The phenomenon can be explained by the existence of a  large interface region between the two tRNAs and the enzyme. These parts of the  molecules are hidden from the solvent and their protons are less easily  exchangeable. Accessibility studies toward chemicals of tRNAAsp in solution and  in the presence of synthetase are in agreement with such a model.
+C1 Institut de Biologie Moléculaire et Cellulaire du CNRS, Strasbourg, France.
+NR 0
+TC 0
+SN 
+EI 0739-110
+J9 J Biomol Struct Dyn
+PD OCT 1
+PY 1983
+VL 1
+IS 1
+BP 209
+EP 23
+DI 10.1080/07391102.1983.10507435
+PG -186
+WC Amino Acyl-tRNA Synthetases; Aspartate-tRNA Ligase; Base Sequence; Binding Sites; Crystallization; Models, Molecular; Molecular Sequence Data; Molecular Structure; Nucleic Acid Conformation; Protein Conformation; RNA, Transfer, Amino Acid-Specific; RNA, Transfer, Asp; Saccharomyces cerevisiae; enzymology
+UT PubMed:6401112
+PM 6401112
+DA 1983-10-01
+ER
+
+PT J
+AU Bruce, CW
+   Richardson, NM
+AF Bruce, C W
+   Richardson, N M
+TI Propagation at 10 microm through smoke produced by atmospheric combustion of
+SO Applied optics
+LA English
+DT Journal Article
+AB Absorption and extinction due to the smoke produced by the atmospheric combustion  of diesel fuel have been measured using a CO2 laser spectrophone at a wavelength  of 10.6 microm. The absorption coefficient normalized to the aerosol mass density  is 0.84 +/-0.076 m2/g, and the total scattering coefficient (the difference  between the extinction and absorption values) normalized in the same way is 0.15  +/- 0.014 m2/g. The largely fibrous aerosol was found to be 80% carbon, with most  of the remainder consisting of hydrocarbons which are comparatively transparent  at 10.6 microm and physically resemble the unburned fuel. The normalized  coefficients of this study approximate those of diesel automobile effluents. This  is not surprising since the aerosol composition and morphology appear to be  similar.
+C1 US Army Atmospheric Sciences Laboratory, White Sands Missile Range, New Mexico 88002, USA.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD APR 1
+PY 1983
+VL 22
+IS 7
+BP 1051
+EP 5
+DI 10.1364/ao.22.001051
+PG -1046
+UT PubMed:18195920
+PM 18195920
+DA 1983-04-01
+ER
+
+PT J
+AU Esposito, LW
+   Borderies, N
+   Goldreich, P
+   Cuzzi, JN
+   Holberg, JB
+   Lane, AL
+   Pomphrey, RB
+   Terrile, RJ
+   Lissauer, JJ
+   Marouf, EA
+   Tyler, GL
+AF Esposito, L W
+   Borderies, N
+   Goldreich, P
+   Cuzzi, J N
+   Holberg, J B
+   Lane, A L
+   Pomphrey, R B
+   Terrile, R J
+   Lissauer, J J
+   Marouf, E A
+   Tyler, G L
+TI Eccentric ringlet in the maxwell gap at 1.45 saturn radii: multi-instrument
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The Voyager spacecraft observed a narrow, eccentric ringlet in the Maxwell gap  (1.45 Saturn radii) in Saturn's rings. Intercomparison of the Voyager imaging,  photopolarimeter, ultraviolet spectrometer, and radio science observations yields  results not available from individual observations. The width of the ringlet  varies from about 30 to about 100 kilometers, its edges are sharp on a radial  scale < 1 kilometer, and its opacity exhibits a double peak near the center. The  shape and width of the ringlet are consistent with a set of uniformly precessing,  confocal ellipses with foci at Saturn's center of mass. The ringlet precesses as  a unit at a rate consistent with the known dynamical oblateness of Saturn; the  lack of differential precession across the ringlet yields a ringlet mass of about  5 x 10(18) grams. The ratio of surface mass density to particle cross-sectional  area is about five times smaller than values obtained elsewhere in the Saturn  ring system, indicating a relatively larger fraction of small particles. Also,  comparison of the measured transmission of the ringlet at radio, visible, and  ultraviolet wavelengths indicates that about half of the total extinction is due  to particles smaller than 1 centimeter in radius, in contrast even with nearby  regions of the C ring. However, the color and brightness of the ringlet material  are not measurably different from those of nearby C ring particles. We find this  ringlet is similar to several of the rings of Uranus.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD OCT 7
+PY 1983
+VL 222
+IS 4619
+BP 57
+EP 60
+DI 10.1126/science.222.4619.57
+PG 3
+UT PubMed:17810092
+PM 17810092
+DA 1983-10-07
+ER
+
+PT J
+AU Pinnick, RG
+   Fernandez, G
+   Hinds, BD
+AF Pinnick, R G
+   Fernandez, G
+   Hinds, B D
+TI Explosion dust particle size measurements.
+SO Applied optics
+LA English
+DT Journal Article
+AB In situ measurements of the sizes and concentrations of dust particles generated  by the detonation of high explosives in clay soil near Leesville, La., sandy clay  soil near Huntsville, Ala., and sandy soils near Orogrande, N.M. are reported.  Measurements were generally made within 1 m of the surface (in one case 10 m) at  distances ranging from 10 to approximately 50 m from the detonation point with a  combination of Knollenberg lightscattering counters (for particles with  equivalent radius in the submicron to 15-microm range) and a Knollenberg optical  array probe (for particles of 10-150 microm). Measurements were made for periods  of several tens of seconds following detonation. All dust size distributions,  irrespective of soil or explosive type, exhibit a bimodal character with mass  mean radii of approximately 7 and 70 microm. Peak aerosol mass loadings inferred  from the distributions have values ranging from 0.05 to 10 g gm-3 with the larger  mode of particles contributing most to the mass loading. Predictions of dust  extinction coefficients at visible (0.55-microm) and IR (10.4-microm) wavelengths  were made using the measured size distributions together with estimates of dust  refractive indices. These predictions suggest that extinction should be nearly  neutral (wavelength independent) in agreement with transmission measurements made  during some of the tests. Predicted mass extinction coefficients, under the  assumption of dust material density of 2.5 g cm-3, are of the order of 0.05 m2  g-1 at both visible and IR wavelengths. This value is also in good agreement with  a test-averaged measured value of 0.03 m3 g-1 (at lambda = 10.6 microm) obtained  using a short path transmissometer and hi-vol sampler.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD JAN 1
+PY 1983
+VL 22
+IS 1
+BP 95
+EP 102
+DI 10.1364/ao.22.000095
+PG 7
+UT PubMed:18195752
+PM 18195752
+DA 1983-01-01
+ER
+
+PT J
+AU Lewin, R
+AF Lewin, R
+TI Extinctions and the History of Life: Now that, for many at least, asteroid impact
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD SEP 2
+PY 1983
+VL 221
+IS 4614
+BP 935
+EP 7
+DI 10.1126/science.221.4614.935
+PG -928
+UT PubMed:17748451
+PM 17748451
+DA 1983-09-02
+ER
+
+PT J
+AU Esnard, F
+   Gauthier, F
+AF Esnard, F
+   Gauthier, F
+TI Rat alpha 1-cysteine proteinase inhibitor. An acute phase reactant identical with
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB alpha 1-Cysteine proteinase inhibitor was isolated from normal and acute phase  rat serum. The procedure, which includes successive fractionations on AcA 34,  Cibacron blue Sepharose, DEAE-Sephacel, and hydroxyapatite, but avoids the use of  an affinity chromatography step on a cysteine proteinase gel, led to the  preparation of two electrophoretically distinct components. These resolved to a  single band of apparent Mr = 68,000 when analyzed by sodium dodecyl  sulfate-polyacrylamide gel electrophoresis. A slightly higher Mr was estimated  from gel filtration studies, possibly related to the rather high carbohydrate  content (15.25% of the dry weight). The purified protein exhibited strong  inhibiting capacity towards papain with a Ki of 5 X 10(-11) M. As shown by  immunochemical quantitation as well as functional activity, a 6-10-fold increase  in the alpha 1-cysteine cysteine proteinase inhibitor content was recorded in  inflammatory serum, thus demonstrating the protein to be a typical acute phase  reactant. Its partial physicochemical characterization (Mr, isoelectric point,  extinction coefficient, amino acid and carbohydrate compositions) shows large  similarities with alpha 1 acute phase globulin whose biological function remains  unknown, and which is present at the same concentration (about 0.5 g/liter) in  normal serum. Identity between the two molecules has been further demonstrated by  double immunodiffusion analysis since a continuous precipitating line was  observed when purified alpha 1-cysteine proteinase inhibitor was reacted against  anti-alpha 1 acute phase globulin and anti-alpha 1-cysteine cysteine proteinase  inhibitor antibodies.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD OCT 25
+PY 1983
+VL 258
+IS 20
+BP 12443
+EP 7
+DI 
+PG -12436
+WC Amino Acids; analysis; Animals; Carbohydrates; analysis; Cysteine Proteinase Inhibitors; Immunodiffusion; Kinetics; Papain; antagonists & inhibitors; Protease Inhibitors; isolation & purification; Proteins; isolation & purification; Rats; Rats, Inbred Strains; alpha-Macroglobulins; isolation & purification
+UT PubMed:6195153
+PM 6195153
+DA 1983-10-25
+ER
+
+PT J
+AU Borg, G
+   Sportouch, M
+AF Borg, G
+   Sportouch, M
+TI [The syndrome of premature ovarian failure].
+SO Journal de gynecologie, obstetrique et biologie de la reproduction
+LA fre
+DT Journal Article
+AB The syndrome of early ovarian failure gives rise to several pathogenic and  psychological problems because it often condemns the woman to permanent  sterility. Because of this a precise diagnosis has to be made, and this is done  by: biological examination of serum F.S.H.-L.H., Prolactin, delta 4, 17 O.H.C.S.  and 17 C.S., T3 and T4, and T.S.H. and Oestradiol levels. Karyotyping should also  be carried out because that allows a dysgenesis to be eliminated. Auto-immune  antibodies should be sought and laparoscopy carried out for ovarian biopsy.  Finally, karyotyping can be carried out on the ovarian fibroblasts. Primary  follicles should also be sought because these alone could theoretically give rise  to pregnancy when oestrogen therapy is stopped.
+NR 0
+TC 0
+SN 
+EI 0368-231
+J9 J Gynecol Obstet Biol Reprod (Paris)
+PD JAN 1
+PY 1983
+VL 12
+IS 7
+BP 747
+EP 50
+DI 
+PG -697
+WC Adolescent; Age Factors; Female; Humans; Menopause; Menopause, Premature; Ovarian Diseases; etiology
+UT PubMed:6668402
+PM 6668402
+DA 1983-01-01
+ER
+
+PT J
+AU Raup, DM
+   Valentine, JW
+AF Raup, D M
+   Valentine, J W
+TI Multiple origins of life.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB There is some indication that life may have originated readily under primitive  earth conditions. If there were multiple origins of life, the result could have  been a polyphyletic biota today. Using simple stochastic models for  diversification and extinction, we conclude: (i) the probability of survival of  life is low unless there are multiple origins, and (ii) given survival of life  and given as many as 10 independent origins of life, the odds are that all but  one would have gone extinct, yielding the monophyletic biota we have now. The  fact of the survival of our particular form of life does not imply that it was  unique or superior.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD MAY 1
+PY 1983
+VL 80
+IS 10
+BP 2981
+EP 4
+DI 10.1073/pnas.80.10.2981
+PG -2977
+WC Biological Evolution; Cell Survival; Models, Biological; Origin of Life; Probability; Prokaryotic Cells; physiology
+UT PubMed:6574468
+PM 6574468
+DA 1983-05-01
+ER
+
+PT J
+AU Silander, JA Jr
+AF Silander, John A Jr
+TI Demographic variation in the Australian desert cassia under grazing pressure.
+SO Oecologia
+LA English
+DT Journal Article
+AB Demographic variation was examined in 3 populations of the Australian desert  shrub Cassia nemophila which vary in their grazing histories. Age-specific life  tables were constructed from 50 years of observations on mortality and  recruitment at the Koonamore Vegetation Reserve in South Australia. Population  projection matrix models were used to examine population responses to grazing  pressure. The predicted population growth rates, reproductive values and stable  age distributions are evaluated and compared with observed results. Grazing by  sheep or rabbits, in high populations, prevents shrub recruitment and causes  local population extinction. However, where protected from sheep and with low  rabbit pressure, Cassia populations have increased. Current sheep grazing  practices and rabbit population levels if continued will have a drastic affect on  Cassia populations and other shrub species, and on the structure and composition  of the Australian arid shrublands in general.
+C1 Research School of Biological Sciences, Australian National University, Canberra, Australia.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD NOV 1
+PY 1983
+VL 60
+IS 2
+BP 227
+EP 233
+DI 10.1007/BF00379524
+PG 6
+UT PubMed:28310489
+PM 28310489
+DA 1983-11-01
+ER
+
+PT J
+AU van, Baalen J
+   Prins, EG
+AF van Baalen, J
+   Prins, E G M
+TI Growth and reproduction of Digitalis purpurea in different stages of succession.
+SO Oecologia
+LA English
+DT Journal Article
+AB Growth reproduction and regeneration were investigated in populations of  Digitalis purpurea present in different stages of secondary forest succession.  Interference between D. purpurea and an experimental vegetation emerging from  natural seed banks on a natural soil was studied during two successive growth  seasons under natural radiation and temperature conditions.Growth and seed  production were found to be strongly reduced and germination was inhibited in the  early/midsuccessional vegetation. In later successional stages sparse but  relatively stable populations were maintained by seed production and germination.  However, local extinction seems inevitable. A remarkable shift occurred from fast  and repeated flowering of compounded rosettes in the colonization phase to  delayed flowering of monocarpic rosettes in later phases.The significance of  secondary rosettes allowing for the repeated flowering is discussed. A condensed  scheme of the population cycle of D. purpurea is presented.
+C1 Department of Ecology, Biological Laboratory, Vrije Universiteit, De Boelelaan 1087, NL-1007 MC, Amsterdam, The Netherlands.
+   Department of Ecology, Biological Laboratory, Vrije Universiteit, De Boelelaan 1087, NL-1007 MC, Amsterdam, The Netherlands.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD APR 1
+PY 1983
+VL 58
+IS 1
+BP 84
+EP 91
+DI 10.1007/BF00384546
+PG 7
+UT PubMed:28310651
+PM 28310651
+DA 1983-04-01
+ER
+
+PT J
+AU Kitto, GB
+AF Kitto, G B
+TI Biological control of insect pests.
+SO Isozymes
+LA English
+DT Journal Article
+AB Isozyme techniques have proven particularly useful in the past in the field of  biological insect control. In this brief review I have tried to give a small  selection of the varied approaches that have been used. In the future, isozyme  analysis will undoubtedly play a major role. But genetic analyses, as exemplified  by the use of isozymes, form but a small part of the knowledge we must have if  biological control programs are to be successful. In a pest management program  where one is using both chemical and biological methods it is necessary to know a  great deal about the biology of the pests, their parasites, predators, and host  plants or animals, together with a knowledge of the general ecology of the area  where the problem exists. Too often, major control programs have been started  with pitifully inadequate basic knowledge of the insect pest concerned, dooming  such projects to a series of frantic and generally makeshift attempts to redeem  these inadequacies. We are starting to see a much greater emphasis on  interrelationships between scientific disciplines, more basic research being  conducted, and a resurgence of interaction between those people who are in the  applied field and those in the basic sciences. This dialog must be continued. In  closing, I want to emphasize again that in pest control we are involved in the  management of a coexistence with insects and I think it appropriate to end with  the thoughts of W.J. Holland [1949]: when all cities shall have been long dead  and crumbled into dust, and all life shall be on the very last verge of  extinction on this globe; then on a bit of lichen, growing on the bald rocks  beside the eternal snows of Panama, shall be seated a tiny insect, preening its  antenna in the glow of the worn-out sun, representing the sole survival of animal  life on this our earth--a melancholy 'bug'.
+NR 0
+TC 0
+SN 
+EI 0160-378
+J9 Isozymes Curr Top Biol Med Res
+PD JAN 1
+PY 1983
+VL 11
+IS 
+BP 197
+EP 211
+DI 
+PG 14
+WC Alleles; Animals; Culex; genetics; Female; Gene Frequency; Infertility; physiopathology; Insecta; genetics; Isoenzymes; genetics; Male; Pest Control, Biological; Phosphogluconate Dehydrogenase; genetics; Species Specificity
+UT PubMed:6642987
+PM 6642987
+DA 1983-01-01
+ER
+
+PT J
+AU Bremermann, HJ
+AF Bremermann, H J
+TI Parasites at the origin of life.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB This paper is concerned with parasitic virus-like particles and their hosts. It  is proposed that parasitism must have occurred at an early stage of evolution,  soon after the first self-reproducing systems had formed. When chemical building  blocks for self-reproducing systems became scarce, current theories envision that  some self-reproducing systems evolved the capability to synthesize materials for  self-replication from chemical precursors in the environment. It is proposed that  at about the same time parasitic systems (phages) arose that replicated at the  expense of host systems by diverting host materials to the replication of their  own genomes. With the aid of a mathematical model we demonstrate that host and  phages can coexist in a stable equilibrium, depending upon the carrying capacity  of the environment. If the latter falls below a threshold, then the parasites die  out. A parasite that has the capability to integrate into the host genome is  replicated along with it and thus escapes extinction during periods of population  bottlenecks of the host population. The presence of phages creates evolutionary  pressures favoring host defenses against them. Thus, modern bacteria are able to  degrade most invading DNA (through restriction enzymes). Defense capabilities  require a share of the genome, thus adding to the genetic complexity of  organisms.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1983
+VL 16
+IS 2
+BP 165
+EP 80
+DI 10.1007/BF00276055
+PG -85
+WC Biological Evolution; Origin of Life; Parasites; physiology; Reproduction; Virus Physiological Phenomena
+UT PubMed:6827186
+PM 6827186
+DA 1983-01-01
+ER
+
+PT J
+AU Ehrlich, PR
+   Harte, J
+   Harwell, MA
+   Raven, PH
+   Sagan, C
+   Woodwell, GM
+   Berry, J
+   Ayensu, ES
+   Ehrlich, AH
+   Eisner, T
+   et, al.
+AF Ehrlich, P R
+   Harte, J
+   Harwell, M A
+   Raven, P H
+   Sagan, C
+   Woodwell, G M
+   Berry, J
+   Ayensu, E S
+   Ehrlich, A H
+   Eisner, T
+TI Long-term biological consequences of nuclear war.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Subfreezing temperatures, low light levels, and high doses of ionizing and  ultraviolet radiation extending for many months after a large-scale nuclear war  could destroy the biological support systems of civilization, at least in the  Northern Hemisphere. Productivity in natural and agricultural ecosystems could be  severely restricted for a year or more. Postwar survivors would face starvation  as well as freezing conditions in the dark and be exposed to near-lethal doses of  radiation. If, as now seems possible, the Southern Hemisphere were affected also,  global disruption of the biosphere could ensue. In any event, there would be  severe consequences, even in the areas not affected directly, because of the  interdependence of the world economy. In either case the extinction of a large  fraction of the Earth's animals, plants, and microorganisms seems possible. The  population size of Homo sapiens conceivably could be reduced to prehistoric  levels or below, and extinction of the human species itself cannot be excluded.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD DEC 23
+PY 1983
+VL 222
+IS 4630
+BP 1293
+EP 300
+DI 10.1126/science.6658451
+PG -993
+WC Animals; Atmosphere; Climate; Environment; Humans; Nuclear Warfare; Photosynthesis; Radiation, Ionizing; Radioactive Fallout; Sunlight; Temperature; Ultraviolet Rays
+UT PubMed:6658451
+PM 6658451
+DA 1983-12-23
+ER
+
+PT J
+AU Thompson, EA
+AF Thompson, E A
+TI Gene extinction and allelic origins in complex genealogies.
+SO Proceedings of the Royal Society of London. Series B, Biological sciences
+LA English
+DT Journal Article
+AB With the increasing emphasis on data analysis in mathematical genetics, problems  of parametrizing genealogical structure become of practical importance. A  complete specification of the genetic effects of genealogical structure is  provided by the probabilities of genetically distinct states of gene identity by  descent. Although this provides a direct parametrization for the joint  distribution of traits on a set of related individuals, it is an unwieldy tool in  the analysis of large and complex genealogies. Probabilities of joint descent of  founder genes and likely ancestries of alleles provide alternative  characterizations of relationship and have direct application in practical  problems. Joint extinction probabilities of founder genes can also be derived as  ancestral likelihoods: evolutionarily, the most significant characteristic of a  genealogical structure must be its effect on the survival and extinction of  genes.
+NR 0
+TC 0
+SN 
+EI 0950-119
+J9 Proc R Soc Lond B Biol Sci
+PD OCT 22
+PY 1983
+VL 219
+IS 1216
+BP 241
+EP 51
+DI 10.1098/rspb.1983.0072
+PG -190
+WC Alleles; Biological Evolution; Female; Gene Frequency; Genes; Genetic Variation; Genetics, Population; Humans; Male; Pedigree; Probability
+UT PubMed:6139815
+PM 6139815
+DA 1983-10-22
+ER
+
+PT J
+AU Hallam, TG
+   Clark, CE
+   Jordan, GS
+AF Hallam, T G
+   Clark, C E
+   Jordan, G S
+TI Effects of toxicants on populations: a qualitative approach II. First order
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB System level effects exhibited by a population subjected to a chronic or an acute  dose of toxicant are the emphasis of this study. A three dimensional model of a  toxicant and a population, with state variables (the population biomass, the  concentration of toxicant in an organism, and the concentration of toxicant in  the environment) coupled by a linear dose-response function, is analyzed  analytically. One of the main results presents sufficient conditions, in terms of  a system level parameter, for the persistence, and for the extinction, of a  population exposed to a chronic dose of toxicant. When depuration and degradation  are negligible processes, the effects of toxicant accumulation associated with an  acute exposure of a population are analyzed in some detail. Both persistence and  extinction are shown to be viable behavior modes of a population in this  biochemical setting.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1983
+VL 18
+IS 1
+BP 25
+EP 37
+DI 10.1007/BF00275908
+PG 12
+WC Environmental Pollutants; toxicity; Kinetics; Mathematics; Models, Biological; Population Dynamics
+UT PubMed:6631261
+PM 6631261
+DA 1983-01-01
+ER
+
+PT J
+AU Murphy, DD
+   Launer, AE
+   Ehrlich, PR
+AF Murphy, Dennis D
+   Launer, Alan E
+   Ehrlich, Paul R
+TI The role of adult feeding in egg production and population dynamics of the
+SO Oecologia
+LA English
+DT Journal Article
+AB Carbohydrate intake increases longevity, body weight maintenance and egg  production in female Euphydryas editha. Amino acid intake leads to heavier eggs,  larvae from which are more likely to survive. Females fed nectar produce more  eggs in later masses than females which are not fed. During years of normal and  below normal precipitation, larvae emerging from these later eggs are unlikely to  reach obligatory size for diapause before their food dries up. On Jasper Ridge,  where mortality is density-independent, nectar plays an important role increasing  production of late egg masses during years of greater than normal rainfall when  larvae from these masses are likely to reach diapause. The resulting large  population increases, though infrequent, are probably important in maintaining  population sizes large enough to reduce the chances of extinction during dry  years.
+C1 Department of Biological Sciences, Stanford University, 94305, Stanford, California, USA.
+   Department of Biological Sciences, Stanford University, 94305, Stanford, California, USA.
+   Department of Biological Sciences, Stanford University, 94305, Stanford, California, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD FEB 1
+PY 1983
+VL 56
+IS 2-3
+BP 257
+EP 263
+DI 10.1007/BF00379699
+PG 6
+UT PubMed:28310203
+PM 28310203
+DA 1983-02-01
+ER
+
+PT J
+AU Martelletti, P
+   Romiti, A
+   Gallo, MF
+   Perrotta, RA
+   Giacovazzo, M
+AF Martelletti, P
+   Romiti, A
+   Gallo, M F
+   Perrotta, R A
+   Giacovazzo, M
+TI [New contributions on extinction tests of essential headache. II. The test with
+SO Bollettino della Societa italiana di biologia sperimentale
+LA ita
+DT Journal Article
+AB The authors described the results about the action of indoprofen (i.v. 400 mg) in  three subjects affected by premenstrual migraine. They showed decreased levels of  PGF2 alpha in the cerebrospinal fluid evaluated by gas-chromatography and mass  spectrometry. The samples were extracted at 0, 15, 30 and 45 minutes. The levels  of pain, was also decreased, they were evaluated by the analogic visual scale  (V.A.S.).
+NR 0
+TC 0
+SN 
+EI 0037-877
+J9 Boll Soc Ital Biol Sper
+PD AUG 30
+PY 1983
+VL 59
+IS 8
+BP 1134
+EP 8
+DI 
+PG -1126
+WC Adult; Dinoprost; Female; Gas Chromatography-Mass Spectrometry; Headache; cerebrospinal fluid; Humans; Indoprofen; therapeutic use; Phenylpropionates; therapeutic use; Premenstrual Syndrome; complications; Prostaglandins F; cerebrospinal fluid
+UT PubMed:6578800
+PM 6578800
+DA 1983-08-30
+ER
+
+PT J
+AU Nevin, JA
+   Mandell, C
+   Atak, JR
+AF Nevin, J A
+   Mandell, C
+   Atak, J R
+TI The analysis of behavioral momentum.
+SO Journal of the experimental analysis of behavior
+LA English
+DT Journal Article
+AB Learned behavior varies in its resistance to change, depending on the rate of  reinforcement. Resistance to change may be characterized as behavioral momentum,  which in turn may be analyzed into terms corresponding to mass and velocity in  classical physics. Behavioral mass may be inferred from changes in response rate  when experimental conditions are altered. Relevant data were obtained by training  pigeons to peck a key on two-component multiple variable-interval,  variable-interval schedules. Six pigeons were studied on three pairs of  variable-interval schedules in all possible orders. When performance stabilized,  resistance to change was assessed by arranging response-independent food during  periods between components and by extinction. For each operation, the data for  all schedule performances converged onto a single function, permitting estimation  of the ratio of behavioral masses for each pair of schedules. The  response-independent food data suggested that the ratio of behavioral masses is a  power function of the ratio of reinforcement rates and that behavioral mass may  be measured on a ratio scale.
+NR 0
+TC 0
+SN 
+EI 0022-500
+J9 J Exp Anal Behav
+PD JAN 1
+PY 1983
+VL 39
+IS 1
+BP 49
+EP 59
+DI 10.1901/jeab.1983.39-49
+PG 10
+UT PubMed:16812312
+PM 16812312
+DA 1983-01-01
+ER
+
+PT J
+AU Lewin, R
+AF Lewin, R
+TI No Dinosaurs This Time: Calculations from ecological theory indicate that the
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD SEP 16
+PY 1983
+VL 221
+IS 4616
+BP 1168
+EP 9
+DI 10.1126/science.221.4616.1168
+PG -1159
+UT PubMed:17811516
+PM 17811516
+DA 1983-09-16
+ER
+

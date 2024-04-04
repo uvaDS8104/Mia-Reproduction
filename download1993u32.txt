@@ -1,0 +1,1014 @@
+PT J
+AU Konstantinov, KB
+   Dhurjati, P
+   Van, Dyk T
+   Majarian, W
+   Larossa, R
+AF Konstantinov, K B
+   Dhurjati, P
+   Van Dyk, T
+   Majarian, W
+   Larossa, R
+TI Real-time compensation of the inner filter effect in high-density bioluminescent
+SO Biotechnology and bioengineering
+LA English
+DT Journal Article
+AB Bioluminescence has recently become a popular research tool in several fields,  including medicine, pharmacology, biochemistry, bioprocessing, and environmental  engineering. Beginning with purely qualitative goals, scientists are now  targeting more demanding applications where accurate, quantitative interpretation  of bioluminescence is necessary. Using the recent advances in fiber-optic  technology, bioluminescence is easily monitored in vivo and in real time.  However, the convenience of this measurement is often concealing an unsuspected  problem: the bioluminescence signal might be corrupted by a large error caused by  the extinction of light by biological cells. Since bioluminescent cultures not  only emit light but also absorb and scatter it, the measured signal is related in  a complex, nonlinear, and cell-concentration-dependent manner to the "true"  bioluminescence. This light extinction effect, known as the "inner filter  effect," is significant in high-density cultures. Adequate interpretation of the  bioluminescence signal can be difficult without its correction. Here, we propose  a real-time algorithm for elimination of the inner filter effect in a bioreactor.  The algorithm yields the bioluminescence which would be measured if the glowing  culture was completely transparent. This technique has been successfully applied  to batch and continuous cultivation of recombinant bioluminescent Escherichia  coli.
+C1 Department of Chemical Engineering, University of Delaware, Newark, Delaware 19716, USA.
+NR 0
+TC 0
+SN 
+EI 0006-359
+J9 Biotechnol Bioeng
+PD NOV 20
+PY 1993
+VL 42
+IS 10
+BP 1190
+EP 8
+DI 10.1002/bit.260421009
+PG -1182
+UT PubMed:18609668
+PM 18609668
+DA 1993-11-20
+ER
+
+PT J
+AU Fotaki, ME
+   Iatrou, K
+AF Fotaki, M E
+   Iatrou, K
+TI Silk moth chorion pseudogenes: hallmarks of genomic evolution by sequence
+SO Journal of molecular evolution
+LA English
+DT Journal Article
+AB The part of the genetic locus of the domesticated silk moth, Bombyx mori, in  which high cysteine (Hc) chorion genes of late developmental specificity reside  contains regions encompassing gene-like sequences which exhibit properties  distinct from those of functional Hc genes. One of these regions has been  characterized and shown to contain a chorion pseudogene, psi HcB.15, which shares  pronounced similarities with a transcribed chorion pseudogene, psi HcB.12/13,  which was characterized previously. Both pseudogenes are homologous to HcB  chorion genes but bear multiple single nucleotide substitutions and short  segmental mutations (insertions and deletions) which introduce translational  frame shifts and termination codons in the coding regions. Structural  characteristics unique to the two pseudogenes suggest that psi HcB.15 was  generated first from a functional HcB gene and gave rise subsequently to psi HcB  12/13 as a result of a sequence duplication event. The two pseudogenes can be  distinguished from each other by the presence of distinct regions of similarity  to the consensus sequence of functional HcB genes which appear to have arisen  from gene-conversion-mediated correctional events. These findings lend support to  the hypothesis that chorion pseudogene sequences represent reservoirs of genetic  information that participates in the evolution of the chorion locus rather than  relics of inactivated genes passively awaiting extinction.
+C1 Department of Medical Biochemistry, Faculty of Medicine, University of Calgary, Alberta, Canada.
+NR 0
+TC 0
+SN 
+EI 0022-284
+J9 J Mol Evol
+PD AUG 1
+PY 1993
+VL 37
+IS 2
+BP 211
+EP 20
+DI 10.1007/BF02407358
+PG -191
+WC Animals; Base Sequence; Biological Evolution; Bombyx; genetics; Chorion; metabolism; Chromosome Mapping; Consensus Sequence; DNA; genetics; Exons; Gene Conversion; Genes, Insect; Introns; Molecular Sequence Data; Multigene Family; Pseudogenes; Sequence Homology, Nucleic Acid
+UT PubMed:8411211
+PM 8411211
+DA 1993-08-01
+ER
+
+PT J
+AU Cheetham, T
+AF Cheetham, T
+TI Adaptation on fluctuating fitness landscapes: speciation and the persistence of
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB The NK landscape model of adaptive evolution introduced by Kauffman & Levin  (1987) is modified to simulate diversification of monophyletic lineages.  Extinction probability is made a function of fitness, and speciation probability  a function of the number of fitter one mutant neighbors, which is analogous to  genetic potential. Dynamics of adaptive walks are measured as the total number of  phenotypically defined species per generation. Changes in species number are  described for static and varying landscapes. Persistence of lineages is  incompatible with static fitness landscapes and requires that most component  species do not reach adaptive optima. Differences in N:K ratios, and therefore in  morphological integration, strongly affect speciation rates and could play a role  in species sorting.
+C1 Department of Biology, Wilson College, Chambersburg, PA 17201.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD APR 7
+PY 1993
+VL 161
+IS 3
+BP 287
+EP 97
+DI 10.1006/jtbi.1993.1056
+PG -190
+WC Adaptation, Physiological; Animals; Biological Evolution; Computer Simulation; Environment; Genetic Variation; physiology; Models, Biological; Phenotype
+UT PubMed:8331955
+PM 8331955
+DA 1993-04-07
+ER
+
+PT J
+AU Popp, BN
+   Hayes, JM
+   Boreham, CJ
+AF Popp, B N
+   Hayes, J M
+   Boreham, C J
+TI Microscale determination of the spectral characteristics and carbon-isotopic
+SO Energy & fuels : an American Chemical Society journal
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-30; NASA Program Exobiology; Non-NASA Center
+AB Molar extinction coefficients for band III of Ni porphyrins are calculated from  results of spectrophotometric and manometric analyses of individual  etioporphyrins, DPEP, cyclic, and diDPEP porphyrins known to initially be pure  from mass spectrometry, 1H NMR, and analytical HPLC studies. A method for  determining carbon-isotopic compositions and purity of micromolar quantities of  individual porphyrins using combined spectrophotometric and manometric techniques  is presented.
+C1 Biogeochemical Laboratories, Indiana University, Bloomington 47405-5101.
+NR 0
+TC 0
+SN 
+EI 0887-062
+J9 Energy Fuels
+PD MAR 1
+PY 1993
+VL 7
+IS 2
+BP 185
+EP 90
+DI 10.1021/ef00038a004
+PG -95
+WC Carbon; analysis; Carbon Isotopes; Chromatography, High Pressure Liquid; Geological Phenomena; Geology; Magnetic Resonance Spectroscopy; Manometry; Mass Spectrometry; Nickel; Porphyrins; analysis; Spectrophotometry
+UT PubMed:11543593
+PM 11543593
+DA 1993-03-01
+ER
+
+PT J
+AU Raup, DM
+   Jablonski, D
+AF Raup, D M
+   Jablonski, D
+TI Geography of end-Cretaceous marine bivalve extinctions.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB Analysis of the end-Cretaceous mass extinction, based on 3514 occurrences of 340  genera of marine bivalves (Mollusca), suggests that extinction intensities were  uniformly global; no latitudinal gradients or other geographic patterns are  detected. Elevated extinction intensities in some tropical areas are entirely a  result of the distribution of one extinct group of highly specialized bivalves,  the rudists. When rudists are omitted, intensities at those localities are  statistically indistinguishable from those of both the rudist-free tropics and  extratropical localities.
+C1 Department of the Geophysical Sciences, University of Chicago, IL 60637.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAY 14
+PY 1993
+VL 260
+IS 
+BP 971
+EP 3
+DI 10.1126/science.11537491
+PG -968
+WC Animals; Biological Evolution; Earth, Planet; Fossils; Geography; Geological Phenomena; Geology; Marine Biology; Mollusca; Paleontology; Time Factors; Tropical Climate
+UT PubMed:11537491
+PM 11537491
+DA 1993-05-14
+ER
+
+PT J
+AU Donahoe, JW
+   Burgos, JE
+   Palmer, DC
+AF Donahoe, J W
+   Burgos, J E
+   Palmer, D C
+TI A selectionist approach to reinforcement.
+SO Journal of the experimental analysis of behavior
+LA English
+DT Review
+AB We describe a principle of reinforcement that draws upon experimental analyses of  both behavior and the neurosciences. Some of the implications of this principle  for the interpretation of behavior are explored using computer simulations of  adaptive neural networks. The simulations indicate that a single reinforcement  principle, implemented in a biologically plausible neural network, is competent  to produce as its cumulative product networks that can mediate a substantial  number of the phenomena generated by respondent and operant contingencies. These  include acquisition, extinction, reacquisition, conditioned reinforcement, and  stimulus-control phenomena such as blocking and stimulus discrimination. The  characteristics of the environment-behavior relations selected by the action of  reinforcement on the connectivity of the network are consistent with  behavior-analytic formulations: Operants are not elicited but, instead, the  network permits them to be guided by the environment. Moreover, the guidance of  behavior is context dependent, with the pathways activated by a stimulus  determined in part by what other stimuli are acting on the network at that  moment. In keeping with a selectionist approach to complexity, the cumulative  effects of relatively simple reinforcement processes give promise of simulating  the complex behavior of living organisms when acting upon adaptive neural  networks.
+C1 Department of Psychology, University of Massachusetts, Amherst 01003.
+NR 0
+TC 0
+SN 
+EI 0022-500
+J9 J Exp Anal Behav
+PD JUL 1
+PY 1993
+VL 60
+IS 1
+BP 17
+EP 40
+DI 10.1901/jeab.1993.60-17
+PG 23
+WC Behavior; Biological Evolution; Biological Factors; Brain; physiology; Conditioning, Operant; Female; Humans; Male; Motor Cortex; physiology; Neural Pathways; physiology; Reinforcement, Psychology; Selection, Genetic
+UT PubMed:8354965
+PM 8354965
+DA 1993-07-01
+ER
+
+PT J
+AU Allen, JC
+   Schaffer, WM
+   Rosko, D
+AF Allen, J C
+   Schaffer, W M
+   Rosko, D
+TI Chaos reduces species extinction by amplifying local population noise.
+SO Nature
+LA English
+DT Journal Article
+AB In the mid-1970s, theoretical ecologists were responsible for stimulating  interest in nonlinear dynamics and chaos. Ironically, the importance of chaos in  ecology itself remains controversial. Proponents of ecological chaos point to its  ubiquity in mathematical models and to various empirical findings. Sceptics  maintain that the models are unrealistic and that the experimental evidence is  equally consistent with stochastic models. More generally, it has been argued  that interdemic selection and/or enhanced rates of species extinction will  eliminate populations and species that evolve into chaotic regions of parameter  space. Fundamental to this opinion is the belief that violent oscillations and  low minimum population densities are inevitable correlates of the chaotic state.  In fact, rarity is not a necessary consequence of complex dynamical behaviour.  But even when chaos is associated with frequent rarity, its consequences to  survival are necessarily deleterious only in the case of species composed of a  single population. Of course, the majority of real world species (for example,  most insects) consist of multiple populations weakly coupled by migration, and in  this circumstance chaos can actually reduce the probability of extinction. Here  we show that although low densities lead to more frequent extinction at the local  level, the decorrelating effect of chaotic oscillations reduces the degree of  synchrony among populations and thus the likelihood that all are simultaneously  extinguished.
+C1 Department of Entomology and Nematology, University of Florida, Gainesville 32611-0740.
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD JUL 15
+PY 1993
+VL 364
+IS 6434
+BP 229
+EP 32
+DI 10.1038/364229a0
+PG -197
+WC Ecology; Genetics, Population; Models, Biological; Selection, Genetic
+UT PubMed:8321317
+PM 8321317
+DA 1993-07-15
+ER
+
+PT J
+AU Loeffler, M
+   Birke, A
+   Winton, D
+   Potten, C
+AF Loeffler, M
+   Birke, A
+   Winton, D
+   Potten, C
+TI Somatic mutation, monoclonality and stochastic models of stem cell organization
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Among highly proliferating tissues the intestinal tissue is of particular  interest. Techniques are available that permit an insight into how intestinal  crypts as the basic macroscopic tissue unit are regenerated from a small  population of self-maintaining stem cells. However, neither the precise number of  these stem cells nor their properties are known. We have recently suggested a  model of stem cell organization which explains the life cycle of murine  intestinal crypts, their birth (by crypt fission) and extinction rates, as well  as their size distribution on a quantitative basis (Loeffler & Grossman, 1991).  The model assumptions involve two stochastic branching processes, one for the  growth of several independent indistinguishable stem cells and a second for a  threshold dependent crypt fission process. New data have now become available  challenging the above concept. They relate to the conversion of crypts to  monoclonal phenotypic expression after mutagenic events, presumably taking place  in single stem cells. A detailed analysis of these data is shown here utilizing a  more elaborate version of the above model. The new data are consistent with this  model within the range of parameters predicted previously. We conclude that the  cellular regeneration of intestinal crypts can be explained on the basis of  several indistinguishable stem cells which can replace each other.
+C1 Department of Biometry, Universität zu Koeln, Germany.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD FEB 21
+PY 1993
+VL 160
+IS 4
+BP 471
+EP 91
+DI 10.1006/jtbi.1993.1031
+PG -380
+WC Animals; Cell Cycle; physiology; Epithelial Cells; Intestinal Mucosa; cytology; Mice; Models, Biological; Mutation; Stem Cells; cytology; Stochastic Processes
+UT PubMed:8501919
+PM 8501919
+DA 1993-02-21
+ER
+
+PT J
+AU Volz, FE
+AF Volz, F E
+TI Scattering functions near the Sun by large aerosols.
+SO Applied optics
+LA English
+DT Journal Article
+AB In the course of a lengthy series of observations since 1975, a large, continuous  decrease of the brightness of the solar aureole has been found west of Boston, at  Hanscom Air Force Base and at Lexington, Mass. This points to the virtual  disappearance from the lower atmosphere of giant particles larger than ~ 10  microm. in size while total suspended particulates in Boston and other U.S.  cities have barely decreased. Results of calculations to better understand the  relation between forward scattering and aerosol mass distribution [coarse  fraction (CF)] are presented. In addition, a method to modify steep scattering  functions calculated for a plane-wave source (Sun treated as a star) to those of  the actual (and limb-darkened) Sun is presented. The calculated wavelength  dependence of extinction, which is lower than that observed, is found to be  little affected by the CF, but seems, like forward scattering, to be sensitive to  mass distribution of sizes of < 0.4 and ~ 0.6 microm because of the anomal  scattering behavior of spheres.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD MAY 20
+PY 1993
+VL 32
+IS 15
+BP 2773
+EP 9
+DI 10.1364/AO.32.002773
+PG -2764
+UT PubMed:20820441
+PM 20820441
+DA 1993-05-20
+ER
+
+PT J
+AU Jackson, JB
+   Jung, P
+   Coates, AG
+   Collins, LS
+AF Jackson, J B
+   Jung, P
+   Coates, A G
+   Collins, L S
+TI Diversity and extinction of tropical american mollusks and emergence of the
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The gradual closure of the Panamanian seaway and the resulting environmental  change stimulated an increase in Caribbean molluscan diversity rather than the  mass extinction hypothesized previously on the basis of inadequate data. Upheaval  of molluscan faunas did occur suddenly throughout tropical America at the end of  the Pliocene as a result of more subtle, unknown causes. There is no necessary  correlation between the magnitude of regional shifts in abiotic conditions and  the subsequent biological response.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JUN 11
+PY 1993
+VL 260
+IS 5114
+BP 1624
+EP 6
+DI 10.1126/science.260.5114.1624
+PG -1618
+UT PubMed:17810203
+PM 17810203
+DA 1993-06-11
+ER
+
+PT J
+AU Kessel, D
+   Smith, KM
+   Pandey, RK
+   Shiau, FY
+   Henderson, B
+AF Kessel, D
+   Smith, K M
+   Pandey, R K
+   Shiau, F Y
+   Henderson, B
+TI Photosensitization with bacteriochlorins.
+SO Photochemistry and photobiology
+LA English
+DT Journal Article
+AB Biophysical and photobiological properties of a group of bacteriochlorins were  compared with efficacy of these products for photodynamic therapy of murine  tumors. Predictive factors for selective photosensitization in vivo include  affinity binding to lipoproteins greater than albumin, extinction coefficient at  the wavelength of irradiation and tumor/skin distribution. Efficacy was  correlated with circulating plasma levels of the different sensitizers but not  with the photodynamic therapy response in cell culture.
+C1 Department of Pharmacology, Wayne State University School of Medicine, Detroit, MI 48201.
+NR 0
+TC 0
+SN 
+EI 0031-865
+J9 Photochem Photobiol
+PD AUG 1
+PY 1993
+VL 58
+IS 2
+BP 200
+EP 3
+DI 10.1111/j.1751-1097.1993.tb09549.x
+PG -197
+WC Animals; Blood Proteins; metabolism; Female; Indoles; chemistry; Isoindoles; Leukemia L1210; metabolism; Mice; Mice, Inbred C3H; Neoplasms, Experimental; drug therapy; Photochemotherapy; Photosensitizing Agents; chemistry; Pigments, Biological; chemistry; Spectrometry, Fluorescence; Structure-Activity Relationship; Tumor Cells, Cultured
+UT PubMed:8415910
+PM 8415910
+DA 1993-08-01
+ER
+
+PT J
+AU Lalitha, K
+   Vargheese, CM
+   Balasubramanian, N
+AF Lalitha, K
+   Vargheese, C M
+   Balasubramanian, N
+TI Spectrophotometric determination of mimosine and 3-hydroxy-4-(1H)-pyridone--the
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB A sensitive and selective spectrophotometric method for the estimation of the  toxic factors mimosine and 3-hydroxy-4-(1H)-pyridone (DHP) has been developed  based on the intense yellow-colored azodye formed with p-nitroaniline which  showed a sharp absorption maximum at 400 nm. The method was optimized based on  relative sensitivity of the reaction with various aromatic primary amino  compounds and under different conditions of pH. Interference from a variety of  structurally related compounds and phenols was tested and found insensitive to  this method. The molar extinction coefficient at 400 nm for the azodye formed  with mimosine was 5.31 x 10(4) M-1 cm-1 and that for DHP was 1.699 x 10(4) M-1  cm-1. The applicability of the method was tested using different plant extracts  and recovery was found to be at 100 +/- 0.3%. The method is suitable for accurate  estimation of both mimosine and DHP after paper chromatographic separation of  extracts of different biological samples.
+C1 Department of Chemistry, Indian Institute of Technology, Madras.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD AUG 15
+PY 1993
+VL 213
+IS 1
+BP 57
+EP 62
+DI 10.1006/abio.1993.1385
+PG 5
+WC Azo Compounds; analysis; Chromatography, Affinity; Chromatography, Paper; Hydrogen-Ion Concentration; Iron Chelating Agents; analysis; Mimosine; analysis; Plants, Toxic; chemistry; Pyridones; analysis; Sensitivity and Specificity; Spectrophotometry
+UT PubMed:8238882
+PM 8238882
+DA 1993-08-15
+ER
+
+PT J
+AU Kalisz, S
+   McPeek, MA
+AF Kalisz, Susan
+   McPeek, Mark A
+TI Extinction dynamics, population growth and seed banks : An example using an
+SO Oecologia
+LA English
+DT Journal Article
+DE Collinsia verna; Demography; Extinction; Seed banks; Temporal variation
+AB The goal of this paper is to test theoretical predictions about the effects of  seed banks on population dynamics and extinction rates in variable environments  using simulations based on data from a natural population of the winter annual  Collinsia verna. In the simulations, we varied the frequency of demographically  good and bad years and the autocorrelation between conditions in consecutive  years to examine the impact of seed dormancy on population growth rate,  extinction rate and time to extinction. The existence of a seed bank enhanced  population growth rates under all environmental regimes except when good years  were very frequent, but this enhancement was minimal. In addition, the presence  of the seed bank decreased the likelihood of extinctions and increased the time  to extinction. The time to extinction was longest when the environmental  conditions were most unpredictable.
+C1 Kellogg Biological Station, Michigan State University, 49060, Hickory Corners, MI, USA.
+   Department of Biological Sciences, Dartmouth College, 03755, Hanover, NH, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD SEP 1
+PY 1993
+VL 95
+IS 3
+BP 314
+EP 320
+DI 10.1007/BF00320982
+PG 6
+UT PubMed:28314004
+PM 28314004
+DA 1993-09-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Ten years in the library: new data confirm paleontological patterns.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB A comparison is made between compilations of times of origination and extinction  of fossil marine animal families published in 1982 and 1992. As a result of ten  years of library research, half of the information in the compendia has changed:  families have been added and deleted, low-resolution stratigraphic data been  improved, and intervals of origination and extinction have been altered. Despite  these changes, apparent macroevolutionary patterns for the entire marine fauna  have remained constant. Diversity curves compiled from the two data bases are  very similar, with a goodness-of-fit of 99%; the principal difference is that the  1992 curve averages 13% higher than the older curve. Both numbers and percentages  of origination and extinction also match well, with fits ranging from 83% to 95%.  All major events of radiation and extinction are identical. Therefore, errors in  large paleontological data bases and arbitrariness of included taxa are not  necessarily impediments to the analysis of pattern in the fossil record, so long  as the data are sufficiently numerous.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1993
+VL 19
+IS 1
+BP 43
+EP 51
+DI 10.1017/s0094837300012306
+PG 8
+WC Animals; Biological Evolution; Classification; Databases, Factual; Earth, Planet; Fossils; Marine Biology; Paleontology; Reference Books
+UT PubMed:11538041
+PM 11538041
+DA 1993-01-01
+ER
+
+PT J
+AU Labandeira, CC
+   Sepkoski, JJ Jr
+AF Labandeira, C C
+   Sepkoski, J J Jr
+TI Insect diversity in the fossil record.
+SO Science (New York, N.Y.)
+LA English
+DT Review
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB Insects possess a surprisingly extensive fossil record. Compilation of the  geochronologic ranges of insect families demonstrates that their diversity  exceeds that of preserved vertebrate tetrapods through 91 percent of their  evolutionary history. The great diversity of insects was achieved not by high  origination rates but rather by low extinction rates comparable to the low rates  of slowly evolving marine invertebrate groups. The great radiation of modern  insects began 245 million years ago and was not accelerated by the expansion of  angiosperms during the Cretaceous period. The basic trophic machinery of insects  was in place nearly 100 million years before angiosperms appeared in the fossil  record.
+C1 Department of Paleobiology, National Museum of Natural History, Washington, DC 20560.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JUL 16
+PY 1993
+VL 261
+IS 5119
+BP 310
+EP 5
+DI 10.1126/science.11536548
+PG -305
+WC Animals; Biological Evolution; Earth, Planet; Ecology; Fossils; Geological Phenomena; Geology; Insecta; classification; Phylogeny; Plants; Time Factors
+UT PubMed:11536548
+PM 11536548
+DA 1993-07-16
+ER
+
+PT J
+AU Werness, SA
+   Fay, SD
+   Blackwell, KT
+   Vogl, TP
+   Alkon, DL
+AF Werness, S A
+   Fay, S D
+   Blackwell, K T
+   Vogl, T P
+   Alkon, D L
+TI Associative learning in a network model of Hermissenda crassicornis. II.
+SO Biological cybernetics
+LA English
+DT Journal Article
+AB A companion paper in a previous issue of this journal presented a  resistance-capacitance circuit computer model of the four-neuron  visual-vestibular network of the invertebrate marine mollusk Hermissenda  crassicornis. In the present paper, we demonstrate that changes in the model's  output in response to simulated associative training is quantitatively similar to  behavioral and electrophysiological changes in response to associative training  of Hermissenda crassicornis. Specifically, the model demonstrates many  characteristics of conditioning: sensitivity to stimulus contingency, stimulus  specificity, extinction, and savings. The model's learning features also are  shown to be devoid of non-associative components. Thus, this computational model  is an excellent tool for examining the information flow and dynamics of  biological associative learning and for uncovering insights concerning  associative learning, memory, and recall that can be applied to the development  of artificial neural networks.
+C1 Environmental Research Institute of Michigan, Ann Arbor 48113-4001.
+NR 0
+TC 0
+SN 
+EI 0340-120
+J9 Biol Cybern
+PD JAN 1
+PY 1993
+VL 69
+IS 1
+BP 19
+EP 28
+DI 10.1007/BF00201405
+PG 9
+WC Animals; Association Learning; physiology; Models, Neurological; Models, Psychological; Mollusca; physiology; Nerve Net; physiology; Neural Networks, Computer
+UT PubMed:8334187
+PM 8334187
+DA 1993-01-01
+ER
+
+PT J
+AU Johnsen, BH
+AF Johnsen, B H
+TI Cerebral asymmetry in autonomic conditioning to facial expressions: sex
+SO Scandinavian journal of psychology
+LA English
+DT Journal Article
+AB In the present experiment, sex differences in hemispheric asymmetry during  classical conditioning to emotional stimuli are reported. 125 subjects (62  females and 63 males) were shown a slide of a happy face in the right (or left)  visual half field (VHF), and simultaneously a slide of an angry face in the left  (or right) VHF. Eight groups were formed by the combination of male and female  subjects; left and right VHF positions of the angry/happy faces; and the  administration/omission of the shock unconditioned stimulus (UCS). Dependent  measures were skin conductance responses recorded from both hands. The results  during extinction showed a significant larger SCR magnitude to the shock compared  to the no-shock groups only for the female subjects. CS position during  conditioning was also important in revealing differential responding to either  the happy or angry faces. A right hemisphere effect was found for the angry face  CS for both the male and female subjects, however with a greater difference for  the females.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0036-556
+J9 Scand J Psychol
+PD DEC 1
+PY 1993
+VL 34
+IS 4
+BP 363
+EP 70
+DI 10.1111/j.1467-9450.1993.tb01132.x
+PG -293
+WC Adolescent; Adult; Brain; physiology; Conditioning, Classical; Facial Expression; Female; Functional Laterality; Galvanic Skin Response; Habituation, Psychophysiologic; Humans; Male; Middle Aged; Sex Factors; Visual Fields; physiology
+UT PubMed:8303235
+PM 8303235
+DA 1993-12-01
+ER
+
+PT J
+AU Schut, F
+   de, Vries EJ
+   Gottschal, JC
+   Robertson, BR
+   Harder, W
+   Prins, RA
+   Button, DK
+AF Schut, F
+   de Vries, E J
+   Gottschal, J C
+   Robertson, B R
+   Harder, W
+   Prins, R A
+   Button, D K
+TI Isolation of Typical Marine Bacteria by Dilution Culture: Growth, Maintenance,
+SO Applied and environmental microbiology
+LA English
+DT Journal Article
+AB Marine bacteria in Resurrection Bay near Seward, Alaska, and in the central North  Sea off the Dutch coast were cultured in filtered autoclaved seawater following  dilution to extinction. The populations present before dilution varied from 0.11  x 10 to 1.07 x 10 cells per liter. The mean cell volume varied between 0.042 and  0.074 mum, and the mean apparent DNA content of the cells ranged from 2.5 to 4.7  fg of DNA per cell. All three parameters were determined by high-resolution flow  cytometry. All 37 strains that were obtained from very high dilutions of  Resurrection Bay and North Sea samples represented facultatively oligotrophic  bacteria. However, 15 of these isolates were eventually obtained from dilution  cultures that could initially be cultured only on very low-nutrient media and  that could initially not form visible colonies on any of the agar media tested,  indicating that these cultures contained obligately oligotrophic bacteria. It was  concluded that the cells in these 15 dilution cultures had adapted to growth  under laboratory conditions after several months of nutrient deprivation prior to  isolation. From the North Sea experiment, it was concluded that the contribution  of facultative oligotrophs and eutrophs to the total population was less than 1%  and that while more than half of the population behaved as obligately  oligotrophic bacteria upon first cultivation in the dilution culture media,  around 50% could not be cultured at all. During one of the Resurrection Bay  experiments, 53% of the dilution cultures obtained from samples diluted more than  2.5 x 10 times consisted of such obligate oligotrophs. These cultures invariably  harbored a small rod-shaped bacterium with a mean cell volume of 0.05 to 0.06 mum  and an apparent DNA content of 1 to 1.5 fg per cell. This cell type had the  dimensions of ultramicrobacteria. Isolates of these ultramicrobacterial cultures  that were eventually obtained on relatively high-nutrient agar plates were, with  respect to cell volume and apparent DNA content, identical to the cells in the  initially obligately oligotrophic bacterial dilution culture. Determination of  kinetic parameters from one of these small rod-shaped strains revealed a high  specific affinity for the uptake of mixed amino acids (a degrees (A), 1,860  liters/g of cells per h), but not for glucose or alanine as the sole source of  carbon and energy (a degrees (A), +/- 200 liters/g of cells per h). The  ultramicrobial strains obtained are potentially a very important part of  picoplankton biomass in the areas investigated.
+C1 Department of Microbiology, Biological Centre, University of Groningen, P.O. Box 14, 9751 NN Haren, The Netherlands, and Institute of Marine Science, Universityof Alaska, Fairbanks, Alaska 99775-1080.
+NR 0
+TC 0
+SN 1098-533
+EI 0099-224
+J9 Appl Environ Microbiol
+PD JUL 1
+PY 1993
+VL 59
+IS 7
+BP 2150
+EP 60
+DI 10.1128/aem.59.7.2150-2160.1993
+PG -2090
+UT PubMed:16348992
+PM 16348992
+DA 1993-07-01
+ER
+
+PT J
+AU Emiliani, C
+AF Emiliani, C
+TI Extinction and viruses.
+SO Bio Systems
+LA English
+DT Review
+AB The micropaleontological record of deep-sea sediments is demonstrably continuous  through time and, therefore, it can be used to study in detail the evolutionary  process. Several taxa, including Coccolithophorida, planktic Foraminifera,  Radiolaria, and diatoms, are abundantly represented. Some species, apparently  evolved in the marginal marine environment, appear suddenly in the record while  other species grade into different ones at rates that range from 100,000 years to  millions of years. The rates are usually different for different morphological  characters within the same lineage. Every few million years a mass extinction  occurs--the disappearance of a number of taxa apparently caused by an  environmental upset of some kind. These events are used by stratigraphers to  subdivide geologic time. Interspersed between mass extinctions are the background  extinctions, the individual extinctions of well-established species while the  sympatric species exhibit no sign of stress. It is hypothesized that background  extinctions are caused by host-specific viral action. It is further hypothesized  that background extinctions are a fundamental component of the process of  evolution.
+C1 Department of Geological Sciences, University of Miami, Coral Gables, FL 33124.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1993
+VL 31
+IS 2-3
+BP 155
+EP 9
+DI 10.1016/0303-2647(93)90044-d
+PG -146
+WC Animals; Biological Evolution; Diatoms; Eukaryota; microbiology; Fossils; Marine Biology; Models, Biological; Selection, Genetic; Viruses
+UT PubMed:8155848
+PM 8155848
+DA 1993-01-01
+ER
+
+PT J
+AU Baker, CS
+   Perry, A
+   Bannister, JL
+   Weinrich, MT
+   Abernethy, RB
+   Calambokidis, J
+   Lien, J
+   Lambertsen, RH
+   Ramírez, JU
+   Vasquez, O
+   et, al.
+AF Baker, C S
+   Perry, A
+   Bannister, J L
+   Weinrich, M T
+   Abernethy, R B
+   Calambokidis, J
+   Lien, J
+   Lambertsen, R H
+   Ramírez, J U
+   Vasquez, O
+TI Abundant mitochondrial DNA variation and world-wide population structure in
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Hunting during the last 200 years reduced many populations of mysticete whales to  near extinction. To evaluate potential genetic bottlenecks in these exploited  populations, we examined mitochondrial DNA control region sequences from 90  individual humpback whales (Megaptera novaeangliae) representing six  subpopulations in three ocean basins. Comparisons of relative nucleotide and  nucleotype diversity reveal an abundance of genetic variation in all but one of  the oceanic subpopulations. Phylogenetic reconstruction of nucleotypes and  analysis of maternal gene flow show that current genetic variation is not due to  postexploitation migration between oceans but is a relic of past population  variability. Calibration of the rate of control region evolution across three  families of whales suggests that existing humpback whale lineages are of ancient  origin. Preservation of preexploitation variation in humpback whales may be  attributed to their long life-span and overlapping generations and to an  effective, though perhaps not timely, international prohibition against hunting.
+C1 Department of Zoology, University of Hawaii, Honolulu 96822.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD SEP 1
+PY 1993
+VL 90
+IS 17
+BP 8239
+EP 43
+DI 10.1073/pnas.90.17.8239
+PG -8196
+WC Animals; Atlantic Ocean; Base Sequence; Biological Evolution; DNA, Mitochondrial; genetics; Genetic Variation; Molecular Sequence Data; Oligodeoxyribonucleotides; Pacific Ocean; Phylogeny; Polymerase Chain Reaction; Whales; genetics
+UT PubMed:8367488
+PM 8367488
+DA 1993-09-01
+ER
+
+PT J
+AU Smith, FD
+   May, RM
+   Pellew, R
+   Johnson, TH
+   Walter, KR
+AF Smith, F D
+   May, R M
+   Pellew, R
+   Johnson, T H
+   Walter, K R
+TI How much do we know about the current extinction rate?
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Since about J600, 486 animal species have been recorded extinct. This represents  about 0.04% of all animal species so far described. In the same period, 600 plant  species are known to have disappeared, about 0.25% of the total. These figures  are much smaller than those of the Permian/ Triassic and Cretaceous/Tertiary mass  extinctions. One might therefore conclude that at present life on earth is at  comparatively little risk of extinction. However, there is a growing body of data  to show that the converse is true.
+C1 Fraser Smith and robert May are at the Dept of Zoology, University of Oxford, South Parks Road, Oxford, UK OX1 3PS.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD OCT 1
+PY 1993
+VL 8
+IS 10
+BP 375
+EP 8
+DI 10.1016/0169-5347(93)90223-C
+PG -367
+UT PubMed:21236199
+PM 21236199
+DA 1993-10-01
+ER
+
+PT J
+AU Wilson, EO
+AF Wilson, E O
+TI Is humanity suicidal?
+SO Bio Systems
+LA English
+DT Journal Article
+AB The world's fauna and flora has entered a crisis unparalleled since the end of  the Mesozoic Era, with the extinction rate of species now elevated to more than a  thousand times that existing before the coming of humanity. Scientists and policy  makers are ill-prepared to moderate this hemorrhaging, because so little is known  of the biology of the Earth's millions of species and because so little effort  has been directed toward conservation thus far. With the vanished species will go  great potential wealth in scientific knowledge, new products, ecosystems  services, and part of the natural world in which the human species originated.  The need for new research and improved management is thus urgent. If it is not  met, humanity will likely survive, but in a world biologically impoverished for  all time.
+C1 Museum of Comparative Zoology, Harvard University, Cambridge, MA 02138.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1993
+VL 31
+IS 2-3
+BP 235
+EP 42
+DI 10.1016/0303-2647(93)90052-e
+PG -193
+WC Animals; Biological Evolution; Ecosystem; Environment; Humans; Population Growth; Selection, Genetic
+UT PubMed:8155855
+PM 8155855
+DA 1993-01-01
+ER
+
+PT J
+AU Lewis, MA
+   van, den Driessche P
+AF Lewis, M A
+   van den Driessche, P
+TI Waves of extinction from sterile insect release.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Employing theoretical models, we show that the sterile insect release method  (SIRM) can give rise to traveling waves of fertile insects. The velocity of these  waves depends critically upon the density of sterile insects (and thus upon the  rate at which sterile individuals are being released into the environment). When  the sterile density is sufficiently low, the traveling wave advances, giving rise  to an invasion. However, when the sterile density exceeds a critical threshold,  the wave reverses direction, thereby retreating and giving rise to local  extinction. Both analytical (regular perturbation) methods and numerical methods  are used to determine wave velocities and wave profiles. This is the first time  traveling wave solutions have been shown for the SIRM.
+C1 Department of Mathematics, University of Utah, Salt Lake City 84112.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD AUG 1
+PY 1993
+VL 116
+IS 2
+BP 221
+EP 47
+DI 10.1016/0025-5564(93)90067-k
+PG -174
+WC Animals; Female; Fertility; Infertility, Male; Insecta; physiology; Male; Mathematics; Models, Biological; Pest Control, Biological; Population Dynamics
+UT PubMed:8369600
+PM 8369600
+DA 1993-08-01
+ER
+
+PT J
+AU Szathmáry, E
+AF Szathmáry, E
+TI Co-operation and defection: playing the field in virus dynamics.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB A previous model (Szathmáry, 1992) is further developed for the dynamics of  standard (V) and defective interfering (DI) viruses. The crucial retained element  is the incorporation of population structure in the form of a complete  distribution of cells infected by particles differing in number. New elements  are: the non-linear shared benefit from the contribution of Vs to the group of  viruses infecting the same cell (synergistic at low numbers, diminishing returns  at high numbers, respectively); a dynamics for the total number of particles (V  and DI); and the possibility of extinction if the frequency of Vs is small  enough. In evolutionary genetical terms this is a frequency- and  density-dependent evolutionary game. A crucial result is retained: coexistence of  Vs and DIs is possible provided the multiplicity of infection (hence the size of  the coinfection group) is large enough. Phase portraits and vector-field plots  for a continuous-time and numerical solutions for a corresponding discrete-time  case are presented. The latter reflect the basic features of serial, undiluted  passage. The causes for two possible means of extinction (low initial frequency  of Vs, and very high vigour of Vs) are revealed: the appearance of high amplitude  fluctuations. Coexistence can apparently be ensured by stable points, periodic  behaviour, or strange attractors. The paper clarifies the dynamical background of  cycles found experimentally in V-DI systems.
+C1 Laboratory of Mathematical Biology, MRC National Institute for Medical Research, Mill Hill, London, U.K.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD DEC 7
+PY 1993
+VL 165
+IS 3
+BP 341
+EP 56
+DI 10.1006/jtbi.1993.1193
+PG -285
+WC Biological Evolution; Models, Biological; Virus Physiological Phenomena; Virus Replication
+UT PubMed:8114502
+PM 8114502
+DA 1993-12-07
+ER
+
+PT J
+AU Lynch, M
+   Bürger, R
+   Butcher, D
+   Gabriel, W
+AF Lynch, M
+   Bürger, R
+   Butcher, D
+   Gabriel, W
+TI The mutational meltdown in asexual populations.
+SO The Journal of heredity
+LA English
+DT Journal Article
+AB Loss of fitness due to the accumulation of deleterious mutations appears to be  inevitable in small, obligately asexual populations, as these are incapable of  reconstituting highly fit genotypes by recombination or back mutation. The  cumulative buildup of such mutations is expected to lead to an eventual reduction  in population size, and this facilitates the chance accumulation of future  mutations. This synergistic interaction between population size reduction and  mutation accumulation leads to an extinction process known as the mutational  meltdown, and provides a powerful explanation for the rarity of obligate  asexuality. We give an overview of the theory of the mutational meltdown, showing  how the process depends on the demographic properties of a population, the  properties of mutations, and the relationship between fitness and number of  mutations incurred.
+C1 Department of Biology, University of Oregon, Eugene 97403.
+NR 0
+TC 0
+SN 
+EI 0022-150
+J9 J Hered
+PD SEP 1
+PY 1993
+VL 84
+IS 5
+BP 339
+EP 44
+DI 10.1093/oxfordjournals.jhered.a111354
+PG -295
+WC Biological Evolution; Models, Biological; Mutation; Recombination, Genetic; Reproduction, Asexual; Selection, Genetic
+UT PubMed:8409355
+PM 8409355
+DA 1993-09-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI Extinction from a paleontological perspective.
+SO European review (Chichester, England)
+LA English
+DT Review
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Extinction of widespread species is common in evolutionary time (millions of  years) but rare in ecological time (hundreds or thousands of years). In the  fossil record, there appears to be a smooth continuum between background and mass  extinction; and the clustering of extinctions at mass extinctions cannot be  explained by the chance coincidence of independent events. Although some  extinction is selective, much is apparently random in that survivors have no  recognizable superiority over victims. Extinction certainly plays an important  role in evolution, but whether it is constructive or destructive has not yet been  determined.
+C1 Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 1062-798
+J9 Eur Rev
+PD JAN 1
+PY 1993
+VL 1
+IS 3
+BP 207
+EP 16
+DI 10.1017/s1062798700000582
+PG -191
+WC Adaptation, Biological; Animals; Biological Evolution; Disasters; Fossils; Geological Phenomena; Geology; Meteoroids; Minor Planets; Paleontology; Volcanic Eruptions
+UT PubMed:11539838
+PM 11539838
+DA 1993-01-01
+ER
+
+PT J
+AU Müller, RK
+AF Müller, R K
+TI [The environment and health. Environmental pollution and its health effects].
+SO Versicherungsmedizin
+LA ger
+DT Journal Article
+AB Both environment and health are terms of far-reaching meaning, which impedes a  complete survey of their interactions. Originating from considerations about  global phenomena, as e.g. the extinction of biological species, of the so called  "forest dying", or of the extensive consumption of energy and material resources,  on the hierarchy of effects on health of environmental damages on one hand or on  the undisputable adaptivity of man in particular on the other, only actual  examples are outlined. The groups of dioxins, asbestos and radon are outlined,  considering them as representatives for the vast number of substances potentially  harmful to the environment and for the complexity of the toxicological and  oecological interactions with oecosphere, biosphere and man. By the examples, the  principles of toxicological/oecological thinking are explained, finally never  resulting in yes/no alternatives, but in compromises by sober balances of risk  and benefit. The basically correct vigilance of the public against avoidable  risks may not lead to hysteric reactions, impeding the concentration onto  necessary and practicable solutions.
+C1 Institut für Gerichtliche Medizin der Univ. Leipzig.
+NR 0
+TC 0
+SN 
+EI 0933-454
+J9 Versicherungsmedizin
+PD APR 1
+PY 1993
+VL 45
+IS 2
+BP 54
+EP 8
+DI 
+PG -46
+WC Environmental Exposure; adverse effects; Environmental Pollution; adverse effects; Germany; Humans; Public Health; trends; Risk Factors
+UT PubMed:8484200
+PM 8484200
+DA 1993-04-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+   Kendrick, DC
+AF Sepkoski, J J Jr
+   Kendrick, D C
+TI Numerical experiments with model monophyletic and paraphyletic taxa.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The problem of how accurately paraphyletic taxa versus monophyletic (i.e.,  holophyletic) groups (clades) capture underlying species patterns of diversity  and extinction is explored with Monte Carlo simulations. Phylogenies are modeled  as stochastic trees. Paraphyletic taxa are defined in an arbitrary manner by  randomly choosing progenitors and clustering all descendants not belonging to  other taxa. These taxa are then examined to determine which are clades, and the  remaining paraphyletic groups are dissected to discover monophyletic subgroups.  Comparisons of diversity patterns and extinction rates between modeled taxa and  lineages indicate that paraphyletic groups can adequately capture lineage  information under a variety of conditions of diversification and mass extinction.  This suggests that these groups constitute more than mere "taxonomic noise" in  this context. But, strictly monophyletic groups perform somewhat better,  especially with regard to mass extinctions. However, when low levels of  paleontologic sampling are simulated, the veracity of clades deteriorates,  especially with respect to diversity, and modeled paraphyletic taxa often capture  more information about underlying lineages. Thus, for studies of diversity and  taxic evolution in the fossil record, traditional paleontologic genera and  families need not be rejected in favor of cladistically-defined taxa.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1993
+VL 19
+IS 2
+BP 168
+EP 84
+DI 10.1017/s0094837300015852
+PG -84
+WC Algorithms; Animals; Biological Evolution; Computer Simulation; Fossils; Models, Statistical; Monte Carlo Method; Paleontology; statistics & numerical data; Phylogeny; Selection Bias; Stochastic Processes
+UT PubMed:11539834
+PM 11539834
+DA 1993-01-01
+ER
+
+PT J
+AU Menotti-Raymond, M
+   O'Brien, SJ
+AF Menotti-Raymond, M
+   O'Brien, S J
+TI Dating the genetic bottleneck of the African cheetah.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB The cheetah is unusual among fields in exhibiting near genetic uniformity at a  variety of loci previously screened to measure population genetic diversity. It  has been hypothesized that a demographic crash or population bottleneck in the  recent history of the species is causal to the observed monomorphic profiles for  nuclear coding loci. The timing of a bottleneck is difficult to assess, but  certain aspects of the cheetah's natural history suggest it may have occurred  near the end of the last ice age (late Pleistocene, approximately 10,000 years  ago), when a remarkable extinction of large vertebrates occurred on several  continents. To further define the timing of such a bottleneck, the character of  genetic diversity for two rapidly evolving DNA sequences, mitochondrial DNA and  hypervariable minisatellite loci, was examined. Moderate levels of genetic  diversity were observed for both of these indices in surveys of two cheetah  subspecies, one from South Africa and one from East Africa. Back calculation from  the extent of accumulation of DNA diversity based on observed mutation rates for  VNTR (variable number of tandem repeats) loci and mitochondrial DNA supports a  hypothesis of an ancient Pleistocene bottleneck that rendered the cheetah  depauperate in genetic variation for nuclear coding loci but would allow  sufficient time for partial reconstitution of more rapidly evolving genomic DNA  segments.
+C1 Biological Carcinogenesis and Development Program, National Cancer Institute, Frederick, MD 21702.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD APR 15
+PY 1993
+VL 90
+IS 8
+BP 3172
+EP 6
+DI 10.1073/pnas.90.8.3172
+PG -3166
+WC Acinonyx; genetics; Animals; DNA; genetics; DNA Fingerprinting; DNA, Mitochondrial; genetics; Genetic Variation; Namibia; Phylogeny; Restriction Mapping; South Africa
+UT PubMed:8475057
+PM 8475057
+DA 1993-04-15
+ER
+
+PT J
+AU Zieglgänsberger, W
+   Tölle, TR
+AF Zieglgänsberger, W
+   Tölle, T R
+TI The pharmacology of pain signalling.
+SO Current opinion in neurobiology
+LA English
+DT Review
+AB Recent advances in pain research illustrate the analytical power of modern  neurosciences in a field previously accessible only to methods of systems  biology. Novel molecular and cellular biological techniques have changed the face  of pain research by detailing the multiplicity of pain transducing and pain  suppressive systems which involve neuronal and hormonal systems acting in concert  to help the individual to cope with pain. The introduction of concepts of  neuronal plasticity in this field has led to important therapeutical  consequences. Novel compounds and new regimens for drug treatment to prevent  activity-dependent long-term changes or to facilitate extinction in pain-related  systems are emerging.
+C1 Max-Planck-Institute of Psychiatry, Clinical Institute, München, Germany.
+NR 0
+TC 0
+SN 
+EI 0959-438
+J9 Curr Opin Neurobiol
+PD AUG 1
+PY 1993
+VL 3
+IS 4
+BP 611
+EP 8
+DI 10.1016/0959-4388(93)90063-5
+PG -603
+WC Analgesics; pharmacology; Animals; Endorphins; physiology; Humans; Models, Biological; Neurons; drug effects; Neuropeptides; physiology; Nociceptors; physiology; Pain; physiopathology; Receptors, Glutamate; physiology; Receptors, N-Methyl-D-Aspartate; physiology; Signal Transduction; Spinal Cord; physiology
+UT PubMed:8219729
+PM 8219729
+DA 1993-08-01
+ER
+
+PT J
+AU Wimalasena, K
+   Dharmasena, S
+AF Wimalasena, K
+   Dharmasena, S
+TI Continuous spectrophotometric assay for ascorbate oxidase based on a novel
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB Recently, we reported the development of a sensitive continuous  spectrophotometric assay for the ascorbate-dependent mammalian enzyme dopamine  beta-monooxygenase based on the novel chromophoric electron donor 2-aminoascorbic  acid [K. Wimalasena and D.S. Wimalasena (1991) Anal. Biochem. 197, 353-361]. We  now report that ascorbate oxidase (EC 1.10.3.3, L-ascorbate:O2 oxidoreductase)  also catalyzes the oxidation of 2-aminoascorbic acid to chromophoric  2,2'-nitrilodi-2(2')-deoxy-L-ascorbic acid (red pigment). The reaction is  kinetically well behaved, displaying the expected stoichiometry for an  oxidase-catalyzed reaction with respect to oxygen and the oxidation product (red  pigment), demonstrating that 2-aminoascorbic acid is a well-behaved alternative  substrate for the enzyme. Ascorbate oxidase is a very efficient enzyme toward its  natural substrate, ascorbic acid. Although 2-amino-ascorbic acid is a  significantly weak substrate for the enzyme in comparison to ascorbic acid, as  indicated by the apparent initial rate kinetic parameters, the high extinction  coefficient of the red pigment under our assay conditions suggests that this  novel reactivity of the enzyme could be used to design a sensitive, convenient,  and continuous spectrophotometric assay for ascorbate oxidase. While this assay  is more convenient than the existing oxygen monitor assay, its adaptability to  measure the activity of the enzyme in the immobilized form may be helpful in the  development of technologies for the automated detection of ascorbic acid in  biological fluids for industrial or clinical applications. In addition, this  novel reactivity of the enzyme may be used to examine the substrate specificity  and the mechanism of action of the enzyme.
+C1 Department of Chemistry, Wichita State University, Kansas 67260-0051.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD APR 1
+PY 1993
+VL 210
+IS 1
+BP 58
+EP 62
+DI 10.1006/abio.1993.1150
+PG 4
+WC Ascorbate Oxidase; analysis; Ascorbic Acid; analogs & derivatives; Chromogenic Compounds; Evaluation Studies as Topic; Hydrogen-Ion Concentration; Kinetics; Plants; enzymology; Sensitivity and Specificity; Spectrophotometry; methods; Substrate Specificity
+UT PubMed:8489025
+PM 8489025
+DA 1993-04-01
+ER
+
+PT J
+AU Barbour, MS
+   Litvaitis, JA
+AF Barbour, Michael S
+   Litvaitis, John A
+TI Niche dimensions of New England cottontails in relation to habitat patch size.
+SO Oecologia
+LA English
+DT Journal Article
+DE Fragmentation; New England cottontail; Niche expansion; Resource limitations
+AB We examined physical condition, niche dimensions, and survival of New England  cottontails (Sylvilagus transitionalis) that occupied 21 habitat patches of  different sizes during winter. Rabbits on small patches (≤2.5 ha) were  predominantly males, and both sexes had lower body mass than individuals on large  patches (≥5.0 ha). Niche indices (β, where β ranges from 0 to 1. and values  approaching 1 indicate generalized resource use) of habitat use revealed that  rabbits on small patches used a greater variety of microhabitats (based on  understory stem density: β(s), and proximity to cover: β(c)) than rabbits  occupying large patches (β(s)=0.65, β(c)=0.66). Rabbits on small patches also  consumed low quality forage more often and fed at sites farther from escape cover  than rabbits on large patches. There were no significant correlations between  rabbit densities and niche dimensions. Niche expansion was not a result of  compertitive release or relaxation of predator pressure. Rabbits on small patches  apparently modified their niche dimensions in response to resource limitations.  This response included occupying sites with limited understory cover that  apparently resulted in rabbits on small patches having a lower survival rate  (0.35) than rabbits on large patches (0.69) during a 10-week monitoring period.  Skewed sex ratios and low survival rates among rabbits on small patches suggest  that these habitats act as sinks to dispersing, juveniles from large (source)  patches. As a result, local populations of New England cottontails may become  vulnerable to extinction if larte patches of habitat are not maintained.
+C1 Wildlife Program, Department of Natural Resources, University of New Hampshire, 03824, Durham, NH, USA.
+   Wildlife Program, Department of Natural Resources, University of New Hampshire, 03824, Durham, NH, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD SEP 1
+PY 1993
+VL 95
+IS 3
+BP 321
+EP 327
+DI 10.1007/BF00320983
+PG 6
+UT PubMed:28314005
+PM 28314005
+DA 1993-09-01
+ER
+

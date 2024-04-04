@@ -1,0 +1,632 @@
+PT J
+AU Dimberg, U
+AF Dimberg, U
+TI Facial expressions as excitatory and inhibitory stimuli for conditioned autonomic
+SO Biological psychology
+LA English
+DT Journal Article
+AB Several lines of evidence suggest that emotional responses to facial expressions  of emotion have a biological basis. The present study involved 4 experiments  where pictures of angry, happy or neutral facial expressions were used as  conditioned stimuli in aversive Pavlovian electrodermal conditioning. From an  evolutionary perspective it was expected that an angry face should have an  excitatory effect on aversively conditioned responses, whereas a happy face  should have an inhibitory effect. It was also expected that the effect should be  specific for the stimulus person showing the display. The data showed that the  stimulus person was a critical mediating factor for obtaining persistent  conditioning effects, that is to say, responses which showed resistance to  extinction. Persistent responding was primarily manifested when the stimulus  person displayed anger during extinction. On the other hand, this effect was  inhibited when the person displayed a happy face during extinction. Furthermore,  resistance to extinction was increased or decreased dependent on whether the  person expressed anger or happiness during acquisition. Thus, consistent with  predictions, angry and happy faces exhibited an excitatory and inhibitory effect,  respectively, and these effects were mediated by the stimulus person.
+NR 0
+TC 0
+SN 
+EI 0301-051
+J9 Biol Psychol
+PD FEB 1
+PY 1986
+VL 22
+IS 1
+BP 37
+EP 57
+DI 10.1016/0301-0511(86)90019-0
+PG 20
+WC Adult; Anger; Autonomic Nervous System; physiology; Conditioning, Classical; physiology; Electroshock; Emotions; physiology; Extinction, Psychological; Facial Expression; Female; Galvanic Skin Response; Happiness; Humans; Inhibition, Psychological; Male
+UT PubMed:3697457
+PM 3697457
+DA 1986-02-01
+ER
+
+PT J
+AU McKenzie, AL
+AF McKenzie, A L
+TI A three-zone model of soft-tissue damage by a CO2 laser.
+SO Physics in medicine and biology
+LA English
+DT Journal Article
+AB CO2 laser damage to soft tissue may be divided into three zones--an outer layer  of carbonised material, a zone of vacuolation where cavities have been formed by  the explosive conversion of water to steam and a coagulated zone which has been  formed at temperatures below 100 degrees C. A model is proposed which predicts  the maximum (i.e. dynamic equilibrium) depths of each of these layers. The  maximum effective thickness of the vacuolated zone is shown to depend upon the  absorption coefficient of the tissue for CO2 laser radiation, but not on the  incident irradiance. The thickness of the carbonised zone is shown to decrease  with increasing irradiance, and the depth of the sub-boiling coagulated zone also  decreases with increasing irradiance, but depends to some extent on the  penetration of laser radiation through the soft tissue. Redistribution of heat  within these zones after extinction of the laser radiation is considered, as is  the effect of pulsed laser radiation. The predictions of the model could be  tested by suitable experiments.
+NR 0
+TC 0
+SN 
+EI 0031-915
+J9 Phys Med Biol
+PD SEP 1
+PY 1986
+VL 31
+IS 9
+BP 967
+EP 83
+DI 10.1088/0031-9155/31/9/003
+PG -884
+WC Carbon Dioxide; Humans; Laser Therapy; adverse effects; Mathematics; Models, Biological; Pathology
+UT PubMed:3095854
+PM 3095854
+DA 1986-09-01
+ER
+
+PT J
+AU Saunders, NC
+   Kessler, LG
+   Avise, JC
+AF Saunders, N C
+   Kessler, L G
+   Avise, J C
+TI Genetic Variation and Geographic Differentiation in Mitochondrial DNA of the
+SO Genetics
+LA English
+DT Journal Article
+AB Restriction site variation in mitochondrial DNA (mtDNA) of the horseshoe crab  (Limulus polyphemus) was surveyed in populations ranging from New Hampshire to  the Gulf Coast of Florida. MtDNA clonal diversity was moderately high,  particularly in southern samples, and a major genetic "break" (nucleotide  sequence divergence approximately 2%) distinguished all sampled individuals which  were north vs. south of a region in northeastern Florida. The area of genotypic  divergence in Limulus corresponds to a long-recognized zoogeographic boundary  between warm-temperate and tropical marine faunas, and it suggests that selection  pressures and/or gene flow barriers associated with water mass differences may  also influence the evolution of species widely distributed across such transition  zones. On the other hand, a comparison of the mtDNA divergence patterns in  Limulus with computer models involving stochastic lineage extinction in species  with limited gene flow demonstrates that deterministic explanations need not  necessarily be invoked to account for the observations. Experiments to  distinguish stochastic from deterministic possibilities are suggested. Overall,  the pattern and magnitude of mtDNA differentiation in horseshoe crabs is very  similar to that typically reported for freshwater and terrestrial species assayed  over a comparable geographic range. Results demonstrate for the first time that,  geographically, at least some continuously distributed marine organisms can show  considerable mtDNA genetic differentiation.
+C1 Department of Genetics, University of Georgia, Athens, Georgia 30602.
+NR 0
+TC 0
+SN 
+EI 0016-673
+J9 Genetics
+PD MAR 1
+PY 1986
+VL 112
+IS 3
+BP 613
+EP 27
+DI 10.1093/genetics/112.3.613
+PG -586
+UT PubMed:17246319
+PM 17246319
+DA 1986-03-01
+ER
+
+PT J
+AU Hallam, TG
+   Zhien, M
+AF Hallam, T G
+   Zhien, M
+TI Persistence in population models with demographic fluctuations.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB A persistence and extinction theory is developed through analytical studies of  deterministic population models. Under hypotheses that require demographic  parameters to fluctuate temporally, the populations may or may not oscillate.  Extinction, when it occurs, is asymptotic. An hierarchy of persistence criteria,  based upon fluctuations measured by time average means, is derived. In some  situations a threshold value is found to separate persistent population models  from those that tend to extinction. Application of the persistence-extinction  theory is to the problem of assessing effects of a toxic substance on a  population when toxicant inputs to the environment and to resources are  oscillatory.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1986
+VL 24
+IS 3
+BP 327
+EP 39
+DI 10.1007/BF00275641
+PG -288
+WC Demography; Mathematics; Models, Biological; Population; Toxicology
+UT PubMed:3760721
+PM 3760721
+DA 1986-01-01
+ER
+
+PT J
+AU Raup, DM
+   Sepkoski, JJ Jr
+AF Raup, D M
+   Sepkoski, J J Jr
+TI Periodic extinction of families and genera.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Eight major episodes of biological extinction of marine families over the past  250 million years stand significantly above local background (P < 0.05). These  events are more pronounced when analyzed at the level of genus, and generic data  exhibit additional apparent extinction events in the Aptian (Cretaceous) and  Pliocene (Tertiary) Stages. Time-series analysis of these records strongly  suggests a 26-million-year periodicity. This conclusion is robust even when  adjusted for simultaneous testing of many trial periods. When the time series is  limited to the four best-dated events (Cenomanian, Maestrichtian, upper Eocene,  and middle Miocene), the hypothesis of randomness is also rejected for the  26-million-year period (P < 0.0002).
+C1 Department of Geophysical Sciences, University of Chicago, IL 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD FEB 21
+PY 1986
+VL 231
+IS 
+BP 833
+EP 6
+DI 10.1126/science.11542060
+PG -827
+WC Animals; Biological Evolution; Fossils; Geological Phenomena; Geology; Marine Biology; Paleontology; statistics & numerical data; Periodicity
+UT PubMed:11542060
+PM 11542060
+DA 1986-02-21
+ER
+
+PT J
+AU Kimura, M
+AF Kimura, M
+TI DNA and the neutral theory.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+AB The neutral theory claims that the great majority of evolutionary changes at the  molecular (DNA) level are caused not by Darwinian selection but by random  fixation of selectively neutral or nearly neutral mutants. The theory also  asserts that the majority of protein and DNA polymorphisms are selectively  neutral and that they are maintained in the species by mutational input balanced  by random extinction. In conjunction with diffusion models (the stochastic  theory) of gene frequencies in finite populations, it treats these phenomena in  quantitative terms based on actual observations. Although the theory has been  strongly criticized by the 'selectionists', supporting evidence has accumulated  over the years. Particularly, the recent outburst of DNA sequence data lends  strong support to the theory both with respect to evolutionary base substitutions  and DNA polymorphism, including rapid evolutionary base substitutions in  pseudogenes. In addition, the observed pattern of synonymous codon choice can now  be readily explained in the framework of this theory. I review these recent  findings in the light of the neutral theory.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD JAN 29
+PY 1986
+VL 312
+IS 1154
+BP 343
+EP 54
+DI 10.1098/rstb.1986.0012
+PG -289
+WC Animals; Biological Evolution; Chickens; Codon; DNA; genetics; Genes; Humans; Mathematics; Models, Genetic; Mutation; Proteins; genetics; Rabbits; Rats; Selection, Genetic; Species Specificity
+UT PubMed:2870526
+PM 2870526
+DA 1986-01-29
+ER
+
+PT J
+AU Gaylinn, B
+   Dewey, MM
+AF Gaylinn, B
+   Dewey, M M
+TI Paramyosin and myosin content of the thick filament in the striated muscle of
+SO Journal of muscle research and cell motility
+LA English
+DT Journal Article
+AB The thick myofilaments of the striated muscle from the horseshoe crab (Limulus)  are composed of the proteins paramyosin and myosin. Using quantitative gel  electrophoresis we find that there are 1.02 paramyosin molecules for every  myosin. This protein composition is consistent with scanning transmission  electron microscopy measurements of isolated thick filament mass and the  four-stranded helical filament structure reported previously by others if one  assumes one myosin molecule per surface subunit as has been suggested. Polyclonal  antibodies were used to distinguish myosin and paramyosin bands from others of  similar electrophoretic mobility as well as to detect aggregates and breakdown  products by examination of gel patterns transferred to nitrocellulose membranes.  Two-dimensional gel maps were utilized as a check for coelectrophoresing bands  that might go undetected in one dimension. Coomassie Blue binding per mg of  purified myosin or paramyosin was found to differ by less than 5%. Extinction  coefficients for Limulus myosin and paramyosin as calibrated to dry weight  measurements are also reported.
+NR 0
+TC 0
+SN 
+EI 0142-431
+J9 J Muscle Res Cell Motil
+PD OCT 1
+PY 1986
+VL 7
+IS 5
+BP 467
+EP 73
+DI 10.1007/BF01753589
+PG -394
+WC Animals; Electrophoresis; Horseshoe Crabs; analysis; Myosins; analysis; Rosaniline Dyes; Sodium Dodecyl Sulfate; Tropomyosin; analysis
+UT PubMed:3793879
+PM 3793879
+DA 1986-10-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI Biological extinction in earth history.
+SO Science (New York, N.Y.)
+LA English
+DT Review
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Virtually all plant and animal species that have ever lived on the earth are  extinct. For this reason alone, extinction must play an important role in the  evolution of life. The five largest mass extinctions of the past 600 million  years are of greatest interest, but there is also a spectrum of smaller events,  many of which indicate biological systems in profound stress. Extinction may be  episodic at all scales, with relatively long periods of stability alternating  with short-lived extinction events. Most extinction episodes are biologically  selective, and further analysis of the victims and survivors offers the greatest  chance of deducing the proximal causes of extinction. A drop in sea level and  climatic change are most frequently invoked to explain mass extinctions, but new  theories of collisions with extraterrestrial bodies are gaining favor. Extinction  may be constructive in a Darwinian sense or it may only perturb the system by  eliminating those organisms that happen to be susceptible to geologically rare  stresses.
+C1 Department of the Geophysical Sciences, University of Chicago, IL 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAR 28
+PY 1986
+VL 231
+IS 
+BP 1528
+EP 33
+DI 10.1126/science.11542058
+PG -1495
+WC Animals; Biological Evolution; Earth, Planet; Eukaryota; Fossils; Geological Phenomena; Geology; Invertebrates; Meteoroids; Minor Planets; Paleontology; Periodicity; Reptiles
+UT PubMed:11542058
+PM 11542058
+DA 1986-03-28
+ER
+
+PT J
+AU Benton, MJ
+AF Benton, M J
+TI The evolutionary significance of mass extinctions.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Local extinctions of populations, species or groups of species in a particular  area are commonly observed by biologists. There are also historical records of  the total extinction of single species such as the Dodo, the Great Auk and the  Tasmanian Wolf. Mass extinctions are on a much larger scale, and their study is  based on the fossil record. The aims of this review are to explore the nature of  mass extinctions and their evolutionary significance. The key questions are: what  is mass extinction, what are the causes of mass extinctions, do mass extinctions  follow a regular pattern, and how do mass extinctions affect our understanding of  evolutionary processes?
+C1 Michael Benton is at the Department of Geology, The Queen's University of Belfast, Belfast BT7 1NN, UK.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD NOV 1
+PY 1986
+VL 1
+IS 5
+BP 127
+EP 30
+DI 10.1016/0169-5347(86)90007-8
+PG -97
+UT PubMed:21227796
+PM 21227796
+DA 1986-11-01
+ER
+
+PT J
+AU Lewin, R
+AF Lewin, R
+TI A Mass Extinction Without Asteroids: Although the data are still swathed in
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD OCT 3
+PY 1986
+VL 234
+IS 4772
+BP 14
+EP 5
+DI 10.1126/science.234.4772.14
+PG -9
+UT PubMed:17742625
+PM 17742625
+DA 1986-10-03
+ER
+
+PT J
+AU McNair, JN
+AF McNair, J N
+TI The effects of refuges on predator-prey interactions: a reconsideration.
+SO Theoretical population biology
+LA English
+DT Journal Article
+AB Prey refuges are widely believed to prevent prey extinction and damp  predator-prey oscillations. A review of the empirical evidence suggests that  refuges are indeed capable of playing the former role. But the conditions under  which they do so are not understood, nor is there any solid evidence for an  effect on population fluctuations. The intuitive view that refuges act to  stabilize equilibria and damp predator-prey oscillations is based in several  theoretical studies of extremely simple models. Using a more realistic model, I  show that several kinds of refuges can exert a locally destabilizing effect and  create stable, large-amplitude oscillations which would damp out if no refuge was  present. This finding contrasts sharply with the usual view. I argue that current  evidence is tol weak, and the range of theoretically possible effects is too  broad, to justify any simple characterization of refuge effects in nature.  Manipulative empirical studies are an important first step toward correcting this  situation, and I discuss some important factors to consider in their design.
+NR 0
+TC 0
+SN 
+EI 0040-580
+J9 Theor Popul Biol
+PD FEB 1
+PY 1986
+VL 29
+IS 1
+BP 38
+EP 63
+DI 10.1016/0040-5809(86)90004-3
+PG 25
+WC Animals; Appetitive Behavior; Birth Rate; Environment; Mathematics; Models, Biological; Population Density; Predatory Behavior
+UT PubMed:3961711
+PM 3961711
+DA 1986-02-01
+ER
+
+PT J
+AU Jablonski, D
+AF Jablonski, D
+TI Background and mass extinctions: the alternation of macroevolutionary regimes.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Comparison of evolutionary patterns among Late Cretaceous marine bivalves and  gastropods during times of normal, background levels of extinction and during the  end-Cretaceous mass extinction indicates that mass extinctions are neither an  intensification of background patterns nor an entirely random culling of the  biota. During background times, traits such as planktotrophic larval development,  broad geographic range of constituent species, and high species richness enhanced  survivorship of species and genera. In contrast, during the, end-Cretaceous and  other mass extinctions these factors were ineffectual, but broad geographic  deployment of an entire lineage, regardless of the ranges of its constituent  species, enhanced survivorship. Large-scale evolutionary patterns are evidently  shaped by the alternation of these two macroevolutionary regimes, with rare but  important mass extinctions driving shifts in the composition of the biota that  have little relation to success during the background regime. Lineages or  adaptations can be lost during mass extinctions for reasons unrelated to their  survival values for organisms or species during background times, and long-term  success would require the chance occurrence within a single lineage of sets of  traits conducive to survivorship under both regimes.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JAN 10
+PY 1986
+VL 231
+IS 4734
+BP 129
+EP 33
+DI 10.1126/science.231.4734.129
+PG -96
+UT PubMed:17842630
+PM 17842630
+DA 1986-01-10
+ER
+
+PT J
+AU Swaminathan, S
+   Ichikawa, M
+   Bryan, GT
+AF Swaminathan, S
+   Ichikawa, M
+   Bryan, G T
+TI Identification of 4-(5-amino-2-furyl)thiazole (AFT) as a reductive metabolite of
+SO Carcinogenesis
+LA English
+DT Journal Article
+AB The chemical synthesis of 4-(5-amino-2-furyl)thiazole (AFT) and its formation  during the in vitro reductive metabolism of 4-(5-nitro-2-furyl)thiazole (NFT) by  rat liver tissues on anaerobic incubation with NADPH were examined. AFT was  synthesized by catalytic reduction of NFT with 5% palladium on activated carbon.  Purified AFT, a pale yellow powder, melted at 105 degrees C and had an extinction  coefficient of 16.3 mM-1 cm-1 at 297 nm in methanol. The proton n.m.r. spectrum,  i.r. and mass spectra were consistent with the assigned structure. Analysis of  the ethyl acetate extract, following incubation of NFT with rat liver tissue  preparations, revealed a metabolite whose chromatographic and mass spectral  characteristics were the same as those obtained with synthetic AFT, thus  establishing the structural identity of the metabolite as AFT. These data show  that AFT is formed on reduction and could act as a precursor for the formation of  1-(4-thiazolyl)-3-cyano-1-propanone as postulated earlier.
+NR 0
+TC 0
+SN 
+EI 0143-333
+J9 Carcinogenesis
+PD APR 1
+PY 1986
+VL 7
+IS 4
+BP 615
+EP 9
+DI 10.1093/carcin/7.4.615
+PG -606
+WC Animals; Chromatography, High Pressure Liquid; FANFT; analogs & derivatives; Magnetic Resonance Spectroscopy; Mass Spectrometry; Microsomes, Liver; metabolism; NADP; metabolism; Rats; Thiazoles; analysis
+UT PubMed:3698193
+PM 3698193
+DA 1986-04-01
+ER
+
+PT J
+AU Füglistaller, P
+   Suter, F
+   Zuber, H
+AF Füglistaller, P
+   Suter, F
+   Zuber, H
+TI Linker polypeptides of the phycobilisome from the cyanobacterium Mastigocladus
+SO Biological chemistry Hoppe-Seyler
+LA English
+DT Journal Article
+AB Phycobilisomes from the cyanobacterium Mastigocladus laminosus cultured in white  and red light were isolated and compared with respect to the phycoerythrocyanin  (PEC) and linker polypeptide contents. It was verified that the production of PEC  is induced by low light intensities. A PEC complex, (alpha PEC beta  PEC)6LR34.5,PEC, and a phycocyanin (PC) complex, (alpha PC beta PC)6LR34.5,PC,  were isolated from phycobilisomes by Cellex-D anion exchange chromatography and  sucrose density gradient centrifugation. The absorption and fluorescence emission  maxima of the PEC complex are at 575 and 620 nm and those of the PC complex are  at 631 and 647 nm, respectively. The extinction coefficients of the two complexes  were determined. From different experiments it was concluded that PEC is present  as a hexameric complex, (alpha PEC beta PEC)6LR34.5,PEC, in the phycobilisome.  The two linker polypeptides LR34.5,PEC and LR34.5,PC were isolated from their  phycobiliprotein complexes by gel filtration on Bio-Gel P-100 in 50% formic acid.  A 5-kDa terminal segment of both linker polypeptides was found to influence the  hexamer formation of the phycobiliproteins. The same segments have been described  to be responsible for the hexamer-hexamer linkage (Yu, M.-H. & Glazer, A.N.  (1982) J. Biol. Chem. 257, 3429-3433). A 8.9-kDa linker polypeptide, LR(C)8.9,  was isolated from a PEC fraction of the Cellex-D column by Bio-Gel P-100 gel  filtration in 50% formic acid. Localisation of this protein within the  phycobilisome was attempted. Its most probable function is to terminate the  phycobilisomal rods at the end distal to the allophycocyanin core.
+NR 0
+TC 0
+SN 
+EI 0177-359
+J9 Biol Chem Hoppe Seyler
+PD JUL 1
+PY 1986
+VL 367
+IS 7
+BP 601
+EP 14
+DI 10.1515/bchm3.1986.367.2.601
+PG -587
+WC Bacterial Proteins; isolation & purification; Centrifugation, Density Gradient; Chromatography, Gel; Cyanobacteria; analysis; Electrophoresis, Polyacrylamide Gel; Light-Harvesting Protein Complexes; Molecular Weight; Phycobilisomes; Pigments, Biological; analysis; Plant Proteins; analysis
+UT PubMed:3092840
+PM 3092840
+DA 1986-07-01
+ER
+
+PT J
+AU Wilcox, BA
+AF Wilcox, B A
+TI Extinction models and conservation.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB In their seminal book, The Theory of Island Biogeography, MacArthur and Wilson  (1) proposed that '(the principles derived from island biogeography] apply, and  will apply to an accelerating extent in the future, to formerly continuous  natural habitats now being broken up by the encroachment of civilization'. Debate  over the validity of this statement has raged for a decade, focusing particularly  on reserve design 'rules' and whether a single large reserve or several small  reserves will protect more species? These arguments have led to some new  insights, if not a fresh perspective, on some old but fundamental topics in  ecology and evolution. Most notable among these is extinction.
+C1 Bruce A. Wilcox is at the Center For Conservation Biology, Department of Biological Sciences, Stanford University, Stanford, California 94305, USA.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD AUG 1
+PY 1986
+VL 1
+IS 2
+BP 46
+EP 8
+DI 10.1016/0169-5347(86)90073-X
+PG -38
+UT PubMed:21227779
+PM 21227779
+DA 1986-08-01
+ER
+
+PT J
+AU Boudreau, DA
+   Rock, WA
+AF Boudreau, D A
+   Rock, W A
+TI In vitro aggregation of normal platelets: a hypothetical first-approximation
+SO Haemostasis
+LA English
+DT Journal Article
+AB Aggregometer tracings of light transmission through platelet-rich-plasma are  routinely used for the clinical evaluation of platelet function. The analytical  relation between the changing aggregometer curve tracings of the light extinction  and the aggregation process remains unknown. A first-approximation equation for  this relation is proposed, based upon a highly simplified view of the in vitro  aggregation process for normal platelets. The model described is capable of  generating curves which show strong resemblance to those predicted by light  scattering theory as well as those observed experimentally, including biphasic  structures.
+NR 0
+TC 0
+SN 
+EI 0301-014
+J9 Haemostasis
+PD JAN 1
+PY 1986
+VL 16
+IS 1
+BP 1
+EP 7
+DI 10.1159/000215262
+PG 6
+WC Adenosine Diphosphate; pharmacology; Humans; In Vitro Techniques; Light; Models, Biological; Photometry; methods; Platelet Aggregation; drug effects; Scattering, Radiation
+UT PubMed:3699583
+PM 3699583
+DA 1986-01-01
+ER
+
+PT J
+AU Mead, JI
+   Martin, PS
+   Euler, RC
+   Long, A
+   Jull, AJ
+   Toolin, LJ
+   Donahue, DJ
+   Linick, TW
+AF Mead, J I
+   Martin, P S
+   Euler, R C
+   Long, A
+   Jull, A J
+   Toolin, L J
+   Donahue, D J
+   Linick, T W
+TI Extinction of Harrington's mountain goat.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Keratinous horn sheaths of the extinct Harrington's mountain goat, Oreamnos  harringtoni, were recovered at or near the surface of dry caves of the Grand  Canyon, Arizona. Twenty-three separate specimens from two caves were dated  nondestructively by the tandem accelerator mass spectrometer (TAMS). Both the  TAMS and the conventional dates indicate that Harrington's mountain goat occupied  the Grand Canyon for at least 19,000 years prior to becoming extinct by 11,160  +/- 125 radiocarbon years before present. The youngest average radiocarbon dates  on Shasta ground sloths, Nothrotheriops shastensis, from the region are not  significantly younger than those on extinct mountain goats. Rather than  sequential extinction with Harrington's mountain goat disappearing from the Grand  Canyon before the ground sloths, as one might predict in view of evidence of  climatic warming at the time, the losses were concurrent. Both extinctions  coincide with the regional arrival of Clovis hunters.
+C1 Department of Geology, Northern Arizona University, and Museum of Northern Arizona, Flagstaff, AZ 86011.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD FEB 1
+PY 1986
+VL 83
+IS 4
+BP 836
+EP 9
+DI 10.1073/pnas.83.4.836
+PG -827
+UT PubMed:16593655
+PM 16593655
+DA 1986-02-01
+ER
+
+PT J
+AU Valentine, JW
+   Jablonski, D
+AF Valentine, J W
+   Jablonski, D
+TI Mass extinctions: Sensitivity of marine larval types.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Developmental types of marine invertebrates may be divided into planktotrophs,  which feed on suspended food items, and nonplanktotrophs, which do not feed but  are supplied with nutrients (yolk) parentally; these may represent high  mortality-fecundity and low mortality-fecundity strategies, respectively. Most  versions of the bolide impact hypothesis of mass extinction propose occlusion of  the sun by dust or smoke and severance of planktonic food chains for months or a  few years, and this should select preferentially against planktotrophs. Yet among  fossil prosobranch gastropods, planktotrophs survived the end-Cretaceous  extinction equally as well as nonplanktotrophs. Indirect evidence suggests that  end-Permian extinctions may have selected against planktotrophs but that the  effect was prolonged over millions of years.
+C1 Department of Geological Sciences, University of California, Santa Barbara, CA 93106.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD SEP 1
+PY 1986
+VL 83
+IS 18
+BP 6912
+EP 4
+DI 10.1073/pnas.83.18.6912
+PG -6908
+UT PubMed:16593761
+PM 16593761
+DA 1986-09-01
+ER
+
+PT J
+AU Lewin, R
+AF Lewin, R
+TI Mass Extinctions Select Different Victims: Every now and then during earth
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JAN 17
+PY 1986
+VL 231
+IS 4735
+BP 219
+EP 20
+DI 10.1126/science.231.4735.219
+PG -199
+UT PubMed:17769642
+PM 17769642
+DA 1986-01-17
+ER
+
+PT J
+AU Hines, G
+AF Hines, G
+TI Effects of lithium and rubidium on shock-induced changes in open-field activity.
+SO Psychopharmacology
+LA English
+DT Journal Article
+AB Lithium chloride and rubidium chloride were tested under conditions in which the  effects of their chronic administration on aversively-controlled behavior could  be assessed. Lithium attenuated shock-induced suppression of open-field activity  when that suppression was under the control of mild or moderate stimulus  parameters, but had no effect on the suppression produced by the presence of  shock itself. Rubidium, on the other hand, increased shock-induced suppression  under all conditions. When shock was removed and extinction of the activity  suppression was investigated, lithium subjects failed to return to their original  baseline activity levels, while subjects receiving rubidium recovered baselines  in a manner indistinguishable from that observed in control animals.
+NR 0
+TC 0
+SN 
+EI 0033-315
+J9 Psychopharmacology (Berl)
+PD JAN 1
+PY 1986
+VL 88
+IS 2
+BP 209
+EP 12
+DI 10.1007/BF00652242
+PG -197
+WC Animals; Avoidance Learning; drug effects; Bipolar Disorder; etiology; Chlorides; pharmacology; Electroshock; Extinction, Psychological; drug effects; Lithium; pharmacology; Lithium Chloride; Male; Models, Biological; Motor Activity; drug effects; Rats; Rubidium; pharmacology
+UT PubMed:3006112
+PM 3006112
+DA 1986-01-01
+ER
+
+PT J
+AU Strong, DR
+AF Strong, D R
+TI Density-vague population change.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Explicit density-dependence differs from density-vagueness in the sort of  regulation imposed on populations. Explicit density-dependence implies regulation  toward a central equilibrium point, whereas density-vagueness implies population  change away from the two extremes of extinction and immense densities.  Density-vagueness does not much concern regulation within the broad range of  medial densities; it is 'liberal'.
+C1 Donald R. Strong is at the Department of Biological Science, Florida State University, Tallahassee, Florida 32306-2043, USA.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD AUG 1
+PY 1986
+VL 1
+IS 2
+BP 39
+EP 42
+DI 10.1016/0169-5347(86)90071-6
+PG 3
+UT PubMed:21227777
+PM 21227777
+DA 1986-08-01
+ER
+
+PT J
+AU Chesser, RK
+   Baker, RJ
+AF Chesser, Ronald K
+   Baker, Robert J
+TI ON FACTORS AFFECTING THE FIXATION OF CHROMOSOMAL REARRANGEMENTS AND NEUTRAL
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB Computer simulation models were developed to determine which conditions are  favorable for the stochastic fixation of chromosomal mutations within small  isolated demes. The models incorporated biological parameters of litter size,  age-dependent mortality, overlapping generations, potentially varying sex ratios,  and fertility reduction due to meiotic problems when the mutation was present in  a heterozygous condition. Results of the models indicated that random processes  alone may adequately explain the frequency of fixation of chromosomal mutations  under the conditions of a) the number of initial founders is small (5 or 10); b)  there is relatively little fecundity reduction due to meiotic problems; c) the  number of offspring per mating is high. Furthermore, results of our models imply  that fixation of a mutation is unlikely when the number of karyotypic  rearrangements is low and when there is high survivorship of individuals from one  breeding period to the next. However, if bottlenecks involve larger numbers of  individuals (20 or more), few offspring per mating, or substantial reductions in  fecundity, then it is unlikely that fixation by random processes will be adequate  to explain the situations observed in nature. A significant conclusion of these  simulations is that when population size is reduced to five or ten individuals,  the extinction rate may exceed 40% or 30%, respectively.
+C1 The Museum and Department of Biological Sciences, Texas Tech University, Lubbock, TX, 79409.
+   The Museum and Department of Biological Sciences, Texas Tech University, Lubbock, TX, 79409.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD MAY 1
+PY 1986
+VL 40
+IS 3
+BP 625
+EP 632
+DI 10.1111/j.1558-5646.1986.tb00513.x
+PG 7
+UT PubMed:28556325
+PM 28556325
+DA 1986-05-01
+ER
+

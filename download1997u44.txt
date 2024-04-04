@@ -1,0 +1,1355 @@
+PT J
+AU Lounibos, LP
+   Escher, RL
+   Nishimura, N
+   Juliano, SA
+AF Lounibos, L P
+   Escher, R L
+   Nishimura, N
+   Juliano, S A
+TI Long-term dynamics of a predator used for biological control and decoupling from
+SO Oecologia
+LA English
+DT Journal Article
+DE Extinction; Key wordsAedes; Long-term censuses; Seasonality; Weights
+AB We identified, staged and counted the immature stages of mosquitoes from 1,826  censuses (with replacement) of the aquatic contents of ten treeholes surveyed  every 2 weeks between 1978 and 1993. These time series were used to examine the  population dynamics and effect on prey of the predatory mosquito Toxorhynchites  rutilus. The mean annual frequency of occurrence of T. rutilus ranged from 0.02  to 0.67 among holes, and no fourth instars were recovered during a 30-month dry  period. Oviposition and pupation by this species were recorded in all months, but  most commonly in the spring. Overwintering larvae of the predator increased in  weight during the prolonged fourth instar that preceded pupation in the spring.  Time series analyses showed that the presence of a fourth instar T. rutilus  significantly reduced the abundances of late-stage Aedes triseriatus mosquitoes.  Pupal numbers of this prey species were more negatively affected by T. rutilus  than were numbers of fourth instar A. triseriatus. Long-term declines in mean  annual abundance of A. triseriatus prey during 16 years of observations on two  holes were not correlated with increases in the mean annual frequencies of T.  rutilus. Local extinctions of the aquatic stages of A. triseriatus within  treeholes were common, but in most holes not significantly associated with the  presence of T. rutilus, suggesting that predation does not routinely drive  mosquito prey locally extinct in this ecosystem. The decoupling of T. rutilus and  A. triseriatus, as revealed through these complete and long-term censuses, is  contrasted with other reports of generalist predators causing extinctions of  mosquito prey. Discrepancies among reported outcomes probably result from  differences in duration of sampling periods and statistical procedures along with  real differences in the intensity of predation among systems and sites.
+C1 University of Florida, Florida Medical Entomology Laboratory, 200 9th St SE, Vero Beach, FL 32962, USA Fax: 561-778-7205
+   e-mail: LPL@ICON.VERO.UFL.EDU, , , , , ,US.
+   University of Florida, Florida Medical Entomology Laboratory, 200 9th St SE, Vero Beach, FL 32962, USA Fax: 561-778-7205
+   e-mail: LPL@ICON.VERO.UFL.EDU, , , , , ,US.
+   University of Florida, Florida Medical Entomology Laboratory, 200 9th St SE, Vero Beach, FL 32962, USA Fax: 561-778-7205
+   e-mail: LPL@ICON.VERO.UFL.EDU, , , , , ,US.
+   Department of Biological Sciences, Ecology Group, Illinois State University, Normal, IL 61790, USA, , , , , , US.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD JUL 1
+PY 1997
+VL 111
+IS 2
+BP 189
+EP 200
+DI 10.1007/s004420050225
+PG 11
+UT PubMed:28307994
+PM 28307994
+DA 1997-07-01
+ER
+
+PT J
+AU Rosin, CD
+   Belew, RK
+AF Rosin, C D
+   Belew, R K
+TI New methods for competitive coevolution.
+SO Evolutionary computation
+LA English
+DT Journal Article
+AB We consider "competitive coevolution," in which fitness is based on direct  competition among individuals selected from two independently evolving  populations of "hosts" and "parasites." Competitive coevolution can lead to an  "arms race," in which the two populations reciprocally drive one another to  increasing levels of performance and complexity. We use the games of Nim and 3-D  Tic-Tac-Toe as test problems to explore three new techniques in competitive  coevolution. "Competitive fitness sharing" changes the way fitness is measured;  "shared sampling" provides a method for selecting a strong, diverse set of  parasites; and the "hall of fame" encourages arms races by saving good  individuals from prior generations. We provide several different motivations for  these methods and mathematical insights into their use. Experimental comparisons  are done, and a detailed analysis of these experiments is presented in terms of  testing issues, diversity, extinction, arms race progress measurements, and  drift.
+C1 Department of Computer Science and Engineering, University of California, San Diego, La Jolla 92093-0114, USA. crosin@cs.ucsd.edu
+NR 0
+TC 0
+SN 
+EI 1063-656
+J9 Evol Comput
+PD APR 1
+PY 1997
+VL 5
+IS 1
+BP 1
+EP 29
+DI 10.1162/evco.1997.5.1.1
+PG 28
+WC Algorithms; Biological Evolution; Game Theory; Gene Frequency; Genetic Variation; Host-Parasite Interactions; Models, Genetic; Models, Theoretical; Selection, Genetic; Time Factors
+UT PubMed:10021751
+PM 10021751
+DA 1997-04-01
+ER
+
+PT J
+AU Watve, MG
+   Jog, MM
+AF Watve, M G
+   Jog, M M
+TI Epidemic diseases and host clustering: an optimum cluster size ensures maximum
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB The risk of infection is generally believed to increase with gregariousness.  Using a discrete time spatial simulation model we tested the effect of host  clustering on transmission of infection within a population. Over a large  parameter range, an optimum cluster size was observed to ensure maximum  probability of escaping infection. Although the within cluster transmission  increased with cluster size, the between cluster distance increased thereby  decreasing the probability of transmission across clusters. The probability of  stochastic extinction of the pathogen also increased with increasing cluster  size. Thus contrary to the popular belief, clustering can be an effective  strategy to minimize the risk of infections.
+C1 Life Research Foundation, Navi Peth, Pune, India.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD JAN 21
+PY 1997
+VL 184
+IS 2
+BP 165
+EP 9
+DI 10.1006/jtbi.1996.0267
+PG -156
+WC Computer Simulation; Disease Outbreaks; Disease Transmission, Infectious; Host-Parasite Interactions; Humans; Models, Biological; Models, Statistical; Population Density
+UT PubMed:9059596
+PM 9059596
+DA 1997-01-21
+ER
+
+PT J
+AU Lewis, ME
+AF Lewis, M E
+TI Carnivoran paleoguilds of Africa: implications for hominid food procurement
+SO Journal of human evolution
+LA English
+DT Journal Article
+AB Tool-using hominids, as carnivorous animals, would have been part of the various  carnivore guilds present in Plio-Pleistocene Africa. Hominid dietary strategies  must be understood within the larger context of carnivore behavior and ecology,  as carnivorans could have affected the abilities of hominids to procure meat  and/or marrow. The functional anatomy of extant and fossil carnivorans was  examined to infer behaviors in fossil carnivorans that would have impacted on  hominid dietary strategies in terms of carcass availability. Comparisons of guild  structure were carried out to examine changes in carnivoran interactions and  their implications for hominid behavior. Plio-Pleistocene carnivorans engaged in  a wider range of behaviors than modern carnivorans. The sabertoothed felids  Dinofelis and Megantereon probably did not provide much larger carcasses than  modern species. Another sabertooth, Homotherium generated larger carcasses, but  may have disarticulated and transported these carcasses. Fossil representatives  of modern taxa may not have been equivalent ecologically within the carnivoran  guild. Overall, hominids in eastern Africa probably had a greater range of  scavenging opportunities than did those of southern Africa during the  Plio-Pleistocene. Local and continent-wide extinction events in large-bodied  carnivoran guilds from 1 to 2 Ma had a substantial effect on carcass availability  and the risk to hominid scavengers. These structural changes in the carnivore  guild may have provided an opportunity for hominids to widen their niche with  respect to dietary behavior.
+C1 Department of Anatomy, New York College of Osteopathic Medicine, Old Westbury 11568, USA.
+NR 0
+TC 0
+SN 
+EI 0047-248
+J9 J Hum Evol
+PD FEB 1
+PY 1997
+VL 32
+IS 2-3
+BP 257
+EP 88
+DI 10.1006/jhev.1996.0103
+PG -169
+WC Africa; Animals; Biological Evolution; Carnivora; anatomy & histology; Food; Hominidae; physiology; Humans
+UT PubMed:9061559
+PM 9061559
+DA 1997-02-01
+ER
+
+PT J
+AU Nee, S
+   May, RM
+AF Nee, S
+   May, R M
+TI Extinction and the loss of evolutionary history.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Extinction episodes, such as the anthropogenic one currently under way, result in  a pruned tree of life. But what fraction of the underlying evolutionary history  survives when k of n species in a taxon are lost? This is relevant both to how  species loss has translated into a loss of evolutionary history and to assigning  conservation priorities. Here it is shown that approximately 80 percent of the  underlying tree of life can survive even when approximately 95 percent of species  are lost, and that algorithms that maximize the amount of evolutionary history  preserved are not much better than choosing the survivors at random. Given the  political, economic, and social realities constraining conservation biology,  these findings may be helpful.
+C1 Department of Zoology, Oxford University, South Parks Road, Oxford, OX1 3PS, UK. sean.nee@zoo.ox.ac.uk
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD OCT 24
+PY 1997
+VL 278
+IS 5338
+BP 692
+EP 4
+DI 10.1126/science.278.5338.692
+PG -688
+WC Animals; Biological Evolution; Ecosystem; Mathematics; Population Density
+UT PubMed:9381180
+PM 9381180
+DA 1997-10-24
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Biodiversity: past, present, and future.
+SO Journal of paleontology
+LA English
+DT Article
+DE NASA Discipline Exobiology; Non-NASA Center
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0022-336
+J9 J Paleontol
+PD JUL 1
+PY 1997
+VL 71
+IS 4
+BP 533
+EP 9
+DI 10.1017/s0022336000040026
+PG -524
+WC Animals; Biological Evolution; Earth, Planet; Ecosystem; Fossils; Paleontology
+UT PubMed:11540302
+PM 11540302
+DA 1997-07-01
+ER
+
+PT J
+AU Colas, B
+   Olivieri, I
+   Riba, M
+AF Colas, B
+   Olivieri, I
+   Riba, M
+TI Centaurea corymbosa, a cliff-dwelling species tottering on the brink of
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Centaurea corymbosa (Asteraceae) is endemic to a small area (< or = 3 km2), and <  500 individuals reproduce in any given year. Nevertheless, enzyme polymorphism  was found within and among the six local extant populations, the most distant at  2.3 km. Levels of gene flow among populations and seed and pollen dispersal data  indicated very low dispersal capacity. Rarity of long distance dispersal events  coupled with traits such as prolonged juvenile period, monocarpy, and  self-incompatibility precludes the establishment of new populations and thus the  evolution toward colonization ability through increased dispersal rate,  polycarpy, or self-compatibility. The species thus appears to be trapped on an  evolutionary dead-end toward extinction, even though, from a preliminary  introduction experiment, we conclude that several nearby unoccupied sites would  be suitable for the species.
+C1 Conservatoire Botanique National de Porquerolles, Castel Sainte Claire, Hyères, France.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD APR 1
+PY 1997
+VL 94
+IS 7
+BP 3471
+EP 6
+DI 10.1073/pnas.94.7.3471
+PG -3465
+WC Biological Evolution; Genetics, Population; Plants; enzymology; Pollen
+UT PubMed:9096418
+PM 9096418
+DA 1997-04-01
+ER
+
+PT J
+AU Weber, PJ
+   Beck-Sickinger, AG
+AF Weber, P J
+   Beck-Sickinger, A G
+TI Comparison of the photochemical behavior of four different photoactivatable
+SO The journal of peptide research : official journal of the American Peptide
+LA English
+DT Journal Article
+AB The most commonly used photoaffinity labeling probes are compared, which are aryl  azides, aryl diazirines, alpha-diazocarbonyls and benzophenone-derivatives. The  compounds were used under identical conditions and crosslinking efficiency,  influence of water, irradiation requirements, and by-products were investigated.  Using the pentapeptide thymopentin (TP5) as a model system, we synthesized four  analogues by solid-phase peptide synthesis and partially N-terminal modification  to obtain [p-(3-trifluoromethyl)diazirinophenylalanine5]TP5,  [p-benzoylphenylalanine5]TP5, 4-azidobenzoyl-TP5 and  2-diazo-3,3,3-trifluoropropionyl-TP5. The peptides were characterized by HPLC and  ion-spray mass spectroscopy. Irradiation of the peptides with two different  ultraviolet sources was carried out in water, n-propanol and water/n-propanol to  imitate both hydrophobic and hydrophilic peptide/protein-interactions as well as  the influence of the aqueous environment. Analysis of the products with HPLC,  ion-spray MS, HPLC-MS and HPLC-CID-MS revealed that (Tmd)Phe is a highly potent  carbene-precursor, which can be transformed easily into uniform crosslinking  products by smooth photolysis. However, the electrophilic nature of the  intermediate causes a high tendency to react with water molecules. The  4-azidobenzoyl group showed comparable crosslinking efficiency, but the  probability to create non-uniform irradiation products (e.g. through  rearrangement) is higher, whereas the reaction with water is less dominant. In  contrast, Bpa was found to have an extremely low affinity to react with water,  whereas prolonged UV irradiation is needed to get complete rearrangement into a  variety of products. As the absorption band of alpha-diazocarbonyls at around 350  nm possesses a low extinction coefficient, 2-diazo-3,3,3-trifluoropropionyl-TP5  could not be activated at all with the optimized irradiation conditions that we  have chosen for our comparative studies.
+C1 Department of Pharmacy, Swiss Federal Institute of Technology (ETH), Zürich, Switzerland.
+NR 0
+TC 0
+SN 
+EI 1397-002
+J9 J Pept Res
+PD MAY 1
+PY 1997
+VL 49
+IS 5
+BP 375
+EP 83
+DI 10.1111/j.1399-3011.1997.tb00889.x
+PG -292
+WC Adjuvants, Immunologic; Affinity Labels; chemistry; Chromatography, High Pressure Liquid; Photochemistry; Spectrometry, Mass, Secondary Ion; Thymopentin; analogs & derivatives
+UT PubMed:9211218
+PM 9211218
+DA 1997-05-01
+ER
+
+PT J
+AU Courchamp, F
+   Suppo, C
+   Fromont, E
+   Bouloux, C
+AF Courchamp, F
+   Suppo, C
+   Fromont, E
+   Bouloux, C
+TI Dynamics of two feline retroviruses (FIV and FeLV) within one population of cats.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB We present a deterministic model of the dynamics of two microparasites  simultaneously infecting a single host population. Both microparasites are feline  retroviruses, namely Feline Immunodeficiency Virus (FIV) and Feline Leukaemia  Virus (FeLV). The host is the domestic cat Felis catus. The model has been tested  with data generated by a long-term study of several natural cat populations.  Stability analysis and simulations show that, once introduced in a population,  FIV spreads and is maintained, while FeLV can either disappear or persist.  Moreover, introduction of both viruses into the population induces an equilibrium  state for individuals of each different pathological class. The viruses never  induce the extinction of the population. Furthermore, whatever the outcome for  the host population (persistence of FIV only, or of both viruses), the global  population size at the equilibrium state is only slightly lower than it would  have been in the absence of the infections (i.e. at the carrying capacity),  indicating a low impact of the viruses on the population. Finally, the impact of  the diseases examined simultaneously is higher than the sum of the impact of the  two diseases examined separately. This seems to be due to a higher mortality rate  when both viruses infect a single individual.
+C1 UMR CNRS 5558 Biométrie, Génétique et Biologie des Populations, Université Claude Bernard Lyon I, Villeurbanne, France. franck@complex.ucsd.edu
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD JUN 22
+PY 1997
+VL 264
+IS 1383
+BP 785
+EP 94
+DI 10.1098/rspb.1997.0111
+PG -691
+WC Animals; Cats; virology; Feline Acquired Immunodeficiency Syndrome; physiopathology; Immunodeficiency Virus, Feline; isolation & purification; Leukemia Virus, Feline; isolation & purification; Leukemia, Feline; physiopathology; Models, Biological
+UT PubMed:9225475
+PM 9225475
+DA 1997-06-22
+ER
+
+PT J
+AU Roper, TJ
+   Marples, NM
+AF Roper, TJ
+   Marples, NM
+TI Odour and colour as cues for taste-avoidance learning in domestic chicks.
+SO Animal behaviour
+LA English
+DT Journal Article
+AB In addition to being visually conspicuous, many chemically defended insects also  produce olfactants when attacked. These olfactants may constitute 'warning  odours', comparable in their effects to warning colours. This hypothesis was  tested by examining the ability of two odours, almond and vanilla, to act as cues  for avoidance of quinine-flavoured water in domestic chicks, Gallus gallus  domesticusIn experiment 1, chicks were trained to avoid familiar-coloured quinine  solution, novel-coloured solution, or novel-smelling solution. When the novel  smell was almond it enhanced the rate of avoidance learning, as did the novel  colour cue; but vanilla odour had no effect on rate of learning. In experiment 2,  chicks were trained to avoid quinine solution that was paired with a compound cue  involving both colour and odour. They were then tested in extinction with both  cues, either cue alone, or neither cue. When the odour cue was almond it  overshadowed the colour cue: chicks that had learned to avoid almond-smelling  quinine solution of a particular colour subsequently avoided almond-smelling  water and drank water that did not smell of almond, regardless of its colour.  Vanilla odour, by contrast, exerted no control over behaviour when paired with a  colour cue during acquisition. In experiment 3, chicks were trained to  discriminate palatable from quinine-flavoured water when the latter was  distinguished solely by an odour cue. The discrimination was learned more readily  when the cue was almond than when it was vanilla; and a memory test revealed  significant avoidance of almond odour, but not of vanilla, after 24 h. We  conclude that odours can act as discriminative stimuli for taste-avoidance  learning in birds and that they can sometimes exert more powerful control over  behaviour than do visual cues. However, not all odours are equally efficacious.  The results are discussed in relation to aposematism and mimicry.
+C1 School of Biological Sciences, University of Sussex
+NR 0
+TC 0
+SN 
+EI 0003-347
+J9 Anim Behav
+PD JUN 1
+PY 1997
+VL 53
+IS 6
+BP 1241
+EP 50
+DI 10.1006/anbe.1996.0384
+PG -1191
+UT PubMed:9236020
+PM 9236020
+DA 1997-06-01
+ER
+
+PT J
+AU Newman, D
+   Pilson, D
+AF Newman, Dara
+   Pilson, Diana
+TI INCREASED PROBABILITY OF EXTINCTION DUE TO DECREASED GENETIC EFFECTIVE POPULATION
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Clarkia pulchella; conservation biology; genetic bottleneck; genetic drift; genetic effective population size; inbreeding depression; population genetic variation; population survival
+AB We established replicated experimental populations of the annual plant Clarkia  pulchella to evaluate the existence of a causal relationship between loss of  genetic variation and population survival probability. Two treatments differing  in the relatedness of the founders, and thus in the genetic effective population  size (N(e) ), were maintained as isolated populations in a natural environment.  After three generations, the low N(e) treatment had significantly lower  germination and survival rates than did the high N(e) treatment. These lower  germination and survival rates led to decreased mean fitness in the low N(e)  populations: estimated mean fitness in the low N(e) populations was only 21% of  the estimated mean fitness in the high N(e) populations. This inbreeding  depression led to a reduction in population survival: at the conclusion of the  experiment, 75% of the high N(e) populations were still extant, whereas only 31%  of the low N(e) populations had survived. Decreased genetic effective population  size, which leads to both inbreeding and the loss of alleles by genetic drift,  increased the probability of population extinction over that expected from  demographic and environmental stochasticity alone. This demonstrates that the  genetic effective population size can strongly affect the probability of  population persistence.
+C1 Division of Biological Sciences, University of Montana, Missoula, Montana, 59812.
+   School of Biological Sciences, 348 Manter Hall, University of Nebraska, Lincoln, Nebraska, 68588-0118.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD APR 1
+PY 1997
+VL 51
+IS 2
+BP 354
+EP 362
+DI 10.1111/j.1558-5646.1997.tb02422.x
+PG 8
+UT PubMed:28565367
+PM 28565367
+DA 1997-04-01
+ER
+
+PT J
+AU Rampino, MR
+   Haggerty, BM
+   Pagano, TC
+AF Rampino, M R
+   Haggerty, B M
+   Pagano, T C
+TI A unified theory of impact crises and mass extinctions: quantitative tests.
+SO Annals of the New York Academy of Sciences
+LA English
+DT Journal Article
+AB Several quantitative tests of a general hypothesis linking impacts of large  asteroids and comets with mass extinctions of life are possible based on  astronomical data, impact dynamics, and geological information. The waiting times  of large-body impacts on the Earth derived from the flux of Earth-crossing  asteroids and comets, and the estimated size of impacts capable of causing,  large-scale environmental disasters, predict the impacts of objects > or = 5 km  in diameter (> or = 10(7) Mt TNT equivalent) could be sufficient to explain the  record of approximately 25 extinction pulses in the last 540 Myr, with the 5  recorded major mass extinctions related to impacts of the largest objects of > or  = 10 km in diameter (> or = 10(8) Mt events). Smaller impacts (approximately  10(6) Mt), with significant regional environmental effects, could be responsible  for the lesser boundaries in the geologic record. Tests of the "kill curve"  relationship for impact-induced extinctions based on new data on extinction  intensities, and several well-dated large impact craters, also suggest that major  mass extinctions require large impacts, and that a step in the kill curve may  exist at impacts that produce craters of approximately 100 km diameter, smaller  impacts being capable of only relatively weak extinction pulses. Single impact  craters less than approximately 60 km in diameter should not be associated with  detectable global extinction pulses (although they may explain stage and zone  boundaries marked by lesser faunal turnover), but multiple impacts in that size  range may produce significant stepped extinction pulses. Statistical tests of the  last occurrences of species at mass-extinction boundaries are generally  consistent with predictions for abrupt or stepped extinctions, and several  boundaries are known to show "catastrophic" signatures of environmental disasters  and biomass crash, impoverished postextinction fauna and flora dominated by  stress-tolerant and opportunistic species, and gradual ecological recovery and  radiation of new taxa. Isotopic and other geochemical signatures are also  generally consistent with the expected after-effects of catastrophic impacts.  Seven of the recognized extinction pulses seem to be associated with concurrent  (in some cases multiple) stratigraphic impact markers (e.g., layers with high  iridium, shocked minerals, microtektites), and/or large, dated impact craters.  Other less well-studied crisis intervals show elevated iridium, but well below  that of the K/T spike, which might be explained by low-Ir impactors, ejecta  blowoff, or sedimentary reworking and dilution of impact signatures. The best  explanation for a possible periodic component of approximately 30 Myr in mass  extinctions and clusters of impacts is the pulselike modulation of the comet flux  associated with the solar system's periodic passage through the plane of the  Milky Way Galaxy. The quantitative agreement between paleontologic and  astronomical data suggests an important underlying unification of the processes  involved.
+C1 Earth and Environmental Science Program, New York University, 10003, USA.
+NR 0
+TC 0
+SN 
+EI 0077-892
+J9 Ann N Y Acad Sci
+PD MAY 30
+PY 1997
+VL 822
+IS 
+BP 403
+EP 31
+DI 10.1111/j.1749-6632.1997.tb48358.x
+PG -372
+WC Biological Evolution; Carbon Isotopes; Disasters; Earth, Planet; Evolution, Planetary; Iridium; Meteoroids; Models, Theoretical; Paleontology; Periodicity
+UT PubMed:11543121
+PM 11543121
+DA 1997-05-30
+ER
+
+PT J
+AU Costentin, J
+AF Costentin, J
+TI [From gene to behavior, a new way for elaborating new psychotropic agents].
+SO Bulletin de l'Academie nationale de medecine
+LA fre
+DT Review
+AB Traditionally, the screening of new neuropsychotropic agents started from the  observation of behavioural effects resulting from the administration of a new  chemical. Then, one tried to precise its mechanism of action. Since about a  decade the way for discovering psychotropic agents tends to be inverse. It starts  from the characterization of genes and investigates on their expression products  which are new biological targets. Ligands for these targets are developed and  then the effects resulting from their administration are considered. In this new  strategy, we will consider the cloning of genes and their expression in cultured  cells; the knock out of these genes by homologous recombination; the extinction  of gene expression by antisense oligodeoxynucleotides; the concentration of  behavioural phenotypes by selective breeding.
+C1 Unité de Neuropsychopharmacologie Expérimentale, URA CNRS 1969, Faculté de Médecine et Pharmacie de Rouen, Saint-Etienne-du-Rouvray.
+NR 0
+TC 0
+SN 
+EI 0001-407
+J9 Bull Acad Natl Med
+PD JUN 1
+PY 1997
+VL 181
+IS 6
+BP 
+EP 
+DI 
+PG 0
+WC Behavior; physiology; Cloning, Molecular; Gene Expression Regulation; physiology; Humans; Psychotropic Drugs; therapeutic use
+UT PubMed:9453832
+PM 9453832
+DA 1997-06-01
+ER
+
+PT J
+AU Malm, WC
+   Gebhart, KA
+AF Malm, William C
+   Gebhart, Kristi A
+TI Source Apportionment of Sulfur and Light Extinction Using Receptor Modeling
+SO Journal of the Air & Waste Management Association (1995)
+LA English
+DT Journal Article
+AB Most visibility impairment is associated with sulfates, carbonaceous material,  and soil-related material.1 Therefore, any visibility source apportionment scheme  must address both secondary and primary aerosols. The chemical mass balance (CMB)  formalism is usually used to apportion primary particles. It relies on known  physical and chemical characteristic aerosols, such as ratios of tracer species,  natural or man-made, at the receptors and sources to attribute aerosols to single  sources or source types. CMB modeling apportions aerosol species on a  sampling-period- by-sampling-period basis. However, if the data set contains an  adequate number of samples, regressional techniques, along with less restrictive  assumptions, can be used to estimate apportionment of secondary as well as  primary species. In a regressional approach, the secondary species is the  dependent variable, while the independent variables are tracers that are unique  to a single source or group of sources. A key assumption associated with this  approach is that the chemical species used as tracers must be uniquely emitted by  non-overlapping groups of sources. These techniques were successfully used to  develop a semiquantitative apportionment of particulate sulfur, total sulfur  (particle plus gaseous sulfur), absorption, and extinction to source categories  at receptor sites near the Grand Canyon using data gathered in a special study  called Project MOHAVE (Measurement of Haze and Visual Effects). Regression models  were used to develop links between trace elements and visibility variables and  then to link the trace elements to source categories using CMB analysis. As part  of the CMB analysis, a new technique was developed for verifying and/or  extracting source profiles from the ambient data set. About 50% of the measured  particle sulfur is attributable to coal-fired power plants during summer and  winter months, while in the winter months, about 50% of the particle sulfur may  be associated with primary sulfur emissions from burning activity and urban  emissions during the summer. A variable that is responsible for over 30% of the  extinction, babs, is predominately associated with burning activity during the  winter and to burning, transportation, and suspended soil during the summer  months.
+C1 a National Park Service , CIRA, Colorado State University , Fort Collins , Colorado.
+   a National Park Service , CIRA, Colorado State University , Fort Collins , Colorado.
+NR 0
+TC 0
+SN 2162-290
+EI 
+J9 J Air Waste Manag Assoc
+PD MAR 1
+PY 1997
+VL 47
+IS 3
+BP 250
+EP 268
+DI 10.1080/10473289.1997.10464445
+PG 18
+UT PubMed:29081286
+PM 29081286
+DA 1997-03-01
+ER
+
+PT J
+AU Saban, S
+   Hugdahl, K
+   Stormark, KM
+   Hammerborg, D
+AF Saban, S
+   Hugdahl, K
+   Stormark, K M
+   Hammerborg, D
+TI Left hemisphere advantage for classical conditioning to auditory verbal CSs:
+SO Psychophysiology
+LA English
+DT Journal Article
+AB The effects of brain laterality, or hemispheric asymmetry, on electrodermal  classical conditioning during both attended and nonattended stimulus conditions  were studied. Participants were conditioned to consonant-vowel (CV) syllables  during an acquisition, or learning, phase of the experiment. During a subsequent  extinction phase, the conditioned stimuli (CS) were presented in a dichotic mode  of presentation. Half of the participants attended to the left ear (right  hemisphere) during the extinction phase and the other half of the participants  attended to the right ear (left hemisphere). The results showed effects of  conditioning for all participants during the acquisition phase. During dichotic  extinction, the left hemisphere group showed remaining learning effects in both  the attended and nonattended conditions, whereas the right hemisphere group  demonstrated conditioning only in the attended condition.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0048-577
+J9 Psychophysiology
+PD SEP 23
+PY 1997
+VL 34
+IS 5
+BP 566
+EP 71
+DI 10.1111/j.1469-8986.1997.tb01743.x
+PG -495
+WC Acoustic Stimulation; Adult; Conditioning, Classical; physiology; Dichotic Listening Tests; Extinction, Psychological; physiology; Female; Functional Laterality; physiology; Galvanic Skin Response; physiology; Humans; Male
+UT PubMed:9299911
+PM 9299911
+DA 1997-09-23
+ER
+
+PT J
+AU Hoppe, FM
+AF Hoppe, FM
+TI Coupling and the Non-degeneracy of the Limit in Some Plasmid Reproduction Models.
+SO Theoretical population biology
+LA English
+DT Journal Article
+AB We settle a problem raised by Seneta and Tavare concerning the normalized limits  of several plasmid reproduction models. We also show that for countably  infinitely many type branching processes the extinction probability and the mass  at the origin of the supercritical limit need not be the same, in contrast to the  finite type case. Copyright 1997 Academic Press
+C1 Department of Mathematics and Statistics, McMaster University, 1280 Main Street West, Hamilton, Ontario, L8S 4K1, Canada
+NR 0
+TC 0
+SN 1096-032
+EI 
+J9 Theor Popul Biol
+PD AUG 1
+PY 1997
+VL 52
+IS 1
+BP 27
+EP 31
+DI 10.1006/tpbi.1997.1308
+PG 4
+UT PubMed:9356321
+PM 9356321
+DA 1997-08-01
+ER
+
+PT J
+AU Gibbons, A
+AF Gibbons, A
+TI Did birds sail through the K-T extinction with flying colors?
+SO Science (New York, N.Y.)
+LA English
+DT News
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD FEB 21
+PY 1997
+VL 275
+IS 5303
+BP 1068
+EP 1068
+DI 10.1126/science.275.5303.1068
+PG 0
+WC Animals; Base Composition; Base Sequence; Biological Evolution; Birds; genetics; DNA, Mitochondrial; genetics; Evolution, Molecular; Fossils; Genes; Mutation; Phylogeny
+UT PubMed:9054008
+PM 9054008
+DA 1997-02-21
+ER
+
+PT J
+AU Pierpaoli, W
+   Lesnikov, V
+AF Pierpaoli, W
+   Lesnikov, V
+TI Theoretical considerations on the nature of the pineal 'ageing clock'.
+SO Gerontology
+LA English
+DT Review
+AB The models developed in our laboratory demonstrate that ageing initiates and  progresses in the pineal gland. However, the ageing postponing effects of pineal  grafting into older recipients cannot be explained by a simple maintenance and/or  normalization of the night melatonin synthesis and release. We propose here that  the pineal gland monitors and regulates, via its control of neuroendocrine  function, the maintenance of 'self-identity' and the capacity of the immune  system to recognize and react against any noxious, endogenous or exogenous agent.  Senescence is characterized by the extinction of this central pineal function.  The progressive decline of the self-recognition capacity distinguishes the  typical diseases of ageing expressed as emergence of peripheral desynchronization  and autoimmune, anaplastic, neoplastic and degenerative processes. Our approaches  aim at a prevention and/or restoration of central pineal functions.
+C1 Biancalana-Masera Foundation for the Aged, Neuroimmunomodulation Laboratory, Ancona, Italy.
+NR 0
+TC 0
+SN 
+EI 0304-324
+J9 Gerontology
+PD JAN 1
+PY 1997
+VL 43
+IS 1-2
+BP 20
+EP 5
+DI 10.1159/000213833
+PG -15
+WC Aging; physiology; Animals; Biological Clocks; physiology; Pineal Gland; physiology
+UT PubMed:8996827
+PM 8996827
+DA 1997-01-01
+ER
+
+PT J
+AU Douglas, DA
+   Shi, YE
+   Sang, QA
+AF Douglas, D A
+   Shi, Y E
+   Sang, Q A
+TI Computational sequence analysis of the tissue inhibitor of metalloproteinase
+SO Journal of protein chemistry
+LA English
+DT Review
+AB The tissue inhibitor of metalloproteinase (TIMP) family regulates extracellular  matrix turnover and tissue remodeling by forming tight-binding inhibitory  complexes with matrix metalloproteinases (MMPs). MMPs and TIMPs have been  implicated in many normal and pathological processes, such as morphogenesis,  development, angiogenesis, and cancer metastasis. This minireview provides  information that would aid in classification of the TIMP family and in  understanding the similarities and differences among TIMP members according to  the physical data, primary structure, and homology values. Calculations of  molecular weight, isoelectric point values, and molar extinction coefficients are  reported. This study also compares sequence similarities and differences among  the TIMP members through calculations of homology within their individual loop  regions and the mature region of the molecule. Lastly, this report examines  structure-function relationships of TIMPs. Thorough knowledge of TIMP primary and  tertiary structure would facilitate the uncovering of the molecular mechanisms  underlying metalloproteinase, inhibitory activities and biological functions of  TIMPs.
+C1 Department of Chemistry, Florida State University, Tallahassee 32306-3006, USA.
+NR 0
+TC 0
+SN 
+EI 0277-803
+J9 J Protein Chem
+PD MAY 1
+PY 1997
+VL 16
+IS 4
+BP 237
+EP 55
+DI 10.1023/a:1026348808069
+PG -182
+WC Algorithms; Amino Acid Sequence; Animals; Glycoproteins; chemistry; Humans; Matrix Metalloproteinase Inhibitors; Molecular Sequence Data; Multigene Family; Sequence Analysis; methods; Sequence Homology, Amino Acid; Tissue Inhibitor of Metalloproteinases
+UT PubMed:9188064
+PM 9188064
+DA 1997-05-01
+ER
+
+PT J
+AU Janke, A
+   Arnason, U
+AF Janke, A
+   Arnason, U
+TI The complete mitochondrial genome of Alligator mississippiensis and the
+SO Molecular biology and evolution
+LA English
+DT Journal Article
+AB The complete mitochondrial genome of the alligator, Alligator mississippiensis,  was sequenced. The size of the molecule is 16,642 nucleotides. Previously  reported rearrangements of tRNAs in crocodile mitochondrial genomes were  confirmed and, relative to mammals, no other deviations of gene order were  observed. The analysis of protein-coding genes of the alligator showed an  evolutionary rate that is roughly the same as in mammals. Thus, the evolutionary  rate in the alligator is faster than that in birds as well as that in  cold-blooded vertebrates. This contradicts hypotheses of constant body  temperatures or high metabolic rate being correlated with elevated molecular  evolutionary rates. It is commonly acknowledged that birds are the closest living  relatives to crocodiles. Birds and crocodiles represent the only archosaurian  survivors of the mass extinction at the Cretaceous/Tertiary boundary. On the  basis of mitochondrial protein-coding genes, the Haemothermia hypothesis, which  defines birds and mammals as sister groups and thus challenges the traditional  view, could be rejected. Maximum-likelihood branch length data of amino acid  sequences suggest that the divergence between the avian and crocodilian lineages  took place at approximately equal to 254 MYA.
+C1 Department of Genetics, University of Lund, Sweden. axel.janke@gen.lu.se
+NR 0
+TC 0
+SN 
+EI 0737-403
+J9 Mol Biol Evol
+PD DEC 24
+PY 1997
+VL 14
+IS 12
+BP 1266
+EP 72
+DI 10.1093/oxfordjournals.molbev.a025736
+PG -1194
+WC Alligators and Crocodiles; genetics; Animals; Birds; genetics; Chromosome Mapping; DNA, Mitochondrial; genetics; Evolution, Molecular; Genome; Mammals; genetics; Phylogeny
+UT PubMed:9402737
+PM 9402737
+DA 1997-12-24
+ER
+
+PT J
+AU Loeffler, M
+   Bratke, T
+   Paulus, U
+   Li, YQ
+   Potten, CS
+AF Loeffler, M
+   Bratke, T
+   Paulus, U
+   Li, Y Q
+   Potten, C S
+TI Clonality and life cycles of intestinal crypts explained by a state dependent
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB The organization and control of stem cells is a key issue in epithelial cell  biology. The small intestinal murine crypt is a useful tissue to study such  problems since stem cells are known to be located at specific positions at the  bottom of the crypt where they are self maintaining. Recent data suggest, that  (1) the number of active stem cells in a crypt can fluctuate, (2) the immediate  progeny of a single stem cell can replace other stem cells eventually leading to  monoclonality and (3) the life cycle of crypts may be linked to stem cell  dynamics. It is the objective of this paper to suggest a stochastic  state-dependent model of stem cell and crypt growth which can explain and-link  these phenomena into one comprehensive framework. Monte Carlo simulations are  performed to show consistently with available data. The model explains the size  distribution of small intestinal crypts in steady state, the observations of stem  cell fluctuations and monoclonality conversion, recovery of the crypt population  after moderate damage and the rate of crypt fission and extinction. The key  assumption of this model is an autoregulatory control of stem cell growth.
+C1 Institut für Medizinische Informatik, Statistik und Epidemiologie, Universität Leipzig, Germany.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD MAY 7
+PY 1997
+VL 186
+IS 1
+BP 41
+EP 54
+DI 10.1006/jtbi.1996.0340
+PG 13
+WC Animals; Cell Cycle; physiology; Clone Cells; Epithelial Cells; Homeostasis; Intestines; cytology; Mice; Models, Biological; Stem Cells; physiology
+UT PubMed:9176636
+PM 9176636
+DA 1997-05-07
+ER
+
+PT J
+AU Yakubu, AA
+AF Yakubu, A A
+TI Prey dominance in discrete predator-prey systems with a prey refuge.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB The effects of a prey refuge in a multiprey discrete system with predation is  studied. We demonstrate the stable coexistence of species that would otherwise  exclude each other without a prey refuge. With a prey refuge, we show that an  endangered prey not only recovers from the brink of extinction, but also  dominates the system. We invent notions of dominance that guarantee the  extinction of all the dominated prey in the system. With the extermination of  most of its prey, the predator either coexists with the dominant prey or is  driven to extinction. By using a precise mathematical definition, we obtain that  a prey with a sufficiently high carrying capacity persists in a predator-prey  system with a prey refuge.
+C1 Department of Mathematics, Howard University, Washington, DC 20059, USA.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD SEP 1
+PY 1997
+VL 144
+IS 2
+BP 155
+EP 78
+DI 10.1016/s0025-5564(97)00026-6
+PG -77
+WC Animals; Mathematics; Models, Biological; Population Dynamics; Predatory Behavior
+UT PubMed:9258004
+PM 9258004
+DA 1997-09-01
+ER
+
+PT J
+AU Gunther, LM
+   Miller, RR
+   Matute, H
+AF Gunther, L M
+   Miller, R R
+   Matute, H
+TI CSs and USs: what's the difference?
+SO Journal of experimental psychology. Animal behavior processes
+LA English
+DT Journal Article
+AB Differences in processing representations of conditioned and unconditioned  stimuli (CSs and USs) may result from either their temporal order in training  (i.e., CSs precede USs) or the greater biological significance of USs. The CS-  and US-preexposure effects were used to probe this question. These effects are  similar except that context extinction between preexposure and training more  readily attenuates the US- than the CS-preexposure effect. In Experiments 1, 2,  and 5, context extinction following preexposure to the stimulus that later served  as Event 1 in Event 1-->Event 2 pairings alleviated the response deficit due to  Event 1 preexposure if Event 1 was biologically significant. In Experiments 3 and  4, context extinction alleviated the response deficit due to Event 2 preexposure  if Event 2 was biologically significant. Thus, biological significance and not  temporal order determines how a representation will be processed.
+C1 Department of Psychology, State University of New York at Binghamton, New York 13902-6000, USA.
+NR 0
+TC 0
+SN 
+EI 0097-740
+J9 J Exp Psychol Anim Behav Process
+PD JAN 1
+PY 1997
+VL 23
+IS 1
+BP 15
+EP 30
+DI 10.1037//0097-7403.23.1.15
+PG 15
+WC Acoustic Stimulation; Animals; Behavior, Animal; physiology; Conditioning, Psychological; physiology; Female; Male; Rats; Rats, Sprague-Dawley
+UT PubMed:9008860
+PM 9008860
+DA 1997-01-01
+ER
+
+PT J
+AU Krauss, SL
+AF Krauss, S L
+TI Low genetic diversity in Persoonia mollis (Proteaceae), a fire-sensitive shrub
+SO Heredity
+LA English
+DT Journal Article
+AB Allozyme frequency data were used to estimate hierarchical levels of genetic  diversity within and among the nine subspecies of the morphologically variable  shrub Persoonia mollis R. Br. (Proteaceae). This species is a fire-sensitive  component of the fire-prone sclerophyllous vegetation of south- eastern  Australia. The total gene diversity (H(T)=0.139) within P. mollis was less than  half that typically found within angiosperm species. However, P. mollis was  typical of angiosperms in the way its gene diversity was distributed, with 78.3  per cent of the total gene diversity found within populations. Of the 21.7 per  cent found among populations, 17.9 per cent was attributed to differences among  subspecies and only 3.8 per cent attributed to differences among populations  within subspecies. Heterozygosity (H(E)) within populations varied 10-fold from  0.023-0.206, with a comparatively low mean over all populations of 0.109. A  significant deficit of heterozygotes for the outbreeding P. mollis is consistent  with the 'heterozygosity paradox', is caused by a Wahlund effect, and suggests an  average genetic neighbourhood size of between 3 and 60 plants. Explanations for  these patterns and the weak correlation of these data with morphological  variation are discussed. It is suggested that the high frequency and haphazard  occurrence of fire plays a major role in affecting the levels and distribution of  genetic diversity within P. mollis, and probably within other fire-sensitive  plant species also occurring in fire-prone habitats, through relatively frequent  localized extinction and subsequent recolonization.
+C1 Department of Biological Sciences, University of Wollongong, Northfields Avenue, Wollongong, NSW 2522, Australia. siegy.krauss@anu.edu.au
+NR 0
+TC 0
+SN 
+EI 0018-067
+J9 Heredity (Edinb)
+PD JAN 1
+PY 1997
+VL 78
+IS Pt 1
+BP 41
+EP 9
+DI 10.1038/sj.hdy.6880930
+PG -32
+UT PubMed:16397636
+PM 16397636
+DA 1997-01-01
+ER
+
+PT J
+AU Kelm, M
+   Dahmann, R
+   Wink, D
+   Feelisch, M
+AF Kelm, M
+   Dahmann, R
+   Wink, D
+   Feelisch, M
+TI The nitric oxide/superoxide assay. Insights into the biological chemistry of the
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Nitric oxide (NO) is a widespread signaling molecule involved in the regulation  of an impressive spectrum of diverse cellular functions. Superoxide anions (O-2)  not only contribute to the localization of NO action by rapid inactivation, but  also give rise to the formation of the potentially toxic species peroxynitrite  (ONOO-) and other reactive nitrogen oxide species. The chemistry and biological  effect of ONOO- depend on the relative rates of formation of NO and O-2. However,  the simultaneous quantification of NO and O-2 has not been achieved yet due to  their high rate of interaction, which is almost diffusion-controlled. A sensitive  spectrophotometric assay was developed for the simultaneous quantification of NO  and O-2 in aqueous solution that is based on the NO-induced oxidation of  oxyhemoglobin (oxyHb) to methemoglobin and the O-2-mediated reduction of  ferricytochrome c. Using a photodiode array photometer, spectral changes of  either reaction were analyzed, and appropriate wavelengths were identified for  the simultaneous monitoring of absorbance changes of the individual reactions.  oxyHb oxidation was followed at 541.2 nm (isosbestic wavelength for the  conversion of ferri- to ferrocytochrome c), and ferricytochrome c reduction was  followed at 465 nm (wavelength at which absorbance changes during oxyHb to  methemoglobin conversion were negligible), using 525 nm as the isosbestic point  for both reactions. At final concentrations of 20 microM ferricytochrome c and 5  microM oxyHb, the molar extinction coefficients were determined to be  epsilon465-525 = 7.3 mM-1 cm-1 and epsilon541.2-525 = 6.6 mM-1 cm-1,  respectively. The rates of formation of either NO or O-2 determined with the  combined assay were virtually identical to those measured with the classical  oxyhemoglobin and cytochrome c assays, respectively. The assay was successfully  adapted to either kinetic or end point determination in a cuvette or continuous  on-line measurement of both radicals in a flow-through system. Maximal assay  sensitivity was approximately 25 nM for NO and O-2. Cross-reactivity with ONOO-  was controlled for by the presence of L-methionine. Generation of NO from the NO  donor spermine diazeniumdiolate could be reliably quantified in the presence and  absence of low, equimolar, and high flux rates of O-2. Likewise, O-2  enzymatically generated from hypoxanthine/xanthine oxidase could be specifically  quantified with no difference in absolute rates in the presence or absence of  concomitant NO generation at different flux rates. Nonenzymatic decomposition of  3-morpholinosydnonimine hydrochloride (100 microM) in phosphate buffer, pH 7.4  (37 degrees C), was found to be associated with almost stoichiometric production  of NO and O-2 (1.24 microM NO/min and 1.12 microM O-2/min). Assay selectivity and  applicability to biological systems were demonstrated in cultured endothelial  cells and isolated aortic tissue using calcium ionophore and NADH for stimulation  of NO and O-2 formation, respectively. Based on these data, a computer model was  elaborated that successfully predicts the reaction of NO and O-2 with hemoprotein  and may thus help to further elucidate these reactions. In conclusion, the nitric  oxide/superoxide assay allows the specific, sensitive, and simultaneous detection  of NO and O-2. The simulation model developed also allows the reliable prediction  of the reaction between NO and O-2 as well as their kinetic interaction with  other biomolecules. These new analytical tools will help to gain further insight  into the physiological and pathophysiological significance of the formation of  these radicals in cell homeostasis.
+C1 Department of Medicine, Division of Cardiology, Pulmonary Diseases, and Angiology, Heinrich Heine University, Moorenstrasse 5, D-40225 Düsseldorf,Federal Republic of Germany.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD APR 11
+PY 1997
+VL 272
+IS 15
+BP 9922
+EP 32
+DI 10.1074/jbc.272.15.9922
+PG -9890
+WC Cytochrome c Group; metabolism; Hydrogen Peroxide; metabolism; Methemoglobin; metabolism; Models, Chemical; Nitric Oxide; analysis; Oxyhemoglobins; metabolism; Spectrophotometry, Atomic; Superoxides; analysis
+UT PubMed:9092531
+PM 9092531
+DA 1997-04-11
+ER
+
+PT J
+AU Neff, WD
+AF Neff, William D
+TI The Denver Brown Cloud Studies from the Perspective of Model Assessment Needs and
+SO Journal of the Air & Waste Management Association (1995)
+LA English
+DT Journal Article
+AB The 1987-1988 Denver Brown Cloud Study addressed Denver's severe winter brown  cloud episodes in a three-month field study followed by the application of a  receptor-oriented chemical mass balance modeling method to apportion light  extinction to primary emissions. However, this modeling method did not apportion  light extinction from secondary particulates to individual sources. Recently, an  independent meteorological and chemical modeling study, driven by the need to  apportion secondary particles, reported on the initial numerical simulation of  visibility for two days during the winter of 1987-1988. The MM4 meteorological  model used in this recent study was operated in a four-dimensional,  data-assimilation mode using standard, low-resolution synoptic observations and  analyses. The chemical and aerosol numerical modeling system, which uses the MM4  meteorological model numerical output, was derived from the family of models  developed for the National Acid Precipitation Assessment Program. This paper  summarizes the meteorological features underlying the Denver brown cloud and  assesses the consistency of the reported numerical simulations with the detailed  meteorological observations available for the same periods. We found that the  meteorological model, in its current form and range of application, does not  address some of the critical mesoscale structures responsible for the initiation  and maintenance of the brown cloud episodes studied nor, under some  circumstances, does it properly predict boundary layer properties compared with  observations. In addition, cloud systems and surface moisture fluxes are not  addressed by the model, although many chemical processes depend on the presence  of additional moisture. Comparison between model results and observations suggest  that moist processes, particularly during the initiation phase of episodes,  should be a critical issue for future experimental and modeling exercises. In  addition, the limited model results available, when evaluated against the  detailed boundary layer observations of the Brown Cloud Study, suggest that model  uncertainties in the treatment of local terrain influence, boundary layer depth,  and humidity may have obscured model overestimates of optical extinction.  Finally, we suggest that although models will remain limited in many aspects,  their use in combination with detailed observations of meteorology and chemistry  will prove a valuable tool in the assessment of urban visibility issues.
+C1 a NOAA/ERL/Environmental Technology Laboratory , Boulder , Colorado.
+NR 0
+TC 0
+SN 2162-290
+EI 
+J9 J Air Waste Manag Assoc
+PD MAR 1
+PY 1997
+VL 47
+IS 3
+BP 269
+EP 285
+DI 10.1080/10473289.1997.10464447
+PG 16
+UT PubMed:29081290
+PM 29081290
+DA 1997-03-01
+ER
+
+PT J
+AU Walsby, AE
+   Hayes, PK
+   Boje, R
+   Stal, LJ
+AF Walsby, Anthony E
+   Hayes, Paul K
+   Boje, Rolf
+   Stal, Lucas J
+TI The selective advantage of buoyancy provided by gas vesicles for planktonic
+SO The New phytologist
+LA English
+DT Journal Article
+DE Aphanizomenon sp.; Baltic Sea; Phytoplankton buoyancy; cyanobacteria; gas vesicles
+AB Observations were made on the vertical distribution of colonies of Aphanizomenon  flos-aquae for 9 d at a drift-station east of Bornholm Island in the Baltic Sea.  The buoyant colonies were dispersed in the upper layers of the water column  during periods of wind-induced mixing but floated up during calm periods. From  measurements of the vertical light extinction, surface irradiance and the  photosynthesis versus irradiance curve, calculations were made of the changes in  the daily integral of photosynthesis with respect to time and depth throughout  the water column. From these calculations it is demonstrated that net  photosynthesis by the population of Aphanizomenon flos-aquae increased nearly  threefold by floating up after a deep mixing event. It is estimated that,  averaged over alternating periods of calm and mixing, the buoyancy provided by  gas vesicles in this organism will result in a nearly twofold increase in  photosynthesis. A quantitative analysis has been made of the relationship of the  daily integral of photosynthesis by the Aphanizomenon population with the mean  depth of the population in the water column and the daily insolation. The  analysis shows that the integral decreases linearly with respect to mean depth.
+C1 School of Biological Sciences, University of Bristol, Woodland Road, Bristol BS8 1UG, UK.
+   School of Biological Sciences, University of Bristol, Woodland Road, Bristol BS8 1UG, UK.
+   Institut für Meereskunde an der Universität Kiel, Düsternbrooker Weg 20, D-24105 Kiel 1, Germany.
+   Laboratory of Microbiology, University of Amsterdam, Nieuwe Achtergracht 127, 1018 WS Amsterdam, The Netherlands.
+NR 0
+TC 0
+SN 1469-813
+EI 
+J9 New Phytol
+PD JUL 1
+PY 1997
+VL 136
+IS 3
+BP 407
+EP 417
+DI 10.1046/j.1469-8137.1997.00754.x
+PG 10
+UT PubMed:33863010
+PM 33863010
+DA 1997-07-01
+ER
+
+PT J
+AU Cossairt, JD
+   Grossman, NL
+   Marshall, ET
+AF Cossairt, J D
+   Grossman, N L
+   Marshall, E T
+TI Assessment of dose equivalent due to neutrinos.
+SO Health physics
+LA English
+DT Journal Article
+AB Neutrinos are present in the natural environment and are also produced by  particle accelerators. A recent hypothesis has also been proposed that asserts  that ionizing radiation due to neutrinos from certain astronomical events may  have led to the extinction of some biological species. Thus, it is of interest to  be able to estimate the dose equivalent due to these weakly interacting  particles. Presented here are methods for estimating the dose equivalent due to  neutrinos over a broad domain of energy, examples of such calculations, and an  assessment of the postulated role of neutrinos in biological extinctions. It is  concluded that the dose equivalent due to neutrinos from natural sources and from  present-day accelerators is inconsequential and the postulated role of neutrinos  in biological extinctions is highly improbable.
+C1 Fermi National Accelerator Laboratory, Batavia, IL 60510, USA.
+NR 0
+TC 0
+SN 
+EI 0017-907
+J9 Health Phys
+PD DEC 31
+PY 1997
+VL 73
+IS 6
+BP 894
+EP 8
+DI 10.1097/00004032-199712000-00002
+PG -886
+WC Calcium; Carbon; Electrons; Elementary Particles; Hydrogen; Models, Theoretical; Nitrogen; Oxygen; Particle Accelerators; Phosphorus; Radiation Dosage; Scattering, Radiation
+UT PubMed:9373066
+PM 9373066
+DA 1997-12-31
+ER
+
+PT J
+AU Lim, MJ
+   Patton, WF
+   Lopez, MF
+   Spofford, KH
+   Shojaee, N
+   Shepro, D
+AF Lim, M J
+   Patton, W F
+   Lopez, M F
+   Spofford, K H
+   Shojaee, N
+   Shepro, D
+TI A luminescent europium complex for the sensitive detection of proteins and
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB Certain metal complexes selectively interact with proteins immobilized on  solid-phase membrane supports to form brightly colored products. Detecting the  absorbance of colorimetric stains is limited by the molar extinction coefficient  of the product, however. Development of light-emitting complexes should improve  detection sensitivity, but fluorescent labels described to date modify free  amino, carboxyl, or sulfhydryl groups often rendering proteins unsuitable for  further analysis. Bathophenanthroline disulfonate (BPSA) forms a luminescent  europium (Eu) complex that reversibly binds to proteins and nucleic acids.  Analysis of charge-fractionated carrier ampholytes and synthetic polymers of  different L-amino acids indicates that protein binding is chiefly through  protonated alpha- and epsilon-amino side chains. Proteins or nucleic acids  immobilized to a nitrocellulose or polyvinyl difluoride membrane by  electroblotting, dot-blotting, or vacuum slot-blotting are incubated with the  lanthanide complex at acidic pH. Membranes are rinsed, illuminated with UV light  and the phosphorescence of BPSA-Eu is measured at 590 to 615 nm using a CCD  camera or spectrofluorimeter. The linear dynamic range of the stain is 476- and  48-fold for protein and DNA, respectively. A strong chelating agent such as  ethylenediaminetetraacetic acid combined with a shift to basic pH (PH 8-10)  elutes BPSA-Eu from the membrane. The reversible nature of the protein staining  procedure allows for subsequent biochemical analyses, such as immunoblotting,  lectin staining, and mass spectrometry.
+C1 Boston University, Biological Sciences Department, Massachusetts 02215, USA.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD FEB 15
+PY 1997
+VL 245
+IS 2
+BP 184
+EP 95
+DI 10.1006/abio.1996.9961
+PG -89
+WC Animals; Biochemistry; methods; Collodion; chemistry; DNA; analysis; Edetic Acid; chemistry; Electrophoresis; methods; Europium; chemistry; Evaluation Studies as Topic; Hydrogen-Ion Concentration; Immunoblotting; Luminescent Measurements; Mass Spectrometry; Membranes, Artificial; Nucleic Acids; analysis; Phenanthrolines; chemistry; Proteins; analysis; RNA; analysis; Sensitivity and Specificity; Staining and Labeling; methods
+UT PubMed:9056210
+PM 9056210
+DA 1997-02-15
+ER
+
+PT J
+AU Over, DJ
+   Conaway, CA
+   Katz, DJ
+   Goodfellow, WD
+   Gregoire, DC
+AF Over, D J
+   Conaway, C A
+   Katz, D J
+   Goodfellow, W D
+   Gregoire, D C
+TI Platinum group element enrichments and possible chondritic Ru:Ir across the
+SO Palaeogeography, palaeoclimatology, palaeoecology
+LA English
+DT Journal Article
+AB The Frasnian-Famennian boundary is recognized as the culmination of a global mass  extinction in the Late Devonian. In western New York State the boundary is a  distinct horizon within a pyritic black shale bed of the upper Hanover Shale  defined by the first occurrence of Palmatolepis triangularis in the absence of  Frasnian conodonts. The boundary is characterized by a minor disconformity marked  by a lag concentration of conodonts. Iridium at the boundary is 0.11-0.24 ng/g,  two to five times background levels of <0.05 ng/g; other Ir enrichments of 0.38  ng/g and 0.49 ng/g occur within 50 cm of the conodont-constrained boundary.  Numerous Ir enrichments in the boundary interval suggest extraterrestrial  accretion and platinum group element (PGE) concentration at disconformities, or  mobilization and concentration in organic-rich/pyritic-rich laminations from  cosmic or terrestrial sources. PGE ratios of Pt/Pd and Ku/Ir at the boundary  horizon approximate chondritic ratios and are suggestive of an unaltered  extraterrestrial source. These values do not conclusively establish a single  extraterrestrial impact as the ultimate cause of the Frasnian-Famennian mass  extinction, especially given the presence of similar Ir enrichments elsewhere in  the section and the absence at the boundary of microtektites and shocked mineral  grains.
+C1 Department of Geological Sciences, SUNY College at Geneseo 14454, USA.
+NR 0
+TC 0
+SN 
+EI 0031-018
+J9 Palaeogeogr Palaeoclimatol Palaeoecol
+PD AUG 1
+PY 1997
+VL 132
+IS 1-4
+BP 399
+EP 410
+DI 10.1016/s0031-0182(97)00064-3
+PG 11
+WC Animals; Biological Evolution; Earth, Planet; Evolution, Planetary; Fossils; Geologic Sediments; analysis; Invertebrates; Iridium; Meteoroids; New York; Paleontology; Palladium; Platinum; Rubidium
+UT PubMed:11541728
+PM 11541728
+DA 1997-08-01
+ER
+
+PT J
+AU Sisler, JF
+   Malm, WC
+AF Sisler, J F
+   Malm, W C
+TI Characteristics of winter and summer aerosol mass and light extinction on the
+SO Journal of the Air & Waste Management Association (1995)
+LA English
+DT Journal Article
+AB This paper focuses on the spatial variability of fine mass and extinction budgets  taking data from the winter and summer months of 1992. The study area included  southern California, southern Nevada, southern Utah, Arizona, and parts of New  Mexico. Two types of monitoring sites were operated: intensive and secondary or  satellite. At the intensive sites, all major aerosol species were measured as  well as extinction or scattering. At the satellite sites, trace elements  including sulfur and hydrogen, absorption, and gravimetric fine mass were  measured. Where all aerosol species are measured, the spatial variability of  extinction budgets is examined assuming an externally mixed aerosol. At the  satellite sites, an approximated fine mass budget is derived and the variability  of these budgets in space and time are examined. This effort was part of a study  called Project MOHAVE (Measurement of Haze and Visual Effects) carried out with  the principal objective of understanding the relative contribution of regional  and local sources to visibility impairment on the Colorado Plateau and  specifically, the Grand Canyon. Generally, the contribution of sulfates,  organics, and absorption to extinction are about equal at 20-30% with the coarse  mass fraction being about 10-20%. The one exception is in southern California  where the nitrate contribution tends to be higher in the winter than summer.  During the summer, concentration gradients tend to be spread out across the study  area, while during the winter months, variability in concentration and budgets  tends to occur on a smaller scale.
+C1 CIRA, Colorado State University, Fort Collins, USA.
+NR 0
+TC 0
+SN 
+EI 1096-224
+J9 J Air Waste Manag Assoc
+PD MAR 1
+PY 1997
+VL 47
+IS 3
+BP 317
+EP 30
+DI 10.1080/10473289.1997.10464450
+PG -287
+WC Aerosols; chemistry; Air Pollutants; analysis; Environmental Monitoring; Nitrates; analysis; Photochemistry; Seasons; Soil; analysis; Southwestern United States; Sulfates; analysis
+UT PubMed:9216254
+PM 9216254
+DA 1997-03-01
+ER
+
+PT J
+AU Reed, KE
+AF Reed, K E
+TI Early hominid evolution and ecological change through the African
+SO Journal of human evolution
+LA English
+DT Journal Article
+AB The habitats in which extinct hominids existed has been a key issue in addressing  the origin and extinction of early hominids, as well as in understanding various  morphological and behavioral adaptations. Many researchers postulated that early  hominids lived in an open savanna (Dart, 1925; Robinson, 1963; Howell, 1978).  However, Vrba (1985, 1988) has noted that a major global climatic and  environmental shift from mesic, closed to xeric, open habitats occurred in the  late African Pliocene (approximately 2.5 m.y.a.), thus implying that the earliest  hominids existed in these mesic, wooded environs. This climatic shift is also  suggested to have contributed to a pulse in speciation events with turnovers of  many bovid and possibly hominid species. Previous environmental reconstructions  of hominid localities have concentrated on taxonomic identities and taxonomic  uniformitarianism to provide habitat reconstructions (e.g., Vrba, 1975; Shipman &  Harris, 1988). In addition, relative abundances of species are often used to  reconstruct a particular environment, when in fact taphonomic factors could be  affecting the proportions of taxa. This study uses the morphological adaptations  of mammalian assemblages found with early hominids to reconstruct the habitat  based on each species' ecological adaptations, thus minimizing problems  introduced by taxonomy and taphonomy. Research presented here compares east and  south African Plio-Pleistocene mammalian fossil assemblages with 31 extant  mammalian communities from eight different habitat types. All communities are  analyzed through ecological diversity methods, that is, each species trophic and  locomotor adaptations are used to reconstruct an ecological community and derive  its vegetative habitat. Reconstructed habitats show that Australopithecus species  existed in fairly wooded, well-watered regions. Paranthropus species lived in  similar environs and also in more open regions, but always in habitats that  include wetlands. Homo is the first hominid to exist in areas of fairly open,  arid grassland. This change from closed to open habitats occurs gradually from  about 4 m.y.a. until about 2 m.y.a. when there is a major increase in arid and  grazing adapted mammals. Therefore, the appearance of open savannas do not appear  to have influenced the origination or adaptations of the earliest hominids, but  could have contributed to their demise. As Stanley (1992) hypothesized, Homo  species appear the first to be adapted to open, arid environments.
+C1 Institute of Human Origins, Berkeley, California 94710, USA.
+NR 0
+TC 0
+SN 
+EI 0047-248
+J9 J Hum Evol
+PD FEB 1
+PY 1997
+VL 32
+IS 2-3
+BP 289
+EP 322
+DI 10.1006/jhev.1996.0106
+PG 33
+WC Africa; Animals; Biological Evolution; Ecology; Fossils; Hominidae; physiology; Humans
+UT PubMed:9061560
+PM 9061560
+DA 1997-02-01
+ER
+
+PT J
+AU Taylor, CM
+AF Taylor, Christopher M
+TI Fish species richness and incidence patterns in isolated and connected stream
+SO Oecologia
+LA English
+DT Journal Article
+DE Key words Colonization ; Sp ecies-volume relationship ;  Extinction ;  Nestedness ;  Stream fishes
+AB I tested the effects of pool size and spatial position (upstream or downstream)  on fish assemblage attributes in isolated and connected pools in an upland  Oklahoma stream, United States. I hypothesized that there would be fundamental  differences between assemblages in these two pool types due to the presence or  absence of colonization opportunities. Analyses were carried out at three  ecological scales: (1) the species richness of pool assemblages, (2) the species  composition of pool assemblages, and (3) the responses of individual species.  There were significant species-volume relationships for isolated and connected  pools. However, the relationship was weaker and there were fewer species, on  average, in isolated pools. For both pool types, species incidences were  significantly nested such that species-poor pools tended to be subsets of  species-rich pools, a common pattern that ultimately results from  species-specific differences in colonization ability and/or extinction  susceptibility. To examine the potential importance of these two processes in  nestedness patterns in both pool types, I made the following two assumptions: (1)  probability of extinction should decline with increasing pool size, and (2)  probability of immigration should decline in an upstream direction (increasing  isolation). When ordered by pool volume, only isolated pools were significantly  nested suggesting that these assemblages were extinction-driven. When ordered by  spatial position, only connected pools were significantly nested (more species  downstream) suggesting that differences in species-specific dispersal abilities  were important in structuring these assemblages. At the individual-species level,  volume was a significant predictor of occurrence for three species in isolated  pools. In connected pools, two species showed significant position effects, one  species showed a pool volume effect, and one species showed pool volume and  position effects. These results demonstrate that pool size and position within a  watershed are important determinants of fish species assemblage structure, but  their importance varies with the colonization potential of the pools. Isolated  pool assemblages are similar to the presumed relaxed faunas of montane forest  fragments and land bridge islands, but at much smaller space and time scales.
+C1 Department of Biological Sciences, Mississippi State University, Mississippi State, MS 39762-5759, USA fax: 601-325-7939, e-mail: ctaylor@ra.msstate.edu, , ,, , , US.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD MAY 1
+PY 1997
+VL 110
+IS 4
+BP 560
+EP 566
+DI 10.1007/s004420050196
+PG 6
+UT PubMed:28307251
+PM 28307251
+DA 1997-05-01
+ER
+
+PT J
+AU Hauge, A
+AF Hauge, A
+TI [Diversity of life--and the seventh great mass extinction].
+SO Tidsskrift for den Norske laegeforening : tidsskrift for praktisk medicin, ny
+LA nor
+DT Journal Article
+C1 Fysiologisk institutt, Oslo.
+NR 0
+TC 0
+SN 
+EI 0029-200
+J9 Tidsskr Nor Laegeforen
+PD JAN 10
+PY 1997
+VL 117
+IS 1
+BP 76
+EP 81
+DI 
+PG 5
+WC Animals; Animals, Wild; Biological Evolution; Ecology; Environmental Pollution; Insecta; Plants; Species Specificity
+UT PubMed:9064816
+PM 9064816
+DA 1997-01-10
+ER
+
+PT J
+AU Fraguedakis-Tsolis, S
+   Hauffe, HC
+   Searle, JB
+AF Fraguedakis-Tsolis, S
+   Hauffe, H C
+   Searle, J B
+TI Genetic distinctiveness of a village population of house mice: relevance to
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB A population of house mice, Mus musculus domesticus, from the village of Migiondo  was found to be genetically distinct from nearby populations in Upper Valtellina  (Italian Alps). At the supernatant malic enzyme locus, Mod1, the only alleles  found in Migiondo (c and n2) were virtually absent from the other populations in  the valley, which were characterized by allele a. The extraordinary genetic  distinctiveness of the Migiondo population is apparently the result of genetic  drift, perhaps coupled with a founder event, and attests to the existence of  nearly impenetrable geographic barriers around the village isolating it from  other settlements only a few hundred metres away. The Mod1 features of the house  mice in Migiondo are reminiscent of the characteristics of house mice on maritime  islands. The genetic confirmation of the geographic isolation of Migiondo is of  interest because there is evidence that this village may have been the site of  recent speciation and extinction events. The data are also of significance given  the phenomenal chromosomal variation in house mice from the vicinity of the Alps.  It has frequently been proposed that genetic drift/founder events are of  importance in the fixation of chromosomal rearrangements; this study provides the  first direct evidence for their occurrence in alpine mouse populations.
+C1 Section of Animal Biology, University of Patras, Greece.
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD MAR 22
+PY 1997
+VL 264
+IS 1380
+BP 355
+EP 60
+DI 10.1098/rspb.1997.0051
+PG -295
+WC Alleles; Animals; Biological Evolution; Chromosomes; Genetics, Population; Genotype; Italy; Malate Dehydrogenase; genetics; Mice; genetics; Mice, Inbred C57BL; Molecular Biology
+UT PubMed:9107050
+PM 9107050
+DA 1997-03-22
+ER
+
+PT J
+AU Cooper, A
+   Penny, D
+AF Cooper, A
+   Penny, D
+TI Mass survival of birds across the Cretaceous-Tertiary boundary: molecular
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The extent of terrestrial vertebrate extinctions at the end of the Cretaceous is  poorly understood, and estimates have ranged from a mass extinction to limited  extinctions of specific groups. Molecular and paleontological data demonstrate  that modern bird orders started diverging in the Early Cretaceous; at least 22  avian lineages of modern birds cross the Cretaceous-Tertiary boundary. Data for  several other terrestrial vertebrate groups indicate a similar pattern of  survival and, taken together, favor incremental changes during a Cretaceous  diversification of birds and mammals rather than an explosive radiation in the  Early Tertiary.
+C1 School of Biological Sciences, Victoria University of Wellington, Wellington, New Zealand. alan.cooper@bioanth.ox.ac.uk
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD FEB 21
+PY 1997
+VL 275
+IS 5303
+BP 1109
+EP 13
+DI 10.1126/science.275.5303.1109
+PG -1096
+WC Animals; Base Sequence; Biological Evolution; Birds; genetics; Evolution, Molecular; Fossils; Genes; Genes, mos; Mammals; genetics; Mitochondria; genetics; Molecular Sequence Data; Phylogeny; RNA, Ribosomal; genetics
+UT PubMed:9027308
+PM 9027308
+DA 1997-02-21
+ER
+
+PT J
+AU Perticone, P
+   Gensabella, G
+   Cozzi, R
+AF Perticone, P
+   Gensabella, G
+   Cozzi, R
+TI Damage proneness induced by genomic DNA demethylation in mammalian cells
+SO Mutagenesis
+LA English
+DT Journal Article
+AB Variations in the genomic DNA methylation level have been shown to be an  epigenetic inheritable modification affecting, among other targets, the sister  chromatid exchange (SCE) rate in mammalian cells in vitro. The inheritable  increase in SCE rate in affected cell populations appears as a puzzling  phenomenon in view of the well established relation between SCE and both  mutagenesis and carcinogenesis. In the present work we demonstrate that, in a  treated cell population, demethylation could be responsible for the inheritable  induction of damage proneness affecting both damage induction and repair. Normal  and ethionine or azacytidine treated Chinese hamster ovary cells, subclone K1  (CHO-K1), were challenged with UV light (UV) or mitomycin-C (MMC) at different  times from the demethylating treatment. The SCE rate was measured with two main  objects in view: (i) the induction of synergism or additivity in combined  treatments, where mutagen (UV or MMC) pulse is supplied from 0 to 48 h after the  end of the demethylating treatment; and (ii) the pattern of damage extinction,  for the duration of up to six cell cycles after the end of the combined  (demethylating agent + mutagen) treatment. Results indicate both a synergism in  SCE induction by mutagens in demethylated cells even if supplied up to four cell  cycles after the end of the demethylation treatment and a delay in recovery of  induced damage, compared with normally methylated cells. These data are discussed  in the light of the supposed mechanism of SCE increase and of the possible  biological significance in terms of mutagenesis and carcinogenesis.
+C1 Centro di Genetica Evoluzionistica del CNR, Dipartimento di Genetica e Biologia Molecolare, Università La Sapienza, Roma, Italy.
+NR 0
+TC 0
+SN 
+EI 0267-835
+J9 Mutagenesis
+PD JUL 1
+PY 1997
+VL 12
+IS 4
+BP 259
+EP 64
+DI 10.1093/mutage/12.4.259
+PG -195
+WC Animals; Antimetabolites; pharmacology; Azacitidine; pharmacology; CHO Cells; drug effects; Carcinogens; pharmacology; Cricetinae; DNA Damage; drug effects; DNA Methylation; drug effects; Drug Synergism; Ethionine; pharmacology; Mitomycin; pharmacology; Mutagens; pharmacology; Nucleic Acid Synthesis Inhibitors; pharmacology; Sister Chromatid Exchange; Ultraviolet Rays
+UT PubMed:9237771
+PM 9237771
+DA 1997-07-01
+ER
+
+PT J
+AU Gadda, G
+   Edmondson, RD
+   Russell, DH
+   Fitzpatrick, PF
+AF Gadda, G
+   Edmondson, R D
+   Russell, D H
+   Fitzpatrick, P F
+TI Identification of the naturally occurring flavin of nitroalkane oxidase from
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Nitroalkane oxidase from Fusarium oxysporum catalyzes the oxidation of  nitroalkanes to aldehydes with production of nitrite and hydrogen peroxide. The  UV-visible absorbance spectrum of the purified enzyme shows a single absorption  peak at 336 nm with an extinction coefficient of 7.4 mM-1 cm-1. Upon denaturation  of the enzyme at pH 7.0, a stoichiometric amount of FAD is released. The spectral  properties of the enzyme as isolated are consistent with an N(5) adduct of the  flavin. This is not due to a covalent linkage with the protein, since the free  flavin adduct can be isolated from the enzyme at pH 2.1. The free flavin adduct  shows an absorbance spectrum with a lambdamax at 346 nm (10.7 mM-1 cm-1) and is  not fluorescent. Under alkaline conditions the free adduct decays, yielding FAD;  the rate of this process is pH-dependent with a pKa of 7.4. Adduct decay is also  observed with the native enzyme; in this case, however, the rate of decay is  160-fold slower (at pH 8.0) and not dependent on pH. During this process a large  increase in enzymatic activity ( approximately 26-fold at pH 7.0) is observed,  the rate of which is equal to the rate of flavin adduct conversion to FAD. Thus,  the native flavin adduct is not active but can be converted to FAD, the active  form of the flavin. Maximal activation is pH- and FAD-dependent; two groups with  pKa values of 5.65 +/- 0. 25 and 8.75 +/- 0.05 must be unprotonated and  protonated, respectively. The m/z- of the free flavin adduct is 103.0645 higher  than that of FAD, as determined by matrix-assisted laser desorption ionization  time-of-flight mass spectrometry. This corresponds to a molecule of nitrobutane  linked to FAD. A mechanism is proposed for the formation in vivo of the  nitrobutyl-FAD of nitroalkane oxidase.
+C1 Department of Biochemistry and Biophysics, Texas A & M University, College Station, Texas 77843-2128, USA.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD FEB 28
+PY 1997
+VL 272
+IS 9
+BP 5563
+EP 70
+DI 10.1074/jbc.272.9.5563
+PG -5493
+WC Circular Dichroism; Dioxygenases; Ethane; analogs & derivatives; Flavin-Adenine Dinucleotide; metabolism; Flavins; chemistry; Fusarium; enzymology; Hydrogen-Ion Concentration; Mass Spectrometry; Nitroparaffins; metabolism; Oxygenases; chemistry; Protein Conformation; Spectrophotometry, Atomic; Spectrophotometry, Ultraviolet
+UT PubMed:9038163
+PM 9038163
+DA 1997-02-28
+ER
+
+PT J
+AU Otto, SP
+   Barton, NH
+AF Otto, S P
+   Barton, N H
+TI The evolution of recombination: removing the limits to natural selection.
+SO Genetics
+LA English
+DT Journal Article
+AB One of the oldest hypotheses for the advantage of recombination is that  recombination allows beneficial mutations that arise in different individuals to  be placed together on the same chromosome. Unless recombination occurs, one of  the beneficial alleles is doomed to extinction, slowing the rate at which  adaptive mutations are incorporated within a population. We model the effects of  a modifier of recombination on the fixation probability of beneficial mutations  when beneficial alleles are segregating at other loci. We find that modifier  alleles that increase recombination do increase the fixation probability of  beneficial mutants and subsequently hitchhike along as the mutants rise in  frequency. The strength of selection favoring a modifier that increases  recombination is proportional to lambda(2)S delta r/r when linkage is tight and  lambda(2)S3 delta r/N when linkage is loose, where lambda is the beneficial  mutation rate per genome per generation throughout a population of size N, S is  the average mutant effect, r is the average recombination rate, and delta r is  the amount that recombination is modified. We conclude that selection for  recombination will be substantial only if there is tight linkage within the  genome or if many loci are subject to directional selection as during periods of  rapid evolutionary change.
+C1 Department of Zoology, University of British Columbia, Vancouver, Canada. otto@zoology.ubc.ca
+NR 0
+TC 0
+SN 
+EI 0016-673
+J9 Genetics
+PD OCT 23
+PY 1997
+VL 147
+IS 2
+BP 879
+EP 906
+DI 10.1093/genetics/147.2.879
+PG 27
+WC Biological Evolution; Genetic Linkage; Models, Genetic; Mutation; Recombination, Genetic; Selection, Genetic
+UT PubMed:9335621
+PM 9335621
+DA 1997-10-23
+ER
+
+PT J
+AU Gill, TJ 3rd
+AF Gill, T J 3rd
+TI Genetic factors in reproduction and their evolutionary significance.
+SO American journal of reproductive immunology (New York, N.Y. : 1989)
+LA English
+DT Article
+AB PROBLEM: The reproductive process is a major driving force in human evolution. An  evolutionary perspective was brought to bear on some aspects of reproduction and  its aberrations, and, conversely, some of the insights of modern reproductive  genetics were used to investigate problems in evolution. METHOD: The data used  were obtained from the literature in evolution, anthropology, archeology,  linguistics, and genetics. RESULTS: The evolutionary line leading to modern  humans diverged from that leading to the chimpanzees approximately 5-7 million  years ago (Mya). Archaic Homo sapiens emerged ca. 0.3 Mya, and modern Homo  sapiens and the development of language ca. 0.1 Mya; thus, modern humans occupy  approximately 2% of the evolutionary history of the hominid line. During all of  this time, the ancestors of modern humans were migratory hunter-gatherers. It was  only during the Neolithic transition ca. 0.01 Mya (approximately 0.2% of hominid  evolutionary history) that agriculture was developed, and with it a settled  lifestyle that allowed a more stable existence and the development of a different  reproductive pattern. Various estimates indicate that the human population  increased from 0.05 million at the time of the emergence of modern Homo sapiens  to 6,000 million at the present time (120,000-fold increase). CONCLUSIONS: These  evolutionary considerations were used to explore three areas: (1) the extinction  of the Neanderthals, who coexisted for ca. 65,000 years with modern humans; (2)  the relatively low and stable rate of human conceptions (20-35% of ova fertilized  naturally or fertilized in vitro); and (3) the long postnatal period required for  the full maturation of the immune response. From these considerations, a broad  view of the human reproductive process was obtained that may provide some insight  into the rationale for the development of effective reproductive technologies.
+C1 Department of Pathology, University of Pittsburgh, School of Medicine, PA 15261, USA.
+NR 0
+TC 0
+SN 
+EI 1046-740
+J9 Am J Reprod Immunol
+PD JAN 1
+PY 1997
+VL 37
+IS 1
+BP 7
+EP 16
+DI 10.1111/j.1600-0897.1997.tb00187.x
+PG 9
+WC Animals; Biological Evolution; Humans; Reproduction; genetics
+UT PubMed:9138455
+PM 9138455
+DA 1997-01-01
+ER
+
+PT J
+AU Adamson, NJ
+   Reynolds, EC
+AF Adamson, N J
+   Reynolds, E C
+TI Relationship between degree of casein hydrolysis and phosphopeptide release.
+SO The Journal of dairy research
+LA English
+DT Journal Article
+AB In an approach to develop a commercial-scale process for the production of casein  phosphopeptides containing the cluster sequence-SerP-SerP-SerP-Glu-Glu-, we have  studied the relationship between casein hydrolysis and phosphopeptide release.  The degrees of hydrolysis (DH) of casein using Novo trypsin PTN 3.0 S and  pancreatin 4NF independently, at enzyme to substrate (E:S) ratios of 1:50-1:1600  (by weight), were determined using the pH-stat method. Casein phosphopeptides  (CPP) were selectively precipitated using Ca2+ and ethanol from the  acid-clarified hydrolysates. The precipitates were analysed by high performance  capillary electrophoresis to calculate individual phosphopeptide yields based on  extinction coefficients of the purified peptides. Individual peptides were  purified by reversed-phase HPLC and anion-exchange FPLC and characterized by  MALDI-TOF mass spectrometry and amino acid sequence analysis. For both enzymes,  lowering the E:S ratio resulted in reductions in the DH and the release of the  CPP, and an increase in peptide chain length. The longer chain length offset the  reduction in release such that the gravimetric yields of CPP preparations  remained relatively constant. For Novo trypsin the highest yields of the major  cluster peptides (beta-casein(CN)f(1-25), alpha s1-CNf(59-79), alpha  s2-CNf(1-21), alpha s2-CNf(46-70) and related peptides) in the selective  precipitates were obtained at a casein DH of 17%. At lower DH values (9-15%),  there was a decrease in yield of the peptides derived from alpha s1-CN and alpha  s2-CN while the yield of the beta-CN-derived cluster peptides remained relatively  constant. The CPP produced using pancreatin were found to be truncated at all E:S  ratios, relative to the tryptic CPP, owing to higher levels of chymotryptic and  carboxypeptidase activities in pancreatin. The highest yields of the truncated  forms of the major cluster peptides using pancreatin were obtained at a casein DH  of 19-23%.
+C1 Biochemistry and Molecular Biology Unit, School of Dental Science, University of Melbourne, Vic, Australia.
+NR 0
+TC 0
+SN 
+EI 0022-029
+J9 J Dairy Res
+PD DEC 24
+PY 1997
+VL 64
+IS 4
+BP 505
+EP 14
+DI 10.1017/s0022029997002483
+PG -491
+WC Amino Acid Sequence; Calcium; Caseins; metabolism; Chemical Precipitation; Chromatography, High Pressure Liquid; Ethanol; Hydrolysis; Kinetics; Mass Spectrometry; Pancreatin; metabolism; Peptide Fragments; metabolism; Phosphopeptides; metabolism; Tosylphenylalanyl Chloromethyl Ketone; Trypsin; metabolism
+UT PubMed:9403765
+PM 9403765
+DA 1997-12-24
+ER
+
+PT J
+AU Priyadarsini, KI
+AF Priyadarsini, K I
+TI Free radical reactions of curcumin in membrane models.
+SO Free radical biology & medicine
+LA English
+DT Journal Article
+AB Free radical reactions of curumin, a lipid soluble antioxidant from turmeric  (Curcuma longa), have been studied with a variety of oxidants using TX 100  micelle as a model membrane. The phenoxyl radicals of curcumin generated by one  electron oxidizing azide radicals in acetonitrile-water mixture and TX 100  micelles show very similar spectral behavior. However, in membrane models the  radical lifetimes and the molar extinction coefficients are significantly  different from the homogeneous solutions. Micellized curcumin reacts with  haloperoxyl radicals, superoxide, and lipid peroxyl radicals with rate constants  of 5 X 10(3), 4.6 X 10(4), and 5.3 X 10(5) M-1s-1, respectively. Curcumin derived  phenoxyl radicals decay by radical-radical reactions in homogeneous solutions,  while in the micelles, radical decay is mostly first order when the average  occupancy of the micelle is less than 1. Implications of these results in  evaluating curcumin as an antioxidant is discussed.
+C1 Chemistry Division, Bhabha Atomic Research Centre, Trombay, Mumbai, India.
+NR 0
+TC 0
+SN 
+EI 0891-584
+J9 Free Radic Biol Med
+PD JAN 1
+PY 1997
+VL 23
+IS 6
+BP 838
+EP 43
+DI 10.1016/s0891-5849(97)00026-9
+PG -795
+WC Azides; chemistry; Curcumin; chemistry; Free Radicals; chemistry; Hydrocarbons, Halogenated; chemistry; Kinetics; Linoleic Acid; chemistry; Membranes, Artificial; Micelles; Models, Biological; Octoxynol; chemistry; Phenols; chemistry; Superoxides; chemistry
+UT PubMed:9378362
+PM 9378362
+DA 1997-01-01
+ER
+
+PT J
+AU Frankham, R
+AF Frankham, R
+TI Do island populations have less genetic variation than mainland populations?
+SO Heredity
+LA English
+DT Journal Article
+AB Island populations are much more prone to extinction than mainland populations.  The reasons for this remain controversial. If inbreeding and loss of genetic  variation are involved, then genetic variation must be lower on average in island  than mainland populations. Published data on levels of genetic variation for  allozymes, nuclear DNA markers, mitochondrial DNA, inversions and quantitative  characters in island and mainland populations were analysed. A large and highly  significant majority of island populations have less allozyme genetic variation  than their mainland counterparts (165 of 202 comparisons), the average reduction  being 29 per cent. The magnitude of differences was related to dispersal ability.  There were related differences for all the other measures. Island endemic species  showed lower genetic variation than related mainland species in 34 of 38 cases.  The proportionate reduction in genetic variation was significantly greater in  island endemic than in nonendemic island populations in mammals and birds, but  not in insects. Genetic factors cannot be discounted as a cause of higher  extinction rates of island than mainland populations.
+C1 Key Centre for Biodiversity and Bioresources, Macquarie University, Sydney, NSW, Australia. rfrankha@rna.bio.mq.edu.ac
+NR 0
+TC 0
+SN 
+EI 0018-067
+J9 Heredity (Edinb)
+PD MAR 1
+PY 1997
+VL 78 ( Pt 3)
+IS 
+BP 311
+EP 27
+DI 10.1038/hdy.1997.46
+PG -284
+WC Animals; Biological Evolution; Genetic Variation; Geography; Models, Genetic; Plants
+UT PubMed:9119706
+PM 9119706
+DA 1997-03-01
+ER
+
+PT J
+AU Hughes, JB
+   Daily, GC
+   Ehrlich, PR
+AF Hughes, J B
+   Daily, G C
+   Ehrlich, P R
+TI Population diversity: its extent and extinction.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Genetically distinct populations are an important component of biodiversity. This  work estimates the number of populations per area of a sample of species from  literature on population differentiation and the average range area of a species  from a sample of distribution maps. This yields an estimate of about 220  populations per species, or 1.1 to 6.6 billion populations globally. Assuming  that population extinction is a linear function of habitat loss, approximately  1800 populations per hour (16 million annually) are being destroyed in tropical  forests alone.
+C1 Department of Biological Sciences, Stanford University, Stanford, CA 94305-5020, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD OCT 24
+PY 1997
+VL 278
+IS 5338
+BP 689
+EP 92
+DI 10.1126/science.278.5338.689
+PG -597
+WC Animals; Ecosystem; Genetics, Population; Mathematics; Plants; Polymorphism, Restriction Fragment Length; Population Density
+UT PubMed:9381179
+PM 9381179
+DA 1997-10-24
+ER
+

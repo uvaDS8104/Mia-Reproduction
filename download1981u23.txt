@@ -1,0 +1,681 @@
+PT J
+AU Nöhammer, G
+   Desoye, G
+AF Nöhammer, G
+   Desoye, G
+TI The cytospectrophotometrical determination of proteins by the tetrazonium
+SO Acta histochemica
+LA English
+DT Journal Article
+AB The protein content of identical samples from 5 different cell types (lymphocytes  of the thymus and of the bursa of FABRICIUS of the chicken, EHRLICH ascites tumor  cells, YOSHIDA ascites tumor cells, and rat liver cells) have been determined  both macroscopically, by the method of LOWRY (1951), and microspectrometrically,  by the tetrazonium coupling method of NOHAMMER (1978). In all the different cell  types, a strong correlation is shown between the protein values determined by the  2 methods. By comparing the values thus measured, a conversion factor has been  obtained such that an extinction of 0.4235, determined microspectrometrically,  corresponds to a protein mass of 1 pgm. To test the accuracy of the  microspectrometric method of protein determination at the lowest extreme point,  the protein content of rat liver mitochondria has been measured and a mean value  of 0.239 pgm protein per mitochondrion obtained. This corresponds well with the  value of 0.233 pgm per mitochondrion as determined macroscopically by GEAR  (1972).
+NR 0
+TC 0
+SN 
+EI 0065-128
+J9 Acta Histochem
+PD JAN 1
+PY 1981
+VL 68
+IS 1
+BP 103
+EP 10
+DI 10.1016/S0065-1281(81)80062-1
+PG -93
+WC Animals; Bursa of Fabricius; analysis; Carcinoma, Ehrlich Tumor; analysis; Chickens; Diazonium Compounds; Female; Histocytochemistry; Liver; analysis; Lymphocytes; analysis; Male; Mice; Mitochondria, Liver; analysis; Neoplasm Proteins; analysis; Proteins; analysis; Rats; Sarcoma, Experimental; analysis; Spectrophotometry; Staining and Labeling; Thymus Gland; analysis
+UT PubMed:6167122
+PM 6167122
+DA 1981-01-01
+ER
+
+PT J
+AU Allen, RD
+   Allen, NS
+   Travis, JL
+AF Allen, R D
+   Allen, N S
+   Travis, J L
+TI Video-enhanced contrast, differential interference contrast (AVEC-DIC)
+SO Cell motility
+LA English
+DT Journal Article
+AB A new method called Allen Video-enhanced Contrast, Differential Interference  Contrast (AVEC-DIC) microscopy is shown to be sufficiently sensitive to detect  several new features of microtubule-related motility in the reticulopodial  network of the foraminifer, Allogromia. The method takes advantage of the  variable gain and offset features of a binary video camera to operate the DIC  microscope under conditions highly favorable for video imaging, but in which the  optical image is virtually invisible to the eye yet retains its full information  when viewed by a suitable video camera. The improvements are made possible by  setting a dé Senarmont compensator to lambda/9-lambda/4 at maximal working  aperture of internally corrected planapochromatic objectives. Under these  conditions, the offset feature of the video camera can reject so much stray light  from the instrument and specimen that contrast compares favorably with that  observed in high-extinction images, and polarizing rectifiers offer scarcely any  advantage. Freed from the constraints of the light-limited conditions of DIC  microscopy, video images can be recorded 60 times per second, or over 1,000 times  the rate of photomicrographs at comparable magnifications under high-extinction  conditions. Application of this method to the reticulopodial network of  Allogromia has shown that cytoplasmic organelles are translocated only in contact  with single microtubules or bundles of microtubules, and that these organelles  fail to move when separated from microtubules. Microtubules themselves undergo  both axial translatory ("sliding") and lateral "zipping and unzipping" movements  that have been suggested to occur during mitosis and other biological processes.
+NR 0
+TC 0
+SN 
+EI 0271-658
+J9 Cell Motil
+PD JAN 1
+PY 1981
+VL 1
+IS 3
+BP 291
+EP 302
+DI 10.1002/cm.970010303
+PG 11
+WC Animals; Cell Movement; Epithelium; ultrastructure; Eukaryota; physiology; Humans; Microscopy; Microscopy, Electron; Microscopy, Interference; Microtubules; ultrastructure; Mouth Mucosa; ultrastructure; Videotape Recording
+UT PubMed:7348605
+PM 7348605
+DA 1981-01-01
+ER
+
+PT J
+AU Torikai, T
+   Itoh, O
+   Satoh, M
+   Okumura, O
+   Osawa, T
+AF Torikai, T
+   Itoh, O
+   Satoh, M
+   Okumura, O
+   Osawa, T
+TI Identification of a serum glycoprotein that increased in OK-432-treated mice as
+SO Gan
+LA English
+DT Journal Article
+AB LB, the antitumor protein whose level is increased in the serum of OK-432-treated  mice, was identified as hemopexin, which is a serum beta-glycoprotein having a  heme-binding capability. When incubated with heme, LB showed several absorption  maxima in the ultraviolet and visible regions, and the addition of dithionite  increased the extinction of the Soret band, which was shifted to a longer  wavelength. The ultraviolet circular dichroism spectrum of LB exhibits a positive  maximum at 292 nm and a shoulder near 280 nm. The far ultraviolet CD spectrum of  LB has a prominent positive maximum at 231 nm. These spectral characteristics are  identical with those of rabbit, rat or human hemopexin. In addition, the relative  mobility on polyacrylamide gradient gel electrophoresis and the results of amino  acid analysis ae in very good agreement with results obtained previously for  rabbit and human hemopexins. Since LB has enhancing effects on the tumor cell  killing and binding by OK-432-elicited macrophages, these results strongly imply  that the increase of hemopexin in serum plays an important role in the  host-mediated antitumor activity of certain antitumor drugs.
+NR 0
+TC 0
+SN 
+EI 0016-450
+J9 Gan
+PD FEB 1
+PY 1981
+VL 72
+IS 1
+BP 92
+EP 7
+DI 
+PG -85
+WC Amino Acids; blood; Animals; Biological Products; pharmacology; Blood Proteins; analysis; Circular Dichroism; Electrophoresis, Polyacrylamide Gel; Female; Glycoproteins; blood; Hemopexin; analysis; Mice; Picibanil; pharmacology; Spectrophotometry, Ultraviolet
+UT PubMed:7274653
+PM 7274653
+DA 1981-02-01
+ER
+
+PT J
+AU Benschop, HP
+   Konings, KA
+   Kossen, SP
+   Ligtenstein, DA
+AF Benschop, H P
+   Konings, K A
+   Kossen, S P
+   Ligtenstein, D A
+TI Determination of some pyridinium aldoxime compounds by means of ion-pair
+SO Journal of chromatography
+LA English
+DT Journal Article
+AB Two reversed-phase high-performance liquid chromatographic systems are presented  for the separation and assay of the pyridinium aldoximes benzyl-P2A, HI-6 and  obidoxime in aqueous solutions and biological samples. The systems involve a  5-micrometer C18 silica gel stationary phase. The eluent consists of methanol,  acetic acid buffer (pH 4.80), a counter ion (per-chlorate or n-octanesulphonate)  and a surfactant. The compounds were detected spectrophotometrically at 304 nm.  In the concentration range used, linear plots of concentration versus extinction  were obtained, both in blood and in water. Detection limits plots of  concentration versus extinction were obtained, both in blood and in water.  Detection limits, even in blood are satisfactory (0.5-1 microM). Evidence of  presented that, at least for HI-6, the addition of counter ions to the system  does not lead to the formation of ion pairs to be retained by partition, but  rather to a mechanism based on adsorption chromatography.
+NR 0
+TC 0
+SN 
+EI 
+J9 J Chromatogr
+PD SEP 11
+PY 1981
+VL 225
+IS 1
+BP 107
+EP 14
+DI 10.1016/s0378-4347(00)80249-2
+PG -93
+WC 2,2'-Dipyridyl; administration & dosage; Animals; Chromatography, High Pressure Liquid; methods; Obidoxime Chloride; administration & dosage; Pralidoxime Compounds; administration & dosage; Pyridines; blood; Rats; Rats, Inbred Strains
+UT PubMed:7028767
+PM 7028767
+DA 1981-09-11
+ER
+
+PT J
+AU Capasso, V
+   Maddalena, L
+AF Capasso, V
+   Maddalena, L
+TI Convergence to equilibrium states for a reaction-diffusion system modelling the
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB A reaction-diffusion system which describes the spatial spread of bacterial  diseases is studied. It consists of two nonlinear parabolic equations which  concern the evolution of the bacteria population and of the human infective  population in an urban community, respectively. Different boundary conditions of  the third type are considered, for the two variables. This model is suitable to  study oro-faecal transmitted diseases in the European Mediterranean regions. A  threshold parameter is introduced such that for suitable values of it the  epidemic eventually tends to extinction, otherwise a globally asymptotically  stable spatially inhomogeneous stationary endemic state appears. The case in  which the bacteria diffuse but the human population does not, has also been  considered.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1981
+VL 13
+IS 2
+BP 173
+EP 84
+DI 10.1007/BF00275212
+PG -89
+WC Bacterial Infections; transmission; Epidemiologic Methods; Europe; Humans; Models, Biological; Virus Diseases; transmission
+UT PubMed:7328365
+PM 7328365
+DA 1981-01-01
+ER
+
+PT J
+AU Geisler, WS
+AF Geisler, W S
+TI Effects of bleaching and backgrounds on the flash response of the cone system.
+SO The Journal of physiology
+LA English
+DT Journal Article
+AB 1. Increment-threshold functions for flashed backgrounds were measured in the  human fovea under several conditions: (1) during dark adaptation following full  bleaches, (2) in the presence of steady adapting backgrounds and (3) 500 msec  following extinction of adapting backgrounds.2. To prevent the intense flashed  backgrounds from interfering with the course of dark adaptation the inter-trial  interval was continuously increased during dark adaptation. This technique may  prove generally useful for presenting suprathreshold stimuli during dark  adaptation.3. All the increment-threshold functions measured during dark  adaptation were found to be roughly shape invariant and continuously accelerating  when plotted in log-log co-ordinates. Furthermore, in order to translate a  function obtained at any given time into coincidence with a function obtained at  any other time, it had to be translated vertically and horizontally the same  number of log units. This is equivalent to adding or removing neutral density  filters from in front of the eye.4. The increment-threshold functions obtained  with steady adapting backgrounds were also continuously accelerating, but could  not be brought into coincidence by equal vertical and horizontal translation.  However, this became possible again if the adapting background was extinguished  during presentation of the flashed background.5. These results contradict the  equivalent-background hypothesis. None the less, they suggest that under present  conditions the effects of bleaches and backgrounds may be similar except that  steady backgrounds provide additional quanta which drive the visual system part  of the way up its intensity-response function.6. The conclusions above were  supported by applying a simple model based on the equation R = R(max). I(n) /  (I(n) + I(1) (n)), which has frequently been used to describe the peak responses  of retinal neurones to flashed stimuli. Virtually all of the data reported here  were fitted by this simple model with R(max) held constant.7. The parameters  estimated from the model imply that the flash responses measured in the present  experiments differ in at least one fundamental way from receptor responses. Even  after taking into account changes in the half saturation constant I(1), steady  backgrounds were found to be much less effective than flashed backgrounds in  driving the visual system up its intensity-response function. A subtractive  inhibitory network prior to the non-linear stages responsible for threshold  saturation could explain this result.
+NR 0
+TC 0
+SN 1469-779
+EI 0022-375
+J9 J Physiol
+PD MAR 1
+PY 1981
+VL 312
+IS 
+BP 413
+EP 34
+DI 10.1113/jphysiol.1981.sp013635
+PG -379
+WC Dark Adaptation; Fovea Centralis; physiology; Humans; Kinetics; Macula Lutea; physiology; Models, Biological; Photoreceptor Cells; physiology; Retinal Pigments; physiology
+UT PubMed:7265001
+PM 7265001
+DA 1981-03-01
+ER
+
+PT J
+AU Chylek, P
+   Ramaswamy, V
+   Cheng, R
+   Pinnick, RG
+AF Chylek, P
+   Ramaswamy, V
+   Cheng, R
+   Pinnick, R G
+TI Optical properties and mass concentration of carbonaceous smokes.
+SO Applied optics
+LA English
+DT Journal Article
+AB Absorption or extinction measurements at wavelengths of 0.5145 and 10.6 microm  lead to determination of the mass concentration of carbonaceous smokes with an  accuracy of ~20%. The results do not depend on the details of the particle size  distribution or on particulate to void ratio.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD SEP 1
+PY 1981
+VL 20
+IS 17
+BP 2980
+EP 5
+DI 10.1364/AO.20.002980
+PG -2975
+UT PubMed:20333084
+PM 20333084
+DA 1981-09-01
+ER
+
+PT J
+AU Matsuno, K
+AF Matsuno, K
+TI Self-sustaining multiplication and reproduction of microsystems in
+SO Bio Systems
+LA English
+DT Journal Article
+AB The appearance of reproducing microsystems during stimulated protobiogenesis is  investigated theoretically, based upon the observation that proteinoid  microsystems, which are local aggregates of reacting chemicals, act as reaction  nodes. Further splitting of such nodes follows if sufficient growth takes place.  Parent-connected daughter nodes thus appear. A parent-connected daughter node  rejuvenates itself while its parent node survives, although an extinction of the  latter is inevitable in the presence of spontaneous disturbances. The degree of  rejuvenation is measured in terms of the molecule intake and dissociation rates  at the node. A daughter node grows and matures after the extinction of its  parent, and gives rise to second-generation nodes when it grows sufficiently  large. The parent node alternates with its parent-connected daughter nodes  successively.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1981
+VL 14
+IS 2
+BP 163
+EP 70
+DI 10.1016/0303-2647(81)90065-4
+PG -93
+WC Mathematics; Microspheres; Models, Biological; Proteins
+UT PubMed:7295908
+PM 7295908
+DA 1981-01-01
+ER
+
+PT J
+AU Gremmel, H
+   Jensen, JM
+   Randzio, G
+AF Gremmel, H
+   Jensen, J M
+   Randzio, G
+TI [Measurements of the surface dose for the irradiation of cultured cells with a
+SO Strahlentherapie
+LA ger
+DT Journal Article
+AB In order to exactly determine the irradiation dose for cultured cells in culture  containers (Petri dishes and others), it is necessary to have a detailed  knowledge of the depth dose curve in water-equivalent layers near the surface.  This curve was determined for Co-60 radiation by means of a window-less liquidity  dosemeter. The dosemeter liquid was a solution of ammonium-iron (II) sulfate  (solution of Fricke), the extinction of which was measured at 304 nm. Petri  dishes were used instead of closed irradiation flasks. The distance QOA was 50 cm  for all experiments, the field size was 10 X 10 cm. The depth dose maximum was  found in a depth of 5,0 mm which corresponds to a mass of 0,50 g cm-2 relating to  the surface. The surface dose was determined to be 39,2% and 106,6% of the  maximum dose, respectively. This method can also be applied for closed culture  containers (flasks).
+NR 0
+TC 0
+SN 
+EI 0039-207
+J9 Strahlentherapie
+PD FEB 1
+PY 1981
+VL 157
+IS 2
+BP 109
+EP 13
+DI 
+PG -96
+WC Cells, Cultured; radiation effects; Cobalt Radioisotopes; Mathematics; Methods; Radiation Dosage
+UT PubMed:7222130
+PM 7222130
+DA 1981-02-01
+ER
+
+PT J
+AU Ikegami, S
+   Kawamura, H
+AF Ikegami, S
+   Kawamura, H
+TI Inhibition of intracranial self-stimulation in brain stem-transected cats--a
+SO Brain research
+LA English
+DT Journal Article
+AB Effects of intracranial self-stimulation of central 'punishment areas' were  studied on an operant conditioning of vertical eye movements in the midpontine  pretrigeminal cats as well as in the encéphale isolé cats. In 36 pretrigeminal  cats, the ventromedial hypothalamus (VMH), basal amygdaloid nuclei (AMY), dorsal  central gray (CG) of the midbrain and the thalamic nuclei such as the ventralis  posteromedialis (VPM) and ventralis posterolateralis (VPL) were tested. No  suppression of eye movements indicating a passive avoidance conditioning from  stimulation of these 'punishment areas' was obtained in 92 electrode tip sites.  In 49 encéphale isolé cats, stimulation of the VPM associated with contraction of  the facial muscles, demonstrated a marked passive avoidance effect on the eye  movements. After blocking both the trigeminal (5N) and facial nerves (7N), VPM  stimulation no longer produced an increase of facial EMG activity and the  suppressive effect on eye movements was abolished. Extracranial blockade of 7N  alone, which induced facial muscle paralysis also showed similar effects.  Bilateral blockade of cranial nerves from acoustic (8N) to hypoglossal (12N)  nerves had no significant effect on the avoidance conditioning. The mass neural  activity recorded from the 5N showed a marked increase of discharge by VPM  stimulation which was reduced significantly after 7N blockade. These results may  suggest a possibility that punishing effects of brain stimulation depend on  feedback from the periphery (muscles, blood vessels and visceral organs), whereas  reward effects essentially depend on neural circuitry confined within the  forebrain above the rostral pons.
+NR 0
+TC 0
+SN 
+EI 0006-899
+J9 Brain Res
+PD DEC 21
+PY 1981
+VL 229
+IS 2
+BP 471
+EP 85
+DI 10.1016/0006-8993(81)91008-8
+PG -386
+WC Amygdala; physiology; Animals; Avoidance Learning; physiology; Brain Stem; physiology; Cats; Conditioning, Operant; physiology; Cranial Nerves; physiology; Electric Stimulation; Extinction, Psychological; physiology; Eye Movements; Female; Hypothalamus, Middle; physiology; Male; Medulla Oblongata; physiology; Neural Inhibition; Pons; physiology; Self Stimulation; physiology; Spinal Cord; physiology; Thalamic Nuclei; physiology; Trigeminal Nuclei; physiology
+UT PubMed:7306820
+PM 7306820
+DA 1981-12-21
+ER
+
+PT J
+AU Profio, AE
+   Doiron, DR
+AF Profio, A E
+   Doiron, D R
+TI Dosimetry considerations in phototherapy.
+SO Medical physics
+LA English
+DT Journal Article
+AB Dosimetry in phototherapy involves a determination of the energy absorbed per  unit mass of tissue, corrected for the quantum yield in a photochemical reaction.  The dose rate in photochemotherapy of cancer with hematoporphyrin derivative and  visible light is related to the extinction coefficient, quantum yield for singlet  oxygen production, concentration of sensitizer and energy flux density at depth.  Data or methods of determining these quantities are presented. Calculations have  been performed for the energy flux density at depth, as a function of the total  attenuation coefficient and ratio of scattering coefficient to total attenuation  coefficient, for isotropic scattering in slab geometry. For small absorption,  these depth dose curves exhibit a maximum within the tissue followed by an  exponential decrease.
+NR 0
+TC 0
+SN 
+EI 0094-240
+J9 Med Phys
+PD MAR 1
+PY 1981
+VL 8
+IS 2
+BP 190
+EP 6
+DI 10.1118/1.594932
+PG -184
+WC Fluorescence; Hematoporphyrins; therapeutic use; Humans; Neoplasms; therapy; Photochemotherapy; Phototherapy; Radiation Dosage; Technology, Radiologic
+UT PubMed:7322046
+PM 7322046
+DA 1981-03-01
+ER
+
+PT J
+AU Nexø, E
+   Olesen, H
+AF Nexø, E
+   Olesen, H
+TI Purification and characterization of rabbit haptocorrin.
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB Rabbit haptocorrin (R-binder) has been purified from serum by affinity  chromatography on cobalamin-Sepharose and Blue Sepharose. It proved to be a  protein with a relative molecular mass of 60 000 and an amino acid content very  similar to that of other haptocorrins (Nexø, E. and Olesen, H. (1981) in B12  (Dolphin, D., ed.), Wiley Interscience, New York/London, in the press). The pH  optimum (pH 6-9) for binding of cyanocobalamin and the affinity to  dicyanocobinamide were like those of human and hog haptocorrins. In spectral  studies, the extinction coefficient of cyanocobalamin at 363 nm (gamma 1-band)  increased by about 16% on binding to rabbit haptocorrin. Binding of  azidocobalamin gave spectra changes similar to those for binding to rabbit  transcobalamin.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD FEB 27
+PY 1981
+VL 667
+IS 2
+BP 370
+EP 6
+DI 10.1016/0005-2795(81)90204-x
+PG -364
+WC Amino Acids; analysis; Animals; Blood Proteins; isolation & purification; Chemical Phenomena; Chemistry; Chromatography, Affinity; Molecular Weight; Protein Binding; Rabbits; blood; Species Specificity; Transcobalamins; isolation & purification; Vitamin B 12
+UT PubMed:7213806
+PM 7213806
+DA 1981-02-27
+ER
+
+PT J
+AU den, Boer PJ
+AF den Boer, P J
+TI On the survival of populations in a heterogeneous and variable environment.
+SO Oecologia
+LA English
+DT Journal Article
+AB The survival time of small and isolated populations will often be relatively low,  by which the survival of species living in such a way will depend on powers of  dispersal sufficiently high to result in a rate of population foundings that  about compensates the rate of population extinctions. The survival time of  composite populations uninterruptedly inhabiting large and heterogeneous areas,  highly depends on the extent to which the numbers fluctuate unequally in the  different subpopulations. The importance of this spreading of the risk of  extinction over differently fluctuating subpopulations is demonstrated by  comparing over 19 years the fluctuation patterns of the composite populations of  two carabid species, Pterostichus versicolor with unequally fluctuating  subpopulations, and Calathus melanocephalus with subpopulations fluctuating in  parallel, both uninterruptedly occupying the same large heath area. The  conclusions from the field data are checked by simulating the fluctuation  patterns of these populations, and thus directly estimating survival times. It  thus appeared that the former species can be expected to survive more than ten  times better than the latter (other things staying the same). These simulations  could also be used to study the possible influence of various density restricting  processes in populations already fluctuating according to some pattern. As could  be expected, the survival time of a population, which shows a tendency towards an  upward trend in numbers, will be favoured by some kind of density restriction,  but the degree to which these restrictions are density-dependent appeared to be  immaterial. Density reductions that are about adequate on the average need even  not occur at high densities only, if only the chance of occurrence at very low  densities is low. The density-level at which a population is generally  fluctuating appeared to be less important for survival than the fluctuation  pattern itself, except for very low density levels, of course. The different ways  in which deterministic and stochastic processes may interact and thus determine  the fluctuations of population numbers are discussed. It is concluded that some  stochastic processes will operate everywhere and will thus necessarily result in  density fluctuations; such an omnipresence is much less imperative, however, for  density-dependent processes, by which population models should primarily be  stochastic models. However, if density-dependent processes are added to model  populations, that are already fluctuating stochastically the effects are taken up  into the general, stochastic fluctuation pattern, without altering it  fundamentally.
+C1 Biologisch Station, Biological Station of the Agricultural University Wageningen, Kampsweg 27, 9418 PD, Wijster, The Netherlands.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD AUG 1
+PY 1981
+VL 50
+IS 1
+BP 39
+EP 53
+DI 10.1007/BF00378792
+PG 14
+UT PubMed:28310060
+PM 28310060
+DA 1981-08-01
+ER
+
+PT J
+AU Bogach, PG
+   Makarchuk, NE
+   Chaĭchenko, GM
+AF Bogach, P G
+   Makarchuk, N E
+   Chaĭchenko, G M
+TI [Internal inhibition in rats after destruction of amygdaloid complex nuclei].
+SO Zhurnal vysshei nervnoi deiatelnosti imeni I P Pavlova
+LA rus
+DT Journal Article
+AB In experiments on male albino rats bilateral lesions of the basolateral amygdala  (BLA) impaired extinction and differentiation of the food-procuring conditioned  reflexes where as bilateral corticomedial (CMA) lesions had no effect on them.  The BLA damage caused a significant impairment of the aversive stimuli  discrimination but had no effect on the extinction of the conditioned avoidance  reflex in a shuttle-box. The CMA lesions in both hemispheres led to attenuation  of aversive stimuli discrimination and delay of avoidance extinction. The data  obtained testify to the BLA dominant role in internal inhibition of the  alimentary conditioned reflexes and the CMA dominant role in internal inhibition  of avoidance conditioning and furthermore to the importance of BLA in the  evaluation of the emotional significance and biological validity of the stimuli  (reward or punishment).
+NR 0
+TC 0
+SN 
+EI 0044-467
+J9 Zh Vyssh Nerv Deiat Im I P Pavlova
+PD JUL 1
+PY 1981
+VL 31
+IS 4
+BP 771
+EP 9
+DI 
+PG -762
+WC Amygdala; physiology; Animals; Avoidance Learning; physiology; Brain Mapping; Conditioning, Operant; physiology; Discrimination Learning; physiology; Extinction, Psychological; physiology; Food; Inhibition, Psychological; Male; Pitch Discrimination; physiology; Rats; Sound
+UT PubMed:7303899
+PM 7303899
+DA 1981-07-01
+ER
+
+PT J
+AU Schultz, SG
+AF Schultz, S G
+TI Homocellular regulatory mechanisms in sodium-transporting epithelia: avoidance of
+SO The American journal of physiology
+LA English
+DT Review
+AB In recent years electrophysiologic studies on several sodium-transporting  epithelia have uncovered two "homocellular" (intrinsic) regulatory mechanisms  that appear to protect the absorptive cells from marked changes in sodium and  potassium content in response to rapid and wide-ranging physiologic variations in  the rate of transcellular sodium transport. These are: 1) an inverse relation  between intracellular sodium activity and the sodium conductance of the apical  (mucosal) membrane, and 2) a parallel relation between the rate of sodium  extrusion from the cell across the basolateral membrane ("pump activity") and the  conductance of that barrier to potassium. The purpose of this review is to  document these homocellular regulatory mechanisms, discuss their physiologic  significance, and speculate on possible underlying mechanism(s).
+NR 0
+TC 0
+SN 
+EI 0002-951
+J9 Am J Physiol
+PD DEC 1
+PY 1981
+VL 241
+IS 6
+BP F579
+EP 90
+DI 10.1152/ajprenal.1981.241.6.F579
+PG 1
+WC Amiloride; pharmacology; Amphotericin B; pharmacology; Animals; Biological Transport, Active; drug effects; Calcium; physiology; Cell Membrane; physiology; Colon; physiology; Electric Conductivity; Epithelium; physiology; Intercellular Junctions; physiology; Intestinal Mucosa; physiology; Membrane Potentials; Necturus; Rabbits; Sodium; physiology; Urinary Bladder; physiology
+UT PubMed:7034548
+PM 7034548
+DA 1981-12-01
+ER
+
+PT J
+AU Dorogi, PL
+   Moss, K
+   Neumann, E
+   Chang, HW
+AF Dorogi, P L
+   Moss, K
+   Neumann, E
+   Chang, H W
+TI Spectrophotometric determination of reaction stoichiometry and equilibrium
+SO Biophysical chemistry
+LA English
+DT Journal Article
+AB Stoichiometries, equilibrium constants and optical extinction coefficients of  calcium-antipyrylazo III (An) complexing are determined with the analytical  method described in article I of this series. Spectrophotometric Ca titrations of  An at the wavelengths 595 and 710 nm indicate overall dissociation equilibrium  constants for the complexes CaAn, CaAn2 and Ca2An to be 4.5 x 10(-4) M, 1.1 x  10(-8) M2 and 1.5 x 10(-6) M2, respectively, extrapolated to zero ionic strength.  Ca titrations of solutions containing An plus acetylcholine receptor protein give  clear evidence that An binds to the protein to a large extent in the presence of  Ca2+; furthermore, addition of acetylcholine results in release of protein-bound  Ca and An. This is the first reported indication that antipyrylazo III binds to  biological material and questions the usefulness of this dye as a Ca indicator in  biological systems.
+NR 0
+TC 0
+SN 
+EI 0301-462
+J9 Biophys Chem
+PD OCT 1
+PY 1981
+VL 14
+IS 2
+BP 91
+EP 100
+DI 10.1016/0301-4622(81)85010-7
+PG 9
+WC Animals; Azo Compounds; metabolism; Calcium; metabolism; Electric Organ; metabolism; Kinetics; Naphthalenesulfonates; metabolism; Protein Binding; Receptors, Cholinergic; metabolism; Spectrophotometry; Torpedo
+UT PubMed:7326343
+PM 7326343
+DA 1981-10-01
+ER
+
+PT J
+AU Rudd, CJ
+   Strom, KA
+AF Rudd, C J
+   Strom, K A
+TI A spectrophotometric method for the quantitation of diesel exhaust particles in
+SO Journal of applied toxicology : JAT
+LA English
+DT Journal Article
+AB Particulate material in diesel engine exhaust deposits in the lungs of exposed  animals. A technique for measuring the amount of soot in the lungs would be  useful for determining the rates of the deposition and clearance of the submicron  particles. The paper describes the use of light extinction for quantitating  diesel particles in aqueous suspension. Particles collected by electrostatic  precipitation and finely suspended in 0.01 N NaOH by sonication strongly absorb  visible light. The extinction of light at 750 nm is proportional to the mass  concentration of particles, with an extinction coefficient of 28 +/- 1 cm2 mg-1.  Lungs from guinea pigs exposed to dilute diesel exhaust were dried and digested  in potassium hydroxide and ethanol. The insoluble particles were centrifuged and  resuspended in water by sonication. The optical density of the suspension was  compared to that of suspensions made from lungs of animals not exposed to diesel  exhaust, with or without known amounts of particulate added at the beginning of  digestion. A concentration-dependent increase in the total amount of particles  per lung was found for guinea pigs exposed to 0, 269, 813 and 1530 micrograms m-3  diesel particles for 6 months.
+NR 0
+TC 0
+SN 
+EI 0260-437
+J9 J Appl Toxicol
+PD APR 1
+PY 1981
+VL 1
+IS 2
+BP 83
+EP 7
+DI 10.1002/jat.2550010207
+PG -76
+WC Aerosols; Air Pollutants; analysis; Animals; Body Weight; Fuel Oils; analysis; Guinea Pigs; Lung; metabolism; Male; Organ Size; Particle Size; Petroleum; analysis; Spectrophotometry; Vehicle Emissions; analysis
+UT PubMed:6206118
+PM 6206118
+DA 1981-04-01
+ER
+
+PT J
+AU Gilpin, ME
+   Diamond, JM
+AF Gilpin, M E
+   Diamond, J M
+TI Immigration and extinction probabilities for individual species: relation to
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB We develop a dynamic model of island biogeography based on immigration and  extinction probabilities of individual species rather than on the usual  biogeographic parameters of the number of species immigrating or going extinct  per unit time. In the real world, these probabilities vary enormously among  species, and three field studies suggest lognormal distributions. Based on such  distributions of individual probabilities, our model proceeds by calculating the  conditional probability of species occurrence--the likelihood that a given  species will occur on a given island--as a function of total species number on  the island. The model succeeds in predicting two observed features of species  communities; (i) staggered, sigmoidally-shaped incidence functions ("differing  area requirements of different species") and (ii) concave immigration and  extinction curves.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JAN 1
+PY 1981
+VL 78
+IS 1
+BP 392
+EP 6
+DI 10.1073/pnas.78.1.392
+PG -386
+WC Animals; Birds; Mathematics; Models, Biological; Population Dynamics
+UT PubMed:6941254
+PM 6941254
+DA 1981-01-01
+ER
+
+PT J
+AU Hatchikian, EC
+   Bruschi, M
+AF Hatchikian, E C
+   Bruschi, M
+TI Characterization of a new type of ferredoxin from Desulfovibrio africanus.
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB A new ferredoxin designated ferredoxin III has been isolated from Desulfovibrio  africanus grown on media high in iron. Native ferredoxin III is a dimer  constituted by two identical subunits of approx. 7500. It is distinguished from  the two other ferredoxins (I and II) isolated from this microorganism by its  amino acids composition, N-terminal sequence, spectral properties and iron-sulfur  content. The amino acid composition of D. africanus ferredoxin III is typical of  ferredoxins with an excess of acidic over basic residues and the absence of  histidine and arginine residues. The absorption spectrum of ferredoxin III  exhibits two maxima, at 408 nm (epsilon = 58.5 . 10(3) M-1 . cm-1) and 285 nm  (epsilon = 82 . 10(3) M-1 . cm-1), with a shoulder at 305 nm (epsilon = 75 .  10(3) M-1 . cm-1). Its A408/A285 absorbance ratio is 0.78. Ferredoxin III  contains approx. 12--13 atoms each of iron and labile sulfur. This is in  agreement with the high value of the extinction coefficient at 408 nm, which is  slightly higher than 3-fold that of one [4Fe-4S] cluster. However, the number of  cysteine residues of the protein (six residues), which is about the half that of  iron atoms, is indicative of the presence of a new type of iron-sulfur cluster in  ferredoxin III. The protein is unstable in a low ionic strength environment; the  addition of neutral salts stabilizes the protein conformation. The data on the  biological activity of ferredoxin III as compared to the two other ferredoxins  from D. africanus show that the three iron-sulfur proteins function with equal  effectiveness as electron carrier in the phosphoroclastic reaction and the  H2-sulfite reductase system.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD JAN 14
+PY 1981
+VL 634
+IS 1
+BP 41
+EP 51
+DI 10.1016/0005-2728(81)90126-2
+PG 10
+WC Amino Acid Sequence; Amino Acids; analysis; Desulfovibrio; analysis; Ferredoxins; isolation & purification; Iron; analysis; Macromolecular Substances; Molecular Weight; Spectrophotometry; Sulfur; analysis
+UT PubMed:7470499
+PM 7470499
+DA 1981-01-14
+ER
+
+PT J
+AU Deranleau, DA
+   Dubler, D
+AF Deranleau, D A
+   Dubler, D
+TI Time-dependent total extinction analysis for simple reactions involving
+SO Analytical biochemistry
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD JUL 1
+PY 1981
+VL 114
+IS 2
+BP 411
+EP 4
+DI 10.1016/0003-2697(81)90503-0
+PG -407
+WC Absorption; Kinetics; Light; Mathematics; Models, Biological; Nephelometry and Turbidimetry; Scattering, Radiation; Time Factors
+UT PubMed:7304932
+PM 7304932
+DA 1981-07-01
+ER
+
+PT J
+AU Andrabi, WH
+   Behari, J
+AF Andrabi, W H
+   Behari, J
+TI Bone photovoltaic cell in hall geometry.
+SO Calcified tissue international
+LA English
+DT Journal Article
+AB Enhancement of photovoltage has been found in bone and its two major constituents  when placed in a magnetic field in standard Hall geometry. Infrared light has  been used for carrier excitation. From data obtained in this manner, values for  the light absorption constant, extinction constant, mass absorption constant, and  efficiency have been estimated. All these parameters increase with the increase  of magnetic field. A possible explanation for the observed phenomena is  presented.
+NR 0
+TC 0
+SN 
+EI 0171-967
+J9 Calcif Tissue Int
+PD JAN 1
+PY 1981
+VL 33
+IS 3
+BP 239
+EP 42
+DI 10.1007/BF02409443
+PG -197
+WC Animals; Bone and Bones; physiology; Electric Conductivity; Electromagnetic Fields; Light; Mathematics; Models, Biological; Rabbits
+UT PubMed:6791787
+PM 6791787
+DA 1981-01-01
+ER
+
+PT J
+AU Goh, TH
+   Ngeow, YF
+   Teoh, SK
+AF Goh, T H
+   Ngeow, Y F
+   Teoh, S K
+TI Screening for gonorrhea in a prenatal clinic in Southeast Asia.
+SO Sexually transmitted diseases
+LA English
+DT Journal Article
+DE Asia; Delivery Of Health Care; Demographic Factors; Developing Countries; Diseases; Examinations And Diagnoses; Gonorrhea--women; Health; Health Services; Infections; Laboratory Examinations And Diagnoses; Laboratory Procedures; Malaysia; Maternal Health Services; Maternal-child Health Services; Measurement; Population; Population Characteristics; Pregnant Women; Prenatal Care; Prevalence; Primary Health Care; Reproductive Tract Infections; Research Methodology; Research Report; Screening; Sexually Transmitted Diseases; Southeastern Asia
+AB Screening by culture of endocervical specimens revealed four cases of gonorrhea  among 744 pregnant women attending the prenatal clinic at the University Hospital  in Kuala Lumpur, Malaysia. The observed prevalence of gonorrhea (0.54%) in  pregnant women is similar to that in Great Britain (0.2-0.7%), but lower than the  prevalences reported for North America (2.5-7.5%) and Thailand (11.9%). The  results indicate that routine screening of pregnant women attending prenatal  clinics in Malaysia would aid in the control of gonorrhea in that country.
+NR 0
+TC 0
+SN 
+EI 0148-571
+J9 Sex Transm Dis
+PD APR 1
+PY 1981
+VL 8
+IS 2
+BP 67
+EP 9
+DI 10.1097/00007435-198104000-00005
+PG -58
+WC Adolescent; Adult; Female; Gonorrhea; diagnosis; Humans; Malaysia; Mass Screening; Middle Aged; Outpatient Clinics, Hospital; Pregnancy; Pregnancy Complications, Infectious; diagnosis; Prenatal Care; Vaginal Smears
+UT PubMed:7256495
+PM 7256495
+DA 1981-04-01
+ER
+
+PT J
+AU Gadag, VG
+AF Gadag, V G
+TI First passage time for a supercritical Galton-Watson process restricted to the
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD DEC 7
+PY 1981
+VL 93
+IS 3
+BP 585
+EP 9
+DI 10.1016/0022-5193(81)90221-6
+PG -576
+WC Humans; Models, Biological; Population Growth; Probability; Time Factors
+UT PubMed:7341867
+PM 7341867
+DA 1981-12-07
+ER
+

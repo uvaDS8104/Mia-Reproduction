@@ -1,0 +1,1324 @@
+PT J
+AU White, JM
+   Levi, DM
+   Aitsebaomo, AP
+AF White, J M
+   Levi, D M
+   Aitsebaomo, A P
+TI Spatial localization without visual references.
+SO Vision research
+LA English
+DT Journal Article
+AB To explain the veridical percept of the spatial ordering of objects and the  generation of eye movements to peripheral targets, Lotze (1885 Microcosmos.  Edinburgh: T. & T. Clark) proposed that there is a position label (local sign)  for each retinal element. To estimate the precision of local sign information, we  measured absolute localization thresholds at various eccentricities in the nasal  visual field, in the complete absence of visual references. To eliminate  perception of the visual surround, observers viewed a large display screen  through a neutral density filter (2.0 log unit) in a dark room. The fixation  target was extinguished at various times (interstimulus intervals or ISIs) prior  to the onset of the test stimulus. In general, our results show that localization  thresholds are proportional to the target eccentricity at all ISIs. At each  eccentricity, localization thresholds are elevated after the extinction of the  visual reference compared to thresholds when the reference is present. However,  relative to the referenced threshold, unreferenced thresholds are elevated by a  greater proportion at smaller eccentricities than at larger eccentricities. Our  threshold vs ISI data can be adequately modeled on the basis of an intrinsic  positional uncertainty, which increases with eccentricity, and additive and  multiplicative sources of noise. The additive noise appears to reflect primarily  the increasing scatter in eye position when the fixation target is extinguished.  Our model's estimate of intrinsic positional uncertainty in the isoeccentric  direction appears to reflect primarily the intrinsic positional uncertainty of  the peripheral retina (the local sign), being very similar to cumulative cone  position uncertainty and to the spacing between ON-P beta ganglion cells. In the  isoeccentric direction, the estimated precision of the local sign mechanism  across eccentricities is slightly better than the precision of saccadic  endpoints, suggesting that noise in the motor system must also contribute to the  scatter of saccadic endpoints in the isoeccentric direction. Interestingly, in  the radial direction, we find a surprising similarity in our observers'  positional uncertainty and the precision of saccadic endpoints.
+C1 University of Houston, College of Optometry, TX 77204-6052.
+NR 0
+TC 0
+SN 
+EI 0042-698
+J9 Vision Res
+PD MAR 1
+PY 1992
+VL 32
+IS 3
+BP 513
+EP 26
+DI 10.1016/0042-6989(92)90243-c
+PG -487
+WC Fovea Centralis; physiology; Humans; Models, Biological; Psychophysics; Sensory Thresholds; physiology; Space Perception; physiology; Time Factors; Visual Fields; physiology
+UT PubMed:1604838
+PM 1604838
+DA 1992-03-01
+ER
+
+PT J
+AU Ghosh, P
+   Singh, UN
+AF Ghosh, P
+   Singh, U N
+TI Liposome shrinkage and swelling under osmotic-diffusional stress: evaluation of
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB Analyses of spectrophotometric measurements of shrinkage and swelling of  liposomes under osmotic-diffusional stress tacitly assume an 'empirical' inverse  relationship between the absorbance (A) and the liposomal volume (v). In this  paper, we have proposed an alternate more explicit relationship: A = EcL e -  alpha Lv/1-Lv where L is liposomal concentration, Ec the extinction coefficient  and alpha a dimensionless parameter. The exponential term, in essence, defines  the partitioning of aqueous volume into intra- and extra-liposomal compartments.  Experimental data obtained with glycerol as model compound are used to test the  validity and internal consistency of the proposed formalism.
+C1 Department of Biophysics, University of Delhi, India.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD SEP 21
+PY 1992
+VL 1110
+IS 1
+BP 88
+EP 96
+DI 10.1016/0005-2736(92)90298-z
+PG 8
+WC Kinetics; Liposomes; chemistry; Mathematics; Models, Biological; Molecular Conformation; Phosphatidylcholines; chemistry; Spectrophotometry; Time Factors
+UT PubMed:1390839
+PM 1390839
+DA 1992-09-21
+ER
+
+PT J
+AU Gabriel, W
+   Bürger, R
+AF Gabriel, W
+   Bürger, R
+TI Survival of small populations under demographic stochasticity.
+SO Theoretical population biology
+LA English
+DT Journal Article
+AB We estimate the mean time to extinction of small populations in an environment  with constant carrying capacity but under stochastic demography. In particular,  we investigate the interaction of stochastic variation in fecundity and sex ratio  under several different schemes of density dependent population growth regimes.  The methods used include Markov chain theory, Monte Carlo simulations, and  numerical simulations based on Markov chain theory. We find a strongly enhanced  extinction risk if stochasticity in sex ratio and fluctuating population size act  simultaneously as compared to the case where each mechanism acts alone. The  distribution of extinction times deviates slightly from a geometric one, in  particular for short extinction times. We also find that whether maximization of  intrinsic growth rate decreases the risk of extinction or not depends strongly on  the population regulation mechanism. If the population growth regime reduces  populations above the carrying capacity to a size below the carrying capacity for  large r (overshooting) then the extinction risk increases if the growth rate  deviates from an optimal r-value.
+C1 Department of Physiological Ecology, Max Planck Institute for Limnology, Plön, Germany.
+NR 0
+TC 0
+SN 
+EI 0040-580
+J9 Theor Popul Biol
+PD FEB 1
+PY 1992
+VL 41
+IS 1
+BP 44
+EP 71
+DI 10.1016/0040-5809(92)90049-y
+PG 27
+WC Animals; Female; Male; Markov Chains; Mathematics; Models, Biological; Population Density; Population Growth; Risk Factors; Stochastic Processes; Time Factors
+UT PubMed:1604427
+PM 1604427
+DA 1992-02-01
+ER
+
+PT J
+AU Kerr, RA
+AF Kerr, R A
+TI The earliest mass extinction?
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JUL 31
+PY 1992
+VL 257
+IS 5070
+BP 612
+EP 612
+DI 10.1126/science.257.5070.612
+PG 0
+UT PubMed:17740723
+PM 17740723
+DA 1992-07-31
+ER
+
+PT J
+AU Bidzseranova, A
+   Gueron, J
+   Tóth, G
+   Penke, B
+   Varga, J
+   Telegdy, G
+AF Bidzseranova, A
+   Gueron, J
+   Tóth, G
+   Penke, B
+   Varga, J
+   Telegdy, G
+TI Behavioral effects of atrial and brain natriuretic peptides in rats.
+SO Neuroreport
+LA English
+DT Journal Article
+AB The effects of intracerebroventricular administration of rat atrial natriuretic  peptide (rANP-1-28) and porcine brain natriuretic peptide-32 (pBNP-32) on passive  and active avoidance behavior and on electroconvulsive shock-induced amnesia were  studied in rats. The dose range for both peptides was selected to lie between  0.016 and 0.32 nmol. The two peptides were found to facilitate consolidation of  the passive avoidance response, to delay extinction of the active avoidance  response, and to prevent electroconvulsive shock-induced amnesia in a similar  way. It is suggested that some modulatory functions in the central nervous system  of the rat, so far attributed to ANP, may in fact involve a dual control by both  ANP and BNP, and there is no difference in the biological activity of the two  peptides as far as fear-motivated learning behavior is concerned.
+C1 Institute of Pathophysiology, Albert Szent-Györgyi Medical University, Szeged, Hungary.
+NR 0
+TC 0
+SN 
+EI 0959-496
+J9 Neuroreport
+PD MAR 1
+PY 1992
+VL 3
+IS 3
+BP 283
+EP 5
+DI 10.1097/00001756-199203000-00018
+PG -278
+WC Amnesia; etiology; Animals; Atrial Natriuretic Factor; administration & dosage; Avoidance Learning; physiology; Electroshock; Injections, Intraventricular; Male; Natriuretic Peptide, Brain; Nerve Tissue Proteins; administration & dosage; Rats; Rats, Inbred Strains
+UT PubMed:1387556
+PM 1387556
+DA 1992-03-01
+ER
+
+PT J
+AU Cox, LA Jr
+AF Cox, L A Jr
+TI Extending the stochastic two-stage model of carcinogenesis to include
+SO Risk analysis : an official publication of the Society for Risk Analysis
+LA English
+DT Journal Article
+AB One of the challenges of introducing greater biological realism into stochastic  models of cancer induction is to find a way to represent the homeostatic control  of the normal cell population over its own size without complicating the analysis  too much to obtain useful results. Current two-stage models of carcinogenesis  typically ignore homeostatic control. Instead, a deterministic growth path is  specified for the population of "normal" cells, while the population of  "initiated" cells is assumed to grow randomly according to a birth-death process  with random immigrations from the normal population. This paper introduces a  simple model of homeostatically controlled cell division for mature tissues, in  which the size of the nonmalignant population remains essentially constant over  time. Growth of the nonmalignant cell population (normal and initiated cells) is  restricted by allowing cells to divide only to fill the "openings" left by cells  that die or differentiate, thus maintaining the constant size of the nonmalignant  cell population. The fundamental technical insight from this model is that random  walks, rather than birth-and-death processes, are the appropriate stochastic  processes for describing the kinetics of the initiated cell population.  Qualitative and analytic results are presented, drawn from the mathematical  theories of random walks and diffusion processes, that describe the probability  of spontaneous extinction and the size distribution of surviving initiated  populations when the death/differentiation rates of normal and initiated cells  are known. The constraint that the nonmalignant population size must remain  approximately constant leads to much simpler analytic formulas and  approximations, flowing directly from random walk theory, than in previous  birth-death models.(ABSTRACT TRUNCATED AT 250 WORDS)
+C1 Cox Associates, Denver, Colorado 80218.
+NR 0
+TC 0
+SN 
+EI 0272-433
+J9 Risk Anal
+PD MAR 11
+PY 1992
+VL 12
+IS 1
+BP 129
+EP 38
+DI 10.1111/j.1539-6924.1992.tb01316.x
+PG -91
+WC Cell Death; Cell Division; Cocarcinogenesis; Homeostasis; Humans; Models, Biological; Models, Statistical; Neoplastic Stem Cells; pathology; Risk; Stochastic Processes
+UT PubMed:1574612
+PM 1574612
+DA 1992-03-11
+ER
+
+PT J
+AU Mehata, KM
+   Duraiswamy, S
+AF Mehata, K M
+   Duraiswamy, S
+TI A parity-dependent immigration-birth-death-emigration process.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB An immigration-birth-death-emigration process is studied when the immigration,  birth, death, and emigration parameters depend on two parity classes of  individuals, namely, zero and nonzero parity. The expected number of individuals  in the population at time t and that of emigrants in (0,t) of both parity classes  are obtained using the probability generating function (pgf) technique. The  explicit expression for the pgf of the process is derived when the parameters are  parity-independent. Population extinction and some limiting results are also  discussed.
+C1 School of Computer Sciences and Engineering, Anna University, Madras, India.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD MAY 1
+PY 1992
+VL 109
+IS 2
+BP 177
+EP 99
+DI 10.1016/0025-5564(92)90044-w
+PG -78
+WC Candida albicans; cytology; Cell Division; Mathematics; Models, Biological; Population Dynamics; Stochastic Processes
+UT PubMed:1600285
+PM 1600285
+DA 1992-05-01
+ER
+
+PT J
+AU Dobson, AP
+   Pacala, SW
+AF Dobson, A P
+   Pacala, S W
+TI The parasites of Anolis lizards the northern Lesser Antilles : II. The structure
+SO Oecologia
+LA English
+DT Journal Article
+DE Anolis; Islands; Lizards; Parasites
+AB The communities of parasitic helminths from ten species of lizards on seven  islands in the Caribbean were examined to ascertain the relative importance of  predictable deterministic factors and unpredicatable colonization or extinction  events in determining the structure of the parasite community. A simple graphical  model of community structure is used as a "null model" to describe the features  of a community that are dependent only upon the size of the host population and  features of the life histories of the constituent parasite species. This model  predicts that parasite species will exhibit a nested pattern of local and global  relative abundance. The observed data correspond fairly well to this pattern. The  absences of individual parasite species from communities where they might be  expected to be present emphasizes the role of stochastic colonization and  extinction events in delineating the constituent members of the community on any  island.Statistical analysis of the distribution of parasite species per host  illustrates that this pattern is random in habitats where parasite species  diversity is low, but decreasingly variable in habitats where more diverse  parasite communities occur. Increased parasite diversity also leads to an  increase in the proportion of hosts that contain mixed species infections.  Comparisons of worm burdens from single and mixed species infections within  individual hosts suggest that interactions between parasite species only rarely  leads to reduced worm burdens.
+C1 Department of Biology, University of Rochester, 14627, Rochester, NY, USA.
+   Ecology Section, Biological Sciences Group, University of Connecticut, 06268, Storrs, CN, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD AUG 1
+PY 1992
+VL 91
+IS 1
+BP 118
+EP 125
+DI 10.1007/BF00317249
+PG 7
+UT PubMed:28313382
+PM 28313382
+DA 1992-08-01
+ER
+
+PT J
+AU Watterson, GA
+   Donnelly, P
+AF Watterson, G A
+   Donnelly, P
+TI Do Eve's alleles live on?
+SO Genetical research
+LA English
+DT Journal Article
+AB Consider a random sample of genes at a locus, drawn from a population evolving  according to the infinitely many, neutral, alleles model. The sample will have a  most recent common ancestor gene, which we shall call 'Eve'. The probability  distribution, for the number of genes of oldest allelic type in a sample, is  known and has a neat form. Rather less is known about the distribution for the  number of genes in the sample which are of the same allelic type as Eve  possessed. If the latter number is positive, then these genes are automatically  of the oldest type in the sample. But Eve may have no non-mutant descendants in  the sample; then, the oldest allele will be a mutant arising in a line of descent  after Eve. The paper studies the number of non-mutant descendants from Eve, its  distribution and moments. It seems that there may be few neat results. In large  samples, the proportion of genes of Eve's type has an approximate beta-like  density, together with a discrete probability atom at zero, if the mutation rate  parameter is low. Extinction of the allele of even the population's common  ancestor is possible, but not certain, and bounds are obtained for its  probability. Some comments are made about the applications and implications of  the results for human mitochondrial DNA.
+C1 Department of Mathematics, Monash University, Victoria, Australia.
+NR 0
+TC 0
+SN 
+EI 
+J9 Genet Res
+PD DEC 1
+PY 1992
+VL 60
+IS 3
+BP 221
+EP 34
+DI 10.1017/s0016672300030974
+PG -187
+WC Alleles; Biological Evolution; DNA, Mitochondrial; genetics; Genes; Humans; Models, Genetic; Mutation; Probability; Stochastic Processes
+UT PubMed:1286806
+PM 1286806
+DA 1992-12-01
+ER
+
+PT J
+AU Tilman, D
+   El, Haddi A
+AF Tilman, D
+   El Haddi, A
+TI Drought and biodiversity in Grasslands.
+SO Oecologia
+LA English
+DT Journal Article
+DE Colonization; Diversity; Drought; Extinctions; Species richness
+AB The local species richness of four different grassland fields fell an average of  37% during a 1988 drought that decreased above-ground living plant mass by an  average of 47%. Despite the return to more normal plant mass and precipitation  during the next two years, there was no significant recovery in species richness  in the 46 permanent plots, suggesting that local species richness became  recruitment limited. The drought led to the loss of annual species independent of  their abundance. For perennial grasses, perennial forbs, legumes and woody  species, the probability of a species being lost from a plot was significantly  negatively correlated with its predrought abundance. These results demonstrate  that environmentally extreme conditions can limit species richness by causing the  local extinction of rare species. Because droughts of this intensity occur about  every 50 years in the prairie, periodic drought may have limited prairie  diversity. Moreover, if the accumulation of greenhouse gases leads to a more  variable or extreme climate, it could cause increased rates of species  extinctions.
+C1 Department of Ecology, Evolution and Behavior, University of Minnesota, 318 Church St. SE, 55455, Minneapolis, MN, USA.
+   Department of Ecology, Evolution and Behavior, University of Minnesota, 318 Church St. SE, 55455, Minneapolis, MN, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD FEB 1
+PY 1992
+VL 89
+IS 2
+BP 257
+EP 264
+DI 10.1007/BF00317226
+PG 7
+UT PubMed:28312881
+PM 28312881
+DA 1992-02-01
+ER
+
+PT J
+AU Ahuja, SK
+   Ozçelik, T
+   Milatovitch, A
+   Francke, U
+   Murphy, PM
+AF Ahuja, S K
+   Ozçelik, T
+   Milatovitch, A
+   Francke, U
+   Murphy, P M
+TI Molecular evolution of the human interleukin-8 receptor gene cluster.
+SO Nature genetics
+LA English
+DT Journal Article
+AB Interleukin-8 (IL-8) is the prototype for a family of at least eight neutrophil  chemoattractants whose genes map to human chromosome 4q13-q21. Two human IL-8  receptors, IL8RA and IL8RB, are known from cDNA cloning; IL8RA is a promiscuous  receptor for at least two other related ligands, GRO alpha and NAP-2. We now  report cloning of the genes for IL8RA, IL8RB and a recently inactivated  pseudogene of receptor A (IL8RAP). These form a cluster of only three genes in  the superfamily of G protein-coupled receptors (GPCRs) and map to 2q34-q35. The  coevolutionary diversity displayed by the IL-8 ligand-receptor complex--ligand  promiscuity for IL-8, receptor promiscuity for IL8RA, gene duplication for both  ligands and receptors and gene extinction in the case of IL8RAP--is unprecedented  for the GPCR superfamily.
+C1 National Institute of Allergy and Infectious Diseases, National Institutes of Health, Bethesda, Maryland 20892.
+NR 0
+TC 0
+SN 
+EI 1061-403
+J9 Nat Genet
+PD SEP 1
+PY 1992
+VL 2
+IS 1
+BP 31
+EP 6
+DI 10.1038/ng0992-31
+PG -25
+WC Amino Acid Sequence; Base Sequence; Biological Evolution; Chromosome Mapping; Chromosomes, Human, Pair 4; DNA; genetics; Humans; Molecular Sequence Data; Multigene Family; Polymerase Chain Reaction; Pseudogenes; Receptors, Immunologic; genetics; Receptors, Interleukin-8A; Sequence Homology, Amino Acid
+UT PubMed:1303245
+PM 1303245
+DA 1992-09-01
+ER
+
+PT J
+AU Renne, PR
+   Ernesto, M
+   Pacca, IG
+   Coe, RS
+   Glen, JM
+   Prévot, M
+   Perrin, M
+AF Renne, P R
+   Ernesto, M
+   Pacca, I G
+   Coe, R S
+   Glen, J M
+   Prévot, M
+   Perrin, M
+TI The age of parana flood volcanism, rifting of gondwanaland, and the
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The Paraná-Etendeka flood volcanic event produced approximately 1.5 x 10(6) cubic  kilometers of volcanic rocks, ranging from basalts to rhyolites, before the  separation of South America and Africa during the Cretaceous period. New  (40)Ar/(39)Ar data combined with earlier paleomagnetic results indicate that  Paraná flood volcanism in southern Brazil began at 133 +/- 1 million years ago  and lasted less than 1 million years. The implied mean eruption rate on the order  of 1.5 cubic kilometers per year is consistent with a mantle plume origin for the  event and is comparable to eruption rates determined for other well-documented  continental flood volcanic events. Paraná flood volcanism occurred before the  initiation of sea floor spreading in the South Atlantic and was probably  precipitated by uplift and weakening of the lithosphere by the Tristan da Cunha  plume. The Parana event postdates most current estimates for the age of the  faunal mass extinction associated with the Jurassic-Cretaceous boundary.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 6
+PY 1992
+VL 258
+IS 5084
+BP 975
+EP 9
+DI 10.1126/science.258.5084.975
+PG -966
+UT PubMed:17794593
+PM 17794593
+DA 1992-11-06
+ER
+
+PT J
+AU Tamura, R
+   Ono, T
+   Fukuda, M
+   Nishijo, H
+AF Tamura, R
+   Ono, T
+   Fukuda, M
+   Nishijo, H
+TI Monkey hippocampal neuron responses to complex sensory stimulation during object
+SO Hippocampus
+LA English
+DT Journal Article
+AB The purpose of this study was to investigate, during the performance of an object  discrimination task, responses of neurons in the monkey hippocampal formation to  the sight of several objects that have biological meaning, and compare these  responses with those of amygdalar neurons studied previously using the same task.  Neuronal activity in the hippocampal formation of conscious monkeys was recorded  during performance of a task that led to presentation of familiar rewarding,  familiar aversive, or unfamiliar objects. Of 864 neurons recorded in the  hippocampal formation and adjacent cortices, 160 (18.5%) responded to the sight  of a certain object(s). Responses to the sight of different kinds of objects were  analyzed in detail. Nondifferential neurons (n = 73) responded to different  objects with no significant difference in response magnitudes, and differential  neurons (n = 87) responded to different objects with different response  magnitudes. Of the differential neurons, 23 responded more strongly to rewarding  objects than to other objects (rewarding-object-dominant neurons), but the  magnitude of responses to objects did not necessarily correlates with the order  of preferences to the objects as determined from observation of animal behavior.  Aversive-object-dominant neurons (n = 13) responded more to aversive objects than  to other objects. Unfamiliar-object-dominant neurons (n = 7) responded more to  unfamiliar objects than to familiar objects. Selective neurons (n = 10) responded  selectively to only one object or one category of objects. Fourteen of the  rewarding- or averse-object-dominant neurons were tested in extinction or  reversal trials. In 12 of 14 neurons, responses to a rewarding or aversive object  did not change, or slightly weakened, in extinction or reversal trials. The  results suggest the following. (1) Responses of rewarding- or  aversive-object-dominant neurons may be involved in object-reward or  object-aversion association. However, responses of many of these neurons might  reflect past inputs to reinforcement rather than extant emotional processing. (2)  Responses of unfamiliar-object-dominant neurons may be involved in recognition of  objects based on their familiar or unfamiliar aspects. These results are further  discussed and compared with responsiveness of amygdalar neurons.
+C1 Department of Physiology, Faculty of Medicine, Toyama Medical and Pharmaceutical University, Sugitani, Japan.
+NR 0
+TC 0
+SN 
+EI 1050-963
+J9 Hippocampus
+PD JUL 1
+PY 1992
+VL 2
+IS 3
+BP 287
+EP 306
+DI 10.1002/hipo.450020308
+PG 19
+WC Acoustic Stimulation; Amygdala; physiology; Analysis of Variance; Animals; Avoidance Learning; Discrimination Learning; physiology; Drinking; Eating; Electroshock; Macaca; physiology; Neurons; physiology; Organ Specificity; Photic Stimulation; Physical Stimulation; Taste; Touch; Visual Perception; physiology
+UT PubMed:1308189
+PM 1308189
+DA 1992-07-01
+ER
+
+PT J
+AU Sinsch, U
+AF Sinsch, Ulrich
+TI Structure and dynamic of a natterjack toad metapopulation (Bufo calamita).
+SO Oecologia
+LA English
+DT Journal Article
+DE Allozymes; Bufo calamita; Genetic diversity; Metapopulation; Migration
+AB The migratory and reproductive behaviour ofBufo calamita was studied at four  neighbouring breeding sites in the northern Rhineland, Germany, from 1986 to  1991. Radio telemetry and marking systems based on toe-clipping and on microchips  were used to follow the tracks of toads and for individual recognition. Emphasis  lay on estimates of (1) the exchange of reproductive individuals between  neighbouring sites, and (2) the reproductive success at each site. Allozyme  electrophoresis served to assess the genetic diversity of local populations. More  than 90% of all reproductive males showed a lifelong fidelity to the site of  first breeding, whereas females did not prefer certain breeding sites. Due to the  female-biased exchange of individuals among neighbouring sites the genetic  distance between local populations was generally low but increased with  geographical distance. This pattern of spatial relations is consistent with the  structure of a metapopulation. Morever, up to three mass immigrations of males  per breeding period, replacing previously reproductive individuals, suggested the  existence of temporal populations successively reproducing at the same locality.  Genetic distances were considerably greater between temporal populations than  between local ones, indicating partial reproductive isolation. In fact, an  exchange of reproductive individuals between the temporal populations at each  site was not detected, but gene flow due to the recruitment of first-breeders  originating from offspring other than their own seems probable. Thus, natterjack  metapopulations consist of interacting local and temporal populations. The  reproductive success differed considerably among the four sites and also between  the temporal populations. Three out of four local populations had low  reproductive success as well as the latest temporal population. The persistence  of these populations depended entirely on the recruitment of juveniles from the  only self-sustaining local population. This "rescue-effect" impeded local  extinction. The discussion focuses on the modifications required to fit the  classical metapopulation concept to the empirical findings and their consequences  for the dynamics of amphibian metapopulations.
+C1 Zoologisches Institut der Universität, Poppelsdorfer Schloß, W-5300, Bonn 1, Federal Republic of Germany.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD JUL 1
+PY 1992
+VL 90
+IS 4
+BP 489
+EP 499
+DI 10.1007/BF01875442
+PG 10
+UT PubMed:28313568
+PM 28313568
+DA 1992-07-01
+ER
+
+PT J
+AU Hey, J
+AF Hey, Jody
+TI USING PHYLOGENETIC TREES TO STUDY SPECIATION AND EXTINCTION.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Coalescent; extinction molecular clock; null model; speciation; species diversity
+AB One tool in the study of the forces that determine species diversity is the null,  or simple, model. The fit of predictions to observations, good or bad, leads to a  useful paradigm or to knowledge of forces not accounted for, respectively. It is  shown how simple models of speciation and extinction lead directly to predictions  of the structure of phylogenetic trees. These predictions include both essential  attributes of phylogenetic trees: lengths, in the form of internode distances;  and topology, in the form of internode links. These models also lead directly to  statistical tests which can be used to compare predictions with phylogenetic  trees that are estimated from data. Two different models and eight data sets are  considered. A model without species extinction consistently yielded predictions  closer to observations than did a model that included extinction. It is proposed  that it may be useful to think of the diversification of recently formed  monophyletic groups as a random speciation process without extinction.
+C1 Rutgers University, Department of Biological Sciences, Nelson Laboratories, P.O. Box 1059, Piscataway, NJ, 08855, USA.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD JUN 1
+PY 1992
+VL 46
+IS 3
+BP 627
+EP 640
+DI 10.1111/j.1558-5646.1992.tb02071.x
+PG 13
+UT PubMed:28568659
+PM 28568659
+DA 1992-06-01
+ER
+
+PT J
+AU Higgs, PG
+   Derrida, B
+AF Higgs, P G
+   Derrida, B
+TI Genetic distance and species formation in evolving populations.
+SO Journal of molecular evolution
+LA English
+DT Journal Article
+AB We compare the behavior of the genetic distance between individuals in evolving  populations for three stochastic models. In the first model reproduction is  asexual and the distribution of genetic distances reflects the genealogical tree  of the population. This distribution fluctuates greatly in time, even for very  large populations. In the second model reproduction is sexual with random mating  allowed between any pair of individuals. In this case, the population becomes  homogeneous and the genetic distance between pairs of individuals has small  fluctuations which vanish in the limit of an infinitely large population. In the  third model reproduction is still sexual but instead of random mating, mating  only occurs between individuals which are genetically similar to each other. In  that case, the population splits spontaneously into species which are in  reproductive isolation from one another and one observes a steady state with a  continual appearance and extinction of species in the population. We discuss this  model in relation to the biological theory of speciation and isolating  mechanisms. We also point out similarities between these three models of evolving  populations and the theory of disordered systems in physics.
+C1 Service de Physique Théorique, Centre d'Etudes de Saclay, Gif-sur-Yvette, France.
+NR 0
+TC 0
+SN 
+EI 0022-284
+J9 J Mol Evol
+PD NOV 1
+PY 1992
+VL 35
+IS 5
+BP 454
+EP 65
+DI 10.1007/BF00171824
+PG -389
+WC Biological Evolution; Genetic Variation; Genetics, Population; Mathematical Computing; Models, Biological; Models, Genetic; Models, Theoretical; Reproduction; genetics; Reproduction, Asexual
+UT PubMed:1487829
+PM 1487829
+DA 1992-11-01
+ER
+
+PT J
+AU Supowit, SC
+   Ramsey, T
+   Thompson, EB
+AF Supowit, S C
+   Ramsey, T
+   Thompson, E B
+TI Extinction of prolactin gene expression in somatic cell hybrids is correlated
+SO Molecular endocrinology (Baltimore, Md.)
+LA English
+DT Journal Article
+AB The tissue-specific expression of the PRL and GH genes is dependent on the  presence of a pituitary-specific trans-activator, GHF-1/Pit-1. Previous studies  indicate that somatic cell hybridization of rat pituitary GH3 cells with LB82  mouse fibroblasts frequently results in the extinction of GH and PRL expression.  The extinction of the GH gene occurs at the transcriptional level, and is  accompanied by repression of GHF-1/Pit-1 synthesis. To elucidate the mechanism of  PRL extinction we further characterized these same somatic cell hybrid lines as  well as the parental GH3 and LB82 cells. The pattern of PRL extinction and  reexpression paralleled that of GH in the three hybrid lines that were examined.  Two of these lines extinguished both GH and PRL synthesis, while a third  displayed reexpression of both genes, apparently due to the loss of mouse  chromosomal material. These studies revealed that the extinction of PRL  expression in these hybrid lines occurs at the level of mRNA accumulation and is  strongly correlated with the loss of GHF-1/Pit-1 mRNA and protein synthesis.  These data suggest that in pituitary x fibroblast hybrids repression of the  trans-activator GHF-1/Pit-1 is a primary mechanism for the extinction of PRL and  GH gene expression.
+C1 University of Texas Medical Branch, Department of Human Biological Chemistry and Genetics, Galveston 77550.
+NR 0
+TC 0
+SN 
+EI 0888-880
+J9 Mol Endocrinol
+PD MAY 1
+PY 1992
+VL 6
+IS 5
+BP 786
+EP 92
+DI 10.1210/mend.6.5.1603087
+PG -694
+WC Animals; Base Sequence; DNA-Binding Proteins; physiology; Gene Expression Regulation; Hybrid Cells; Mice; Molecular Sequence Data; Pituitary Gland; physiology; Prolactin; genetics; Rats; Trans-Activators; physiology; Transcription Factor Pit-1; Transcription Factors; physiology
+UT PubMed:1603087
+PM 1603087
+DA 1992-05-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI Large-body impact and extinction in the Phanerozoic.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB The kill curve for Phanerozoic marine species is used to investigate large-body  impact as a cause of species extinction. Current estimates of Phanerozoic impact  rates are combined with the kill curve to produce an impact-kill curve, which  predicts extinction levels from crater diameter, on the working assumption that  impacts are responsible for all "pulsed" extinctions. By definition, pulsed  extinction includes the approximately 60% of Phanerozoic extinctions that  occurred in short-lived events having extinction rates greater than 5%. The  resulting impact-kill curve is credible, thus justifying more thorough testing of  the impact-extinction hypothesis. Such testing is possible but requires an  exhaustive analysis of radiometric dating of Phanerozoic impact events.
+C1 Department of the Geological Sciences, University of Chicago, Illinois 60637.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1992
+VL 18
+IS 1
+BP 80
+EP 8
+DI 10.1017/s0094837300012227
+PG -72
+WC Biological Evolution; Fossils; Geological Phenomena; Geology; Models, Theoretical; Oceans and Seas; Paleontology; Solar System; Time Factors
+UT PubMed:11537745
+PM 11537745
+DA 1992-01-01
+ER
+
+PT J
+AU Pivovarov, AS
+   Drozdova, EI
+   Kotlyar, BI
+AF Pivovarov, A S
+   Drozdova, E I
+   Kotlyar, B I
+TI Arachidonic acid and its acyclic derivatives regulate short-term plasticity of
+SO Neuroscience and behavioral physiology
+LA English
+DT Journal Article
+AB The influence of eicosanoids on the dynamics of the extinction of the inward  current, induced by repeated iontophoretic applications of acetylcholine to the  soma has been demonstrated in identified RPa3 and LPa3 neurons of the edible  snail by means of bielectrode recording of the membrane potential. The  extracellular action of arachidonic acid (50-100 mumole/l) intensifies the  extinction. Quinacrine (100-600 mumole/l), an inhibitor of phospholipase A2,  which decreases the content of arachidonic acid in the cells, acts ambiguously.  Nordihydroguaiaretic acid (3-10 mumole/l), which is an inhibitor of the  lipoxygenase oxidation of arachidonic acid, attenuates the extinction.  Indomethacin (10-50 mumole/l), a blocker of cyclooxygenase oxidation of  arachidonic acid, does not influence extinction. All of the compounds  investigated decrease the amplitude of the inward current induced by  acetylcholine. The results obtained make it possible to hypothesize that  arachidonic acid and its acyclic metabolites, which are formed as a result of  lipoxygenase oxidation, regulate short-term plasticity of the cholinoreceptors of  neurons of the edible snail. The cyclic eicosanoids which are formed during the  cyclooxygenase oxidation of arachidonic acid do not exert a regulatory effect on  the plasticity of the cholinoreceptors.
+C1 Department of Higher Nervous Activity of the Biological Faculty, M.V. Lomonosov Moscow State University.
+NR 0
+TC 0
+SN 
+EI 0097-054
+J9 Neurosci Behav Physiol
+PD SEP 1
+PY 1992
+VL 22
+IS 5
+BP 393
+EP 400
+DI 10.1007/BF01186631
+PG 7
+WC Animals; Arachidonic Acids; pharmacology; Down-Regulation; drug effects; Ganglia; cytology; Helix, Snails; physiology; In Vitro Techniques; Indomethacin; pharmacology; Iontophoresis; Masoprocol; pharmacology; Membrane Potentials; drug effects; Neuronal Plasticity; drug effects; Neurons; drug effects; Phospholipases A; antagonists & inhibitors; Phospholipases A2; Quinacrine; pharmacology; Receptors, Cholinergic; drug effects; Synaptic Transmission; drug effects
+UT PubMed:1331852
+PM 1331852
+DA 1992-09-01
+ER
+
+PT J
+AU Kerr, RA
+AF Kerr, R A
+TI Huge impact tied to mass extinction.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD AUG 14
+PY 1992
+VL 257
+IS 5072
+BP 878
+EP 80
+DI 10.1126/science.257.5072.878
+PG -798
+UT PubMed:17789630
+PM 17789630
+DA 1992-08-14
+ER
+
+PT J
+AU Allsopp, N
+   Stock, WD
+AF Allsopp, N
+   Stock, W D
+TI Density dependent interactions between VA mycorrhizal fungi and even-aged
+SO Oecologia
+LA English
+DT Journal Article
+DE Densitydependence; Phosphorus; Plant population dynamics; Resource depletion; Vesicular-arbuscular mycorrhizas
+AB The interaction of density and mycorrhizal effects on the growth, mineral  nutrition and size distribution of seedlings of two perennial members of the  Fabaceae was investigated in pot culture. Seedlings of Otholobium hirtum and  Aspalathus linearis were grown at densities of 1, 4, 8 and 16 plants per 13-cm  pot with or without vesicular-arbuscular (VA) mycorrhizal inoculum for 120 days.  Plant mass, relative growth rates, height and leaf number all decreased with  increasing plant density. This was ascribed to the decreasing availability of  phosphorus per plant as density increased. O. hirtum was highly dependent on  mycorrhizas for P uptake but both mycorrhizal and non-mycorrhizal A. linearis  seedlings were able to extract soil P with equal ease. Plant size distribution as  measured by the coefficient of variation (CV) of shoot mass was greater at higher  densities. CVs of mycorrhizal O. hirtum plants were higher than those of  non-mycorrhizal plants. CVs of the facultatively mycorrhizal A. linearis were  similar for both mycorrhizal and non-mycorrhizal plants. Higher CVs are  attributed to resource preemption by larger individuals. Individuals in  populations with high CVs will probably survive stress which would result in the  extinction of populations with low CVs. Mass of mycorrhizal plants of both  species decreased more rapidly with increasing density than did non-mycorrhizal  plant mass. It is concluded that the cost of being mycorrhizal increases as plant  density increases, while the benefit decreases. The results suggest that  mycorrhizas will influence density-dependent population processes of faculative  and obligate mycorrhizal species.
+C1 Department of Botany, University of Cape Town, Private Bag, 7700, Rondebosch, South Africa.
+   Department of Botany, University of Cape Town, Private Bag, 7700, Rondebosch, South Africa.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD AUG 1
+PY 1992
+VL 91
+IS 2
+BP 281
+EP 287
+DI 10.1007/BF00317797
+PG 6
+UT PubMed:28313470
+PM 28313470
+DA 1992-08-01
+ER
+
+PT J
+AU Gorman, AA
+   Rodgers, MA
+AF Gorman, A A
+   Rodgers, M A
+TI Current perspectives of singlet oxygen detection in biological environments.
+SO Journal of photochemistry and photobiology. B, Biology
+LA English
+DT Review
+AB There is widespread acceptance that singlet oxygen is a key intermediate on one  of the pathways leading to the phenomenon of photodynamic action. However, the  identification of this moiety within a particular biological system and the  determination of a direct link between its presence and a particular photodynamic  effect is a goal which photobiologists have hitherto failed to achieve. The aim  of this review is to assess the problems associated with such a goal and methods  whereby they might be overcome. Initially the general photochemical and  environmental factors which govern the ability of a photosensitizer to promote  photodynamic action via the intermediacy of singlet oxygen are introduced and the  fundamental parameters defining the formation, decay and reactivity of this  species summarized. The experimental requirements for relating a particular  photodynamic effect to singlet oxygen intermediacy are then analysed and the  intrinsic properties of singlet oxygen which will influence this goal are  discussed. Having concluded that the singlet oxygen detection method of choice  for this purpose is that in which the IR emission at 1269 nm of this molecule is  monitored, the advantages and disadvantages of pulsed and continuous wave  photoexcitation of cellular systems are analysed. It becomes evident that, no  matter what the future improvements in instrumentation are likely to be, the  inherent natures of singlet oxygen and the biological system lead to a kinetic  situation which will preclude a successful time-resolved solution to this  problem. In contrast, experimentation with continuous wave systems holds out  significant hope for the future. In particular, the use of phase modulation  techniques to overcome background emission problems, the enhancement of  photosensitizer optical densities as a consequence of higher extinction  coefficients and/or improved photosensitizer delivery systems and the use of high  power lasers and/or improved light delivery systems can, at least in principle,  lead to the solution of the problem addressed herein.
+C1 Chemistry Department, University of Manchester, UK.
+NR 0
+TC 0
+SN 
+EI 1011-134
+J9 J Photochem Photobiol B
+PD JUL 15
+PY 1992
+VL 14
+IS 3
+BP 159
+EP 76
+DI 10.1016/1011-1344(92)85095-c
+PG -83
+WC Animals; Cells; drug effects; Humans; Kinetics; Mathematics; Models, Theoretical; Oxygen; analysis; Photochemistry; Radiation-Sensitizing Agents; pharmacology; Singlet Oxygen
+UT PubMed:1432388
+PM 1432388
+DA 1992-07-15
+ER
+
+PT J
+AU Babkina, NV
+   Tsitolovskii, LE
+AF Babkina, N V
+   Tsitolovskii, L E
+TI Active electrogenesis of command neurons of defense behavior of the snail during
+SO Neuroscience and behavioral physiology
+LA English
+DT Journal Article
+AB A change in the active electrogenesis of command neurons of the defensive closing  of the spiracle of the edible snail during the development, extinction, and  repeat development of a classical conditioned defense reflex in response to  tactile stimulation is described in this study; the tactile stimulation of  another point of the body served as the differential stimulus. As the biological  significance of the conditional stimulus increased as the result of training, the  excitability of the command neurons in response to this stimulus increased. At  the same time, the neurons manifested reduced excitability in response to the  differential stimulus. The possible mechanisms of the rapid reorganization of the  excitability of the neurons and the functional significance of the change in the  generation threshold of the AP are discussed.
+C1 Institute of Radiotechnics, Electronics, and Automation, Moscow.
+NR 0
+TC 0
+SN 
+EI 0097-054
+J9 Neurosci Behav Physiol
+PD SEP 1
+PY 1992
+VL 22
+IS 5
+BP 380
+EP 5
+DI 10.1007/BF01186629
+PG -375
+WC Aggression; physiology; Animals; Association Learning; Conditioning, Classical; physiology; Electrophysiology; Helix, Snails; physiology; Neurons; physiology
+UT PubMed:1436442
+PM 1436442
+DA 1992-09-01
+ER
+
+PT J
+AU Zimmerman, M
+AF Zimmerman, M
+TI The mushroom message.
+SO Baltimore sun
+LA English
+DT Journal Article
+DE Deforestation; Developed Countries; Ecology; Environment; Environmental Degradation; Natural Resources--changes
+AB A basic law of ecology is that living things are tightly dependent on one  another, often in ways that are not easy to imagine. Who, for example, would have  predicted that when the last dodo was killed in 1675, that death would lead to  the slow extermination of the tambalocoque tree, whose fruits germinate only  after passing through the dodo's digestive system? Now no natural strands of  tambalocoque younger than 300 years can be found. Or who would have predicted  that clear-cutting tropical rainforests would so significantly alter local  weather patterns that the tropical rainforest biome itself and its vast diversity  of life might not survive? Such interactions are worth noting because of the  possible ramifications of a phenomenon that ecologists have just begun to  document. Mushrooms worldwide appear to be in a catastrophic state of decline.  Throughout Europe, in countries with terrains as diverse as Holland, Germany,  Austria, Czechoslovakia, Poland and England, wild mushrooms are becoming  increasingly difficult to find. Those fungi that are found are significantly  smaller than those found years ago. Preliminary data suggest that the same  troubling situation is occurring throughout North American as well. The decline  has been so precipitous that biologists have begun to refer to it as a mass  extinction. The 2 obvious explanations for the demise of the mushrooms--habitat  destruction and overpicking of edible types by an ever growing human  population--have been ruled out. Sophisticated sampling schemes designed by  ecologists control for the fact that there is less land available for wild  mushrooms; they have been declining at a rate that far exceeds the rate at which  land is being developed. The fact that the decline has affected both edible and  inedible mushrooms equally indicates that humans hunting for tasty treats are not  the main cause of the problem. The loss of wild mushrooms worldwide might not  seem like that big a deal, but the consequences may well be grave because of the  way those fungi interact with other life forms. If the mushrooms die off,  ecologists fear that our forests may not be far behind. Many mushrooms live in  close association with trees; the mushrooms provide the trees with water and  minerals while the trees supply the mushrooms with carbohydrates. The mushrooms'  underground filaments often extend much deeper into the soil than do the roots of  trees, thus making available to trees resources that would otherwise be unusable.  Ecologists have found that trees lacking mushrooms are significantly more  susceptible to environmental stress than those growing with the fungi. Eef  Arnolds, an ecologist specializing in mushrooms at the Agricultural University of  the Netherlands thinks that "severe frost or drought could lead to a mass dying  of trees." Although the cause of the decline has not be pinpointed, most experts  believe that the mushrooms are responding to abnormal atmospheric levels of  nitrogen, sulfur, and ozone. Dr. Arnolds suggests that in Holland the main  culprit appears to be excessive nitrogen applied as fertilizer to agricultural  fields. Once again it appears that we are seeing the unpredicted effects of our  wanton pollution of our environment. If the experts are correct about the cause  of the decrease in mushroom populations, the mushrooms can provide us with some  very critical information and insight like the canaries that miners used to bring  into mine shafts to warn of a lack of breathable air, these small indicator  species are warning us about the state of our planet. We can only hope that  collectively we have enough sense to begin to pay attention.
+NR 0
+TC 0
+SN 
+EI 
+J9 Sun
+PD APR 28
+PY 1992
+VL 0
+IS 
+BP 11A
+EP 11A
+DI 
+PG 1
+WC Conservation of Natural Resources; Developed Countries; Ecology; Environment
+UT PubMed:12285642
+PM 12285642
+DA 1992-04-28
+ER
+
+PT J
+AU Böttiger, M
+   Larsson, B
+AF Böttiger, M
+   Larsson, B
+TI Swedish inactivated polio vaccine: laboratory standardization and clinical
+SO Biologicals : journal of the International Association of Biological
+LA English
+DT Journal Article
+AB Swedish inactivated polio vaccines have contained per single human dose a mean  amount of viral antigen equivalent to 1 x 10(7.5) CCID50 of type 1, 1 x 10(7.4)  of type 2 and 1 x 10(7.8) of type 3 produced on primary monkey kidney cells.  Potency tests were made in comparison with an equivalent amount of live virus  suspension of all three types. Validation of tests has been based on the response  to type 1 only. Based on clinical experience with vaccine lots from 1957 and the  establishment of the second live reference virus suspension in 1966, the minimum  limit of immune response in guinea-pigs--expressed in extinction values--was  decided as 1.5 for type 1 and type 3, and 1.0 for type 2. The potency test method  used since 1959 in Sweden was two subcutaneous injections 2 weeks apart using 10  guinea-pigs per dilution and blood collected 1 week thereafter. Potency tests  made according to European Pharmacopoeia revealed a somewhat lower value for type  2. D-antigen content in Swedish vaccines was low, however, the Swedish vaccine  has protected against many episodes or outbreaks of wild virus in Sweden and  immunized individuals elsewhere in the world. For the Swedish population a  clear-cut clinical motivation for requiring a higher potency for type 2 as  required in the European Pharmacopoeia or increased levels of D-antigen in the  final product has not been presented. It was concluded that the European  Pharmacopoeia method did not distinguish between doses of 0.5-1.0 ml. The minimum  limit extinction value for type 2, i.e. 2.0 seemed to high.(ABSTRACT TRUNCATED AT  250 WORDS)
+C1 Department of Epidemiology, National Bacteriological Laboratory, Stockholm, Sweden.
+NR 0
+TC 0
+SN 
+EI 1045-105
+J9 Biologicals
+PD DEC 1
+PY 1992
+VL 20
+IS 4
+BP 267
+EP 75
+DI 10.1016/s1045-1056(05)80046-6
+PG -192
+WC Animals; Antibodies, Viral; biosynthesis; Antigens, Viral; administration & dosage; Biological Assay; standards; Child; Child, Preschool; Dose-Response Relationship, Immunologic; Guinea Pigs; Humans; Immunization Schedule; Infant; Neutralization Tests; Poliovirus Vaccine, Inactivated; administration & dosage; Reference Standards; Sweden; Time Factors
+UT PubMed:1305403
+PM 1305403
+DA 1992-12-01
+ER
+
+PT J
+AU Webb, MR
+AF Webb, M R
+TI A continuous spectrophotometric assay for inorganic phosphate and for measuring
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB A spectrophotometric method for the measurement of inorganic phosphate (P(i)) has  been developed by using 2-amino-6-mercapto-7-methylpurine ribonucleoside and  purine-nucleoside phosphorylase (purine-nucleoside:orthophosphate  ribosyltransferase, EC 2.4.2.1). This substrate gives an absorbance increase at  360 nm on phosphorolysis at pH 6.5-8.5, and at pH 7.6 the change in extinction  coefficient is 11,000 M-1.cm-1. The Michaelis-Menten constants of the two  substrates with the enzyme are 70 microM for the nucleoside and 26 microM for  P(i); the kcat is 40 s-1 (25 degrees C). The assay was shown to quantitate P(i)  in solution at concentrations at least down to 2 microM. It can be used to  measure the kinetics of P(i) release from phosphatases, such as GTPases and  ATPases, by coupling the two enzymic reactions. The utility of this assay was  shown by three test systems: glycerol kinase plus D-glyceraldehyde acting as an  ATPase and actin-activated myosin ATPase, and myosin subfragment 1, hydrolyzing a  single turnover of ATP, releasing P(i) with a rate constant the same as the  steady-state ATPase activity.
+C1 National Institute for Medical Research, London, United Kingdom.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JUN 1
+PY 1992
+VL 89
+IS 11
+BP 4884
+EP 7
+DI 10.1073/pnas.89.11.4884
+PG -4877
+WC Guanosine; analogs & derivatives; Hydrogen-Ion Concentration; In Vitro Techniques; Myosins; metabolism; Phosphates; analysis; Purine-Nucleoside Phosphorylase; metabolism; Spectrophotometry; Thionucleosides; chemistry
+UT PubMed:1534409
+PM 1534409
+DA 1992-06-01
+ER
+
+PT J
+AU Nissen-Meyer, J
+   Holo, H
+   Håvarstein, LS
+   Sletten, K
+   Nes, IF
+AF Nissen-Meyer, J
+   Holo, H
+   Håvarstein, L S
+   Sletten, K
+   Nes, I F
+TI A novel lactococcal bacteriocin whose activity depends on the complementary
+SO Journal of bacteriology
+LA English
+DT Journal Article
+AB A lactococcal bacteriocin, termed lactococcin G, was purified to homogeneity by a  simple four-step purification procedure that includes ammonium sulfate  precipitation, binding to a cation exchanger and octyl-Sepharose CL-4B, and  reverse-phase chromatography. The final yield was about 20%, and nearly a  7,000-fold increase in the specific activity was obtained. The bacteriocin  activity was associated with three peptides, termed alpha 1, alpha 2, and beta,  which were separated by reverse-phase chromatography. Judging from their amino  acid sequences, alpha 1 and alpha 2 were the same gene product. Differences in  their configurations presumably resulted in alpha 2 having a slightly lower  affinity for the reverse-phase column than alpha 1 and a reduced bacteriocin  activity when combined with beta. Bacteriocin activity required the complementary  action of both the alpha and the beta peptides. When neither alpha 1 nor beta was  in excess, about 0.3 nM alpha 1 and 0.04 nM beta induced 50% growth inhibition,  suggesting that they might interact in a 7:1 or 8:1 ratio. As judged by the amino  acid sequence, alpha 1 has an isoelectric point of 10.9, an extinction  coefficient of 1.3 x 10(4) M-1 cm-1, and a molecular weight of 4,346 (39 amino  acid residues long). Similarly, beta has an isoelectric point of 10.4, an  extinction coefficient of 2.4 x 10(4) M-1 cm-1, and a molecular weight of 4110  (35 amino acid residues long). Molecular weights of 4,376 and 4,109 for alpha 1  and beta, respectively, were obtained by mass spectrometry. The N-terminal halves  of both the alpha and beta peptides may form amphiphilic alpha-helices,  suggesting that the peptides are pore-forming toxins that create cell membrane  channels through a "barrel-stave" mechanism. The C-terminal halves of both  peptides consist largely of polar amino acids.
+C1 Laboratory of Microbial Gene Technology, NLVF, As, Norway.
+NR 0
+TC 0
+SN 1098-553
+EI 0021-919
+J9 J Bacteriol
+PD SEP 1
+PY 1992
+VL 174
+IS 17
+BP 5686
+EP 92
+DI 10.1128/jb.174.17.5686-5692.1992
+PG -5594
+WC Amino Acid Sequence; Bacterial Proteins; chemistry; Bacteriocins; chemistry; Lactococcus lactis; pathogenicity; Macromolecular Substances; Mass Spectrometry; Molecular Sequence Data; Protein Conformation; Sequence Alignment; Structure-Activity Relationship
+UT PubMed:1512201
+PM 1512201
+DA 1992-09-01
+ER
+
+PT J
+AU Bidzseranova, A
+   Gueron, J
+   Tóth, G
+   Varga, J
+   Telegdy, G
+AF Bidzseranova, A
+   Gueron, J
+   Tóth, G
+   Varga, J
+   Telegdy, G
+TI Structure-activity studies on the effects of atrial natriuretic peptide, brain
+SO Neuropeptides
+LA English
+DT Journal Article
+AB Our previous studies have demonstrated that rat atrial natriuretic peptide (rANP  1-28) and porcine brain natriuretic peptide (pBNP 1-32) administered into the  lateral brain facilitate the consolidation of a passive avoidance response and  delay the extinction of an active avoidance response in fear-motivated learning  in rats. To study the structure-activity relationships in the same learning  processes, the effects of several fragments related to ANP and BNP were  investigated following their intracerebroventricular administration to rats. The  following peptides were studied: rANP 1-28, rANP 5-28, rANP 5-27, rANP 7-23  (ring), rANP 17-23, hANP 10-28, hANP 15-28, hANP 20-28, hANP 1-28, pBNP 1-32 and  pBNP 7-32. The peptides were used in equimolar concentration. Two of the peptides  studied, ANP 20-28 and ANP 17-23, were ineffective on the extinction of active  avoidance behavior and on the consolidation of passive avoidance learning. They  exhibited similar actions. The results showed that small fragments of ANP and BNP  can carry the biological activity of ANP and BNP on the central nervous system  (CNS). It is likely that the biological active center for ANP lies between amino  acids 15 and 23 and it is suspected that the ring structure is not absolutely  important for the CNS activity.
+C1 Institute of Pathophysiology, Albert Szent-Györgyi Medical University, Szeged, Hungary.
+NR 0
+TC 0
+SN 
+EI 0143-417
+J9 Neuropeptides
+PD OCT 1
+PY 1992
+VL 23
+IS 2
+BP 61
+EP 5
+DI 10.1016/0143-4179(92)90079-c
+PG -56
+WC Amino Acid Sequence; Animals; Atrial Natriuretic Factor; pharmacology; Avoidance Learning; drug effects; Extinction, Psychological; drug effects; Fear; drug effects; Injections, Intraventricular; Male; Molecular Sequence Data; Motivation; Natriuretic Peptide, Brain; Nerve Tissue Proteins; pharmacology; Rats; Rats, Inbred Strains; Structure-Activity Relationship; Swine
+UT PubMed:1454154
+PM 1454154
+DA 1992-10-01
+ER
+
+PT J
+AU Foley, P
+AF Foley, Patrick
+TI SMALL POPULATION GENETIC VARIABILITY AT LOCI UNDER STABILIZING SELECTION.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Conservation genetics; genetic variation; molecular clock; small population
+AB Genetic variability at a locus under stabilizing selection in a finite population  is investigated using analytic methods and computer simulations. Three measures  are examined: the number of alleles k, heterozygosity H, and additive genetic  variance Vg. A nearly-neutral theory results. The composite parameter S = NV(M)  /V(s) (where N is the population size, V(M) the variance of new mutant allelic  effects and V(s) the weakness of stabilizing selection) figures prominently in  the results. The equilibrium heterozygosity is similar to that of strictly  neutral theory, H = 4N(μc) / (1 + 4N(μc) ), except that μ(c) = μe=μ/1+cS where c  is about 0.5. Simulations corroborate Vg=4μVs1+1/S except for very low N. Genetic  variability attains similar equilibrium values at both a "lone" locus and at an  "embedded" locus. This agrees with my earlier work concerning molecular clock  rates. These results modify the neutralist interpretation of data concerning  genetic variability and genetic distances between populations. Low H values are  proportional not to N but to N. This may explain the narrow observed range of H  among species. Heterozygosities need not be highly correlated to genetic  variances. Genetic variances are not highly dependent on population size except  in very small populations which are difficult to sample without bias because the  smallest populations go extinct the fastest. Nearly neutral evolution will not be  easily distinguished from strictly neutral theory under the  Hudson-Kreitman-Aguade inter-/intraspecific variation ratio test, since a similar  effective mutation rate holds for genetic distances and D = 2μ(c) t, where  μe=μ/1+S. As with strictly neutral theory, comparisons across loci should show D  and H to be positively correlated because of the shared μ(c) . But unlike neutral  theory, for a given locus, comparisons across species should show D and H to be  negatively correlated. There is no obvious threshold of population size below  which genetic variability inevitably declines. Extinction depends on both genetic  variation and natural selection. Neither theory nor observation presently  indicates the measure of genetic variability (k, H, V(G) or other) that best  indicates vulnerability of a small population to extinction.
+C1 Department of Biological Sciences, California State University, Sacramento, CA, 95819, USA.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD JUN 1
+PY 1992
+VL 46
+IS 3
+BP 763
+EP 774
+DI 10.1111/j.1558-5646.1992.tb02082.x
+PG 11
+UT PubMed:28568660
+PM 28568660
+DA 1992-06-01
+ER
+
+PT J
+AU Neubert, MG
+   Kot, M
+AF Neubert, M G
+   Kot, M
+TI The subcritical collapse of predator populations in discrete-time predator-prey
+SO Mathematical biosciences
+LA English
+DT Review
+AB Many discrete-time predator-prey models possess three equilibria, corresponding  to (1) extinction of both species, (2) extinction of the predator and survival of  the prey at its carrying capacity, or (3) coexistence of both species. For a  variety of such models, the equilibrium corresponding to coexistence may lose  stability via a Hopf bifurcation, in which case trajectories approach an  invariant circle. Alternatively, the equilibrium may undergo a subcritical flip  bifurcation with a concomitant crash in the predator's population. We review a  technique for distinguishing between subcritical and supercritical flip  bifurcations and provide examples of predator-prey systems with a subcritical  flip bifurcation.
+C1 Department of Applied Mathematics, University of Washington, Seattle 98195.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD JUN 1
+PY 1992
+VL 110
+IS 1
+BP 45
+EP 66
+DI 10.1016/0025-5564(92)90014-n
+PG 21
+WC Animals; Mathematics; Models, Biological; Population Dynamics; Predatory Behavior
+UT PubMed:1623297
+PM 1623297
+DA 1992-06-01
+ER
+
+PT J
+AU Berman, JJ
+   Moore, GW
+AF Berman, J J
+   Moore, G W
+TI Spontaneous regression of residual tumour burden: prediction by Monte Carlo
+SO Analytical cellular pathology : the journal of the European Society for
+LA English
+DT Journal Article
+AB Current cancer treatment protocols are designed to release the tumour burden down  to a small number of cells. In this study, we use Monte Carlo simulations to show  that small populations of cells with intrinsic cell loss rates comparable to the  cell loss rates observed clinically in human tumours, may regress spontaneously.  Large populations of cells tend to grow under the same conditions of cell loss  that result in extinction of small clones. Furthermore, minor variations in the  intrinsic cell death probability near 0.50 result in large differences in the  number of surviving cells calculated at the 100th generation. When Monte Carlo  simulations of clonal growth resulted in clones with large populations (> 50  cells), the population as a whole behaved in a deterministic fashion (logarithmic  growth) similar to those observed in clinically observed neoplasms and consistent  with other published models of tumour growth. These findings provide a plausible  explanation for the clinically observed failure of tumours to recur in instances  where tumour burden remains following cancer therapy. The findings also  demonstrate the usefulness of the Monte Carlo method to simulate biologic events  in populations where the fate of each member of a population can be modeled  probabilistically.
+C1 Department of Pathology, D.V.A. Medical Center, Baltimore, MD.
+NR 0
+TC 0
+SN 
+EI 0921-891
+J9 Anal Cell Pathol
+PD SEP 1
+PY 1992
+VL 4
+IS 5
+BP 359
+EP 68
+DI 
+PG -291
+WC Cell Death; Computer Simulation; Humans; Models, Biological; Monte Carlo Method; Neoplasm Regression, Spontaneous; pathology; Probability
+UT PubMed:1445794
+PM 1445794
+DA 1992-09-01
+ER
+
+PT J
+AU Goss, RJ
+AF Goss, R J
+TI The evolution of regeneration: adaptive or inherent?
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB If regeneration were adaptive, it would have arisen autonomously by natural  selection from non-regenerative antecedents. Unless each episode coincidentally  reinvented the same method of regeneration independently, one would expect the  various lineages to differ basically from each other, which they do not. On the  other hand, if regeneration were inherent to metazoan life, a derivative of  embryogenesis, its various expressions should be as much like each other as they  resemble the development of embryonic appendage buds, which they do. It follows  that the uneven distribution of regeneration must have been due to its extinction  here and there, not as a negative adaptation by natural selection but as a  pleiotropic epiphenomenon linked to more useful adaptations with which it was  incompatible. In vertebrate evolution, these adaptations have included the  transition from aquatic to terrestrial habitats and the modification of  poikilothermic to homeothermic metabolism. The former advance rendered the  regeneration of weight-bearing limbs impractical; the latter favored rapid wound  healing and scar formation which effectively precluded blastema formation. If the  latent capacity for regeneration persists in non-regenerative appendages, as  would seem to be the case, then the restoration of its overt expression should be  possible if the mechanisms of its inhibition could be discovered and eventually  rendered ineffectual.
+C1 Division of Biology and Medicine, Brown University, Providence, RI 02912.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD NOV 21
+PY 1992
+VL 159
+IS 2
+BP 241
+EP 60
+DI 10.1016/s0022-5193(05)80704-0
+PG -181
+WC Adaptation, Physiological; Animals; Biological Evolution; Environment; Regeneration; Selection, Genetic; Wound Healing; physiology
+UT PubMed:1294847
+PM 1294847
+DA 1992-11-21
+ER
+
+PT J
+AU Margulis, L
+AF Margulis, L
+TI Biodiversity: molecular biological domains, symbiosis and kingdom origins.
+SO Bio Systems
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The number of extant species of organisms is estimated to be from fewer than 3 to  more than 30 x 10(6) (May, 1992). Molecular biology, comparative genetics and  ultrastructural analyses provide new insights into evolutionary relationships  between these species, including increasingly precise ideas of how species and  higher taxa have evolved from common ancestors. Accumulation of random mutations  and large macromolecular sequence change in all organisms since the Proterozoic  Eon has been importantly supplemented by acquisition of inherited genomes  ('symbiogenesis'). Karyotypic alterations (polyploidization and karyotypic  fissioning) have been added to these other mechanisms of species origin in plants  and animals during the Phanerozoic Eon. The new evolution concepts (coupled with  current rapid rates of species extinction and ignorance of the extent of  biodiversity) prompted this analysis of the field of systematic biology and its  role in the reorganization of extant species into higher taxa. Two superkingdoms  (= Domains: Prokaryotae and Eukaryotae) and five kingdoms (Monera = Procaryotae  or Bacteria; Protoctista: algae, amoebae, ciliates, foraminifera, oomycetes,  slime molds, etc.; Mychota: 'true' fungi; Plantae: one phylum (division) of  bryophytes and nine phyla of tracheophytes; and Animalia) are recognized. Two  subkingdoms comprise the monera: the great diverse lineages are Archaebacteria  and Eubacteria. The criteria for classification using molecular, ultrastructural  and genetic data for this scheme are mentioned. For the first time since the  nineteenth century, logical, technical definitions for each group are given with  their time of appearance as inferred from the fossil record in the primary  scientific literature. This classification scheme, which most closely reflects  the evolutionary history, molecular biology, genetics and ultrastructure of  extant life, requires changes in social organization of biologists, many of whom  as botanists and zoologists, still behave as if there were only two important  kingdoms (plants and animals).
+C1 Department of Biology, University of Massachusetts, Amherst 01003.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1992
+VL 27
+IS 1
+BP 39
+EP 51
+DI 10.1016/0303-2647(92)90045-z
+PG 12
+WC Animal Population Groups; classification; Animals; Bacteria; classification; Biological Evolution; Fungi; classification; Genetic Variation; Genome; Models, Biological; Phylogeny; Plants; classification; Symbiosis
+UT PubMed:1391690
+PM 1391690
+DA 1992-01-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI A compendium of fossil marine animal families, 2nd edition.
+SO Contributions in biology and geology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB A comprehensive listing of 4075 taxonomic families of marine animals known from  the fossil record is presented. This listing covers invertebrates, vertebrates,  and animal-like protists, gives time intervals of apparent origination and  extinction, and provides literature sources for these data. The time intervals  are mostly 81 internationally recognized stratigraphic stages; more than half of  the data are resolved to one of 145 substage divisions, providing more highly  resolved data for studies of taxic macroevolution. Families are classified by  order, class, and phylum, reflecting current classifications in the published  literature. This compendium is a new edition of the 1982 publication, correcting  errors and presenting greater stratigraphic resolution and more current ideas  about acceptable families and their classification.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0160-531
+J9 Contrib Biol Geol
+PD MAR 1
+PY 1992
+VL 83
+IS 
+BP 1
+EP 156
+DI 
+PG 155
+WC Animals; Biological Evolution; Fossils; Marine Biology; classification; Paleontology; Phylogeny
+UT PubMed:11542296
+PM 11542296
+DA 1992-03-01
+ER
+
+PT J
+AU Ide, H
+   Hagi, A
+   Ohsumi, S
+   Murakami, A
+   Makino, K
+AF Ide, H
+   Hagi, A
+   Ohsumi, S
+   Murakami, A
+   Makino, K
+TI Monomer-dimer equilibrium of nitroso-aromatic spin trap
+SO Biochemistry international
+LA English
+DT Journal Article
+AB 3,5-Dibromo-4-nitrosobenzenesulfonic acid, sodium salt (DBNBS), which is widely  used as a spin trap in biological systems, was allowed to form the monomer-dimer  equilibrium in aqueous solution, and its equilibrium constant (Kc) was determined  by NMR measurement and visible spectrum analysis. The Kc values obtained from the  two different methods were virtually identical and evaluated as 1.3 x 10(-3) mol  dm-3 at 25 degrees C. Further, the molar extinction coefficient of DBNBS monomer  (epsilon 760) was determined to be 34 dm3mol-1cm-1. The present results indicate  that only a minor portion (ca. 20%) of dissolved DBNBS (10 mmol dm-3) is  practically capable of spin trapping under the conditions most widely used in  biological studies.
+C1 Department of Polymer Science and Engineering, Kyoto Institute of Technology, Japan.
+NR 0
+TC 0
+SN 
+EI 0158-523
+J9 Biochem Int
+PD JUL 1
+PY 1992
+VL 27
+IS 3
+BP 367
+EP 72
+DI 
+PG -295
+WC Benzenesulfonates; chemistry; Magnetic Resonance Spectroscopy; Molecular Structure; Nitroso Compounds; chemistry; Solutions; Spin Labels; Water
+UT PubMed:1417874
+PM 1417874
+DA 1992-07-01
+ER
+
+PT J
+AU Tsitolovsky, LE
+   Babkina, NV
+AF Tsitolovsky, L E
+   Babkina, N V
+TI Selective form of an excitable membrane plasticity.
+SO Brain research
+LA English
+DT Journal Article
+AB This work describes the change in an active electrogenesis of the command neurons  responsible for defensive closure of a snail's pneumostome during elaborating,  extinction and restoration of a classical conditioned defensive reflex to a  tactile stimulus. Tactile stimulations applied to different parts of a snail's  body served as a differential stimulus. As the biological value of a conditioned  stimulus increases due to learning, the excitability of command neurons in  response to conditioned stimulus rises. At the same time the neurons demonstrated  a reduced excitability in response to a differentiating stimulus.
+NR 0
+TC 0
+SN 
+EI 0006-899
+J9 Brain Res
+PD NOV 6
+PY 1992
+VL 595
+IS 1
+BP 67
+EP 73
+DI 10.1016/0006-8993(92)91453-l
+PG 6
+WC Animals; Conditioning, Classical; physiology; Extinction, Psychological; physiology; Helix, Snails; physiology; Membranes; physiology; Neuronal Plasticity; physiology; Neurons; physiology; Physical Stimulation
+UT PubMed:1467960
+PM 1467960
+DA 1992-11-06
+ER
+
+PT J
+AU Andres, AJ
+   Cherbas, P
+AF Andres, A J
+   Cherbas, P
+TI Tissue-specific ecdysone responses: regulation of the Drosophila genes Eip28/29
+SO Development (Cambridge, England)
+LA English
+DT Journal Article
+AB The Drosophila genes Eip28/29 and Eip40 are expressed in Kc cells and are rapidly  induced by the steroid hormone ecdysone. The molecular basis for Eip28/29's  regulation in those cells has been studied in some detail. To determine how this  regulation relates to normal development, we have examined the expression of both  genes throughout Drosophila development, with special attention to Eip28/29 and  the final larval instar. Eip28/29 expression is complex; there are tissues in  which it is never expressed, others in which it is continuously expressed at a  low level and tissues in which its expression is regulated without obvious  relationship to endocrine events. However high-level Eip28/29 expression always  correlates with the presence of ecdysone and there is good evidence that Eip28/29  is directly regulated by the hormone in some tissues and at some stages. Most  striking are the induction of Eip28/29 transcripts in numerous tissues at the  last larval molt, their induction in the epidermis at the time of the 'late 3rd  transition', their extinction in the same tissue by the premetamorphic ecdysone  peak, and their induction by that peak in the lymph gland, hemocytes and  proventriculus. These contrasting regulatory behaviors provide a well-defined  model for studying the developmental specificity of steroid responses. Eip40  appears to be ecdysone-inducible only in the lymph gland and there only at the  premetamorphic peak. The similarities been Eip28/29 and Eip40 regulation in the  lymph gland and Kc cells support the idea that Kc cells are derived from a  hematopoietic ancestor.
+C1 Department of Biology and Program in Genetics, Indiana University, Bloomington 47405.
+NR 0
+TC 0
+SN 
+EI 0950-199
+J9 Development
+PD DEC 1
+PY 1992
+VL 116
+IS 4
+BP 865
+EP 76
+DI 10.1242/dev.116.4.865
+PG -789
+WC Animals; Drosophila; embryology; Ecdysone; physiology; Gene Expression Regulation; drug effects; Genes, Insect; genetics; In Situ Hybridization, Fluorescence; Lymph Nodes; physiology; Metamorphosis, Biological; genetics
+UT PubMed:1295740
+PM 1295740
+DA 1992-12-01
+ER
+
+PT J
+AU Berlin, YA
+   Drobnitsky, DO
+   Goldanskii, VI
+   Kuz'min, VV
+AF Berlin, Y A
+   Drobnitsky, D O
+   Goldanskii, V I
+   Kuz'min, V V
+TI On inherited fertility in biological systems: a model of correlated fluctuations
+SO Bio Systems
+LA English
+DT Journal Article
+AB A new evolutionary model with hereditary modes considered as correlated  fluctuations of fertility has been proposed. It has been demonstrated that the  model allows the global statistical properties of the system to be evaluated,  e.g. the ensemble average and the probability of extinction. The results obtained  show the increase of instability of a population with the enhancement of  inheritance efficiency. The existence of at least an exponential stratification  in the population has also been shown. Possible applications of the present model  are discussed.
+C1 N.N. Semenov Institute of Chemical Physics, Academy of Sciences of USSR, Moscow, Russia.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1992
+VL 26
+IS 3
+BP 185
+EP 92
+DI 10.1016/0303-2647(92)90078-d
+PG -93
+WC Animals; Biological Evolution; Female; Fertility; genetics; Male; Models, Biological; Population Dynamics; Stochastic Processes; Systems Theory
+UT PubMed:1567997
+PM 1567997
+DA 1992-01-01
+ER
+
+PT J
+AU Diek, Van Mansvelt J
+AF Diek Van Mansvelt, J
+TI [Towards a renewable and sustainable agriculture. Biological agriculture: from
+SO Revue tiers-monde
+LA fre
+DT Journal Article
+DE Agricultural Development; Agriculture; Developed Countries; Developing Countries; Economic Factors; Environment; Environmental Protection; Europe; Macroeconomic Factors; Natural Resources; Philosophical Overview; Rural Development
+NR 0
+TC 0
+SN 
+EI 1293-888
+J9 Tiers Monde
+PD APR 1
+PY 1992
+VL 33
+IS 130
+BP 311
+EP 28
+DI 
+PG -283
+WC Agriculture; Conservation of Natural Resources; Developed Countries; Developing Countries; Economics; Environment; Europe; Philosophy; Social Planning
+UT PubMed:12343875
+PM 12343875
+DA 1992-04-01
+ER
+
+PT J
+AU Kasper, J
+   Diefenhardt, A
+   Mackert, A
+   Thoden, U
+AF Kasper, J
+   Diefenhardt, A
+   Mackert, A
+   Thoden, U
+TI The vestibulo-ocular response during transient arousal shifts in man.
+SO Acta oto-laryngologica
+LA English
+DT Journal Article
+AB Horizontal vestibulo-ocular response (VOR) evoked by continuous sinusoidal  rotation (0.1 Hz, +/- 90 degrees) was recorded in 20 young and healthy volunteers  by DC oculography (EOG). Arousal was assessed by EEG and by reaction time  measurement. While alert subject showed the characteristic VOR with vestibular  nystagmus, the quick repositioning flicks disappeared during light sleep and  changed to largely compensatory smooth eye deviations. This state of reduced  arousal was also characterized by EEG attenuation and slow reaction times.  Furthermore, we observed brief states with complete extinction of the vestibular  response but without significant EEG change. The results demonstrate the high  variability of VOR with shifting arousal. The polysynaptic system in the  reticular formation which generates the fast phase of the nystagmus beat is far  more modifiable than the three-neuronal reflex arc of the slow nystagmus  component.
+C1 Department of Neurology, University of Freiburg, Germany.
+NR 0
+TC 0
+SN 
+EI 0001-648
+J9 Acta Otolaryngol
+PD JAN 1
+PY 1992
+VL 112
+IS 1
+BP 1
+EP 6
+DI 10.3109/00016489209100775
+PG 5
+WC Acceleration; Adult; Electroencephalography; Electrooculography; methods; Female; Humans; Male; Models, Biological; Nystagmus, Physiologic; physiology; Reflex, Vestibulo-Ocular; physiology; Rotation; Saccades; physiology; Sleep Stages; physiology; Wakefulness; physiology
+UT PubMed:1575025
+PM 1575025
+DA 1992-01-01
+ER
+
+PT J
+AU Gorla, DE
+AF Gorla, D E
+TI Population dynamics and control of Triatoma infestans.
+SO Medical and veterinary entomology
+LA English
+DT Journal Article
+AB Analysis of field populations of Triatoma infestans (Hemiptera: Reduviidae),  after a 3-year study, shows that population growth rate is affected by both  density-dependent and density-independent mortality. Although an equilibrium  exists, apparently as a consequence of a density dependent-mechanism, population  density fluctuates throughout the year because of the effect of monthly mean  minimum temperature as a density-independent source of mortality. Simulation  studies based on Moran curves shows that high population densities have an  approximately constant extinction probability (around 0.20), independently of the  season the population starts growing. However, at very low population densities,  the extinction probability depends strongly on the season when the population  begins to grow. Very low density populations beginning in winter or autumn have  the highest extinction probability. The outcome of the simulation studies  coincides with results observed in field populations affected by insecticide  application at different seasons.
+C1 Centro de Investigaciones Entomológicas, Facultad de Ciencias Exactas, Físicas y Naturales, Universidad Nacional de Córdoba, Argentina.
+NR 0
+TC 0
+SN 
+EI 0269-283
+J9 Med Vet Entomol
+PD APR 1
+PY 1992
+VL 6
+IS 2
+BP 91
+EP 7
+DI 10.1111/j.1365-2915.1992.tb00582.x
+PG -84
+WC Animals; Chagas Disease; prevention & control; Fertility; Insect Control; Insect Vectors; growth & development; Models, Biological; Population Dynamics; Probability; Seasons; Temperature; Triatoma; growth & development
+UT PubMed:1421494
+PM 1421494
+DA 1992-04-01
+ER
+
+PT J
+AU Maurer, BA
+   Brown, JH
+   Rusler, RD
+AF Maurer, Brian A
+   Brown, James H
+   Rusler, Renee D
+TI THE MICRO AND MACRO IN BODY SIZE EVOLUTION.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Body size; macroevolution; microevolution
+AB The diversity of body sizes of organisms has traditionally been explained in  terms of microevolutionary processes: natural selection owing to differential  fitness of individual organisms, or to macroevolutionary processes: species  selection owing to the differential proliferation of phylogenetic lineages. Data  for terrestrial mammals and birds indicate that even on a logarithmic scale  frequency distributions of body mass among species are significantly skewed  towards larger sizes. We used simulation models to evaluate the extent to which  macro- and microevolutionary processes are sufficient to explain these  distributions. Simulations of a purely cladogenetic process with no bias in  extinction or speciation rates for different body sizes did not produce skewed  log body mass distributions. Simulations that included size-biased extinction  rates, especially those that incorporated anagenetic size change within species  between speciation and extinction events, regularly produced skewed  distributions. We conclude that although cladogenetic processes probably play a  significant role in body size evolution, there must also be a significant  anagenetic component. The regular variation in the form of mammalian body size  distributions among different-sized islands and continents suggests that  environmental conditions, operating through both macro- and microevolutionary  processes, determine to a large extent the diversification of body sizes within  faunas. Macroevolution is not decoupled from microevolution.
+C1 Department of Zoology, Brigham Young University, Provo, UT, 84602, USA.
+   Department of Biology, University of New Mexico, Albuquerque, NM, 87131, USA.
+   Department of Ecology and Evolutionary Biology, University of Arizona, Tucson, AZ, 85721, USA.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD AUG 1
+PY 1992
+VL 46
+IS 4
+BP 939
+EP 953
+DI 10.1111/j.1558-5646.1992.tb00611.x
+PG 14
+UT PubMed:28564414
+PM 28564414
+DA 1992-08-01
+ER
+
+PT J
+AU Wheelan, P
+   Zirrolli, JA
+   Clay, KL
+AF Wheelan, P
+   Zirrolli, J A
+   Clay, K L
+TI Analysis of glycerophosphocholine molecular species as derivatives of
+SO Journal of lipid research
+LA English
+DT Journal Article
+AB A method has been developed for the analysis of derivatized diradylglycerols  obtained from glycerophosphocholine (GPC) of transformed murine bone  marrow-derived mast cells that provided high performance liquid chromatography  (HPLC) separation of GPC subclasses and molecular species separation with on-line  quantitation using UV detection. In addition, the derivatized diradylglycerol  species were unequivocably identified by continuous flow fast-atom bombardment  mass spectrometry. GPC was initially isolated by thin-layer chromatography (TLC),  the phosphocholine group was hydrolyzed, and the resultant diradylglycerol was  derivatized with 7-[(chlorocarbonyl)-methoxy]-4-methylcoumarin (CMMC). After  separation of the derivatized subclasses by normal phase HPLC, the individual  molecular species of the alkylacyl and diacyl subclasses were quantitated and  collected during a subsequent reverse phase HPLC step. With an extinction  coefficient of 14,700 l mol-1 cm-1 at a wavelength detection of 320 nm, the CMMC  derivatives afforded sensitive UV detection (100 pmol) and quantitation of the  molecular species. Continuous flow fast-atom bombardment mass spectrometry of the  alkylacyl CMMC derivatives yielded abundant [MH]+ ions and a single fragment ion  formed by loss of alkylketene from the sn-2 acyl group, [MH-(R = C = O)]+. No  fragmentation of the sn-1 alkyl chain was observed. Diacyl derivatives also  produced abundant [MH]+ ions plus two fragment ions arising from loss of RCOOH  from each of the acyl substituents and two fragment ions from the loss of  alkyketene from each acyl group. Individual molecular species substituents were  assigned from these ions.
+C1 National Jewish Center for Immunology and Respiratory Medicine, Department of Pediatrics, Denver, CO 80206.
+NR 0
+TC 0
+SN 
+EI 0022-227
+J9 J Lipid Res
+PD JAN 1
+PY 1992
+VL 33
+IS 1
+BP 111
+EP 21
+DI 
+PG -90
+WC Animals; Bone Marrow; chemistry; Bone Marrow Cells; Cell Line, Transformed; Chromatography, High Pressure Liquid; Diglycerides; chemistry; Glycerylphosphorylcholine; analysis; Hymecromone; analogs & derivatives; Mast Cells; chemistry; Mice; Spectrometry, Mass, Fast Atom Bombardment
+UT PubMed:1552227
+PM 1552227
+DA 1992-01-01
+ER
+

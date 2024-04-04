@@ -1,0 +1,982 @@
+PT J
+AU James, HF
+   Stafford, TW Jr
+   Steadman, DW
+   Olson, SL
+   Martin, PS
+   Jull, AJ
+   McCoy, PC
+AF James, H F
+   Stafford, T W Jr
+   Steadman, D W
+   Olson, S L
+   Martin, P S
+   Jull, A J
+   McCoy, P C
+TI Radiocarbon dates on bones of extinct birds from Hawaii.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Bones from a stratified sedimentary deposit in the Puu Naio Cave site on Maui,  Hawaiian Islands, reveal the late Holocene extinction of 19 species of birds. The  age of the sediment and associated fauna was determined by direct radiocarbon  dating (tandem particle accelerator-mass spectrometer; TAMS) of amino acids  extracted from bones weighing as little as 450 mg. The 14C dates indicate that  sediment has been accumulating in the lava tube for at least the last 7750 years,  a suitable time frame for testing the hypothesis that Holocene extinction on  islands began after human colonization. Despite growing evidence that a worldwide  wave of extinctions coincided with human colonization of oceanic islands, little  radiometric data have been available to date the extinction of most small fossil  vertebrates on islands. The TAMS technique of dating purified collagen from the  bones of small vertebrates could lead to vastly improved chronologies of  extinction for oceanic islands where catastrophic mid- to late-Holocene  extinction is expected or known to have occurred. Chronologies derived from  nonarcheological sites that show continuous sedimentation, such as the Puu Naio  Cave deposit, may also yield key evidence on the timing of earliest human  settlement of Oceania.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD APR 1
+PY 1987
+VL 84
+IS 8
+BP 2350
+EP 4
+DI 10.1073/pnas.84.8.2350
+PG -2346
+WC Animals; Archaeology; Biological Evolution; Birds; anatomy & histology; Bone and Bones; anatomy & histology; Carbon Radioisotopes; Fossils; Hawaii
+UT PubMed:3470800
+PM 3470800
+DA 1987-04-01
+ER
+
+PT J
+AU Füglistaller, P
+   Mimuro, M
+   Suter, F
+   Zuber, H
+AF Füglistaller, P
+   Mimuro, M
+   Suter, F
+   Zuber, H
+TI Allophycocyanin complexes of the phycobilisome from Mastigocladus laminosus.
+SO Biological chemistry Hoppe-Seyler
+LA English
+DT Journal Article
+AB The following phycobiliproteins and complexes of the allophycocyanin core were  isolated from phycobilisomes of the thermophilic cyanobacterium Mastigocladus  laminosus: alpha AP, beta AP, (alpha AP beta AP), (alpha AP beta AP)3, (alpha AP  beta AP)3L8.9C, (alpha APB alpha AP2 beta AP3)L8.9C. The six proteins and  complexes were characterised spectroscopically with respect to absorption,  oscillator strength, extinction coefficient, fluorescence emission, relative  quantum yield, fluorescence emission polarisation and fluorescence excitation  polarisation. The interpretation of the spectral data was based on the  three-dimensional structure model of (alpha PC beta PC)3 (Schirmer et al. (1985)  J. Mol. Biol. 184, 257-277), which is related to the allophycocyanin trimer. The  absorption and CD spectra of the complexes (alpha AP beta AP)3, (alpha AP beta  AP)3L8.9C and (alpha APB alpha AP2 beta AP3)L8.9C could be deconvoluted into the  spectra of the phycobiliprotein subunits. The assumptions made for the  deconvolution could be checked by the synthesis of the spectra of (alpha APB beta  AP)3. The synthesised spectra are in good agreement with the corresponding  measured spectra published by other authors. Considering the deconvoluted spectra  the following influences on the chromophores could be ascribed to L8.9C: L8.9C  neither influences the alpha AP nor the alpha APB chromophores. L8.9C shifts the  absorption maximum of the beta AP chromophore to longer wavelength than the  absorption maximum of the alpha AP chromophore in trimeric complexes. L8.9C  increases the oszillator strength of the beta AP chromophores to about the value  of the alpha AP chromophores in trimeric complexes. L8.9C turns the beta AP  chromophores from sensitizing into weak fluorescing chromophores. By means of the  hydropathy plot and the predicted secondary structure, a postulated three-fold  symmetry in the tertiary structure of L8.9C could be confirmed.
+NR 0
+TC 0
+SN 
+EI 0177-359
+J9 Biol Chem Hoppe Seyler
+PD APR 1
+PY 1987
+VL 368
+IS 4
+BP 353
+EP 67
+DI 10.1515/bchm3.1987.368.1.353
+PG -286
+WC Circular Dichroism; Cyanobacteria; analysis; Fluorescence; Light-Harvesting Protein Complexes; Peptide Fragments; analysis; Phycobilisomes; Phycocyanin; analysis; Pigments, Biological; analysis; Plant Proteins; analysis; Protein Conformation; Spectrophotometry, Atomic
+UT PubMed:3111493
+PM 3111493
+DA 1987-04-01
+ER
+
+PT J
+AU Mundy, WR
+   Iwamoto, ET
+AF Mundy, W R
+   Iwamoto, E T
+TI Studies on desglycinamide arginine vasopressin and scopolamine in a
+SO Pharmacology, biochemistry, and behavior
+LA English
+DT Journal Article
+AB Vasopressin administration has been reported to improve acquisition and retard  extinction of both conditioned avoidance and food-reinforced behavioral tasks. In  the present experiment the effects of a vasopressin analog (DGAVP) and  scopolamine (SCOP) were tested in an autoshaped lever-touch model of learning and  memory. Rats were food-deprived to 80% of original body weights and tested in  modular cages which contained a retractable lever that was presented on a random  interval 48 sec schedule. The lever retracted after 15 sec or when it was  touched, at which time one 45 mg food pellet was delivered. Subcutaneous  injection of 10 micrograms/kg DGAVP 1 hr prior to acquisition and extinction  sessions did not alter responding compared to saline controls. DGAVP at doses of  10, 20, and 30 micrograms/kg also failed to affect responding in a more difficult  task which included an 8 sec delay between lever retraction and reinforcement.  Homozygous Brattleboro rats, which are deficient in vasopressin, did not differ  from normal heterozygous littermates in the acquisition of the lever-touch  response. Intraperitoneal injection of SCOP (0.1-0.8 mg/kg) 30 min prior to  testing caused a dose-related impairment of acquisition compared to saline  controls, but did not alter responding in animals which had previously acquired  the lever-touch response. These data suggest that manipulations of vasopressin do  not affect, while SCOP impairs, the acquisition of a positively reinforced  lever-touch response in rats.
+NR 0
+TC 0
+SN 
+EI 0091-305
+J9 Pharmacol Biochem Behav
+PD JUN 1
+PY 1987
+VL 27
+IS 2
+BP 307
+EP 15
+DI 10.1016/0091-3057(87)90574-0
+PG -292
+WC Animals; Arginine Vasopressin; analogs & derivatives; Conditioning, Operant; drug effects; Extinction, Psychological; drug effects; Learning; drug effects; Male; Memory; drug effects; Models, Biological; Rats; Rats, Inbred Strains; Scopolamine; pharmacology
+UT PubMed:3628445
+PM 3628445
+DA 1987-06-01
+ER
+
+PT J
+AU Hallam, A
+AF Hallam, A
+TI End-cretaceous mass extinction event: argument for terrestrial causation.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The end-Cretaceous mass extinctions were not a geologically instantaneous event  and were selective in character. These features are incompatible with the  original Alvarez hypothesis of their being caused by a single asteroid impact  that produced a world-embracing dust cloud with devastating environmental  consequences. By analysis of physical and chemical evidence from the  stratigraphic record it is shown that a modified extraterrestrial model in which  stepwise extinctions resulted from encounter with a comet shower is less  plausible than one intrinsic to the earth, involving significant disturbance in  the mantle.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 27
+PY 1987
+VL 238
+IS 4831
+BP 1237
+EP 42
+DI 10.1126/science.238.4831.1237
+PG -1195
+UT PubMed:17744360
+PM 17744360
+DA 1987-11-27
+ER
+
+PT J
+AU Rutten, AA
+   Falke, HE
+   Catsburg, JF
+   Topp, R
+   Blaauboer, BJ
+   van, Holsteijn I
+   Doorn, L
+   van, Leeuwen FX
+AF Rutten, A A
+   Falke, H E
+   Catsburg, J F
+   Topp, R
+   Blaauboer, B J
+   van Holsteijn, I
+   Doorn, L
+   van Leeuwen, F X
+TI Interlaboratory comparison of total cytochrome P-450 and protein determinations
+SO Archives of toxicology
+LA English
+DT Journal Article
+AB Assay conditions in determining total cytochrome P-450 in four laboratories were  compared. Although the determination was derived from the original Omura and Sato  method in each laboratory, the four standard protocols differed slightly,  resulting in considerable differences in the results. Since the cytochrome P-450  content is usually expressed per mg protein, the protein assay conditions were  evaluated as well. Furthermore, we compared the cytochrome P-450 values obtained  by the CO- and the dithionite (DT)-difference methods. The effect of a number of  variables in the assay was investigated. The influence of the storage temperature  of the microsomes was ascertained as well as effects of the gassing time with CO  and the time between addition of dithionite, CO-gassing and the recording of the  difference spectra. After evaluating these variables a standard operation  procedure was established. Using this procedure the interlaboratory coefficient  of variation for total cytochrome P-450 was 4.8%, a value which was comparable to  the intralaboratory coefficients of variation. The final results also show that  the millimolar extinction coefficient for the DT-difference method is higher than  for the CO-difference method.
+C1 TNO-CIVO Toxicology and Nutrition Institute, Department of Biological Toxicology, Zeist, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0340-576
+J9 Arch Toxicol
+PD JAN 1
+PY 1987
+VL 61
+IS 1
+BP 27
+EP 33
+DI 10.1007/BF00324544
+PG 6
+WC Animals; Cytochrome P-450 Enzyme System; analysis; Male; Methods; Microsomes, Liver; analysis; Phenobarbital; pharmacology; Proteins; analysis; Rats; Rats, Inbred Strains; Specimen Handling; Spectrophotometry; instrumentation
+UT PubMed:3439870
+PM 3439870
+DA 1987-01-01
+ER
+
+PT J
+AU Michelson, S
+   Miller, BE
+   Glicksman, AS
+   Leith, JT
+AF Michelson, S
+   Miller, B E
+   Glicksman, A S
+   Leith, J T
+TI Tumor micro-ecology and competitive interactions.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Three nested models describing the growth of individual subpopulations in a  heterogeneous environment are described. The models represent the dynamics of two  populations which compete, to varying degrees, for common resources. The first  model describes growth in a totally non-competitive micro-environment, the second  model describes an ecology in which competition is proportional to competitor  population size, and the third model ecology extends the model described by  Jansson & Revesz (1974), which allows one population to emerge from the other.  The critical points for each model are defined using the isoclines derived from  the Ordinary Differential Equations (ODE's) describing competitive growth. The  critical points for each model are characterized by the signs of the eigenvalues  of the variational matrix at each point. The theoretical results of the analysis  show that a competitive model ecology with Verhulstian logistics allows four  critical points: the origin which is a repeller, two competitive exclusion  points, and an equilibrium state (Waltman, 1983). The extended model ecology of  Jansson & Revesz (1974), allows three critical points: the origin which is a  repeller, competitive exclusion of the first population, and an equilibrium  point. Data from a human adenocarcinoma of the colon and murine mammary tumors  are used as qualitative measures of the dynamics of the three micro-ecologies.  Issues such as stochastic extension to model small populations either for clonal  extinction or heterogeneous emergence are discussed.
+C1 Department of Radiation Medicine and Biology Research, Rhode Island Hospital, Providence 02902.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD SEP 21
+PY 1987
+VL 128
+IS 2
+BP 233
+EP 46
+DI 10.1016/s0022-5193(87)80171-6
+PG -187
+WC Adenocarcinoma; pathology; Animals; Cell Division; Colonic Neoplasms; pathology; Humans; Mammary Neoplasms, Experimental; pathology; Mathematics; Mice; Models, Biological; Neoplasms; pathology
+UT PubMed:3431136
+PM 3431136
+DA 1987-09-21
+ER
+
+PT J
+AU Olsen, PE
+   Shubin, NH
+   Anders, MH
+AF Olsen, P E
+   Shubin, N H
+   Anders, M H
+TI New early Jurassic tetrapod assemblages constrain Triassic-Jurassic tetrapod
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The discovery of the first definitively correlated earliest Jurassic (200 million  years before present) tetrapod assemblage (Fundy basin, Newark Supergroup, Nova  Scotia) allows reevaluation of the duration of the Triassic-Jurassic tetrapod  extinction event. Present are tritheledont and mammal-like reptiles, prosauropod,  theropod, and ornithischian dinosaurs, protosuchian and sphenosuchian  crocodylomorphs, sphenodontids, and hybodont, semionotid, and palaeonisciform  fishes. All of the families are known from Late Triassic and Jurassic strata from  elsewhere; however, pollen and spore, radiometric, and geochemical correlation  indicate an early Hettangian age for these assemblages. Because all "typical  Triassic" forms are absent from these assemblages, most Triassic-Jurassic  tetrapod extinctions occurred before this time and without the introduction of  new families. As was previously suggested by studies of marine invertebrates,  this pattern is consistent with a global extinction event at the  Triassic-Jurassic boundary. The Manicouagan impact structure of Quebec provides  dates broadly compatible with the Triassic-Jurassic boundary and, following the  impact theory of mass extinctions, may be implicated in the cause.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD AUG 28
+PY 1987
+VL 237
+IS 4818
+BP 1025
+EP 9
+DI 10.1126/science.3616622
+PG -1016
+WC Animals; Fossils; Invertebrates; Nova Scotia; Paleontology; Vertebrates
+UT PubMed:3616622
+PM 3616622
+DA 1987-08-28
+ER
+
+PT J
+AU Kerr, RA
+AF Kerr, R A
+TI Searching Land and Sea for the Dinosaur Killer: The impact that triggered a mass
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD AUG 21
+PY 1987
+VL 237
+IS 4817
+BP 856
+EP 7
+DI 10.1126/science.237.4817.856
+PG -849
+UT PubMed:17771375
+PM 17771375
+DA 1987-08-21
+ER
+
+PT J
+AU Allen, LJ
+AF Allen, L J
+TI Persistence, extinction, and critical patch number for island populations.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB Sufficient conditions are derived for persistence and extinction of a population  inhabiting several islands. Discrete reaction-diffusion population models are  analyzed which describe growth and diffusion of a population on a group of  islands or a patch environment. A critical patch number is defined as the number  of islands below which the population goes extinct on that group of islands. It  is shown that population persistence on one island leads to population  persistence for the entire archipelago. Both single-species and multi-species  models are discussed.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1987
+VL 24
+IS 6
+BP 617
+EP 25
+DI 10.1007/BF00275506
+PG -592
+WC Animals; Biometry; Environment; Humans; Models, Biological; Population Dynamics
+UT PubMed:3572259
+PM 3572259
+DA 1987-01-01
+ER
+
+PT J
+AU Hallam, TG
+   Zhien, M
+AF Hallam, T G
+   Zhien, M
+TI On density and extinction in continuous population models.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB Survival analyses, investigations of extinction and persistence, are executed for  populations represented by a nonautonomous differential equation model. The  population is assumed governed by density dependent and time varying density  independent demographic parameters. While traditional approaches to extinction  postulate extinction on an infinite time horizon and at zero abundance level,  survival analysis is developed not only for this traditional setting but also on  a finite time horizon and at a nonzero threshold level. A main conclusion is that  extinction of a temporally stressed population is determined by a totality of  density independent and density dependent factors.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1987
+VL 25
+IS 2
+BP 191
+EP 201
+DI 10.1007/BF00276389
+PG 10
+WC Animals; Mathematics; Models, Biological; Mortality; Population Density
+UT PubMed:3611981
+PM 3611981
+DA 1987-01-01
+ER
+
+PT J
+AU Kerr, RA
+AF Kerr, R A
+TI Asteroid Impact Gets More Support: The global distribution of shocked quartz at
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAY 8
+PY 1987
+VL 236
+IS 4802
+BP 666
+EP 8
+DI 10.1126/science.236.4802.666
+PG -658
+UT PubMed:17748305
+PM 17748305
+DA 1987-05-08
+ER
+
+PT J
+AU Leysen, JE
+   Van, Gompel P
+   de, Chaffoy de Courcelles D
+   Niemegeers, CJ
+AF Leysen, J E
+   Van Gompel, P
+   de Chaffoy de Courcelles, D
+   Niemegeers, C J
+TI Opposite regulation of serotonin-S2 and dopamine-D2 receptors in rat brain
+SO Journal of receptor research
+LA English
+DT Journal Article
+AB Rats were chronically treated with setoperone, a mixed serotonin and dopamine  antagonist. Alterations in serotonin-S2 and dopamine-D2 receptors in the brain  and changes in behavioural responses to tryptamine and apomorphine were studied  along with duration of treatment and drug withdrawal. As with neuroleptics,  behavioural supersensitivity to apomorphine and increase in the number of  striatal dopamine-D2 receptor sites were apparent after 2 days setoperone  treatment, both effects were maximal with 14 days treatment and were maintained  over more than 20 days drug withdrawal. In contrast to the changes in the  dopaminergic system, the rats showed a decreased response to tryptamine and  serotonin-S2 receptor sites in the frontal cortex were significantly reduced in  numbers. Both effects developed in parallel over 14 days treatment and  extinguished over 10 days drug withdrawal. KD-values of radioligand binding to  dopamine-D2 and serotonin-S2 receptor sites were unchanged by the setoperone  treatment. The concomitant development and extinction of the in vivo and in vitro  effects suggests a causal relationship between them. Chronic treatment with a  selective histamine-H1 antagonist (levocabastine) or the tranquilizer diazepam  did not affect dopamine-D2 or serotonin-S2 receptor sites. These observations  demonstrate that in contrast to the receptor regulation theory, serotonin-S2  receptors are down regulated following persistent receptor blockade. Implications  for the clinical use of serotonin antagonists and possible molecular mechanisms  involved in the receptor regulation have been discussed.
+NR 0
+TC 0
+SN 
+EI 0197-511
+J9 J Recept Res
+PD JAN 1
+PY 1987
+VL 7
+IS 1-4
+BP 223
+EP 39
+DI 10.3109/10799898709054987
+PG -184
+WC Animals; Apomorphine; pharmacology; Behavior, Animal; drug effects; Corpus Striatum; analysis; Diazepam; pharmacology; Dopamine Antagonists; Frontal Lobe; analysis; Gene Expression Regulation; drug effects; Ketanserin; metabolism; Male; Models, Biological; Piperidines; pharmacology; Pyrimidinones; pharmacology; Rats; Rats, Inbred Strains; Receptors, Dopamine; biosynthesis; Receptors, Serotonin; biosynthesis; Serotonin Antagonists; pharmacology; Tryptamines; pharmacology
+UT PubMed:3625598
+PM 3625598
+DA 1987-01-01
+ER
+
+PT J
+AU Piatt, CM
+   Takashima, T
+AF Piatt, C M
+   Takashima, T
+TI Retrieval of water cloud properties from carbon dioxide lidar soundings.
+SO Applied optics
+LA English
+DT Journal Article
+AB Lidar backscatter signatures from model water clouds are calculated for CO(2)  lidar wavelengths (9.2-10.8 microm) using Mie theory. The lidar isotropic mass  backscatter coefficient is found to be quite variable both with cloud model and  with wavelength, with values ranging from ~90 to 15 g(-1) cm(2) at 9.2-microm  wavelength and from 25 to 5 g(-1) cm(2) at 11 microm, there being a general  decrease in values with increasing wavelength. The cloud isotropic  backscatter-to-extinction ratio similarly varies with both wavelength and cloud  model between extreme values of 0.14 and 0.008. It is found that the cloud mass  extinction coefficient has a value at any wavelength which is independent of  cloud model droplet size distribution to within ~10% accuracy, in agreement with  other studies. The value of this quantity varies from 1929 g(-1) cm(2) at 9.2  microm to 1258 g(-1) cm(2) at 11.0 microm. If the isotropic volume backscatter  coefficient and the isotropic backscatter-to-extinction ratio are measured by  lidar, then using the above characteristics of mass extinction coefficient the  cloud liquid water content can be measured at any wavelength to an accuracy of  ~20% when the cloud optical depth is between 0 and 0.5, with an increasing error  with increasing cloud optical depth. Using the relationship between cloud droplet  mode radius and backscatter-to-extinction ratio, the mode radius can be  determined to ~10% accuracy. Multiple scattering in the backscattered beam for  the case of absorbing water clouds at CO(2) wavelengths is also considered. The  cloud depth to which accurate information can be retrieved in typical water  clouds varies from ~80 to 250 m depending on the wavelength and the cloud model,  although some information is available to depths of 500 m in some clouds.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD APR 1
+PY 1987
+VL 26
+IS 7
+BP 1257
+EP 63
+DI 10.1364/AO.26.001257
+PG -1194
+UT PubMed:20454313
+PM 20454313
+DA 1987-04-01
+ER
+
+PT J
+AU Roberts, MG
+   Lawson, JR
+   Gemmell, MA
+AF Roberts, M G
+   Lawson, J R
+   Gemmell, M A
+TI Population dynamics in echinococcosis and cysticercosis: mathematical model of
+SO Parasitology
+LA English
+DT Journal Article
+AB It is shown that under the conditions that prevailed in New Zealand in the late  1950s, Taenia hydatigena was hyperendemic, the life-cycle being regulated by a  density-dependent constraint in the form of acquired immunity, and T. ovis was  rare. The control measures that caused Echinococcus granulosus, which was endemic  at the time, to decline towards extinction reduced T. hydatigena and T. ovis to  endemic status only. A non-linear integrodifferential equation model, which was  previously linearized to describe the life-cycle of E. granulosus in dogs and  sheep in New Zealand, is used to describe the life-cycles of T. hydatigena and T.  ovis. The model is then used to compare and contrast the population dynamics of  these three species. The model is used to demonstrate that the endemic steady  state is structurally unstable, and may be asymptotically unstable to small  perturbations. It is also shown that despite the lower infection pressure  experienced by the intermediate host in the endemic state, the numbers of larvae  in sheep may be higher than in the hyperendemic state. Finally it is shown that  the partial success of the control measures against T. hydatigena may have caused  an increase in the numbers and prevalence of T. ovis larvae in sheep due to the  reciprocal immunity between the two species.
+NR 0
+TC 0
+SN 
+EI 0031-182
+J9 Parasitology
+PD FEB 1
+PY 1987
+VL 94 ( Pt 1)
+IS 
+BP 181
+EP 97
+DI 10.1017/s0031182000053555
+PG -84
+WC Age Factors; Animals; Cysticercosis; epidemiology; Dog Diseases; epidemiology; Dogs; Echinococcosis; epidemiology; Echinococcus; growth & development; Female; Larva; Male; Mathematics; Models, Biological; New Zealand; Sheep; Sheep Diseases; epidemiology; Taenia; growth & development
+UT PubMed:3822514
+PM 3822514
+DA 1987-02-01
+ER
+
+PT J
+AU Maurer, BA
+AF Maurer, B A
+TI Scaling of biological community structure: a systems approach to community
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Local community dynamics are determined by the interaction of environmental  variation and the biotic properties of communities. This interaction occurs on  many spatial and temporal scales, hence the expectation is that community  dynamics will be complex. Previous theoretical approaches to communities have  assumed linear, near equilibrium dynamics. An alternative approach suggests that  community dynamics are the result of the balance between energy use by the  community and its tendency to move towards thermodynamic equilibrium, in this  case extinction of all species in the community. Because this balance will be  imprecise, community dynamics should be oscillatory. Furthermore, because energy  use by a community can be broken down into a hierarchical set of processes  occurring on different time scales, community dynamics should reflect multiple  periodicities. The above theoretical treatment suggests that since community  dynamics are scaled, a hierarchical observational approach should help resolve  important aspects of community structure. This approach of scaling community  observations provides a technique for evaluation of community responses to  environmental change, including human induced perturbations. A thermodynamic  approach to community dynamics can also provide the basis for new theoretical and  empricial discoveries about biological communities.
+C1 Department of Ecology & Evolutionary Biology, University of Arizona, Tucson 85721.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD JUL 7
+PY 1987
+VL 127
+IS 1
+BP 97
+EP 110
+DI 10.1016/s0022-5193(87)80163-7
+PG 13
+WC Animals; Biological Evolution; Ecology; Environment; Models, Genetic; Population Dynamics
+UT PubMed:3669685
+PM 3669685
+DA 1987-07-07
+ER
+
+PT J
+AU Bremermann, HJ
+AF Bremermann, H J
+TI The adaptive significance of sexuality.
+SO Experientia. Supplementum
+LA English
+DT Review
+AB The theory predicts that inbred strains of mice are susceptible to tumor viruses  that have escaped immune recognition. The theory implies routine evolutionary  extinction of asexual species and that existing parthenogenetic species would  have to have evolved recently from sexually reproducing precursors. This could be  tested by determining the amount of DNA divergence between parthenogenetic and  related sexually reproducing species. In mammals and birds genetic substitutions  occur at comparable rates, but the AIDS virus evolves about 10 million times more  rapidly. This confirms the basic imbalance of rates of evolution between  microparasites and metazoan hosts, which is fundamental to the theory. The  organization of most eukaryotic genes into exons and introns facilitates the  generation of variety of gene products, and the molecular mechanism is similar to  the mechanism that generates antibody diversity in the immune response and  antigenic variation in trypanosomes. It has been proposed that noncoding  'selfish' DNA is the ultimate sexually transmitted disease. If this were the  case, then asexually reproducing species would have an added advantage. An  alternative hypothesis is proposed: noncoding DNA could provide insertion sites  for retroviruses that would prevent them from being transcribed and replicated  and thus moderate their proliferation much as absorber rods moderate  proliferation of neutrons in a nuclear reactor. Flowering plants have pollen  selection mechanisms that enforce heterozygosity at one or more loci. It has been  proposed that analogous sperm selection mechanisms exist in mammals. Such a  process would account for observation of a mysterious excess molecular divergence  between different strains of inbred mice.
+NR 0
+TC 0
+SN 
+EI 0071-335
+J9 Experientia Suppl
+PD JAN 1
+PY 1987
+VL 55
+IS 
+BP 135
+EP 61
+DI 10.1007/978-3-0348-6273-8_6
+PG -74
+WC Adaptation, Physiological; Animals; Biological Evolution; Female; Host-Parasite Interactions; Immune System; physiology; Major Histocompatibility Complex; Male; Mice; Models, Genetic; Polymorphism, Genetic; Sex
+UT PubMed:2961593
+PM 2961593
+DA 1987-01-01
+ER
+
+PT J
+AU Cinelli, AR
+   Ferreyra-Moyano, H
+   Barragan, E
+AF Cinelli, A R
+   Ferreyra-Moyano, H
+   Barragan, E
+TI Reciprocal functional connections of the olfactory bulbs and other olfactory
+SO Brain research bulletin
+LA English
+DT Journal Article
+AB Reciprocal putative connections of the prefrontal cortex (PFC) (agranular  insular, ventral and lateral orbital region) with the ipsi and contralateral main  olfactory bulb (IOB; COB), the mediodorsal thalamic nucleus (MD), the basolateral  amygdaloid nucleus (BLA) and the piriform cortex (PC) were investigated with  electrophysiological techniques. Evoked field responses and orthodromic unit  driving, generated in PFC following electrical stimulation of the above mentioned  structures, were abolished following topical application of KCl, except for COB  evoked mass potentials. Thus, locally generated activity was elicited in  agranular insular cortex following IOB activation, the same region where  recently, the taste cortex in the rat was localized. Since gustatory-visceral  afferent information reaches insular cortex via 2-3 synaptic relays, autonomic,  olfactory and gustatory inputs may interact at this level, and, as suggested  previously for the mouse, play a key integrative role in flavor perception.  Antidromically invaded neurons, 47% of which were identified by the  collision-extinction technique, were also found in PFC areas which overlapped to  a considerable extent with those from which orthodromic unit responses were  obtained. In particular, closely spaced neurons in ventrolateral orbital (VLO)  and lateral orbital (LO) regions were antidromically invaded following IOB and PC  shocks; some neurons antidromically discharged by IOB were also transsynaptically  activated following PC stimulation. These findings are in agreement with recent  neuroanatomical studies which demonstrate axonal projections from PFC neurons to  the IOB and COB in the rat and South American armadillo. In addition, stimulation  of PFC regions dorsal to the rhinal fissure mostly inhibited spontaneous unit  discharges recorded at the mitral cell layer of the IOB, suggesting that this  effect may be partially mediated by excitatory inputs of prefrontal axons onto  granule cells. The conduction properties, antidromic thresholds and  activity-dependent variations in conduction velocity (CV) of bulbopetal neurons  in prefrontal cortex were found to be similar to those exhibited by cells  projecting to the IOB from olfactory peduncle regions, but not to those present  in bulbopetal neurons of the horizontal limb of diagonal band, indicating that  the OB may be subjected to centrifugal control by at least two cell groups  differing in both histochemical and electrophysiological properties.
+C1 Instituto de Investigacion Medica Mercedes y Martin Ferreyra, Cordoba, Argentina.
+NR 0
+TC 0
+SN 
+EI 0361-923
+J9 Brain Res Bull
+PD DEC 1
+PY 1987
+VL 19
+IS 6
+BP 651
+EP 61
+DI 10.1016/0361-9230(87)90051-7
+PG -590
+WC Afferent Pathways; physiology; Animals; Central Nervous System; physiology; Cerebral Cortex; anatomy & histology; Efferent Pathways; physiology; Electric Stimulation; Evoked Potentials; Male; Neurons; physiology; Olfactory Bulb; anatomy & histology; Olfactory Pathways; anatomy & histology; Rats; Synapses; physiology
+UT PubMed:3440217
+PM 3440217
+DA 1987-12-01
+ER
+
+PT J
+AU Meyers, CA
+   Johanson, KO
+   Miles, LM
+   McDevitt, PJ
+   Simon, PL
+   Webb, RL
+   Chen, MJ
+   Holskin, BP
+   Lillquist, JS
+   Young, PR
+AF Meyers, C A
+   Johanson, K O
+   Miles, L M
+   McDevitt, P J
+   Simon, P L
+   Webb, R L
+   Chen, M J
+   Holskin, B P
+   Lillquist, J S
+   Young, P R
+TI Purification and characterization of human recombinant interleukin-1 beta.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB A human interleukin-1 (IL-1) beta cDNA was cloned, and the region coding for the  mature protein was expressed in Escherichia coli. The 17-kDa biologically active  product was purified in 40% yield to apparent homogeneity, without chaotropes,  from the soluble fraction of sonicated cell lysates. The recombinant IL-1 beta  was characterized by amino acid analysis, NH2- and COOH-terminal sequence  analysis, sodium dodecyl sulfate-polyacrylamide gel electrophoresis,  spectroscopy, and biological assay. Specific biological activity was 4.6 X 10(8)  units/mg in a co-mitogenic IL-2 induction assay using cultured EL-4  T-lymphocytes. The molar extinction coefficient was determined to be 10,300 cm-1  M-1 at 280 nm. NH2-terminal sequence analysis revealed that 70% of the product  begins with the Ala corresponding to the NH2 terminus of the natural protein,  while 30% begins with the following Pro. No initiator Met was observed. Both of  the sulfhydryl groups are reactive to Ellman's reagent and to iodoacetamide under  nonreducing conditions, indicating that the Cys residues do not form disulfide  bonds. S-Carboxamidomethyl-Cys-rIL-1 beta retained biological activity in the  IL-2 induction assay. Circular dichroism suggested an extensive beta sheet  structure for rIL-1 beta.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD AUG 15
+PY 1987
+VL 262
+IS 23
+BP 11176
+EP 81
+DI 
+PG -11095
+WC Amino Acid Sequence; Amino Acids; analysis; Animals; Biological Assay; Chromatography; Electrophoresis, Polyacrylamide Gel; Escherichia coli; metabolism; Humans; Interleukin-1; biosynthesis; Mice; Mitosis; Molecular Weight; Recombinant Proteins; biosynthesis; Sulfhydryl Compounds; analysis; T-Lymphocytes; cytology
+UT PubMed:3301852
+PM 3301852
+DA 1987-08-15
+ER
+
+PT J
+AU Dobkin, DS
+   Olivieri, I
+   Ehrlich, PR
+AF Dobkin, D S
+   Olivieri, I
+   Ehrlich, P R
+TI Rainfall and the interaction of microclimate with larval resources in the
+SO Oecologia
+LA English
+DT Journal Article
+DE Butterfly; Euphydryas; Extinction; Microclimate; Phenology; Serpentine
+AB The interaction of host plant phenology and microclimatic heterogeneity was  examined to determine its role in the population dynamics of checkerspot  butterflies, Euphydryas editha, inhabiting serpentine grassland in California's  outer Coast Range.Within the 2-3 hectares inhabited by a population of E. editha  (Jasper Ridge Area H), microclimatic differences resulting from topographic  heterogeneity largely determine the temporal and spatial pattern of senescence of  the larval host plants, Plantago erecta and Orthocarpus densiflorus. Survival of  larvae from hatching to diapause is extremely low as a result of unpredictable  variation in the timing of larval development relative to the timing of host  plant senescence, both of which are mediated by microclimatic patterns. During  this study, population H declined to near extinction as a result of two  consecutive years of record rainfall that apparently disrupted the tenuous  temporal relationship between larval development and plant senescence. Retarded  development of post-diapause larvae led to a late and extended flight season and  delayed egg production; this in turn resulted in massive mortality of  pre-diapause larvae due to starvation because host plant senescence occurred  before larvae became large enough to enter diapause. Adult population size the  following spring was the smallest in 25 years of study. This work emphasizes the  importance of microclimatic heterogeneity for understanding population-level  processes in small ectothermic animals and underlines the potential importance of  such heterogeneity in the establishment of reserves designed to protect such  animals.
+C1 Department of Biological Sciences, Stanford University, 94305, Stanford, CA, USA.
+   Department of Biological Sciences, Stanford University, 94305, Stanford, CA, USA.
+   Department of Biological Sciences, Stanford University, 94305, Stanford, CA, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD JAN 1
+PY 1987
+VL 71
+IS 2
+BP 161
+EP 166
+DI 10.1007/BF00377280
+PG 5
+UT PubMed:28312241
+PM 28312241
+DA 1987-01-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Periodicity in extinction.
+SO Anthroquest : the L.S.B. Leakey Foundation news
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+C1 Department of Geophysical Sciences, University of Chicago, Illinois, USA.
+NR 0
+TC 0
+SN 
+EI 0749-175
+J9 Anthroquest
+PD APR 1
+PY 1987
+VL 37
+IS 
+BP 19
+EP 22
+DI 
+PG 3
+WC Animals; Biological Evolution; Ecosystem; Fossils; Geologic Sediments; Marine Biology; Meteoroids; Models, Theoretical; Periodicity
+UT PubMed:11542113
+PM 11542113
+DA 1987-04-01
+ER
+
+PT J
+AU Ullah, AH
+   Cummins, BJ
+AF Ullah, A H
+   Cummins, B J
+TI Purification, N-terminal amino acid sequence and characterization of pH 2.5
+SO Preparative biochemistry
+LA English
+DT Journal Article
+AB An acid phosphatase from crude culture filtrate of Aspergillus ficuum was  purified to homogeneity using three ion exchange chromatographic steps. SDS-PAGE  of the purified enzyme gave a single stained band at approximately 68-KDa. The  mobility of the native enzyme in gel filtration chromatography, however,  indicated that the molecular mass to be about 130-KDa implying the active form to  be a dimer. On the basis of a molecular mass of 68-KDa, the molar extinction  coefficient of the enzyme at 280 nm was estimated to be 3.4 x 10(5) M-1 cm-1. The  isoelectric point of the enzyme, as judged by chromatofocusing, was about 4.0.  The purified enzyme is highly stable at 0 degree C. Thermal inactivation studies  have indicated that the enzyme is unstable at 70 degrees C. The enzyme, however,  exhibited a broad temperature optima with a maximum catalytic activity at 63  degrees C. The Km of the enzyme for p-nitrophenylphosphate is about 270 microM  with an estimated turnover number of 2550 per sec. The enzyme is a glycoprotein  as evidenced by the positive PAS staining; the sugar composition suggests the  presence of N-linked high mannose-oligosaccharides. A partial N-terminal amino  acid sequence up to the twenty-third residue was obtained. The enzyme was  inhibited competitively by inorganic orthophosphate (Ki = 185 microM) and  non-competitively by phosphomycin (Ki = 600 microM).
+C1 Southern Regional Research Laboratory, USDA, New Orleans, Louisiana 70124.
+NR 0
+TC 0
+SN 
+EI 0032-748
+J9 Prep Biochem
+PD JAN 1
+PY 1987
+VL 17
+IS 4
+BP 397
+EP 422
+DI 10.1080/00327488708062504
+PG 25
+WC Acid Phosphatase; antagonists & inhibitors; Amino Acid Sequence; Aspergillus; enzymology; Carbohydrates; analysis; Chromatography; Electrophoresis, Polyacrylamide Gel; Hydrogen-Ion Concentration; Kinetics; Periodic Acid-Schiff Reaction; Solubility; Spectrum Analysis; Temperature
+UT PubMed:3438253
+PM 3438253
+DA 1987-01-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI Mass extinction: a commentary.
+SO Palaeontology
+LA English
+DT Review
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Four neocatastrophist claims about mass extinction are currently being debated;  they are that: 1, the late Cretaceous mass extinction was caused by large body  impact; 2, as many as five other major extinctions were caused by impact; 3, the  timing of extinction events since the Permian is uniformly periodic; and 4, the  ages of impact craters on Earth are also periodic and in phase with the  extinctions. Although strongly interconnected the four claims are independent in  the sense that none depends on the others. Evidence for a link between impact and  extinction is strong but still needs more confirmation through bed-by-bed and  laboratory studies. An important area for future research is the question of  whether extinction is a continuous process, with the rate increasing at times of  mass extinctions, or whether it is episodic at all scales. If the latter is shown  to be generally true, then species are at risk of extinction only rarely during  their existence and catastrophism, in the sense of isolated events of extreme  stress, is indicated. This is line of reasoning can only be considered an  hypothesis for testing. In a larger context, paleontologists may benefit from a  research strategy that looks to known Solar System and Galactic phenomena for  predictions about environmental effects on earth. The recent success in the  recognition of Milankovitch Cycles in the late Pleistocene record is an example  of the potential of this research area.
+C1 Department of Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0031-023
+J9 Palaeontology
+PD JAN 1
+PY 1987
+VL 30
+IS 1
+BP 1
+EP 13
+DI 
+PG 12
+WC Animals; Biological Evolution; Earth, Planet; Invertebrates; Meteoroids; Minor Planets; Paleontology; Periodicity; Solar System
+UT PubMed:11542114
+PM 11542114
+DA 1987-01-01
+ER
+
+PT J
+AU Molony, L
+   McCaslin, D
+   Abernethy, J
+   Paschal, B
+   Burridge, K
+AF Molony, L
+   McCaslin, D
+   Abernethy, J
+   Paschal, B
+   Burridge, K
+TI Properties of talin from chicken gizzard smooth muscle.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB This paper describes the structural and biochemical characterization of talin, a  protein localized to various cellular sites where bundles of actin filaments  attach to the plasma membrane. By sodium dodecyl sulfate-polyacrylamide gel  electrophoresis, the protein has a molecular mass of 225,000 +/- 5,000 daltons.  Hydrodynamic measurements at protein concentrations less than 0.72 mg/ml indicate  a monomeric protein with a native molecular mass of 213,000 +/- 15,000 daltons.  Sedimentation equilibrium experiments indicate self-association at protein  concentrations of 0.72 mg/ml and higher. The data suggest that this  self-association is a simple monomer:dimer equilibrium over the range of  concentrations observed. At low protein concentrations where talin is a monomer,  the Stokes radius and sedimentation coefficient vary with ionic strength. Under  low ionic strength conditions (5-20 mM NaCl), talin has a Stokes radius of 6.5 nm  and a sedimentation value of 9.4, suggesting an asymmetric globular molecule;  whereas under high ionic strength conditions (200 mM NaCl), the Stokes radius  increases to 7.7 nm and the sedimentation coefficient decreases to 8.8,  suggesting a more elongated protein. This conformation change is confirmed by  electron microscopy which reveals a more globular protein at low ionic strength  which unfolds to become an elongated flexible molecule as the ionic strength is  increased to physiological and higher levels. The amino acid composition of talin  indicates a low level of aromatic residues, consistent with its relatively low  extinction coefficient, talin has an isoelectric point between pH 6.7 and 6.8  based on isoelectric focusing. The detailed purification of talin is described.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD JUN 5
+PY 1987
+VL 262
+IS 16
+BP 7790
+EP 5
+DI 
+PG -7785
+WC Amino Acids; analysis; Animals; Chickens; Cytoskeletal Proteins; isolation & purification; Gizzard, Avian; analysis; Membrane Proteins; isolation & purification; Microscopy, Electron; Molecular Weight; Muscle, Smooth; analysis; Osmolar Concentration; Protein Conformation; Talin
+UT PubMed:3108258
+PM 3108258
+DA 1987-06-05
+ER
+
+PT J
+AU Garmendia, AE
+   McGuire, TC
+AF Garmendia, A E
+   McGuire, T C
+TI Mechanism and isotypes involved in passive immunoglobulin transfer to the newborn
+SO American journal of veterinary research
+LA English
+DT Journal Article
+AB Crias, newborn alpacas (Lama pacos), that were almost agammaglobulinemic at birth  had a 70% increase in total serum proteins within 24 hours largely because of  absorption of gamma globulins from colostrum. Immunoglobulin G was the isotype in  highest concentration in colostrum and in serum from 24-hour-old crias. The serum  IgG concentration of 10 crias increased linearly (r = 0.97) from a mean of 0.3  mg/ml (+/- 0.1 SD) for serum collected before crias suckled to a maximal mean of  30.1 mg/ml (+/- 8.1 SD) at 24 hours. The 24-hour concentration decreased by half  in 10 days. Immunoglobulin M also was absorbed from colostrum and increased  linearly (r = 0.99) from a mean of 0.5 mg/ml (+/- 0.1 SD) for serum collected  before crias suckled to a maximal mean of 4.2 mg/ml (+/- 2.2 SD) 24 hours after  birth. The 24-hour serum concentration of IgM decreased by half in 7 days.  Therefore, on a weight basis, 7 times more IgG than IgM was transferred to crias;  IgG accounted for greater than 85% of the passively transferred proteins in serum  of 24-hour-old crias. Absorption of functional antibodies of IgG and IgM isotypes  from colostrum of immunized dams by crias also was demonstrated. Immunoglobulin G  and IgM antibody titers to chicken RBC increased linearly to maximal geometric  mean titers of 1,139 and 843, respectively, 24 hours after birth. The 24-hour IgG  and IgM antibody titers decreased by half in 6 and 3.8 days, respectively.  Purified alpaca IgG had a molecular mass of 166 kilodaltons, a predominant gamma  mobility, and an extinction coefficient of 14.1.(ABSTRACT TRUNCATED AT 250 WORDS)
+C1 Department of Veterinary Microbiology and Pathology, College of Veterinary Medicine, Washington State University, Pullman 99164-7040.
+NR 0
+TC 0
+SN 
+EI 0002-964
+J9 Am J Vet Res
+PD OCT 1
+PY 1987
+VL 48
+IS 10
+BP 1465
+EP 71
+DI 
+PG -1394
+WC Animals; Animals, Newborn; immunology; Artiodactyla; immunology; Camelids, New World; immunology; Immunization, Passive; Immunoglobulin G; immunology; Immunoglobulin Isotypes; immunology
+UT PubMed:3674555
+PM 3674555
+DA 1987-10-01
+ER
+
+PT J
+AU Browder, LW
+   Pollock, M
+   Heikkila, JJ
+   Wilkes, J
+   Wang, T
+   Krone, P
+   Ovsenek, N
+   Kloc, M
+AF Browder, L W
+   Pollock, M
+   Heikkila, J J
+   Wilkes, J
+   Wang, T
+   Krone, P
+   Ovsenek, N
+   Kloc, M
+TI Decay of the oocyte-type heat shock response of Xenopus laevis.
+SO Developmental biology
+LA English
+DT Journal Article
+AB Xenopus oocytes have a complex heat shock response. During transition of the  oocyte into fertilized egg, the heat shock response undergoes several qualitative  and quantitative changes culminating in its complete extinction. Heat shock  induces oocytes to synthesize four heat shock proteins (hsps): 83, 76, 70, and  57. After ovulation, two additional proteins (hsps 22 and 16) are inducible. The  heat shock response of spawned eggs can be modified by changing the ionic  configuration of the external medium and by adding pyruvate and oxaloacetate to  the media. Since Xenopus eggs do not synthesize mRNA, these modifications to the  external medium apparently alter the utilization of preexisting messenger RNAs in  protein synthesis. Artificial activation terminates inducibility of hsps 76, 57,  and 16 and diminishes the hsp 70 response. Two new heat shock proteins-66 and  48-are also inducible in artificially activated eggs. Fertilization, on the other  hand, terminates the heat shock response; no hsps can be induced. However, hsp 70  appears to be made constitutively in fertilized eggs. RNA blot analyses reveal  that oogenic hsp 70 messenger RNA is retained in eggs and early embryos. This  messenger is apparently used for heat-induced synthesis of hsp 70 before  fertilization and for constitutive synthesis of hsp 70 in zygotes.
+C1 Department of Biological Sciences, University of Calgary, Alberta, Canada.
+NR 0
+TC 0
+SN 
+EI 0012-160
+J9 Dev Biol
+PD NOV 1
+PY 1987
+VL 124
+IS 1
+BP 191
+EP 9
+DI 10.1016/0012-1606(87)90471-4
+PG -182
+WC Animals; Electrophoresis, Polyacrylamide Gel; Female; Fertilization; Heat-Shock Proteins; biosynthesis; Hot Temperature; Nucleic Acid Hybridization; Oocytes; metabolism; Ovulation; RNA, Messenger; metabolism; Transcription, Genetic; Xenopus laevis; Zygote; metabolism
+UT PubMed:3666305
+PM 3666305
+DA 1987-11-01
+ER
+
+PT J
+AU Shoemaker, RC
+   Christofferson, SE
+   Galbraith, DW
+AF Shoemaker, R C
+   Christofferson, S E
+   Galbraith, D W
+TI Storage protein accumulation patterns in somatic embryos of cotton (Gossypium
+SO Plant cell reports
+LA English
+DT Journal Article
+AB The storage protein content of somatic embryos of Gossypium hirsutum L. cv. Coker  201 was determined using extinction level, antigen/antibody association detection  methods. Mature storage protein was first detected in early globular-stage  somatic embryos at a total concentration of 0.36% of the embryo protein mass.  Tulip-stage and mature somatic embryos were comprised of 3.0% and 1.3% mature  storage protein, respectively. Maximum storage protein synthesis was found to  occur during early globular- and early heart-stages. During this period of  development, significant levels of protein precursors were found also to  accumulate. The pattern of storage protein synthesis, processing and accumulation  paralleled the pattern that has been reported for the zygotic system, although  somatic embryos accumulate storage protein at much earlier stages and to a lesser  degree. The possibility of using complex biochemical pathways to monitor  embryogenic systems in vitro is discussed.
+C1 School of Biological Sciences, University of Nebraska-Lincoln, 68588-0118, N.E., USA.
+NR 0
+TC 0
+SN 
+EI 0721-771
+J9 Plant Cell Rep
+PD FEB 1
+PY 1987
+VL 6
+IS 1
+BP 12
+EP 5
+DI 10.1007/BF00269728
+PG -7
+UT PubMed:24248439
+PM 24248439
+DA 1987-02-01
+ER
+
+PT J
+AU Ricklefs, RE
+AF Ricklefs, R E
+TI Community diversity: relative roles of local and regional processes.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The species richness (diversity) of local plant and animal assemblages-biological  communities-balances regional processes of species formation and geographic  dispersal, which add species to communities, against processes of predation,  competitive exclusion, adaptation, and stochastic variation, which may promote  local extinction. During the past three decades, ecologists have sought to  explain differences in local diversity by the influence of the physical  environment on local interactions among species, interactions that are generally  believed to limit the number of coexisting species. But diversity of the  biological community often fails to converge under similar physical conditions,  and local diversity bears a demonstrable dependence upon regional diversity.  These observations suggest that regional and historical processes, as well as  unique events and circumstances, profoundly influence local community structure.  Ecologists must broaden their concepts of community processes and incorporate  data from systematics, biogeography, and paleontology into analyses of ecological  patterns and tests of community theory.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JAN 9
+PY 1987
+VL 235
+IS 4785
+BP 167
+EP 71
+DI 10.1126/science.235.4785.167
+PG -96
+UT PubMed:17778629
+PM 17778629
+DA 1987-01-09
+ER
+
+PT J
+AU Weidman, PJ
+   Teller, DC
+   Shapiro, BM
+AF Weidman, P J
+   Teller, D C
+   Shapiro, B M
+TI Purification and characterization of proteoliaisin, a coordinating protein in
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB We report the purification and characterization of proteoliaisin, a protein that  participates in the assembly of the sea urchin fertilization envelope.  Proteoliaisin was purified from egg cortical granule exudate to greater than 99%  homogeneity using chromatography on DEAE-Sepharose and on phenyl-Sepharose.  Native proteoliaisin is a highly asymmetric protein (f/fo = 2.0) composed of a  single Mr approximately 230,000 peptide. Its asymmetry was demonstrated both by  analytical ultracentrifugation and by nondenaturing polyacrylamide gel  electrophoresis, a novel analysis that detects molecular asymmetry in  heterogeneous protein mixtures. Proteoliaisin is enriched in six amino acids:  aspartic acid/asparagine, glutamic acid/glutamine, glycine, and cysteine, which  account for over 50% of its mass. Nearly all of the cysteine residues are  disulfide bonded. The protein contains a small proportion of aromatic amino acids  with phenylalanine greater than tyrosine greater than tryptophan. At neutral pH  its absorbance maximum is at 274.5 nm, with an extinction coefficient of 0.43 ml  mg-1 cm-1. Proteoliaisin forms a 1:1 Ca2+-stabilized complex with ovoperoxidase,  another component of the fertilization envelope, with Kd = 1.1 X 10(-6) M.  Proteoliaisin, a constituent of the specialized echinoderm extracellular matrix  called the fertilization envelope, has certain structural similarities to  mammalian extracellular matrix proteins.
+C1 Department of Biochemistry, University of Washington, Seattle 98195.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD NOV 5
+PY 1987
+VL 262
+IS 31
+BP 15076
+EP 84
+DI 
+PG -14992
+WC Amino Acids; analysis; Animals; Chromatography, Ion Exchange; Electrophoresis, Polyacrylamide Gel; Female; Fertilization; Glycoproteins; isolation & purification; Membrane Glycoproteins; isolation & purification; Molecular Weight; Ovum; analysis; Protein Conformation; Sea Urchins; Ultracentrifugation
+UT PubMed:3667625
+PM 3667625
+DA 1987-11-05
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Environmental trends in extinction during the Paleozoic.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB Extinction intensities calculated from 505 Paleozoic marine assemblages divided  among six environmental zones and 40 stratigraphic intervals indicate that whole  communities exhibit increasing extinction offshore but that genera within  individual taxonomic classes tend to have their highest extinction onshore. The  offshore trend at the community level results from a concentration of genera in  classes with low characteristic extinction rates in nearshore environments. This  finding is consistent with the ecologic expectation that organisms inhabiting  unpredictably fluctuating environments should suffer more extinction than  counterparts living under more predictably equitable conditions.
+C1 Department of the Geophysical Sciences, University of Chicago, IL 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JAN 2
+PY 1987
+VL 235
+IS 
+BP 64
+EP 6
+DI 10.1126/science.11539724
+PG -58
+WC Animals; Biological Evolution; Classification; Ecosystem; Environment; Fossils; Invertebrates; Marine Biology; Mollusca; North America; Paleontology
+UT PubMed:11539724
+PM 11539724
+DA 1987-01-02
+ER
+
+PT J
+AU Knoll, AH
+   Niklas, KJ
+AF Knoll, A H
+   Niklas, K J
+TI Adaptation, plant evolution, and the fossil record.
+SO Review of palaeobotany and palynology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The importance of adaptation in determining patterns of evolution has become an  important focus of debate in evolutionary biology. As it pertains to paleobotany,  the issue is whether or not adaptive evolution mediated by natural selection is  sufficient to explain the stratigraphic distributions of taxa and character  states observed in the plant fossil record. One means of addressing this question  is the functional evaluation of stratigraphic series of plant organs set in the  context of paleoenvironmental change and temporal patterns of floral composition  within environments. For certain organ systems, quantitative estimates of  biophysical performance can be made on the basis of structures preserved in the  fossil record. Performance estimates for plants separated in time or space can be  compared directly. Implicit in different hypotheses of the forces that shape the  evolutionary record (e.g. adaptation, mass extinction, rapid environmental  change, chance) are predictions about stratigraphic and paleoenvironmental trends  in the efficacy of functional performance. Existing data suggest that following  the evolution of a significant structural innovation, adaptation for improved  functional performance can be a major determinant of evolutionary changes in  plants; however, there are structural and development limits to functional  improvement, and once these are reached, the structure in question may no longer  figure strongly in selection until and unless a new innovation evolves. The  Silurian-Devonian paleobotanical record is consistent with the hypothesis that  the succession of lowland floodplain dominants preserved in the fossil record of  this interval was determined principally by the repeated evolution of new taxa  that rose to ecological importance because of competitive advantages conferred by  improved biophysical performance. This does not seem to be equally true for  Carboniferous-Jurassic dominants of swamp and lowland floodplain environments. In  these cases, environmental disruption appears to have been a major factor in  shaping the fossil record. This does not mean that continuing adaptation was not  important during this interval, but it may indicate that adaptive evolution was  strongest in environments other than those best represented in the paleobotanical  record.
+C1 Botanical Museum, Harvard University, Cambridge, MA 02138, USA.
+NR 0
+TC 0
+SN 
+EI 0034-666
+J9 Rev Palaeobot Palynol
+PD JAN 1
+PY 1987
+VL 50
+IS 
+BP 127
+EP 49
+DI 10.1016/0034-6667(87)90043-1
+PG -78
+WC Adaptation, Biological; Biological Evolution; Botany; Ecosystem; Environment; Fossils; Paleontology; Plant Physiological Phenomena; Plants; anatomy & histology
+UT PubMed:11542126
+PM 11542126
+DA 1987-01-01
+ER
+
+PT J
+AU Setchell, KD
+   Gosselin, SJ
+   Welsh, MB
+   Johnston, JO
+   Balistreri, WF
+   Kramer, LW
+   Dresser, BL
+   Tarr, MJ
+AF Setchell, K D
+   Gosselin, S J
+   Welsh, M B
+   Johnston, J O
+   Balistreri, W F
+   Kramer, L W
+   Dresser, B L
+   Tarr, M J
+TI Dietary estrogens--a probable cause of infertility and liver disease in captive
+SO Gastroenterology
+LA English
+DT Journal Article
+AB The cheetah in the wild is "racing towards extinction" mostly due to habitat  destruction. Its survival will probably depend on accelerated captive breeding.  At this time, however, reproductive failure and liver disease threaten the future  of the captive cheetah population. Histopathological evaluation of more than 100  cheetah livers identified venocclusive disease as the main hepatic lesion  responsible for liver disease in this species. Analysis of the commercial feline  diet by high-performance liquid chromatography and gas-liquid chromatography-mass  spectrometry revealed large amounts of two phytoestrogens identified as daidzein  and genistein. These compounds were found to be derived from a soybean product  that was a component of the cheetah diet, and their concentrations both ranged  from 18 to 35 micrograms/g diet. The adult cheetah consequently consumes  approximately 50 mg/day of these weak estrogens. When extracts of the diet were  tested for estrogenicity using a bioassay, a dose-related increase in uterine  weight was observed. In 4 cheetahs studied, withdrawal of this feline diet by  substitution with a chicken diet resulted in an improvement in conventional liver  function tests and a normalization in the appearance of hepatic mitochondria. We  conclude that the relatively high concentrations of phytoestrogens from soybean  protein present in the commercial diet fed to captive cheetahs in North American  zoos may be one of the major factors in the decline of fertility and in the  etiology of liver disease in this species. The survival of the captive cheetah  population could depend upon a simple change of diet by excluding exogenous  estrogen.
+NR 0
+TC 0
+SN 
+EI 0016-508
+J9 Gastroenterology
+PD AUG 1
+PY 1987
+VL 93
+IS 2
+BP 225
+EP 33
+DI 10.1016/0016-5085(87)91006-7
+PG -192
+WC Acinonyx; growth & development; Animal Feed; adverse effects; Animals; Biological Assay; Carnivora; growth & development; Cat Diseases; chemically induced; Cats; Chromatography, High Pressure Liquid; Estrogens; adverse effects; Estrogens, Non-Steroidal; Female; Gas Chromatography-Mass Spectrometry; Hepatic Veno-Occlusive Disease; veterinary; Infertility, Female; veterinary; Isoflavones; Liver; pathology; Liver Diseases; veterinary; Liver Function Tests; Male; Mice; Phytoestrogens; Plant Preparations; Rats; Glycine max
+UT PubMed:3297906
+PM 3297906
+DA 1987-08-01
+ER
+

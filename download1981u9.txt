@@ -1,0 +1,476 @@
+PT J
+AU SCHEFF, PA
+   WADDEN, RA
+AF SCHEFF, PA
+   WADDEN, RA
+TI COMPARISON OF FINE PARTICLE MASS CONCENTRATION AND LIGHT-SCATTERING EXTINCTION IN AMBIENT AEROSOL
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Discussion
+RP SCHEFF, PA (corresponding author), UNIV ILLINOIS,SCH PUBL HLTH,CHICAGO,IL 60680, USA.
+CR ALLEN RJ, 1977, ATMOS ENVIRON, V11, P1101, DOI 10.1016/0004-6981(77)90241-4
+   DZUBAY TG, 1976, ATMOS ENVIRON, V10, P229, DOI 10.1016/0004-6981(76)90095-0
+   MCFARLAND AR, 1978, ENVIRON SCI TECHNOL, V12, P679, DOI 10.1021/es60142a006
+   SCHEFF PA, 1979, ATMOS ENVIRON, V13, P639, DOI 10.1016/0004-6981(79)90192-6
+   WADDEN RA, 1980, 5TH P INT CLEAN AIR, V0, P0
+   WAGGONER AP, 1980, ATMOS ENVIRON, V14, P623, DOI 10.1016/0004-6981(80)90098-0
+   WILLEKE K, 1975, AM IND HYG ASSOC J, V36, P683, DOI 10.1080/0002889758507315
+   WITZ S, 1981, ENVIRON SCI TECHNOL, V15, P79, DOI 10.1021/es00083a007
+NR 8
+TC 0
+Z9 0
+U1 0
+U2 1
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 1352-2310
+EI 
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD JUN 15
+PY 1981
+VL 15
+IS 5
+BP 875
+EP 876
+DI 10.1016/0004-6981(81)90292-4
+PG 2
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA LR500
+UT WOS:A1981LR50000024
+DA 2024-04-03
+ER
+
+PT J
+AU HAGGBLOOM, SJ
+   POND, EK
+AF HAGGBLOOM, SJ
+   POND, EK
+TI PARTIAL-REINFORCEMENT EFFECT FOLLOWING A SHIFT FROM MASSED ACQUISITION TO SPACED EXTINCTION
+SO BULLETIN OF THE PSYCHONOMIC SOCIETY
+LA English
+DT Article
+RP HAGGBLOOM, SJ (corresponding author), ARIZONA STATE UNIV,DEPT PSYCHOL,TEMPE,AZ 85281, USA.
+CR AMSEL A, 1958, PSYCHOL BULL, V55, P102, DOI 10.1037/h0043125
+   AMSEL A, 1971, J EXP PSYCHOL, V90, P90, DOI 10.1037/h0031407
+   Bolles RC, 1967, THEORY OF MOTIVATION, V0, P0
+   CAPALDI EJ, 1966, PSYCHOL REV, V73, P459, DOI 10.1037/h0023684
+   CAPALDI EJ, 1976, ANIM LEARN BEHAV, V4, P113, DOI 10.3758/BF03214019
+   CAPALDI EJ, 1975, ANIM LEARN BEHAV, V3, P1, DOI 10.3758/BF03209090
+   CAPALDI EJ, 1971, J COMP PHYSIOL PSYCH, V76, P290, DOI 10.1037/h0031409
+   CAPALDI EJ, 1974, LEARN MOTIV, V5, P473, DOI 10.1016/0023-9690(74)90005-8
+   CAPALDI EJ, 1974, MAY M MIDW PSYCH ASS, V0, P0
+   LONG JB, 1965, J COMP PHYSIOL PSYCH, V60, P252, DOI 10.1037/h0022332
+   Mackintosh NJ, 1974, THE PSYCHOLOGY OF ANIMAL LEARNING, V0, P0
+   ROSS RR, 1964, J EXP PSYCHOL, V68, P492, DOI 10.1037/h0041541
+NR 12
+TC 2
+Z9 2
+U1 0
+U2 1
+PU PSYCHONOMIC SOC INC
+PI AUSTIN
+PA 1710 FORTVIEW RD, AUSTIN, TX 78704
+SN 0090-5054
+EI 
+J9 B PSYCHONOMIC SOC
+PD JUN 15
+PY 1981
+VL 18
+IS 5
+BP 278
+EP 280
+DI 
+PG 3
+WC Psychology, Mathematical
+SC Psychology
+GA MV347
+UT WOS:A1981MV34700015
+DA 2024-04-03
+ER
+
+PT J
+AU LEWIS, CW
+AF LEWIS, CW
+TI ON THE PROPORTIONALITY OF FINE MASS CONCENTRATION AND EXTINCTION COEFFICIENT FOR BIMODAL SIZE DISTRIBUTIONS
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Article
+RP LEWIS, CW (corresponding author), US EPA,ENVIRONM SCI RES LAB,RES TRIANGLE PK,NC 27711, USA.
+CR BROCKMANN JE, 1976, THESIS U MINNESOTA M, V0, P0
+   DZUBAY TG, 1980, ATMOSPHERIC ENV, V15, P2617
+   FREDERICK ER, 1979, APCA SPECIALTY C P D, V0, P0
+   LEWIS CW, 1980, ATMOS ENVIRON, V14, P185, DOI 10.1016/0004-6981(80)90277-2
+   WAGGONER AP, 1980, ATMOS ENVIRON, V14, P623, DOI 10.1016/0004-6981(80)90098-0
+   WEDDING JB, 1980, ENVIRON SCI TECHNOL, V14, P1367, DOI 10.1021/es60171a014
+   WHITBY KT, 1978, ATMOS ENVIRON, V12, P135, DOI 10.1016/0004-6981(78)90196-8
+   WILLEKE K, 1977, ATMOS ENVIRON, V11, P995, DOI 10.1016/0004-6981(77)90029-4
+NR 8
+TC 23
+Z9 23
+U1 0
+U2 3
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 1352-2310
+EI 
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD JUN 15
+PY 1981
+VL 15
+IS 12
+BP 2639
+EP 2646
+DI 10.1016/0004-6981(81)90086-X
+PG 8
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA MZ349
+UT WOS:A1981MZ34900031
+DA 2024-04-03
+ER
+
+PT J
+AU STANLEY, SM
+   CAMPBELL, LD
+AF STANLEY, SM
+   CAMPBELL, LD
+TI NEOGENE MASS EXTINCTION OF WESTERN ATLANTIC MOLLUSKS
+SO NATURE
+LA English
+DT Article
+C1 UNIV S CAROLINA, SPARTANBURG, SC 29303 USA.
+C3 University of South Carolina System; University of South Carolina Columbia
+RP JOHNS HOPKINS UNIV, DEPT EARTH & PLANETARY SCI, BALTIMORE, MD 21218 USA.
+CR Abbott RTucker, 1974, AM SEASHELLS, V2nd, P0
+   Akers WH, 1972, TULANE STUD GEOL, V9, P1
+   Belknap DF, 1979, THESIS U DELAWARE, V0, P0
+   BENDER ML, 1973, GEOCHIM COSMOCHIM AC, V37, P1229, DOI 10.1016/0016-7037(73)90058-6
+   Berggren WA, 1972, INITIAL REPORTS OF THE DEEP SEA DRILLING PROJECT, V0, P0
+   BERGGREN WA, 1977, TECTONOPHYSICS, V38, P11, DOI 10.1016/0040-1951(77)90199-8
+   BERRY WBN, 1973, GEOL SOC AM BULL, V84, P275, DOI 10.1130/0016-7606(1973)84<275:GCOLOS>2.0.CO;2
+   BLACKWELDER BW, 1976, GEOLOGICAL SOC AM EA, V0, P76
+   BRENCHLEY PJ, 1980, PALAEOGEOGR PALAEOCL, V31, P1, DOI 10.1016/0031-0182(80)90002-4
+   CAMPBELL LD, 1975, SC GEOL NOTES, V19, P51
+   CHAMBERLIN TC, 1898, J GEOL, V6, P449, DOI 10.1086/608138
+   CHAMBERLIN TC, 1898, J GEOL, V6, P597
+   CHINZEI K, 1976, JOURNAL OF THE FACULTY OF SCIENCE UNIVERSITY OF TOKYO SECTION II GEOLOGY MINERALOGY GEOGRAPHY GEOPHYSICS, V19, P179
+   CIESIELSKI PF, 1977, MAR GEOL, V25, P175, DOI 10.1016/0025-3227(77)90052-4
+   CIFELLI R, 1969, SYST ZOOL, V18, P154, DOI 10.2307/2412601
+   CLARK WB, 1904, MIOCENE, V0, P0
+   COPPER P, 1977, PALAEOGEOGR PALAEOCL, V21, P165, DOI 10.1016/0031-0182(77)90020-7
+   DALL WH, 1890, T WAGNER FREE I SCI, V3, P0
+   DUBAR JR, 1962, B FLORIDA GEOL SURV, V43, P1
+   Fischer AG, 1977, DEEP WATER CARBONATE, V25, P19
+   FROST SH, 1977, 3RD P INT COR REEF S, V0, P353
+   Glenn LC, 1904, P274, V0, P0
+   Hazel JE, 1971, BULLETIN CENT RECH PAU, V5, P361
+   Hickman CS, 1980, BULL AM PALEONTOL, V78, P1
+   Hoerle SE, 1970, TULANE STUD. GEOL., V8, P56
+   LAMB JL, 1972, U KANSAS PALEONT CON, V57, P1
+   MANSFIELD WC, 1932, B FLORIDA GEOL SURV, V8, P0
+   MANSFIELD WC, 1930, B FLORIDA GEOL SURV, V3, P0
+   MARASTI R, 1980, VOLUME DEDICATO SERG, V0, P107
+   Martin GC, 1904, MIOCENE GASTROPODA: MARYLAND GEOLOGICAL SURVEY, V0, P131
+   McIntyre A, 1976, GEOL SOC AM BULL, V145, P43
+   Newell ND, 1967, GEOL SOC AM SPEC PAP, V0, P63
+   NEWELL NORMAN D, 1952, JOUR PALEONTOL, V26, P371
+   Oaks Jr RQ, 1974, POST MIOCENE STRATIG, V0, P232
+   OLSSON A, 1961, MOLLUSKS TROPICAL EA, V0, P0
+   PECK DM, 1979, GEOLOGY, V7, P285, DOI 10.1130/0091-7613(1979)7<285:LMGLOS>2.0.CO;2
+   PETUCH EJ, 1980, THESIS U MIAMI, V0, P0
+   Prell WL, 1976, GEOLOGICAL SOCIETY OF AMERICA MEMOIR, V145, P201
+   Richards HG, 1962, TRANSACTIONS OF THE AMERICAN PHILOSOPHICAL SOCIETY NS, V52, P1, DOI 10.2307/1005876
+   ROBINSON E, 1967, ASS VENEZ GEOL MIN P, V10, P97
+   SCHOPF TJM, 1974, J GEOL, V82, P129, DOI 10.1086/627955
+   Schuchert C, 1926, AM J SCI, V12, P277
+   SCHUCHERT C, 1910, GEOL SOC AM BULL, V27, P491
+   SHACKLETON NJ, 1977, NATURE, V270, P216, DOI 10.1038/270216a0
+   SHEEHAN PM, 1973, LETHAIA, V6, P147, DOI 10.1111/j.1502-3931.1973.tb01188.x
+   Stanley SM, 1979, MACROEVOLUTION PATTE, V0, P0
+   STANLEY SM, 1980, GEOLOGY, V8, P422, DOI 10.1130/0091-7613(1980)8<422:LCIPPA>2.0.CO;2
+   STILLE H, 1924, GRUNDFRAGEN VERGLEIC, V0, P0
+   Tappan H, 1980, PALEOBIOLOGY PLANT P, V0, P0
+   Vail PR, 1977, SEISMIC STRATIGRAPHY, V26, P83
+   Vermeij GJ, 1978, BIOGEOGRAPHY ADAPTAT, V0, P0
+   WOLFE JA, 1980, PALAEOGEOGR PALAEOCL, V13, P289
+   WOODRING WP, 1966, P AM PHILOS SOC, V110, P425
+   WOODRING WP, 1925, YB CARNEGIE I WASH, V0, P366
+NR 55
+TC 91
+Z9 100
+U1 0
+U2 5
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD JUN 15
+PY 1981
+VL 293
+IS 5832
+BP 457
+EP 459
+DI 10.1038/293457a0
+PG 3
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA MJ815
+UT WOS:A1981MJ81500040
+DA 2024-04-03
+ER
+
+PT J
+AU Burke, EAJ
+   Lustenhouwer, WJ
+AF Burke, E. A. J.
+   Lustenhouwer, W. J.
+TI PEHRMANITE, A NEW BERYLLIUM MINERAL FROM ROSENDAL PEGMATITE, KEMIO ISLAND, SOUTHWESTEN FINLAND
+SO CANADIAN MINERALOGIST
+LA English
+DT Article
+DE pehrmanite; new mineral; beryllium; ion microprobe mass analyzer (IMMA); pegmatite; Rosendal; Kemio; Finland
+AB Pehrmanite (Be, Zn, Me)Fe2+ Al4O8 is a new mineral from the Rosendal pegmatite, Kemio Island, southwestern Finland. It is rhombohedral, polytype 9R, R (3) over barm, with a 5.70, c 41.16 A, and Z = g, for which the calculated density is 4.07 g/cm(3). The strongest lines of the X-ray powder-diffraction pattern are: 2.856 A (I = 8)(11 (2) over bar0), 2.666(4)(1.0.(1) over bar .13), 2.422(10)(11 (2) over bar9), 2.063(4) (2.0.(2) over bar .11), 1.426 (5)(22 (4) over bar0). It occurs as small, subhedral, hexagonal tablets with green color and vitreous lustre. The Mohs hardness is 8-8 1/2 (calc.). VHN100 = 1700, and there is no cleavage. Optically, it is uniaxial (-), with mean index of refraction 1.79; parallel extinction, positive elongation. Reflectance (nm, %): 470, 8.34; 546, 8.11; 589, 8.01; 650, 7.86. The composition. as determined by electron microprobe (and qualitatively for Be by ion microprobe), is Al2O3 64.4. FeO 23.3. MnO 0.3, MgO 1.9. ZnO 5.2, BeO (by difference) 4.9. total 100.0 weight percent, which yields the empirical formula (Ben(0.62)Zn(0.20)Mg(0.15))(Sigma = 0.97)(Fe1.032+Mn0.01)(Sigma = 1.04)Al3.99O8. This is the iron analogue of taaffeite and a new member of the hogbomite group. The mineral is named for Gunnar Pehrman.
+C1 [Burke, E. A. J.] Free Univ Amsterdam, Inst Earth Sci, NL-1081 HV Amsterdam, Netherlands.
+   [Lustenhouwer, W. J.] Netherlands Org Adv Pure Res ZWO, NL-1081 HV Amsterdam, Netherlands.
+C3 Vrije Universiteit Amsterdam
+RP Burke, EAJ (corresponding author), Free Univ Amsterdam, Inst Earth Sci, De Boelelaan 1085, NL-1081 HV Amsterdam, Netherlands.
+FU Free University
+CR ANDERSON BW, 1951, MINERAL MAG, V29, P765
+   BURKE EAJ, 1977, GEOL SOC FINLAND B, V49, P0
+   ESKOLA P, 1914, COMM GEOL FINLANDE B, V40, P0
+   GREY IE, 1979, AM MINERAL, V64, P1255
+   GRINZBURG AI, 1974, GEOL SURV CZECH, V1, P95
+   Heinrich EWM, 1969, INDIAN MINERALOGIST, V10, P1
+   HUDSON DR, 1967, MINERAL MAG J M SOC, V36, P305, DOI 10.1180/minmag.1967.036.279.01
+   KOZHEVNIKOV OK, 1977, DOKL ACAD SCI USSR E, V224, P0
+   LAITAKARI A, 1967, COMM GEOL FINLANDE B, V230, P0
+   McKie D, 1963, MINERAL MAG, V33, P563
+   PEACOR DR, 1967, AM MINERAL, V52, P864
+   PEHRMAN G, 1945, ACTA ACAD ABOENSIS M, VXV.2, P1
+   SPRINGER G, 1967, FORTSCHR MINERAL, V45, P103
+   TEALE GS, 1980, MINERAL MAG, V43, P515
+   VLASOV KA, 1966, GEOCHEMISTRY MINERAL, V2, P0
+   VOLBORTH A, 1952, KEMION PEGMATIITIT, V0, P0
+NR 16
+TC 16
+Z9 16
+U1 0
+U2 2
+PU MINERALOGICAL ASSOC CANADA
+PI QUEBEC
+PA 490, RUE DE LA COURONNE, QUEBEC, QC G1K 9A9, CANADA
+SN 0008-4476
+EI 
+J9 CAN MINERAL
+JI Can. Mineral.
+PD MAY 15
+PY 1981
+VL 19
+IS 
+BP 311
+EP 314
+DI 
+PG 4
+WC Mineralogy
+SC Mineralogy
+GA V25YH
+UT WOS:000208512800010
+DA 2024-04-03
+ER
+
+PT J
+AU Boyle, DR
+   Littlejohn, AL
+   Roberts, AC
+   Watson, DM
+AF Boyle, D. R.
+   Littlejohn, A. L.
+   Roberts, A. C.
+   Watson, D. M.
+TI NINGYOITE IN URANIUM DEPOSITS OF SOUTH-CENTRAL BRITISH COLUMBIA: FIRST NORTH AMERICAN OCCURRENCE
+SO CANADIAN MINERALOGIST
+LA English
+DT Article
+DE ningyoite; saleeite; uranium; phosphorus; groundwaters; Blizzard deposit; Tvee deposit; British Columbia
+AB Ningyoite has been found in the uranium deposits of southern British Columbia, where it constitutes the major uranous (U4+) phase present. It occurs as accretionary stars, crvstal mats and aggregate masses of spindle- or lozenge-shaped crystals that rarely exceed 2 mm in length. Occasionally it is present as single crystals in cleavage cracks of saleeite. The mineral forms in pyritiferous organic-rich fluvial sediments (Tyee deposit) or carbonaceous sandy mudstones (Blizzard deposit). In transmitted light ningyoite is greenish brown and displays a slight pleochroism. Extinction of the spindle-shaped grains is parallel and the mean index of refraction is between 1.60 and 1.70. Ningyoite is orthorhombic a 6.75(1), b 12.00(1), c 6.38(1) angstrom, V 516.78 angstrom(3), Z = 3, diffraction aspect C***. Electron-microprobe analysis failed to detect rare-earth elements in ningyoite from British Columbia. Rare-earth elements were detected in only some ningyoite aggregates from the type locality in Japan. It is proposed that the formula for ningyoite be written Ca2-xUx(PO4)center dot nH(2)O, where x <= 1. Optimum conditions for the formation of ningyoite are attained when weakly alkaline groundwaters leaching granitic basement complexes and containing high concentrations of U and PO4 infiltrate pyritiferous, organic-matter-rich sediments.
+C1 [Boyle, D. R.; Littlejohn, A. L.; Roberts, A. C.; Watson, D. M.] Geol Survey Canada, Ottawa, ON K1A 0E8, Canada.
+C3 Natural Resources Canada; Lands & Minerals Sector - Natural Resources Canada; Geological Survey of Canada
+RP Boyle, DR (corresponding author), Geol Survey Canada, 601 Booth St, Ottawa, ON K1A 0E8, Canada.
+CR BELOVA LN, 1978, DOKL AKAD NAUK SSSR+, V243, P1022
+   Belova LN, 1978, DOKL AKAD NAUK+, V238, P215
+   BOYLE DR, 1979, CAN MINING METALL B, V72, P96
+   BOYLE DR, 1980, CIM BULL, V73, P89
+   CHRISTOPHER PA, 1977, W MINER, V50, P75
+   KAJITANI K, 1970, ECON GEOL, V65, P470, DOI 10.2113/gsecongeo.65.4.470
+   MUTO T, 1959, AM MINERAL, V44, P633
+   Muto T, 1965, MINERAL J, V4, P245
+   Muto T, 1961, MINERAL. J., V3, P195
+   Muto T, 1962, MINERAL. J., V3, P306
+   Watanabe K, 1976, J FS SHINSHU U, V11, P53
+NR 11
+TC 15
+Z9 15
+U1 0
+U2 3
+PU MINERALOGICAL ASSOC CANADA
+PI QUEBEC
+PA 490, RUE DE LA COURONNE, QUEBEC, QC G1K 9A9, CANADA
+SN 0008-4476
+EI 
+J9 CAN MINERAL
+JI Can. Mineral.
+PD MAY 15
+PY 1981
+VL 19
+IS 
+BP 325
+EP 331
+DI 
+PG 7
+WC Mineralogy
+SC Mineralogy
+GA V25YH
+UT WOS:000208512800012
+DA 2024-04-03
+ER
+
+PT J
+AU WAGGONER, AP
+   WEISS, RE
+AF WAGGONER, AP
+   WEISS, RE
+TI COMPARISON OF FINE PARTICLE MASS CONCENTRATION AND LIGHT-SCATTERING EXTINCTION IN AMBIENT AEROSOL - REPLY
+SO ATMOSPHERIC ENVIRONMENT
+LA English
+DT Discussion
+RP WAGGONER, AP (corresponding author), UNIV WASHINGTON,DEPT CIVIL ENGN,SEATTLE,WA 98195, USA.
+CR DZUBAY TG, 1975, ENVIRON SCI TECHNOL, V9, P663, DOI 10.1021/es60105a011
+   WAGGONER AP, 1980, ATMOS ENVIRON, V14, P623, DOI 10.1016/0004-6981(80)90098-0
+NR 2
+TC 2
+Z9 2
+U1 0
+U2 0
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD, ENGLAND OX5 1GB
+SN 1352-2310
+EI 
+J9 ATMOS ENVIRON
+JI Atmos. Environ.
+PD JUN 15
+PY 1981
+VL 15
+IS 5
+BP 876
+EP 876
+DI 10.1016/0004-6981(81)90293-6
+PG 1
+WC Environmental Sciences; Meteorology & Atmospheric Sciences
+SC Environmental Sciences & Ecology; Meteorology & Atmospheric Sciences
+GA LR500
+UT WOS:A1981LR50000025
+DA 2024-04-03
+ER
+
+PT J
+AU Roberts, AC
+   Ansell, HG
+   Dunn, PJ
+AF Roberts, A. C.
+   Ansell, H. G.
+   Dunn, P. J.
+TI COMANCHEITE, A NEW MERCURY OXYCHLORIDE - BROMIDE FROM TERLINGUA, TEXAS
+SO CANADIAN MINERALOGIST
+LA English
+DT Article
+DE comancheite; mercury oxychloride-bromide; new mineral; Mariposa mine; Terlingua district; Texas
+AB Comancheite is a new mercury oxychloride-bromide mineral from the Mariposa mine. Terlingua district, Texas. Associated minerals are calcite, goethite, hematite and quartz. Comancheite occurs as anhedral crystalline masses and as stellate groups of acicular crystals, elongate parallel to c. averaging 80 mu m long and 3 to 4 mu m wide. Masses are red with an orange-yellow streak and have a resinous lustre; crystals are orange-red to yellow, vitreous and translucent to transparent. Comancheite is brittle with fair cleavage parallel to {001} and {110}, has a Mohs hardness of 2 and does not fluoresce in ultraviolet light. Optically, comancheite exhibits parallel extinction and is length-fast with all indices of refraction between 1.78 and 1.79. The measured density is 7.7(4); calculated density is 8.0 Mg m(-3). Electron-microprobe analysis yielded the chemical formula Hg-13.00(Cl4.51Br3.50)(Sigma 8.01)O-9.07, calculated on Hg = 13. The ideal formula is Hg-13(Cl,Br)(8)O-9. Comancheite is orthorhombic, space group Pnnm or Pnn2, a 18.41(1), b 21.64(1), c 6.677(2) angstrom and Z = 4. The strongest seven reflections of the X-ray powder pattern (d angstrom, I on a ten-point scale) are: 5.68(7), 5.42(6), 2.878(8), 2.710(5), 2.669(10), 2.457(5) and 1.415(5).
+C1 [Roberts, A. C.; Ansell, H. G.] Geol Survey Canada, Ottawa, ON K1A 0E8, Canada.
+   [Dunn, P. J.] Smithsonian Inst, Dept Mineral Sci, Washington, DC 20560 USA.
+C3 Natural Resources Canada; Lands & Minerals Sector - Natural Resources Canada; Geological Survey of Canada; Smithsonian Institution; Smithsonian National Museum of Natural History
+RP Roberts, AC (corresponding author), Geol Survey Canada, 601 Booth St, Ottawa, ON K1A 0E8, Canada.
+CR CANFIELD FA, 1910, AM J SCI, V180, P202
+   HILLEBRAND WF, 1909, US GEOL SURV B, V0, P405
+   Moses AJ, 1903, AM J SCI, V16, P253
+   SHARPE RD, 1980, U TEXAS AUSTIN MINER, V0, P64
+   STURMAN BD, 1974, CAN MINERAL, V12, P417
+   TUNELL G, 1977, NEUES JB MINER MONAT, V0, P119
+   Yates RG, 1959, 114312 GEOL SURV PRO, V0, P0
+NR 7
+TC 6
+Z9 6
+U1 0
+U2 0
+PU MINERALOGICAL ASSOC CANADA
+PI QUEBEC
+PA 490, RUE DE LA COURONNE, QUEBEC, QC G1K 9A9, CANADA
+SN 0008-4476
+EI 
+J9 CAN MINERAL
+JI Can. Mineral.
+PD AUG 15
+PY 1981
+VL 19
+IS 
+BP 393
+EP 396
+DI 
+PG 4
+WC Mineralogy
+SC Mineralogy
+GA V25YI
+UT WOS:000208512900005
+DA 2024-04-03
+ER
+
+PT J
+AU FARMER, WM
+   KRIST, KL
+AF FARMER, WM
+   KRIST, KL
+TI COMPARISON OF METHODS USED TO DETERMINE THE MASS EXTINCTION COEFFICIENT FOR PHOSPHORUS SMOKES
+SO PROCEEDINGS OF THE SOCIETY OF PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+LA English
+DT Article
+RP FARMER, WM (corresponding author), UNIV TENNESSEE,INST SPACE,TULLAHOMA,TN 37388, USA.
+CR FARMER WM, 1981, 5 SMOK S AD, V0, P0
+   FARMER WM, 1980, UTSIGDTR8014 PM SMOK, V0, P0
+   FARMER WM, 1981, APR P SPIE, V0, P0
+   MILHAM ME, 1981, 5 SMOK S AD, V0, P0
+   SMITH MD, 1981, 5 SMOK S AD, V0, P0
+   TARNOVE TL, 1980, ARCSLTR80049 CHEM SY, V0, P0
+NR 6
+TC 2
+Z9 3
+U1 0
+U2 0
+PU SOC PHOTO-OPTICAL INSTRUMENTATION ENGINEERS
+PI BELLINGHAM
+PA PO BOX 10, BELLINGHAM, WA 98227-0010
+SN 0361-0748
+EI 
+J9 P SOC PHOTO-OPT INST
+PD JUN 15
+PY 1981
+VL 305
+IS 
+BP 7
+EP 16
+DI 
+PG 10
+WC Optics; Spectroscopy
+SC Optics; Spectroscopy
+GA PB400
+UT WOS:A1981PB40000003
+DA 2024-04-03
+ER
+

@@ -1,0 +1,583 @@
+PT J
+AU McGrath, JW
+AF McGrath, J W
+TI Social networks of disease spread in the lower Illinois valley: a simulation
+SO American journal of physical anthropology
+LA English
+DT Journal Article
+AB This study illustrates the use of disease modeling and simulation techniques to  the study of the spread of disease within and between social networks. A  Reed-Frost type model of disease spread is used to construct a simulation of the  spread of tuberculosis within three prehistoric populations of the Lower Illinois  River Valley during Middle Woodland, Late Woodland, and Mississippian times. A  high and low population size was modeled for each time period. Late Woodland  model 2 (low population estimate) is the only model that experienced pathogen  extinction with host survival. The rest of the models experienced rapid and  severe host population decline. The results of the simulation suggest that a  social network size of between 180 and 440 persons is required under the  conditions of this model for host-pathogen coexistence (i.e., endemicity) to  occur. The severe population decline experienced by these populations suggests  that tuberculosis as modeled here could not have existed in these populations.  Future refinements of modeling and simulation techniques can provide additional  insights into how disease spreads among social contacts.
+C1 Department of Anthropology, Case Western Reserve University, Cleveland, Ohio 44106.
+NR 0
+TC 0
+SN 
+EI 0002-948
+J9 Am J Phys Anthropol
+PD DEC 1
+PY 1988
+VL 77
+IS 4
+BP 483
+EP 96
+DI 10.1002/ajpa.1330770409
+PG -387
+WC History, Ancient; History, Medieval; Humans; Illinois; Models, Biological; Social Environment; Tuberculosis; history
+UT PubMed:3066224
+PM 3066224
+DA 1988-12-01
+ER
+
+PT J
+AU Miller, AI
+   Sepkoski, JJ Jr
+AF Miller, A I
+   Sepkoski, J J Jr
+TI Modeling bivalve diversification: the effect of interaction on a
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The global diversification of the class Bivalvia has historically received two  conflicting interpretations. One is that a major upturn in diversification was  associated with, and a consequence of, the Lake Permian mass extinction. The  other is that mass extinctions have had little influence and that bivalves have  experienced slow but nearly steady exponential diversification through most of  their history, unaffected by interactions with other clades. We find that the  most likely explanation lies between these two interpretations. Through most of  the Phanerozoic, the diversity of bivalves did indeed exhibit slow growth, which  was not substantially altered by mass extinctions. However, the presence of  "hyperexponential bursts" in diversification during the initial Ordovician  radiation and following the Late Permian and Late Cretaceous mass extinctions  suggests a more complex history in which a higher characteristic diversification  rate was dampened through most of the Phanerozoic. The observed pattern can be  accounted for with a two-phase coupled (i.e., interactive) logistic model, where  one phase is treated as the "bivalves" and the other phase is treated as a  hypothetical group of clades with which the "bivalves" might have interacted.  Results of this analysis suggest that interactions with other taxa have  substantially affected bivalve global diversity through the Phanerozoic.
+C1 Department of Geology, University of Cincinnati, Ohio 45221, USA.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1988
+VL 14
+IS 4
+BP 364
+EP 9
+DI 10.1017/s0094837300012100
+PG -355
+WC Animals; Biological Evolution; Geological Phenomena; Geology; Logistic Models; Models, Biological; Mollusca; classification; Paleontology; Phylogeny
+UT PubMed:11542146
+PM 11542146
+DA 1988-01-01
+ER
+
+PT J
+AU García-Tejedor, A
+   Sanz-Nuño, JC
+   Olarrea, J
+   Javier, de la Rubia F
+   Montero, F
+AF García-Tejedor, A
+   Sanz-Nuño, J C
+   Olarrea, J
+   Javier de la Rubia, F
+   Montero, F
+TI Influence of the hypercycle on the error threshold: a stochastic approach.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB The role of fluctuations on the error threshold of the hypercycle has been  studied by a stochastic approach on a very simplified model. For this model, the  master equation was derived and its unique steady state calculated. This state  implies the extinction of the system. But the actual time necessary to reach the  steady state may be astronomically long whereas for times of experimental  interest the system could be near some quasi-stationary states. In order to  explore this possibility a Gillespie simulation of the stochastic process has  been carried out. These quasi-stationary states correspond to the deterministic  steady states of the system. The error threshold shifts towards higher values of  the quality factor Q. Moreover, information about the fluctuations around the  quasi-stationary states is obtained. The results are discussed in relation to the  deterministic states.
+C1 Departamento de Bioquímica y Biología Molecular I, Facultad de Ciencias Químicas, Universidad Complutense, Madrid, Spain.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD OCT 21
+PY 1988
+VL 134
+IS 4
+BP 431
+EP 43
+DI 10.1016/s0022-5193(88)80049-3
+PG -388
+WC Animals; Biological Evolution; Models, Biological; Probability; Stochastic Processes
+UT PubMed:3255003
+PM 3255003
+DA 1988-10-21
+ER
+
+PT J
+AU Myers, N
+AF Myers, N
+TI Threatened biotas: "hot spots" in tropical forests.
+SO The Environmentalist
+LA English
+DT Journal Article
+DE Biodiversity; Critique; Environment; Environmental Degradation; Forests; Natural Resources; World
+AB The mass-extinction episode underway is largely centered on tropical forests,  insofar as they contain at least half of all Earth's species and they are being  depleted faster than any other biome. But species distributions and depletion  patterns are anything but uniform throughout the biome. This paper identifies 10  areas that a) are characterized by exceptional concentrations of species with  high levels of endemism and b) are experiencing unusually rapid rates of  depletion. While these "hotspot" areas comprise less than 3.5% of remaining  primary forests, they harbor over 34,000 endemic plant species (27% of all plant  species in tropical forests and 13% of all plant species worldwide). They also  feature 700,000 endemic animal species and possibly several times more.  Unfortunately, they appear likely to lose 90% of their forest cover as soon as  the end of the century or shortly thereafter, causing the extinction of almost 7%  of Earth's plant species and at least a similar proportion of animal species,  this occurring in only 0.2% of Earth's land surface. By concentrating on such  areas where needs are greatest and where the pay-off from safeguard measures  would also be greatest, conservationists can engage in a more systematized  response to the challenge of large-scale extinctions impending in tropical  forests.
+NR 0
+TC 0
+SN 
+EI 0251-108
+J9 Environmentalist
+PD OCT 1
+PY 1988
+VL 8
+IS 3
+BP 187
+EP 208
+DI 10.1007/BF02240252
+PG 21
+WC Conservation of Natural Resources; Ecosystem; Environment; Evaluation Studies as Topic; Trees
+UT PubMed:12322582
+PM 12322582
+DA 1988-10-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI The role of extraterrestrial phenomena in extinction.
+SO Revista espanola de paleontologia
+LA English
+DT Review
+DE NASA Discipline Exobiology; Non-NASA Center
+AB In the several years since the Alvarez report of anomalously high iridium  concentrations at the Cretaceous-Tertiary boundary, evidence for the involvement  of meteorite impacts in biological extinction has increased dramatically. Much  more research will be needed, however, before meteorite impact is established as  a general causal factor in extinction. Of ever greater long-term interest is the  possibility that other extraterrestrial forces have had important influences on  the evolution of life. To recognize the effects of such forces, it will be  necessary to coordinate the research of astronomy and paleontology so that  testable predictions can be formulated. It is possible that known, systematic  changes in the Solar System or Galaxy have had effects on global biology and that  these effects have been preserved in the paleontological record.
+C1 Department of Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0213-693
+J9 Rev Esp Paleontol
+PD JAN 1
+PY 1988
+VL 1988
+IS Extraordinario
+BP 99
+EP 106
+DI 
+PG 7
+WC Biological Evolution; Earth, Planet; Extraterrestrial Environment; Geological Phenomena; Geology; Iridium; analysis; Meteoroids; Models, Theoretical; Paleontology; Solar System
+UT PubMed:11542144
+PM 11542144
+DA 1988-01-01
+ER
+
+PT J
+AU Ullah, AH
+   Cummins, BJ
+AF Ullah, A H
+   Cummins, B J
+TI Aspergillus ficuum extracellular pH 6.0 optimum acid phosphatase: purification,
+SO Preparative biochemistry
+LA English
+DT Journal Article
+AB An extracellular acid phosphatase, pH optimum 6.0 from crude culture filtrate of  Aspergillus ficuum was purified to homogeneity using cation exchange  chromatography and chromatofocusing steps. SDS-PAGE of the purified enzyme  exhibited two stained bands at approximately 82-KDa and 70-KDa. The mobility of  the active enzyme in gel permeation chromatography indicated the molecular mass  to be about 85-KDa. In the concentrated form the enzyme appeared to be purple,  the visible absorption spectrum shows a lambda max at 580 nm. On the basis of  molecular mass of 82-KDa, the molar extinction coefficient of the enzyme at 280  nm and 580 nm was estimated to be 1.2 x 10(5) M-1 cm-1 and 1.3 x 10(3) M-1 cm-1  respectively. Judging by chromatofocusing, the isoelectric point of the enzyme  was about 4.9. The purified enzyme was unstable at 70 degrees C. The enzyme was  catalytically very active from 55 degrees to 65 degrees C with a maximum activity  at 63 degrees C. The Michaelis constant of the enzyme for p-nitrophenylphosphate  was 200 microM with a computed Kcat of 260 per sec. Although the enzyme was  insensitive to fluoride, tartrate, and N-ethylmaleimide (NEM), it was  competitively inhibited by phosphomycin (Ki = 1.00 mM) and inorganic  orthophosphate (Ki = 165 microM). While the enzyme was relatively insensitive to  Mn++, Cu++ and Zn++ inhibited the activity 540 fold at a concentration of 100  microM. The enzyme showed positive PAS staining and hence is a glycoprotein (28%  glycosylation); the sugar composition suggests the presence of N-linked high  mannose-oligosaccharides and galactose. A partial N-terminal amino acid sequence  up to the thirty-fourth residue was elucidated.
+C1 Southern Regional Research Laboratory, ARS, USDA, New Orleans, Louisiana 70124.
+NR 0
+TC 0
+SN 
+EI 0032-748
+J9 Prep Biochem
+PD JAN 1
+PY 1988
+VL 18
+IS 1
+BP 37
+EP 65
+DI 10.1080/00327488808062512
+PG 28
+WC Acid Phosphatase; isolation & purification; Amino Acid Sequence; Amino Acids; analysis; Aspergillus; enzymology; Chromatography, Gel; Culture Media; analysis; Galactose; analysis; Mannose; analysis; Molecular Sequence Data; Oligosaccharides; analysis; Spectrophotometry, Ultraviolet
+UT PubMed:3375203
+PM 3375203
+DA 1988-01-01
+ER
+
+PT J
+AU Tsitolovskaia, LA
+   Riabchikova, NA
+AF Tsitolovskaia, L A
+   Riabchikova, N A
+TI [Characteristics of learning in ontogeny].
+SO Nauchnye doklady vysshei shkoly. Biologicheskie nauki
+LA rus
+DT Review
+AB The rate of learning in young animals and in adults is different, it is higher in  ontogenesis. The mechanism of learning in young animals is also different. In the  ontogenesis it is similar to imprinting. Probably the mechanisms of the infantile  amnesia develops according to the model of dissociated when the association is a  certain chemical composition of brain which is typical of this age level. The  information more important from the biological point of view is less dissipated  and better restored that testifies the low effectiveness of reproductive system  and not low memory trace consolidation. The difficulties in extinction and  differentiation in experiments with rats are connected with reflex automatisation  but not with the deficit in inhibition.
+NR 0
+TC 0
+SN 
+EI 0470-460
+J9 Nauchnye Doki Vyss Shkoly Biol Nauki
+PD JAN 1
+PY 1988
+VL 0
+IS 3
+BP 72
+EP 82
+DI 
+PG 10
+WC Aging; physiology; Amnesia; physiopathology; Animals; Conditioning, Classical; physiology; Growth; Inhibition, Psychological; Learning; physiology; Memory; physiology; Motor Activity; physiology; Neurons; physiology; Rats
+UT PubMed:3289625
+PM 3289625
+DA 1988-01-01
+ER
+
+PT J
+AU Lande, R
+AF Lande, R
+TI Genetics and demography in biological conservation.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Predicting the extinction of single populations or species requires ecological  and evolutionary information. Primary demographic factors affecting population  dynamics include social structure, life history variation caused by environmental  fluctuation, dispersal in spatially heterogeneous environments, and local  extinction and colonization. In small populations, inbreeding can greatly reduce  the average individual fitness, and loss of genetic variability from random  genetic drift can diminish future adaptability to a changing environment. Theory  and empirical examples suggest that demography is usually of more immediate  importance than population genetics in determining the minimum viable sizes of  wild populations. The practical need in biological conservation for understanding  the interaction of demographic and genetic factors in extinction may provide a  focus for fundamental advances at the interface of ecology and evolution.
+C1 Department of Ecology and Evolution, University of Chicago, IL 60637.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD SEP 16
+PY 1988
+VL 241
+IS 4872
+BP 1455
+EP 60
+DI 10.1126/science.3420403
+PG -1395
+WC Animals; Biological Evolution; Ecology; Genetics, Population
+UT PubMed:3420403
+PM 3420403
+DA 1988-09-16
+ER
+
+PT J
+AU van, der Molen GM
+   Merckelbach, H
+   van, den Hout MA
+AF van der Molen, G M
+   Merckelbach, H
+   van den Hout, M A
+TI The possible relation of the menstrual cycle to susceptibility to fear
+SO Journal of behavior therapy and experimental psychiatry
+LA English
+DT Journal Article
+AB Biological changes due to the menstrual cycle may account for the fact that fears  are not equally distributed between the sexes. In a differential, classical  conditioning paradigm, women in premenstrual phase of their menstrual cycles were  compared with a control group of women at other points in their cycles except  within seven days before menstruation. Electric shock and pictures of natural  scenes were used as UCS and CS respectively. Premenstrual women showed an  enhanced susceptibility to the acquisition of a conditioned skin conductance  response and to delayed extinction, while control women did not. The possible  role of an altered physiological state during the premenstrual phase in the  acquisition of fear responses is discussed.
+C1 Department of Medical Psychology, Limburg University, Maastricht, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0005-791
+J9 J Behav Ther Exp Psychiatry
+PD JUN 1
+PY 1988
+VL 19
+IS 2
+BP 127
+EP 33
+DI 10.1016/0005-7916(88)90026-2
+PG -94
+WC Adolescent; Adult; Arousal; Conditioning, Classical; Extinction, Psychological; Fear; Female; Galvanic Skin Response; Humans; Menstrual Cycle
+UT PubMed:3209697
+PM 3209697
+DA 1988-06-01
+ER
+
+PT J
+AU Relethford, JH
+AF Relethford, J H
+TI Effects of English admixture and geographic distance on anthropometric variation
+SO American journal of physical anthropology
+LA English
+DT Journal Article
+AB The analysis of anthropometric data often allows investigation of patterns of  genetic structure in historical populations. This paper focuses on  interpopulational anthropometric variation in seven populations in Ireland using  data collected in the 1890s. The seven populations were located within a 120-km  range along the west coast of Ireland and include islands and mainland isolates.  Two of the populations (the Aran Islands and Inishbofin) have a known history of  English admixture in earlier centuries. Ten anthropometric measures (head length,  breadth, and height; nose length and breadth; bizygomatic and bigonial breadth;  stature; hand length; and forearm length) on 259 adult Irish males were analyzed  following age adjustment. Discriminant and canonical variates analysis were used  to determine the degree and pattern of among-group variation. Mahalanobis'  distance measure, D2, was computed between each pair of populations and compared  to distance measures based on geographic distance and English admixture (a binary  measure indicating whether either of a pair of populations had historical  indications of admixture). In addition, surname frequencies were used to  construct distance measures based on random isonymy. Correlations were computed  between distance measures, and their probabilities were derived using the Mantel  matrix permutation method. English admixture has the greatest effect on  anthropometric variation among these populations, followed by geographic  distance. The correlation between anthropometric distance and geographic distance  is not significant (r = -0.081, P = .590), but the correlation of admixture and  anthropometric distance is significant (r = 0.829, P = .047). When the two  admixed populations are removed from the analysis the correlation between  geographic and anthropometric distance becomes significant (r = 0.718, P = .025).  Isonymy distance shows a significant correlation with geographic distance (r =  0.425, P = .046) but not with admixture distance (r = -0.052, P = .524). The fact  that anthropometrics show past patterns of gene flow and surnames do not reflects  the greater impact of stochastic processes on surnames, along with the continued  extinction of surnames. This study shows that 1) anthropometrics can be extremely  useful in assessing population structure and history, 2) differential gene flow  into populations can have a major impact on local genetic structure, and 3)  microevolutionary processes can have different effects on biological characters  and surnames.
+C1 Department of Anthropology, State University of New York College, Oneonta, New York 13820.
+NR 0
+TC 0
+SN 
+EI 0002-948
+J9 Am J Phys Anthropol
+PD MAY 1
+PY 1988
+VL 76
+IS 1
+BP 111
+EP 24
+DI 10.1002/ajpa.1330760110
+PG -87
+WC Adult; Anthropometry; England; Genetic Variation; Genetics, Population; History, 19th Century; Humans; Ireland; Male
+UT PubMed:3044134
+PM 3044134
+DA 1988-05-01
+ER
+
+PT J
+AU Terzian, C
+   Biémont, C
+AF Terzian, C
+   Biémont, C
+TI The founder effect theory: quantitative variation and mdg-1 mobile element
+SO Genetica
+LA English
+DT Journal Article
+AB One of the main points of Mayr's 'founder's principle' is the role played by  inbreeding in the first generations after the foundation of a population. To test  this role, we studied 10 experimental populations of Drosophila melanogaster,  each founded by one brother-sister pair; these sib pairs differed for their  values of viability components of their F1 offsprings. The populations so formed  were maintained en masse with non-overlapping generations. Under our uniform  laboratory environmental conditions, the mean viability and within-family  component of variance (measured on wing length) values of the first generations  depended on the viability component values of the founders. After about twenty  generations, all but one of these populations reached equilibrium values similar  to those of the parental population. Moreover, the insertion patterns of the  mdg-1 mobile element were analysed in the founded populations by in situ  hybridization on polytene chromosomes. The patterns differed between the founded  populations. More than forty generations were needed before movements of  transposable elements reshaped the genome in a significant way. Although it is  classically admitted that inbreeding resulting from founder event ultimately  leads to extinction, our results show that once the first generations are over,  the founded populations become firmly established and present the characteristics  of the parental population.
+C1 Laboratoire de Biologie des Populations, Université Claude Bernard Lyon I, Villeurbanne, France.
+NR 0
+TC 0
+SN 
+EI 0016-670
+J9 Genetica
+PD FEB 29
+PY 1988
+VL 76
+IS 1
+BP 53
+EP 63
+DI 10.1007/BF00126010
+PG 10
+WC Animals; Biological Evolution; DNA Probes; DNA Transposable Elements; Drosophila melanogaster; genetics; Genetic Variation; Genetics, Population; Inbreeding; Polymorphism, Genetic; Wings, Animal; anatomy & histology
+UT PubMed:2852618
+PM 2852618
+DA 1988-02-29
+ER
+
+PT J
+AU Yamamoto, N
+   Hashimoto, A
+   Takemoto, Y
+   Okuyama, H
+   Nomura, M
+   Kitajima, R
+   Togashi, T
+   Tamai, Y
+AF Yamamoto, N
+   Hashimoto, A
+   Takemoto, Y
+   Okuyama, H
+   Nomura, M
+   Kitajima, R
+   Togashi, T
+   Tamai, Y
+TI Effect of the dietary alpha-linolenate/linoleate balance on lipid compositions
+SO Journal of lipid research
+LA English
+DT Journal Article
+AB Donryu strain rats through two generations were fed semi-purified diets  supplemented with safflower seed oil (rich in linoleic acid) or with perilla seed  oil (rich in alpha-linolenic acid), or a conventional laboratory chow (normal  control diet). Brightness-discrimination learning ability was determined to be  the highest in the perilla oil-fed group, followed by the normal group, and then  by the safflower group, extending our earlier observation in a different strain  of rat that alpha-linolenic acid is a factor in maintaining high learning ability  (Yamamoto, N., M. Saitoh, A. Moriuchi, M. Nomura, and H. Okuyama. 1987. J. Lipid  Res. 28: 144-151). After the brightness-discrimination learning test was  administered, extinction of learning was measured. The time required for  extinction was significantly longer in the safflower group than in either the  perilla group or the normal diet group. Thus, the dietary  alpha-linolenate/linoleate balance affected both the learning and the extinction  of learning. The glycolipids of the cerebrum, cerebellum, and olfactory lobe were  analyzed. Although the fatty acid compositions of the sulfatide and gangliosides  were significantly different in the three parts of the brain, relatively little  difference was observed in the fatty acids of glycolipids between the safflower  group and the perilla group, suggesting that gross changes in brain glycolipids  are not responsible for the differences in learning abilities between these  dietary groups.
+C1 Department of Biological Chemistry, Faculty of Pharmaceutical Sciences, Nagoya City University, Japan.
+NR 0
+TC 0
+SN 
+EI 0022-227
+J9 J Lipid Res
+PD AUG 1
+PY 1988
+VL 29
+IS 8
+BP 1013
+EP 21
+DI 
+PG -992
+WC Animals; Dietary Fats; administration & dosage; Discrimination Learning; drug effects; Extinction, Psychological; drug effects; Glycolipids; analysis; Learning; drug effects; Linoleic Acids; administration & dosage; Linolenic Acids; administration & dosage; Lipids; analysis; Rats; Rats, Inbred Strains; alpha-Linolenic Acid
+UT PubMed:2903207
+PM 2903207
+DA 1988-08-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Extinctions of life.
+SO Los Alamos science
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+C1 Department of Geophysical Sciences, University of Chicago, USA.
+NR 0
+TC 0
+SN 
+EI 0273-711
+J9 Los Alamos Sci
+PD JAN 1
+PY 1988
+VL 16
+IS 
+BP 36
+EP 49
+DI 
+PG 13
+WC Animals; Biological Evolution; Earth, Planet; Fossils; Geological Phenomena; Geology; Marine Biology; Meteoroids; Paleontology
+UT PubMed:11540905
+PM 11540905
+DA 1988-01-01
+ER
+
+PT J
+AU Wohlrab, F
+   Schwarz, J
+AF Wohlrab, F
+   Schwarz, J
+TI [Spectrophotometric studies on the binding of Victoria Blue 4R to oxidized
+SO Acta histochemica
+LA ger
+DT Journal Article
+AB The empirical demonstration of insulin by the basic (cationic) dye Victoria Blue  4R (V4R; Ivić 1959) shows the character of a histochemical reaction (Wohlrab et  al. 1985), while the chemistry+ of the reaction is not quite understood yet. Aim  of this investigation: Will the spectral behaviour of V4R in visible light be  influenced by oxidized or non-oxidized insulin? Dependent on the concentration,  V4R shows in aqueous solution 2 absorption maxima (lambda = 597 and 558 nm),  which represents monomers and dimers of the dye. With increasing dye  concentration (200 mumol/l), V4R forms dimers and even higher polymers. Constant  V4R concentration (200 mumol/l) results with increasing concentration of oxidized  insulin (4 to 16 mumol/l) in a reduction of extinction, while the extinction at  lambda = 558 nm (dimers) is more decreased than at lambda = 597 nm (monomers).  Non-oxidized insulin has no remarkable influence on the absorption behaviour of  V4R. Extinction measurements on V4R stained B-cells of islets of Langerhans after  pre-oxidation of the section resulted in a main absorption maximum at lambda =  554 nm. CONCLUSION: Depending on the concentration, the dye V4R is associated  with the oxidized insulin in aqueous solution, which is also indicated by the  occurrence of an isobestic point in the curve behaviour. This is expressed by the  establishment of a concentration-dependent equilibrium between the dye V4R and  the oxidized insulin (change in the dissociation and aggregation behaviour  respectively of the dye V4R). The determined main absorption maximum (lambda =  554 nm) in the biological material points in the same way to interactions between  the stain and oxidized insulin.
+C1 Institut für Pathologische Anatomie, Karl-Marx-Universität Leipzig, DDR.
+NR 0
+TC 0
+SN 
+EI 0065-128
+J9 Acta Histochem
+PD JAN 1
+PY 1988
+VL 84
+IS 2
+BP 187
+EP 94
+DI 
+PG -93
+WC Coloring Agents; Insulin; analysis; Organic Chemicals; Oxidation-Reduction; Spectrophotometry; methods
+UT PubMed:3149439
+PM 3149439
+DA 1988-01-01
+ER
+
+PT J
+AU Jin, RZ
+   Karol, MH
+AF Jin, R Z
+   Karol, M H
+TI Intra- and intermolecular reactions of 4,4'-diisocyanatodiphenylmethane with
+SO Chemical research in toxicology
+LA English
+DT Journal Article
+AB Diisocyanates are highly reactive industrial chemicals that have been shown to  possess toxic activity, including potential for allergic sensitization. To assist  in diagnosis of sensitization, immunoassays for diisocyanate-specific antibodies  are performed; such assays require preparation of diisocyanate-containing  hapten-protein conjugates. Conditions were investigated for formation of  conjugates yielding varying degrees of hapten binding. Relative concentrations of  haptens and proteins were varied as were pH, temperature, and time of reaction.  Quantitation of 4,4'-diisocyanatodiphenylmethane (MDI) binding with human serum  albumin (HSA) was assessed by absorbance of the isolated conjugates at 250 nm  after determination of the molar extinction coefficient for MDI. At pH 7.4 and 37  degrees C, the binding reaction was found to be biphasic with binding of 5-6 mol  of MDI groups/mol of HSA within the first minute, followed by incorporation at a  rate of 0.16 mol/min during the next 2 h. Evaluation of reaction products using  SDS-PAGE revealed extensive inter- and intramolecular cross-linking of HSA by  MDI. Intramolecular cross-linking was accompanied by an increased migration of  conjugates from an initial molecular mass of 66 kDa, typical of HSA, to a  molecular mass of 44 kDa. The change in migration was also produced by using  disuccinimidyl tartarate (DST) as hapten and was eliminated when DST was cleaved  with sodium periodate. It was attributed to altered protein shape. Conditions  that favored binding of MDI with HSA were a high relative concentration of  MDI:HSA, a pH of 9.4, and a temperature of 37 degrees C. Under such conditions it  was calculated that 53 mol of MDI were bound per mole of HSA after 24 h.(ABSTRACT  TRUNCATED AT 250 WORDS)
+C1 Jilin Provincial Institute of Industrial Health and Occupational Disease, Changchun, Jilin Province, People's Republic of China.
+NR 0
+TC 0
+SN 
+EI 0893-228
+J9 Chem Res Toxicol
+PD SEP 1
+PY 1988
+VL 1
+IS 5
+BP 281
+EP 7
+DI 10.1021/tx00005a005
+PG -274
+WC Cyanates; metabolism; Glycine; metabolism; Humans; Isocyanates; Kinetics; Protein Binding; Serum Albumin; metabolism
+UT PubMed:2979744
+PM 2979744
+DA 1988-09-01
+ER
+
+PT J
+AU Welsch, DJ
+   Nelsestuen, GL
+AF Welsch, D J
+   Nelsestuen, G L
+TI Irreversible degradation of histidine-96 of prothrombin fragment 1 during protein
+SO Biochemistry
+LA English
+DT Journal Article
+AB Acetylation of prothrombin fragment 1 in acetate-borate buffer at pH 8.5 resulted  in the appearance of increased light absorbance at about 250 nm. Protease  digestions resulted in isolation of a single peptide (residues 94-99) with  intense absorbance at about 250 nm (estimated extinction coefficient of 5000 M-1  cm-1). Amino acid analysis showed the expected composition except for the absence  of His-96. Instead, an unidentified amino acid which had a ninhydrin product with  absorption properties similar to those of proline eluted near aspartate. When  sequenced, this peptide (YP?KPE containing epsilon-amino-acetyllysine) lacked  histidine at the third position but gave a high yield of a PTH derivative that  eluted near PTH-Gly from the HPLC column. Fast atom bombardment mass spectrometry  of the derivatized 94-99 peptide showed a mass that was 74 units higher than  expected. The histidine degradation product was identified as a di-N-acetylated  side chain with an opened imidazole ring and loss of C2 of the ring. While a  similar degradation pattern has previously been reported during acylation of  histidine, the high chemical reactivity exhibited by His-96 was unusual. For  example, under conditions sufficient for quantitative derivatization of His-96,  His-105 of fragment 1 was not derivatized to a detectable level. Furthermore,  His-96 in fragment 1 was at least an order of magnitude more susceptible to  degradation than His-96 in the isolated 94-99 peptide. His-96 is therefore one of  several neighboring amino acids of the kringle portion of fragment 1 that  displays highly unusual chemistry (see also Asn-101 [Welsch, D.J., & Nelsestuen,  G. L. (1988) Biochemistry 27 4946-4952] and Lys-97 [Pollock, J.S., Zapata, G.A.,  Weber, D.J., Berkowitz, P., Deerfield, D.W., II, Olson, D.L., Koehler, K.A.,  Pedersen, L.G., & Hiskey, R.G. (1988) in Current Advances in Vitamin K Research  (Suttie, J.W., Ed.) pp 325-334, Elsevier Science, New York]).(ABSTRACT TRUNCATED  AT 250 WORDS)
+C1 Department of Biochemistry, University of Minnesota, St. Paul 55108.
+NR 0
+TC 0
+SN 
+EI 0006-296
+J9 Biochemistry
+PD SEP 20
+PY 1988
+VL 27
+IS 19
+BP 7513
+EP 9
+DI 10.1021/bi00419a050
+PG -7504
+WC Acetic Anhydrides; Acetylation; Amino Acids; analysis; Animals; Cattle; Chemical Phenomena; Chemistry; Chromatography, Gel; Chromatography, High Pressure Liquid; Histidine; Magnetic Resonance Spectroscopy; Mass Spectrometry; Molecular Structure; Peptide Fragments; analysis; Phenylthiohydantoin; Protein Precursors; analysis; Prothrombin; analysis; Serine Endopeptidases; metabolism; Spectrophotometry; Structure-Activity Relationship; Trypsin; metabolism
+UT PubMed:3207687
+PM 3207687
+DA 1988-09-20
+ER
+
+PT J
+AU Raup, DM
+   Boyajian, GE
+AF Raup, D M
+   Boyajian, G E
+TI Patterns of generic extinction in the fossil record.
+SO Paleobiology
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Analysis of the stratigraphic records of 19,897 fossil genera indicates that most  classes and orders show largely congruent rises and falls in extinction intensity  throughout the Phanerozoic. Even an ecologically homogeneous sample of reef  genera shows the same basic extinction profile. The most likely explanation for  the congruence is that extinction is physically rather than biologically driven  and that it is dominated by the effects of geographically widespread  environmental perturbations influencing most habitats. Significant departures  from the congruence are uncommon but important because they indicate  physiological or habitat selectivity. The similarity of the extinction records of  reef organisms and the marine biota as a whole confirms that reefs and other  faunas are responding to the same history of environmental stress.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0094-837
+J9 Paleobiology
+PD JAN 1
+PY 1988
+VL 14
+IS 2
+BP 109
+EP 25
+DI 10.1017/s0094837300011866
+PG -84
+WC Animals; Biological Evolution; Ecosystem; Fossils; Geological Phenomena; Geology; Invertebrates; Marine Biology; Paleontology; Phylogeny; Time Factors
+UT PubMed:11542145
+PM 11542145
+DA 1988-01-01
+ER
+
+PT J
+AU Bhatnagar, D
+   Ullah, AH
+   Cleveland, TE
+AF Bhatnagar, D
+   Ullah, A H
+   Cleveland, T E
+TI Purification and characterization of a methyltransferase from Aspergillus
+SO Preparative biochemistry
+LA English
+DT Journal Article
+AB A five step scheme has been developed for the purification of a methyltransferase  (MT) from mycelia of 3-day old Aspergillus parasiticus (SRRC 163), which  catalyzes one step in the aflatoxin biosynthetic pathway. The  S-adenosylmethionine (SAM) requiring MT activity is essential for the conversion  of sterigmatocystin (ST) to O-methylsterigmatocystin (OMST) prior to being  converted to aflatoxin B1. The purification of the MT was carried out from  cell-free extracts by CDR (Cell Debris Remover, a cellulosic weak anion  exchanger, Whatman) treatment, QMA ACELL, Hydroxylapatite-Ultrogel, PBE 94  chromatofocusing and FractoGel TSK HW-50F filtration chromatography. The purified  enzyme was only about 0.1% of the total extractable proteins. The pI of the  protein was about 5.0 as judged by chromatofocusing. Results of gel filtration  chromatography indicated the approximate molecular mass of the native protein to  be 160-KDa. SDS-polyacrylamide gel electrophoresis revealed two protein subunit  bands of molecular masses approximately 110-KDa and 58-KDa. The molar extinction  coefficient of the enzyme at 280 nm was estimated to be 7.87 X 10(4) M-1 cm-1 in  50 mM potassium phosphate buffer (pH 7.5). The reaction catalyzed by the MT was  optimum at pH 7.5 and between 25-35 degrees C. The Km of the enzyme for ST and  SAM was determined to be 1.8 microM and 42 microM, respectively with an estimated  turnover number of the enzyme for ST of 2.2 X 10(-2) per sec.
+C1 Southern Regional Research Laboratory, ARS, USDA, New Orleans, Louisiana 70124.
+NR 0
+TC 0
+SN 
+EI 0032-748
+J9 Prep Biochem
+PD JAN 1
+PY 1988
+VL 18
+IS 3
+BP 321
+EP 49
+DI 10.1080/00327488808062532
+PG -272
+WC Aflatoxins; biosynthesis; Aspergillus; enzymology; Chromatography, Gel; Chromatography, Ion Exchange; Drug Stability; Kinetics; Methyltransferases; isolation & purification
+UT PubMed:3237648
+PM 3237648
+DA 1988-01-01
+ER
+
+PT J
+AU Graceffa, P
+   Wang, CL
+   Stafford, WF
+AF Graceffa, P
+   Wang, C L
+   Stafford, W F
+TI Caldesmon. Molecular weight and subunit composition by analytical
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB A wide range of values has been reported for the subunit and molecular weights of  smooth muscle caldesmon. There have also been conflicting reports concerning  whether caldesmon is a monomer or dimer. We attempted to resolve these  uncertainties by determining the molecular weight of chicken gizzard smooth  muscle caldesmon using the technique of sedimentation equilibrium in the  analytical ultracentrifuge. Unlike previous methods that have been used to  estimate the molecular weight of caldesmon, the molecular weight determined by  equilibrium sedimentation does not depend upon assumptions about the shape of the  molecule. We concluded that caldesmon in solution is monomeric with a molecular  mass of 93 +/- 4 kDa, a value that is much less than those previously reported in  the literature. This new value, in conjunction with sedimentation velocity  experiments, led to the conclusion that caldesmon is a highly asymmetric molecule  with an apparent length of 740 A in solution. The mass of a cyanogen bromide  fragment, with an apparent mass of 37 kDa from sodium dodecyl  sulfate-polyacrylamide gel electrophoresis, was determined to be 25.1 +/- 0.6 kDa  using sedimentation equilibrium. These results imply that the reported molecular  weights of other fragment(s) of caldesmon have also been overestimated. We have  determined an optical extinction coefficient for caldesmon (E1%(280 nm) = 3.3) by  determining its concentration from its refractive index which was measured in the  analytical ultracentrifuge. From the above values of the molecular weight and the  extinction coefficient, we redetermined that the caldesmon molecule has two  cysteines and recalculated the stoichiometric molar ratio of  actin/tropomyosin/caldesmon in the smooth muscle thin filament to be 28:4:1.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD OCT 5
+PY 1988
+VL 263
+IS 28
+BP 14196
+EP 202
+DI 
+PG -13994
+WC Amino Acids; analysis; Animals; Calmodulin-Binding Proteins; isolation & purification; Chickens; Cyanogen Bromide; Gizzard, Avian; Kinetics; Macromolecular Substances; Models, Molecular; Molecular Weight; Muscle, Smooth; Peptide Fragments; analysis; Protein Conformation; Ultracentrifugation; methods
+UT PubMed:3170543
+PM 3170543
+DA 1988-10-05
+ER
+

@@ -1,0 +1,320 @@
+PT J
+AU Phelps, MA
+   Foraker, AB
+   Gao, W
+   Dalton, JT
+   Swaan, PW
+AF Phelps, Mitch A
+   Foraker, Amy B
+   Gao, Wenqing
+   Dalton, James T
+   Swaan, Peter W
+TI A novel rhodamine-riboflavin conjugate probe exhibits distinct fluorescence
+SO Molecular pharmaceutics
+LA English
+DT Journal Article
+AB Riboflavin (vitamin B2, RF) is taken up in eukaryotic cells via specialized  transport mechanisms. Although RF has fluorescence properties, direct microscopic  visualization of RF uptake and trafficking has been complicated by cellular  autofluorescence. We describe the synthesis, cellular uptake characteristics, and  spectroscopic properties of a novel rhodamine-riboflavin conjugate (RD-RF),  including absorption and emission spectra, two-photon excitation spectra, and  fluorescence pH dependence. The conjugate has a molar extinction coefficient of  23 670 M(-1) cm(-1) at 545 nm (excitation wavelength) with a fluorescence quantum  yield of 0.94. This compound exhibits intramolecular fluorescence resonance  energy transfer (FRET). Selective quenching of the FRET signal is observed when  RD-RF is bound with high affinity by the chicken riboflavin carrier protein. In  addition to the typical rhodamine excitation and emission, FRET provides a  secondary signal for conjugate localization and an in situ mechanism for  observing riboflavin binding. Solution and in vitro stability determinations  indicate that the linkage between riboflavin and rhodamine is stable for the  duration of typical pulse--chase and cellular trafficking experiments. The  distinct spectroscopic properties of RD-RF together with a comparable affinity  for RF-binding proteins render it an excellent tool for the study of RF transport  and trafficking in living cells.
+C1 Biophysics Program and Division of Pharmaceutics, The Ohio State University, Columbus, Ohio 43210-1291, USA.
+NR 0
+TC 0
+SN 
+EI 1543-838
+J9 Mol Pharm
+PD JUN 29
+PY 2005
+VL 1
+IS 4
+BP 257
+EP 66
+DI 10.1021/mp0499510
+PG -191
+WC Cell Compartmentation; Cell Line, Tumor; Drug Stability; Fluorescence Resonance Energy Transfer; Humans; Mass Spectrometry; Membrane Transport Proteins; physiology; Microscopy, Confocal; Microscopy, Fluorescence, Multiphoton; Molecular Probes; chemical synthesis; Molecular Structure; Protein Transport; Rhodamines; chemical synthesis; Riboflavin; metabolism; Solutions; chemistry; Spectrometry, Fluorescence; Subcellular Fractions
+UT PubMed:15981585
+PM 15981585
+DA 2005-06-29
+ER
+
+PT J
+AU Cheptou, PO
+AF Cheptou, Pierre-Olivier
+TI Allee effect and self-fertilization in hermaphrodites: reproductive assurance in
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB The fact that selfing increases seed set (reproductive assurance) has often been  put forward as an important selective force for the evolution of selfing.  However, the role of reproductive assurance in hermaphroditic populations is far  from being clear because of a lack of theoretical work. Here, I propose a  theoretical model that analyzes self-fertilization in the presence of  reproductive assurance. Because reproductive assurance directly influences the  per capita growth rate, I developed an explicit demographic model for partial  selfers in the presence of reproductive assurance, specifically when outcrossing  is limited by the possibility of pollen transfer (Allee effect). Mating system  parameters are derived as a function of the underlying demographical parameters.  The functional link between population demography and mating system parameters  (reproductive assurance, selfing rate) can be characterized. The demographic  model permits the analysis of the evolution of self-fertilization in stable  populations when reproductive assurance occurs. The model reveals some  counterintuitive results such as the fact that increasing the fraction of selfed  ovules can, in certain circumstances, increase the fraction of outcrossed ovules.  Moreover, I demonstrate that reproductive assurance per se cannot account for the  evolution of stable mixed selfing rates. Also, the model reveals that the  extinction of outcrossing populations depends on small changes in population  density (ecological perturbations), while the transition from outcrossing to  selfing can, in certain cases, lead the population to extinction (evolutionary  suicide). More generally, this paper highlights the fact that self-fertilization  affects both the dynamics of individuals and the dynamics of selfing genes in  hermaphroditic populations.
+C1 UMR 5175, Centre d'Ecologie Fonctionnelle et Evolutive, Centre National de La Recherche Scientifique, 1919 Route de Mende, F-34293 Montpellier Cedex 05,France. pierre-olivier.cheptou@cefe.cnrs.fr
+NR 0
+TC 0
+SN 
+EI 0014-382
+J9 Evolution
+PD FEB 9
+PY 2005
+VL 58
+IS 12
+BP 2613
+EP 21
+DI 10.1111/j.0014-3820.2004.tb01615.x
+PG -2592
+WC Biological Evolution; Disorders of Sex Development; Inbreeding; Models, Biological; Plant Physiological Phenomena; Pollen; physiology; Population Dynamics; Reproduction; physiology
+UT PubMed:15696741
+PM 15696741
+DA 2005-02-09
+ER
+
+PT J
+AU McCarthy, MA
+   Thompson, CJ
+   Possingham, HP
+AF McCarthy, Michael A
+   Thompson, Colin J
+   Possingham, Hugh P
+TI Theory for designing nature reserves for single species.
+SO The American naturalist
+LA English
+DT Journal Article
+AB We examine the question of the optimal number of reserves that should be  established to maximize the persistence of a species. We assume that the mean  time to extinction of a single population increases as a power of the habitat  area, that there is a certain amount of habitat to be reserved, and that the aim  is to determine how this habitat is most efficiently divided. The optimal  configuration depends on whether the management objective is to maximize the mean  time to extinction or minimize the risk of extinction. When maximizing the mean  time to extinction, the optimal number of independent reserves does not depend on  the amount of available habitat for the reserve system. In contrast, the risk of  extinction is minimized when individual reserves are equal to the optimal patch  size, making the optimal number of reserves linearly proportional to the amount  of available habitat. A model that includes dispersal and correlation in the  incidence of extinction demonstrates the importance of considering the relative  rate at which these two factors decrease with distance between reserves. A small  number of reserves is optimal when the mean time to extinction increases rapidly  with habitat area or when risks of extinction are high.
+C1 Australian Research Centre for Urban Ecology, Royal Botanic Gardens Melbourne and School of Botany, University of Melbourne, Parkville, Victoria 3010, Australia.mamcca@unimelb.edu.au
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD FEB 25
+PY 2005
+VL 165
+IS 2
+BP 250
+EP 7
+DI 10.1086/427297
+PG -243
+WC Animals; Conservation of Natural Resources; Extinction, Biological; Models, Biological; Risk
+UT PubMed:15729654
+PM 15729654
+DA 2005-02-25
+ER
+
+PT J
+AU Rupprecht, CE
+   Hanlon, CA
+   Slate, D
+AF Rupprecht, C E
+   Hanlon, C A
+   Slate, D
+TI Oral vaccination of wildlife against rabies: opportunities and challenges in
+SO Developments in biologicals
+LA English
+DT Review
+AB Rabies is an acute, progressive, fatal encephalitis caused by viruses in the  Family Rhabdoviridae, Genus Lyssavirus. Rabies virus is the representative member  of the group. Warm-blooded vertebrates are susceptible to experimental infection,  but major primary hosts for disease perpetuation encompass bats and mammalian  carnivores. The dog is the global reservoir, and important wild carnivores  include foxes, raccoons, skunks, and mongoose, among others. Traditionally,  reliance upon long-term, widespread, government-supported programmes aimed at  population reduction of animals at risk has been unsuccessful as the sole means  of rabies control, based in part upon economical, ecological and ethical grounds.  In contrast, immunization of domestic dogs with traditional veterinary vaccines  by the parenteral route led to the virtual extinction of canine-transmitted  rabies in developed countries. Taken from this basic concept of applied herd  immunity, the idea of wildlife vaccination was conceived during the 1960s, and  modified-live rabies viruses were used for the experimental oral vaccination of  carnivores by the 1970s. The development of safe and effective rabies virus  vaccines applied in attractive baits resulted in the first field trials in  Switzerland in 1978. Thereafter, technical improvements occurred in vaccine  quality and production, including the design of recombinant viruses, as well as  in the ease of mass distribution of millions of edible baits over large  geographical areas. Over the past few decades, extensive oral vaccination  programmes focusing upon the red fox, using hand and aerial distribution of  vaccine-laden baits, have resulted in the virtual disappearance of rabies in  Western Europe. The same dramatic observation held true for southern Ontario.  During the 1990s in the United States, oral vaccination programmes concentrated  upon raccoons, grey foxes, and coyotes, with similar success. For example,  raccoon rabies has not spread west of the current focus in the eastern states,  grey fox rabies is contained in west central Texas, and no recent cases of rabies  have been reported from coyotes away from the Mexican border for several years.  Despite the progress observed and the absence of substantive adverse  environmental or health effects, oral vaccination is not a panacea, and should be  viewed as an important adjunct to traditional prevention and control techniques  in human and veterinary medicine. Local outbreak suppression of rabies among  free-ranging wildlife is documented, and regional elimination of particular virus  variants among specific, targeted carnivore hosts is demonstrable, but true  disease eradication is not achievable at the present time by current techniques.  For example, no practical vaccination methods have been designed for bats.  Although lyssaviruses appear in relative compartmentalization between the  Chiroptera and Carnivora, major spillover events have been detected from bats to  carnivores, and phylogenetic analyses suggest a historical basis for extant viral  origins due to interactions between these taxa. Thus, bio-political  considerations aside, the possibility for pathogen emergence resulting from  transmission by rabid bats with subsequent perpetuation among other animals  cannot be discounted easily on any continent, with the possible exception of  Antarctica. Clearly, given their biodiversity, distribution, and abundance, novel  methods would be necessary to consider meaningful control of rabies in these  unique volant mammals. Newer approaches in biotechnology may be envisaged some  day for eventual extension to bats, as well as more widespread application to  global canine rabies remediation in developing countries.
+C1 Centers for Disease Control and Prevention, Atlanta, Georgia 30333, USA. cyr5@cdc.gov
+NR 0
+TC 0
+SN 
+EI 1424-607
+J9 Dev Biol (Basel)
+PD MAR 4
+PY 2005
+VL 119
+IS 
+BP 173
+EP 84
+DI 
+PG -89
+WC Administration, Oral; Animals; Animals, Domestic; Animals, Wild; Chiroptera; virology; Developing Countries; Disease Reservoirs; veterinary; Humans; Rabies; prevention & control; Rabies Vaccines; administration & dosage; Zoonoses
+UT PubMed:15742629
+PM 15742629
+DA 2005-03-04
+ER
+
+PT J
+AU Moran, AL
+AF Moran, Amy L
+TI Egg size evolution in tropical American arcid bivalves: the comparative method
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB Marine organisms exhibit a wide range of egg sizes, even among closely related  taxa, and egg size is widely considered to be one of the most important  components of the life histories of marine species. The nature of the trade-off  between egg size and number and the consequences of variation in egg size for  offspring growth and survivorship have been extensively modeled. Yet, there is  little empirical evidence that supports the relative importance of particular  environmental parameters in engendering the tremendous variation in egg size seen  in marine organisms. This study compares egg sizes between six geminate species  pairs of bivalves in the family Arcidae to determine whether egg size differs in  predictable directions between geminate species in the two oceans separated by  the Central American isthmus, and whether the direction and timing of egg size  evolution among geminates in this family is correlated with both modern and  paleoceanographic patterns of oceanic productivity. In all modern members of six  geminate pairs, egg size was larger in the species in the western Atlantic than  in its sister species the eastern Pacific. This pattern supports the hypothesis  that optimal egg size differs in the two oceans due to the low productivity and  poor larval feeding environment in the western Atlantic relative to the eastern  Pacific. The fossil record of one geminate pair shows that egg size has remained  consistently large in the western Atlantic from the Miocene to the Recent, while  egg size in the eastern Pacific has decreased to the current small size in less  than 2 million years; this suggests that modern-day differences between egg sizes  in the western Atlantic and eastern Pacific are due to either an increase in  productivity in the eastern Pacific and subsequent selection for smaller eggs in  that ocean, or differential patterns of extinction that occurred well after the  rise of the isthmus. These results agree with ancestral character state  reconstruction using linear parsimony, but differ from squared-change parsimony  reconstructions.
+C1 Department of Marine Sciences, University of North Carolina, Chapel Hill, North Carolina 27599-3300, USA. amoran@unc.edu
+NR 0
+TC 0
+SN 
+EI 0014-382
+J9 Evolution
+PD FEB 9
+PY 2005
+VL 58
+IS 12
+BP 2718
+EP 33
+DI 10.1111/j.0014-3820.2004.tb01624.x
+PG -2685
+WC Animals; Atlantic Ocean; Biological Evolution; Bivalvia; physiology; Body Weights and Measures; Fossils; Ovum; cytology; Pacific Ocean; Panama; Phylogeny; Quantitative Trait, Heritable; Species Specificity
+UT PubMed:15696750
+PM 15696750
+DA 2005-02-09
+ER
+
+PT J
+AU Prinzing, A
+   Ozinga, WA
+   Durka, W
+AF Prinzing, Andreas
+   Ozinga, Wim A
+   Durka, Walter
+TI The relationship between global and regional distribution diminishes among
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB Phylogenetic legacy and phylogenetic trends affect the ecology of species-except,  apparently, for the width of their distribution. As a result, "macroecological"  patterns of species distributions emerge constantly in phylogenetically very  distinct species assemblages. The width of the global distribution of species,  for instance, constantly correlates positively to the width of their regional  distribution. However, such patterns primarily reflect the phylogenetically  derived species that dominate most assemblages. Basal species, in contrast, might  show different macroecological patterns. We tested the hypothesis that the  correlation between global and regional distributions of species diminishes among  the phylogenetically basal species. We considered central European higher plants  and defined global distribution as the occupancy of global floristic zones,  regional distribution as the grid occupancy in Eastern Germany, and phylogenetic  position as the rank distance to tree base. We also took into account a number of  confounding variables. We found that, across all lineages, the global/regional  correlation diminished among basal species. We then reanalyzed 19 lineages  separately and always found the same pattern. The pattern reflected both  increases in global distributions and decreases in regional distributions among  basal species. The results indicate that many basal species face a risk of global  or at least regional extinction, but have escaped the downward spiral of mutually  reinforcing extinction risks at multiple scales. We suggest that many basal  species had much time to expand their global ranges but are presently displaced  locally by more derived species. Overall, the study shows that macroecological  patterns may not be static and universal, but may undergo macroevolutionary  trends. Analyses of macroecological patterns across a phylogeny may thus provide  insights into macroevolutionary processes.
+C1 Department of Ecology, University of Nijmegen, and Alterra Institute, Department of Ecology and the Environment, 6700 AA Wageningen, The Netherlands.andreas.prinzing@wur.nl
+NR 0
+TC 0
+SN 
+EI 0014-382
+J9 Evolution
+PD FEB 9
+PY 2005
+VL 58
+IS 12
+BP 2622
+EP 33
+DI 10.1111/j.0014-3820.2004.tb01616.x
+PG -2589
+WC Demography; Germany; Models, Biological; Phylogeny; Plant Physiological Phenomena; Species Specificity
+UT PubMed:15696742
+PM 15696742
+DA 2005-02-09
+ER
+
+PT J
+AU Rex, MA
+   McClain, CR
+   Johnson, NA
+   Etter, RJ
+   Allen, JA
+   Bouchet, P
+   Warén, A
+AF Rex, Michael A
+   McClain, Craig R
+   Johnson, Nicholas A
+   Etter, Ron J
+   Allen, John A
+   Bouchet, Philippe
+   Warén, Anders
+TI A source-sink hypothesis for abyssal biodiversity.
+SO The American naturalist
+LA English
+DT Journal Article
+AB Bathymetric gradients of biodiversity in the deep-sea benthos constitute a major  class of large-scale biogeographic phenomena. They are typically portrayed and  interpreted as variation in alpha diversity (the number of species recovered in  individual samples) along depth transects. Here, we examine the depth ranges of  deep-sea gastropods and bivalves in the eastern and western North Atlantic. This  approach shows that the abyssal molluscan fauna largely represents deeper range  extensions for a subset of bathyal species. Most abyssal species have larval  dispersal, and adults live at densities that appear to be too low for successful  reproduction. These patterns suggest a new explanation for abyssal biodiversity.  For many species, bathyal and abyssal populations may form a source-sink system  in which abyssal populations are regulated by a balance between chronic  extinction arising from vulnerabilities to Allee effects and immigration from  bathyal sources. An increased significance of source-sink dynamics with depth may  be driven by the exponential decrease in organic carbon flux to the benthos with  increasing depth and distance from productive coastal systems. The abyss, which  is the largest marine benthic environment, may afford more limited ecological and  evolutionary opportunity than the bathyal zone.
+C1 Department of Biology, University of Massachusetts, Boston, Massachusetts 02125, USA. michael.rex@umb.edu
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD FEB 25
+PY 2005
+VL 165
+IS 2
+BP 163
+EP 78
+DI 10.1086/427226
+PG -85
+WC Animal Migration; Animals; Atlantic Ocean; Biodiversity; Bivalvia; physiology; Gastropoda; physiology; Larva; physiology; Marine Biology; Models, Biological; Population Density
+UT PubMed:15729648
+PM 15729648
+DA 2005-02-25
+ER
+
+PT J
+AU Portner, HO
+AF Portner, Hans O
+TI Climate variability and the energetic pathways of evolution: the origin of
+SO Physiological and biochemical zoology : PBZ
+LA English
+DT Review
+AB Large-scale climate oscillations in earth's history have influenced the  directions of evolution, last but not least, through mass extinction events. This  analysis tries to identify some unifying forces behind the course of evolution  that favored an increase in organismic complexity and performance, paralleled by  an increase in energy turnover, and finally led to endothermy. The analysis  builds on the recent concept of oxygen-limited thermal tolerance and on the  hypothesis that unifying principles exist in the temperature-dependent  biochemical design of the eukaryotic cell in animals. The comparison of extant  water-breathing and air-breathing animal species from various climates provides a  cause-and-effect understanding of the trade-offs and constraints in thermal  adaptation and their energetic consequences. It is hypothesized that the high  costs of functional adaptation to fluctuating temperatures, especially in the  cold (cold eurythermy), cause an increase in energy turnover and, at the same  time, mobility and agility. These costs are associated with elevated  mitochondrial capacities at minimized levels of activation enthalpies for proton  leakage. Cold eurythermy is seen as a precondition for the survival of  evolutionary crises elicited by repeated cooling events during extreme climate  fluctuations. The costs of cold eurythermy appear as the single most important  reason why metazoan evolution led to life forms with high energy turnover. They  also explain why dinosaurs were able to live in subpolar climates. Finally, they  give insight into the pathways, benefits, and trade-offs involved in the  evolution of constant, elevated body temperature maintained by endothermy.  Eurythermy, which encompasses cold tolerance, is thus hypothesized to be the  "missing link" between ectothermy and endothermy. Body temperatures between 32  degrees and 42 degrees C in mammals and birds then result from trade-offs between  the limiting capacities of ventilation and circulation and the evolutionary trend  to maximize performance at the warm end of the thermal tolerance window.
+C1 Alfred-Wegener-Institut fur Polar-und Meeresforschung, Okophysiologie, Postfach 12 01 61, D-27515 Bremerhaven, Germany. hpoertner@awi-bremerhaven.de
+NR 0
+TC 0
+SN 
+EI 1522-215
+J9 Physiol Biochem Zool
+PD JAN 28
+PY 2005
+VL 77
+IS 6
+BP 959
+EP 81
+DI 10.1086/423742
+PG -878
+WC Adaptation, Physiological; Animals; Biological Evolution; Birds; physiology; Cell Membrane; physiology; Climate; Environment; Invertebrates; physiology; Mammals; physiology; Mitochondria; physiology; Oxygen; Reptiles; physiology; Thermogenesis; genetics
+UT PubMed:15674770
+PM 15674770
+DA 2005-01-28
+ER
+
+PT J
+AU Krishnarajah, I
+   Cook, A
+   Marion, G
+   Gibson, G
+AF Krishnarajah, Isthrinayagy
+   Cook, Alex
+   Marion, Glenn
+   Gibson, Gavin
+TI Novel moment closure approximations in stochastic epidemics.
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB Moment closure approximations are used to provide analytic approximations to  non-linear stochastic population models. They often provide insights into model  behaviour and help validate simulation results. However, existing closure schemes  typically fail in situations where the population distribution is highly skewed  or extinctions occur. In this study we address these problems by introducing  novel second- and third-order moment closure approximations which we apply to the  stochastic SI and SIS epidemic models. In the case of the SI model, which has a  highly skewed distribution of infection, we develop a second-order approximation  based on the beta-binomial distribution. In addition, a closure approximation  based on mixture distribution is developed in order to capture the behaviour of  the stochastic SIS model around the threshold between persistence and extinction.  This mixture approximation comprises a probability distribution designed to  capture the quasi-equilibrium probabilities of the system and a probability mass  at 0 which represents the probability of extinction. Two third-order versions of  this mixture approximation are considered in which the log-normal and the  beta-binomial are used to model the quasi-equilibrium distribution. Comparison  with simulation results shows: (1) the beta-binomial approximation is flexible in  shape and matches the skewness predicted by simulation as shown by the stochastic  SI model and (2) mixture approximations are able to predict transient and  extinction behaviour as shown by the stochastic SIS model, in marked contrast  with existing approaches. We also apply our mixture approximation to approximate  a likelihood function and carry out point and interval parameter estimation.
+C1 Department of Actuarial Mathematics and Statistics, Heriot-Watt University, Edinburgh EH14 4AS, United Kingdom. isthri@bioss.ac.uk
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD MAY 17
+PY 2005
+VL 67
+IS 4
+BP 855
+EP 73
+DI 10.1016/j.bulm.2004.11.002
+PG -782
+WC Computer Simulation; Disease Outbreaks; Ecology; Epidemiologic Methods; Models, Biological; Nonlinear Dynamics; Stochastic Processes
+UT PubMed:15893556
+PM 15893556
+DA 2005-05-17
+ER
+
+PT J
+AU Murakoshi, K
+   Noguchi, T
+AF Murakoshi, Kazushi
+   Noguchi, Takuya
+TI Simulation of rat behavior by a reinforcement learning algorithm in consideration
+SO Bio Systems
+LA English
+DT Journal Article
+AB Brown and Wanger [Brown, R.T., Wanger, A.R., 1964. Resistance to punishment and  extinction following training with shock or nonreinforcement. J. Exp. Psychol.  68, 503-507] investigated rat behaviors with the following features: (1) rats  were exposed to reward and punishment at the same time, (2) environment changed  and rats relearned, and (3) rats were stochastically exposed to reward and  punishment. The results are that exposure to nonreinforcement produces resistance  to the decremental effects of behavior after stochastic reward schedule and that  exposure to both punishment and reinforcement produces resistance to the  decremental effects of behavior after stochastic punishment schedule. This paper  aims to simulate the rat behaviors by a reinforcement learning algorithm in  consideration of appearance probabilities of reinforcement signals. The former  algorithms of reinforcement learning were unable to simulate the behavior of the  feature (3). We improve the former reinforcement learning algorithms by  controlling learning parameters in consideration of the acquisition probabilities  of reinforcement signals. The proposed algorithm qualitatively simulates the  result of the animal experiment of Brown and Wanger.
+C1 Department of Knowledge-based Information Engineering, Toyohashi University of Technology, 1-1 Hibarigaoka, Tenpaku-cho, Toyohashi 441-8580, Japan.mura@tutkie.tut.ac.jp
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD MAR 3
+PY 2005
+VL 80
+IS 1
+BP 83
+EP 90
+DI 10.1016/j.biosystems.2004.10.005
+PG 7
+WC Algorithms; Animals; Behavior, Animal; physiology; Extinction, Psychological; physiology; Models, Biological; Models, Psychological; Models, Statistical; Rats; Reinforcement, Psychology
+UT PubMed:15740837
+PM 15740837
+DA 2005-03-03
+ER
+

@@ -1,0 +1,395 @@
+PT J
+AU Bronov, LV
+   Kroshilova, TM
+   Kolosova, OM
+   Krunchak, VG
+   Komarov, EV
+AF Bronov, L V
+   Kroshilova, T M
+   Kolosova, O M
+   Krunchak, V G
+   Komarov, E V
+TI [Mechanism of polyene antibiotic inactivation. The effect of amino sugar
+SO Antibiotiki
+LA rus
+DT Journal Article
+AB Changes in the acid-base characteristics of levorin during its inactivation are  discussed. It is shown that with a decrease in the biological activity a change  in the basic characteristics of the levorin amino sugar moiety takes place. The  kinetic studies with model compounds, i. e. octaenic alcohol and glucosamine  showed that the processes of their oxidation were interrelated. Oxidation of the  amino sugar played the role of an inducing factor in oxidation of the polyenic  chromophore and in addition impaired correlation between the extinction specific  coefficient of levorin and its biological activity.
+NR 0
+TC 0
+SN 
+EI 0003-563
+J9 Antibiotiki
+PD JUN 1
+PY 1982
+VL 27
+IS 6
+BP 430
+EP 4
+DI 
+PG -426
+WC Amino Sugars; metabolism; Anti-Bacterial Agents; antagonists & inhibitors; Candicidin; antagonists & inhibitors; In Vitro Techniques; Kinetics; Mathematics; Oxidation-Reduction; Polyenes; antagonists & inhibitors
+UT PubMed:7114829
+PM 7114829
+DA 1982-06-01
+ER
+
+PT J
+AU Bessard, G
+   Chouraqui, JP
+   Rambaud, P
+AF Bessard, G
+   Chouraqui, J P
+   Rambaud, P
+TI A spectrophotometric assay of skin bilirubin in adult Gunn rats.
+SO Biology of the neonate
+LA English
+DT Journal Article
+AB The present study was undertaken to assess the value of a spectrophotometric  method for the assay of bilirubin content in Gunn rat skin. The pigment  extraction was performed by incubating skin strips in a barbital-acetate buffered  methanol-chloroform mixture at pH 7 for 90 min. The procedure yielded an overall  recovery average of 93 +/- 9% which was not influenced when the incubation time  was varied from 1 to 2.5 h. The bilirubin concentration in skin extracts was  calculated from spectrophotometric absorbance readings and according to the molar  extinction coefficient of the pigment in chloroform. Bilirubin appeared to remain  stable during the analytical process. The mean bilirubin content as measured by  this method was 1.88 mumol/100 g (1.1 mg/100 g). It is concluded that the  proposed method is well suited for the investigation of bilirubin skin  metabolism.
+NR 0
+TC 0
+SN 
+EI 0006-312
+J9 Biol Neonate
+PD JAN 1
+PY 1982
+VL 42
+IS 1-2
+BP 59
+EP 65
+DI 10.1159/000241576
+PG 6
+WC Animals; Bilirubin; analysis; Evaluation Studies as Topic; Female; Male; Pigments, Biological; isolation & purification; Rats; Rats, Gunn; Skin; analysis; Spectrophotometry
+UT PubMed:7126711
+PM 7126711
+DA 1982-01-01
+ER
+
+PT J
+AU Wissmar, RC
+   Devol, AH
+   Staley, JT
+   Sedell, JR
+AF Wissmar, R C
+   Devol, A H
+   Staley, J T
+   Sedell, J R
+TI Biological responses of lakes in the mount st. Helens blast zone.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Loadings of dissolved organics and suspended particulates from destroyed forests  and volcanic debris produced by the 18 May 1980 eruption of Mount St. Helens  altered the trophic structure of many blast zone lakes to the extent that anoxic  conditions and chemoorganotrophic and chemolithotrophic microorganisms prevailed.  High bacterial counts and high adenosine triphosphate concentrations were  directly related to enhanced concentrations of dissolved organic carbon, and  plankton chlorophyll a was inversely related to light extinction. The recovery of  these lakes to the preeruption state appears dependent upon the oxidation of  organics and the stabilization of watersheds.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD APR 9
+PY 1982
+VL 216
+IS 4542
+BP 178
+EP 81
+DI 10.1126/science.216.4542.178
+PG -97
+UT PubMed:17736249
+PM 17736249
+DA 1982-04-09
+ER
+
+PT J
+AU Faaborg, J
+AF Faaborg, J
+TI Trophic and size structure of West Indian bird communities.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Much discussion has occurred in recent years on whether observed patterns of  structure in island bird communities are the result of competitive interactions  among species or independent rates of colonization and extinction. Here two  patterns of structure are presented for birds on 12 West Indian islands. Each of  four major foraging guilds shows a distinct species-area pattern on the islands  and saturation of species within habitats on larger islands. Frugivores have the  steepest species-area curve and highest species numbers at saturation while  nectarivores are lowest in both values. Coexisting guild members in saturated  habitats are generally of different sizes, with weight differences by a factor of  2 common. On smaller islands, small guild members are absent and size differences  among coexisting guild members may increase. In many cases, birds have apparently  shifted size to conform to the structural patterns. The consistency of the  patterns and variation within component species is highly compatible to  explanations invoking competition and complements previously described population  and community characteristics of West Indian birds.
+C1 Division of Biological Sciences, University of Missouri at Columbia, Columbia, Missouri 65211.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD MAR 1
+PY 1982
+VL 79
+IS 5
+BP 1563
+EP 7
+DI 10.1073/pnas.79.5.1563
+PG -1556
+UT PubMed:16578760
+PM 16578760
+DA 1982-03-01
+ER
+
+PT J
+AU Tsang, TH
+   Brock, JR
+AF Tsang, T H
+   Brock, J R
+TI Effect of coagulation on extinction in an aerosol plume propagating in the
+SO Applied optics
+LA English
+DT Journal Article
+AB Model studies based on the K-theory diffusion assumption have been carried out on  aerosol plumes issuing from a crosswind line source in which advection, vertical  diffusion, coagulation, sedimentation, and dry deposition are occurring.  Procedures are described and a few typical results are presented. It is shown  that in appropriate conditions coagulation can play an important role in altering  extinction in the plume. An important coupling effect between coagulation and  sedimentation/deposition has been demonstrated. In a coagulating plume it is  found that total particle mass concentration cannot be inferred from measurements  of extinction without a detailed consideration of the effects of coagulation. In  realistic atmospheric simulations isopleths of extinction in the plume cross  section show complex forms resulting from the wind gradient and its interactions  with vertical diffusion and the coagulation and sedimentation/deposition  processes.
+C1 University of Texas, Chemical Engineering Department, Austin, Texas 78712, USA.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD MAY 1
+PY 1982
+VL 21
+IS 9
+BP 1588
+EP 92
+DI 10.1364/AO.21.001588
+PG -1496
+UT PubMed:20389900
+PM 20389900
+DA 1982-05-01
+ER
+
+PT J
+AU Alvarez, W
+   Asaro, F
+   Michel, HV
+   Alvarez, LW
+AF Alvarez, W
+   Asaro, F
+   Michel, H V
+   Alvarez, L W
+TI Iridium anomaly approximately synchronous with terminal eocene extinctions.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB An iridium anomaly has been found in coincidence with the known microtektite  level in cores from Deep Sea Drilling Project site 149 in the Caribbean Sea. The  iridium was probably not in the microtektites but deposited simultaneously with  them; this could occur if the iridium was deposited from a dust cloud resulting  from a bolide impact, as suggested for the anomaly associated with the  Cretaceous-Tertiary boundary. Other workers have deduced that the microtektites  are part of the North American strewn tektite field, which is dated at about 34  million years before present, and that the microtektite horizon in deep-sea cores  is synchronous with the extinction of five radiolarian species. Mass extinctions  also occur in terrestrial mammals within 4 million years of this time. The  iridium anomaly and the tektites and microtektites are supportive of a major  bolide impact about 34 million years ago.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAY 21
+PY 1982
+VL 216
+IS 4548
+BP 886
+EP 8
+DI 10.1126/science.216.4548.886
+PG -878
+UT PubMed:17819180
+PM 17819180
+DA 1982-05-21
+ER
+
+PT J
+AU Gikalov, I
+   Kaufmann, R
+   Schuster, O
+AF Gikalov, I
+   Kaufmann, R
+   Schuster, O
+TI [Human pharmacokinetics of different i.v. doses of azapropazone
+SO Arzneimittel-Forschung
+LA ger
+DT Journal Article
+AB The pharmacokinetic profile of azapropazone (Prolixan), sodium salt of  5-dimethylamino-9,5-dimethylamine-9-methyl-5-propyl-1H-pyrazolol[1,2-a][1,2,4]benzotriazine-1,3(2H)-dione,  was established. Six healthy, adult volunteers received a single dose of either  600 mg or 1200 mg azapropazone as sodium salt intravenously. The drug was  selectively separated from its metabolites and other plasmatic compounds and it  was quantified by measurement of extinction at 254 nm. The kinetic parameters of  azapropazone were independent of the applied dose (600 mg and 1200 mg):  Biological half-life (t0.5): 16.8 +/- 2.95 h and 17.2 +/- 3.0 h; Total clearance  (Cltot): 10.2 +/- 2.1 ml min-1 (both doses); Central volume of distribution (Vc):  3.7 +/- 0.71 and 3.9 +/- 0.91; Apparent volume of distribution (Vd): 12.5 +/-  2.91 and 14.4 +/- 2.41. Initial serum concentrations were 170 +/- 41.5 micrograms  ml-1 and 326.3 +/- 84.5 micrograms ml-1, determined by extrapolation (C0 at time  t0). The areas under the plasma concentration curves (AUC0 infinity) were  calculated to amount 1052.5 +/- 217.4 micrograms ml-1h-1 and 2078.4 +/- 515.9  micrograms ml-1h-1. Three rate constants associated with the elimination of the  drug could be calculated.
+NR 0
+TC 0
+SN 
+EI 0004-417
+J9 Arzneimittelforschung
+PD JAN 1
+PY 1982
+VL 32
+IS 4
+BP 423
+EP 6
+DI 
+PG -417
+WC Adult; Apazone; administration & dosage; Chromatography, High Pressure Liquid; methods; Humans; Injections, Intravenous; Kinetics; Male; Triazines; metabolism
+UT PubMed:7201814
+PM 7201814
+DA 1982-01-01
+ER
+
+PT J
+AU Raup, DM
+   Sepkoski, JJ Jr
+AF Raup, D M
+   Sepkoski, J J Jr
+TI Mass extinctions in the marine fossil record.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB A new compilation of fossil data on invertebrate and vertebrate families  indicates that four mass extinctions in the marine realm are statistically  distinct from background extinction levels. These four occurred late in the  Ordovician, Permian, Triassic, and Cretaceous periods. A fifth extinction event  in the Devonian stands out from the background but is not statistically  significant in these data. Background extinction rates appear to have declined  since Cambrian time, which is consistent with the prediction that optimization of  fitness should increase through evolutionary time.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAR 19
+PY 1982
+VL 215
+IS 4539
+BP 1501
+EP 3
+DI 10.1126/science.215.4539.1501
+PG -1498
+UT PubMed:17788674
+PM 17788674
+DA 1982-03-19
+ER
+
+PT J
+AU Hastings, HM
+   Pekelney, R
+   Monticciolo, R
+   vun, Kannon D
+   del, Monte D
+AF Hastings, H M
+   Pekelney, R
+   Monticciolo, R
+   vun Kannon, D
+   del Monte, D
+TI Time scales, persistence and patchiness.
+SO Bio Systems
+LA English
+DT Journal Article
+AB We consider competition in patch-dynamical and more general diffusion-extinction  models. These models identify three time scales in ecology. We begin with a  reformulation of Levin's 1978 basic model, using a geometric description of  diffusion. As in Levin's model, diffusion drives short-term dynamics, and  longer-term dynamics depends upon a diffusion-extinction ratio; maximizing this  ratio is shown to be an Evolutionarily Stable Strategy. Over still longer times,  the effect of organisms upon their environments becomes paramount. We use  Mandelbrot's 1977 fractals to develop these models, and thus relate persistence  with relative patchiness. Finally, we propose a numerical measure, the fractal  exponent H, of successional stage.
+NR 0
+TC 0
+SN 
+EI 0303-264
+J9 Biosystems
+PD JAN 1
+PY 1982
+VL 15
+IS 4
+BP 281
+EP 9
+DI 10.1016/0303-2647(82)90043-0
+PG -272
+WC Biological Evolution; Ecology; Mathematics; Models, Biological; Plants; Time Factors
+UT PubMed:7165795
+PM 7165795
+DA 1982-01-01
+ER
+
+PT J
+AU Lewin, R
+AF Lewin, R
+TI Extinction leaves its mark on ecology.
+SO Science (New York, N.Y.)
+LA English
+DT News
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD OCT 1
+PY 1982
+VL 218
+IS 4567
+BP 42
+EP 3
+DI 10.1126/science.7123216
+PG -39
+WC Animals; Biological Evolution; Ecology; Models, Biological
+UT PubMed:7123216
+PM 7123216
+DA 1982-10-01
+ER
+
+PT J
+AU Oi, VT
+   Glazer, AN
+   Stryer, L
+AF Oi, V T
+   Glazer, A N
+   Stryer, L
+TI Fluorescent phycobiliprotein conjugates for analyses of cells and molecules.
+SO The Journal of cell biology
+LA English
+DT Journal Article
+AB The synthesis of a novel class of reagents for fluorescence analyses of molecules  and cells is reported. These compounds consist of a highly fluorescent  phycobiliprotein conjugated to a molecule having biological specificity.  Phycoerythrin-immunoglobulin, phycoerythrin-protein A, and phycoerythrin-avidin  conjugates were prepared. These conjugates bind specifically to beads containing  a covalently attached target molecule and render them highly fluorescent.  Femtomole (10(-15) mole) quantities of phycoerythrin conjugates can be detected  because of the high extinction coefficient (epsilon M = 2.4 x 10(6) cm-1 M-1 for  2.4 x 10(5) daltons) and high fluorescence quantum yield (Q = 0.8) of the  phycobiliprotein moiety. An important feature of these conjugates is that they  emit in the orange-red spectral region, where background fluorescence is less  than at shorter wavelengths. Phycoerythrin conjugates are well-suited for  two-color flow cytofluorimetric analyses employing a single excitation line. The  distributions of Leu antigens (also called OKT antigens) on the surface of  T-lymphocytes were analyzed using fluoresceinated antibody as the  green-fluorescent stain and biotinylated antibody counter-stained with  phycoerythrin-avidin as the red one. This one-laser two-color analysis showed  that cells express Leu-3a and Leu-3b or neither antigen. In contrast, the  distributions of Leu-2a (a marker of suppressor and cytotoxic T-cells) and Leu-3a  (a marker of helper and inducer T-cells) are mutually exclusive. These studies  show that phycobiliprotein conjugates can be applied to fluorescence-activated  cell sorting and analysis, fluorescence microscopy, and fluorescence immunoassay.
+NR 0
+TC 0
+SN 1540-814
+EI 0021-952
+J9 J Cell Biol
+PD JUN 1
+PY 1982
+VL 93
+IS 3
+BP 981
+EP 6
+DI 10.1083/jcb.93.3.981
+PG -975
+WC Antigens, Surface; analysis; Avidin; Cytological Techniques; Flow Cytometry; methods; Humans; Immunoglobulins; Leucine; immunology; Light-Harvesting Protein Complexes; Phycoerythrin; Plant Proteins; Staphylococcal Protein A; T-Lymphocytes; immunology
+UT PubMed:6749865
+PM 6749865
+DA 1982-06-01
+ER
+
+PT J
+AU Melkonian, DS
+   Mkrtchian, HH
+   Fanardjian, VV
+AF Melkonian, D S
+   Mkrtchian, H H
+   Fanardjian, V V
+TI Simulation of learning processes in neuronal networks of the cerebellum.
+SO Biological cybernetics
+LA English
+DT Journal Article
+AB A dynamic model of learning that is based on the specific neuronal system of the  cerebellum, including some of its structural-functional peculiarities, is  proposed. It allows to simulate modification processes of the parallel fiber  synapse that influences the Purkinje cell. regularities of synaptic modifications  are obtained by extrapolating well-known experimental data bout changes of  synaptic efficiency as resulting from release, refilling and mobilization of the  mediator. It is shown that a mathematical description of synaptic processes  corresponds to experimental data on the changes of synaptic efficiency under  rhythmical stimulation and gives objective quantitative estimates for long-term  (refilling of the mediator) and short-term (mobilization of the mediator) effects  which are caused by presynaptic stimulation. Computer simulations have been  conducted to investigate the characteristics of learning for different values of  the following parameters: intensity of unconditioned stimulus (US, activity of  the climbing fibre), intensity of conditioned stimulus (CS, activity of the  parallel fibre), temporal shift between US and CS, temporal interval between  reinforcements. It is shown that the temporal shift between CS and US is one of  the major factors that influence the learning procedures. Analysis of the data  obtained shows that the model enables us to simulate the main regularities of  establishment and extinction of conditioned reflexes.
+NR 0
+TC 0
+SN 
+EI 0340-120
+J9 Biol Cybern
+PD JAN 1
+PY 1982
+VL 45
+IS 2
+BP 79
+EP 88
+DI 10.1007/BF00335233
+PG 9
+WC Animals; Cerebellum; physiology; Computers; Conditioning, Psychological; physiology; Learning; physiology; Models, Biological; Neurons; physiology; Purkinje Cells; physiology; Reinforcement, Psychology; Synapses; physiology; Time Factors
+UT PubMed:7138958
+PM 7138958
+DA 1982-01-01
+ER
+
+PT J
+AU Remmert, H
+AF Remmert, H
+TI The evolution of man and the extinction of animals.
+SO Die Naturwissenschaften
+LA English
+DT Journal Article
+AB Africa has lost only very few big mammals at the end of the pleistocene. Evidence  is put forward that the reason for the present richness of the African mammal  fauna is a very early coevolution between evolving man and the megafauna of this  area. Areas without such an early coevolution suffered severe losses (up to 100%)  of their native megafauna, when early hunters invaded them.
+NR 0
+TC 0
+SN 
+EI 0028-104
+J9 Naturwissenschaften
+PD NOV 1
+PY 1982
+VL 69
+IS 11
+BP 524
+EP 7
+DI 10.1007/BF00463496
+PG -517
+WC Africa; Animals; Biological Evolution; Humans; Mammals; genetics; Species Specificity
+UT PubMed:7155188
+PM 7155188
+DA 1982-11-01
+ER
+

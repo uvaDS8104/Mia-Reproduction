@@ -1,0 +1,2646 @@
+PT J
+AU Burt, A
+AF Burt, A
+TI Perspective: sex, recombination, and the efficacy of selection--was Weismann
+SO Evolution; international journal of organic evolution
+LA English
+DT Review
+AB The idea that sex functions to provide variation for natural selection to act  upon was first advocated by August Weismann and it has dominated much discussion  on the evolution of sex and recombination since then. The goal of this paper is  to further extend this hypothesis and to assess its place in a larger body of  theory on the evolution of sex and recombination. A simple generic model is  developed to show how fitness variation and covariation interact with selection  for recombination and illustrate some important implications of the hypothesis:  (1) the advantage of sex and recombination can accrue both to reproductively  isolated populations and to modifiers segregating within populations, but the  former will be much larger than the latter; (2) forces of degradation that are  correlated across loci within an individual can reduce or reverse selection for  increased recombination; and (3) crossing-over (which can occur at different  places in different meioses) will create more variability than having multiple  chromosomes and so will have more influence on the efficacy of selection. Several  long-term selection experiments support Weismann's hypothesis, including those  showing a greater response to selection in populations with higher rates of  recombination and higher rates of recombination evolving as a correlated response  to selection for some other character. Weismann's hypothesis is also consistent  with the sporadic distribution of obligate asexuality, which indicates that  clones have a higher rate of extinction than sexuals. Weismann's hypothesis is  then discussed in light of other patterns in the distribution of sexuality versus  asexuality. To account for variation in the frequency of obligate asexuality in  different taxa, a simple model is developed in which this frequency is a function  of three parameters: the rate of clonal origin, the initial fitness of clones  when they arise, and the rate at which that fitness declines over time. Variation  in all three parameters is likely to be important in explaining the distribution  of obligate asexuality. Facultative asexuality also exists, and for this to be  stable it seems there must be ecological differences between the sexual and  asexual propagules as well as genetic differences. Finally, the timing of sex in  cyclical parthenogens is most likely set to minimize the opportunity costs of  sex. None of these patterns contradict Weismann's hypothesis, but they do show  that many additional principles unrelated to the function of sex are required to  fully explain its distribution. Weismann's hypothesis is also consistent with  what we know about the mechanics and molecular genetics of recombination, in  particular the tendency for chromatids to recombine with a homolog rather than a  sister chromatid at meiosis, which is opposite to what they do during mitosis.  However, molecular genetic studies have shown that cis-acting sites at which  recombination is initiated are lost by gene conversion as a result, a factor that  can be expected to affect many fine details in the evolution of recombination. In  summary, although Weismann's hypothesis must be considered the leading candidate  for the function of sex and recombination, nevertheless, many additional  principles are needed to fully account for their evolution.
+C1 Department of Biology, Imperial College, United Kingdom. a.burt@ic.ac.uk
+NR 0
+TC 0
+SN 
+EI 0014-382
+J9 Evolution
+PD AUG 11
+PY 2000
+VL 54
+IS 2
+BP 337
+EP 51
+DI 10.1111/j.0014-3820.2000.tb00038.x
+PG -286
+WC Biological Evolution; Recombination, Genetic; Selection, Genetic; Sex Factors
+UT PubMed:10937212
+PM 10937212
+DA 2000-08-11
+ER
+
+PT J
+AU Redheffer, R
+AF Redheffer, R
+TI Generalized monotonicity, integral conditions and partial survival.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB An interesting paper of Vance and Coddington concerning the scalar equation x =  xf(t, x) is improved by a drastic weakening of the assumptions. Surprising as it  may seem, this weakening simplifies the analysis and leads to stronger  conclusions. An extension to scalar inequalities of similar structure is applied  to a large class of vector equations describing the evolution of n interacting  species. Thus we obtain new criteria for extinction and for partial survival, in  the sense that each of the separate species may come arbitrarily close to  extinction but the population as a whole does not.
+C1 Mathematics Department, University of California at Los Angeles, 90095-1555, USA. rr@math.ucla.edu
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JUN 15
+PY 2000
+VL 40
+IS 4
+BP 295
+EP 320
+DI 10.1007/s002850050182
+PG 25
+WC Animals; Biological Evolution; Conservation of Natural Resources; Models, Biological; Predatory Behavior
+UT PubMed:10853795
+PM 10853795
+DA 2000-06-15
+ER
+
+PT J
+AU Ivany, LC
+   Patterson, WP
+   Lohmann, KC
+AF Ivany, L C
+   Patterson, W P
+   Lohmann, K C
+TI Cooler winters as a possible cause of mass extinctions at the Eocene/Oligocene
+SO Nature
+LA English
+DT Journal Article
+AB The Eocene/Oligocene boundary, at about 33.7 Myr ago, marks one of the largest  extinctions of marine invertebrates in the Cenozoic period. For example, turnover  of mollusc species in the US Gulf coastal plain was over 90% at this time. A  temperature change across this boundary--from warm Eocene climates to cooler  conditions in the Oligocene--has been suggested as a cause of this extinction  event, but climate reconstructions have not provided support for this hypothesis.  Here we report stable oxygen isotope measurements of aragonite in fish  otoliths--ear stones--collected across the Eocene/Oligocene boundary.  Palaeo-temperatures reconstructed from mean otolith oxygen isotope values show  little change through this interval, in agreement with previous studies. From  incremental microsampling of otoliths, however, we can resolve the seasonal  variation in temperature, recorded as the otoliths continue to accrete new  material over the life of the fish. These seasonal data suggest that winters  became about 4 degrees C colder across the Eocene/Oligocene boundary. We suggest  that temperature variability, rather than change in mean annual temperature,  helped to cause faunal turnover during this transition.
+C1 Department of Geological Sciences, University of Michigan, Ann Arbor 48109, USA. lcivany@syr.edu
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD NOV 1
+PY 2000
+VL 407
+IS 6806
+BP 887
+EP 90
+DI 10.1038/35038044
+PG -797
+WC Animals; Biological Evolution; Calcium Carbonate; analysis; Cold Climate; Fishes; Oceans and Seas; Oxygen Isotopes; Seasons; Temperature; United States
+UT PubMed:11057663
+PM 11057663
+DA 2000-11-01
+ER
+
+PT J
+AU Etienne, RS
+   Heesterbeek, JA
+AF Etienne, R S
+   Heesterbeek, J A
+TI On optimal size and number of reserves for metapopulation persistence.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Habitat fragmentation is generally considered to be detrimental to the  persistence of natural populations. In nature management, one therefore tends to  prefer few large nature reserves over many small nature reserves having equal  total area. This paper examines whether this preference is warranted in a  metapopulation framework with circular reserves (patches) by formulating the  dependence of metapopulation persistence on the size and number of reserves, both  of which depend on reserve radius if the total area is kept constant. Two  measures of metapopulation persistence are used: R(0), the number of patches  colonized by an occupied patch during its lifetime as an occupied patch, and  T(e), the expected time to extinction. These two measures are functions of the  extinction and colonization rates of the metapopulation. Several mechanisms for  the extinction and colonization processes are formulated from which the  dependence of these rates on reserve radius is calculated. It turns out that  T(e)generally increases with reserve radius for all mechanisms, which supports  the preference of few large reserves. However, R(0)supports this preference only  in the case of some special, rather unrealistic, mechanisms. In many other, more  realistic, cases an intermediate reserve size exists for which metapopulation  persistence measured by R(0)is optimal.
+C1 CBW-Centre for Biometry, Wageningen, 6700 AA, The Netherlands. r.s.etienne@plant.wag-ur.nl
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD MAR 30
+PY 2000
+VL 203
+IS 1
+BP 33
+EP 50
+DI 10.1006/jtbi.1999.1060
+PG 17
+WC Animals; Ecosystem; Environment; Models, Biological; Population Dynamics
+UT PubMed:10677275
+PM 10677275
+DA 2000-03-30
+ER
+
+PT J
+AU Napoli, KL
+AF Napoli, K L
+TI A practical guide to the analysis of sirolimus using high-performance liquid
+SO Clinical therapeutics
+LA English
+DT Journal Article
+AB BACKGROUND: Sirolimus, a new immunosuppressive agent, has recently been approved  in the United States for use in combination with cyclosporine and corticosteroids  in renal allograft transplantation. Therapeutic drug monitoring (TDM) of  sirolimus is advocated by the drug's manufacturer in certain patient populations.  Given the known pharmacokinetic interaction of sirolimus with cyclosporine and  the requirement for patient compliance, physicians may wish to monitor  steady-state trough levels of this agent. Several types of analytical methods  have been investigated for use in TDM of sirolimus: immunoassay, high-performance  liquid chromatography with ultraviolet detection (HPLC-UV), and HPLC with  mass-spectrometric detection (HPLC-MS or HPLC/MS/MS). OBJECTIVE: This review  identifies analytical parameters that are critical to clinical TDM of sirolimus  when HPLC-UV is used. METHODS: Extraction of sirolimus from whole blood was  performed using either liquid-liquid or solid phase techniques, whereas liquid  chromatography was performed on reverse-phase analytical columns. The drug was  detected at its UV extinction maximum. Calculated analytical parameters were  evaluated according to current industry standards. RESULTS: HPLC-UV methods for  the quantification of sirolimus meet or exceed industry standards of performance  for clinical TDM. Comparison of the sirolimus levels in clinical samples analyzed  by both HPLC-UV and HPLC/MS/MS indicated that the methods provided similar  results. CONCLUSION: HPLC-UV methods, although they use a less-sophisticated mode  of detection than HPLC-MS or HPLC/MS/MS methods, provide an alternative means of  performing TDM without sacrificing the analytical performance required for  clinical monitoring of sirolimus.
+C1 Department of Surgery, University of Texas-Houston Medical School, 77030, USA.
+NR 0
+TC 0
+SN 
+EI 0149-291
+J9 Clin Ther
+PD MAY 24
+PY 2000
+VL 22 Suppl B
+IS 
+BP B14
+EP 24
+DI 10.1016/s0149-2918(00)89019-0
+PG 1
+WC Calibration; Chromatography, High Pressure Liquid; Humans; Immunosuppressive Agents; analysis; Quality Control; Reference Standards; Sirolimus; analysis; Spectrophotometry, Ultraviolet
+UT PubMed:10823370
+PM 10823370
+DA 2000-05-24
+ER
+
+PT J
+AU Zapatero, Osorio MR
+   Béjar, VJ
+   Martín, EL
+   Rebolo, R
+   Barrado, y Navascués D
+   Bailer-Jones, CA
+   Mundt, R
+AF Zapatero Osorio, M R
+   Béjar, V J
+   Martín, E L
+   Rebolo, R
+   Barrado y Navascués, D
+   Bailer-Jones, C A
+   Mundt, R
+TI Discovery of young, isolated planetary mass objects in the final sigma Orionis
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB We present the discovery by optical and near-infrared imaging of an extremely  red, low-luminosity population of isolated objects in the young, nearby stellar  cluster around the multiple, massive star final sigma Orionis. The proximity (352  parsecs), youth (1 million to 5 million years), and low internal extinction make  this cluster an ideal site to explore the substellar domain from the hydrogen  mass limit down to a few Jupiter masses. Optical and near-infrared low-resolution  spectroscopy of three of these objects confirms the very cool spectral energy  distribution (atmospheric effective temperatures of 1700 to 2200 kelvin) expected  for cluster members with masses in the range 5 to 15 times that of Jupiter. Like  the planets of the solar system, these objects are unable to sustain stable  nuclear burning in their interiors, but in contrast they are not bound to stars.  This new kind of isolated giant planet, which apparently forms on time scales of  less than a few million years, offers a challenge to our understanding of the  formation processes of planetary mass objects.
+C1 Instituto de Astrofísica de Canarias, E-38200 La Laguna, Tenerife, Spain.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD OCT 6
+PY 2000
+VL 290
+IS 5489
+BP 103
+EP 7
+DI 10.1126/science.290.5489.103
+PG -96
+UT PubMed:11021788
+PM 11021788
+DA 2000-10-06
+ER
+
+PT J
+AU Castelletta, M
+   Sodhi, NS
+   Subaraj, R
+AF Castelletta, Marjorie
+   Sodhi, Navjot S
+   Subaraj, R
+TI Heavy Extinctions of Forest Avifauna in Singapore: Lessons for Biodiversity
+SO Conservation biology : the journal of the Society for Conservation Biology
+LA English
+DT Journal Article
+AB The consequences of rapid rainforest clearance on native avifauna are poorly  understood. In Southeast Asia, Singapore, a newly developing country, has had 95%  of its native lowland rainforest cleared. Most of the rainforest was lost in the  mid- to late-nineteenth century. We compared avifauna checklists from 1923, 1949,  and 1998 to determine the extent of extinctions between 1923 and 1998 in  Singapore. Of 203 diurnal bird species, 65 were extirpated in Singapore in the  past 75 years. Four of these species were nonforest- dependent species, whereas  61 (94%) were forest bird species dependent on the primary or old secondary  forest to survive. Twenty-six forest bird species became extinct between 1923 and  1949, whereas 35 forest species disappeared after 1949. We compared the body  lengths, feeding guilds, and vertical feeding zones between extinct and extant  forest bird species to determine whether extinction patterns were dependent on  these characteristics. Larger forest bird species went extinct between 1923 and  1949. Body sizes, however, did not affect the loss of forest bird species between  1949 and 1998. We observed high losses of insectivorous birds; the  insectivore-carnivore and insectivore-granivore guilds lost> 80% of the species  present in 1923. The highest losses were among birds that fed in the canopy. None  of the forest bird species are currently common (>100 individuals/species) within  Singapore. Our study shows that more than half the forest avifauna became locally  extinct after extensive deforestation. Based on this fact, the countries within  Southeast Asia should reconsider their heavy deforestation practices.
+C1 Department of Biological Sciences, National University of Singapore, 14 Science Drive 4, Singapore 117543, Republic of Singapore.
+   Department of Biological Sciences, National University of Singapore, 14 Science Drive 4, Singapore 117543, Republic of Singapore.
+   Department of Biological Sciences, National University of Singapore, 14 Science Drive 4, Singapore 117543, Republic of Singapore.
+NR 0
+TC 0
+SN 1523-173
+EI 
+J9 Conserv Biol
+PD DEC 18
+PY 2000
+VL 14
+IS 6
+BP 1870
+EP 1880
+DI 10.1111/j.1523-1739.2000.99285.x
+PG 10
+UT PubMed:35701951
+PM 35701951
+DA 2000-12-18
+ER
+
+PT J
+AU Hesselbo, SP
+   Grocke, DR
+   Jenkyns, HC
+   Bjerrum, CJ
+   Farrimond, P
+   Morgans, Bell HS
+   Green, OR
+AF Hesselbo, SP
+   Grocke, DR
+   Jenkyns, HC
+   Bjerrum, CJ
+   Farrimond, P
+   Morgans Bell HS
+   Green, OR
+TI Massive dissociation of gas hydrate during a Jurassic oceanic anoxic event.
+SO Nature
+LA English
+DT Journal Article
+AB In the Jurassic period, the Early Toarcian oceanic anoxic event (about 183  million years ago) is associated with exceptionally high rates of organic-carbon  burial, high palaeotemperatures and significant mass extinction. Heavy  carbon-isotope compositions in rocks and fossils of this age have been linked to  the global burial of organic carbon, which is isotopically light. In contrast,  examples of light carbon-isotope values from marine organic matter of Early  Toarcian age have been explained principally in terms of localized upwelling of  bottom water enriched in 12C versus 13C (refs 1,2,5,6). Here, however, we report  carbon-isotope analyses of fossil wood which demonstrate that isotopically light  carbon dominated all the upper oceanic, biospheric and atmospheric carbon  reservoirs, and that this occurred despite the enhanced burial of organic carbon.  We propose that--as has been suggested for the Late Palaeocene thermal maximum,  some 55 million years ago--the observed patterns were produced by voluminous and  extremely rapid release of methane from gas hydrate contained in marine  continental-margin sediments.
+C1 Department of Earth Sciences, University of Oxford, UK. stephen.hesselbo@earth.ox.ac.uk
+NR 0
+TC 0
+SN 1476-468
+EI 
+J9 Nature
+PD AUG 10
+PY 2000
+VL 406
+IS 6794
+BP 392
+EP 5
+DI 10.1038/35019044
+PG -387
+UT PubMed:10935632
+PM 10935632
+DA 2000-08-10
+ER
+
+PT J
+AU Jin, YG
+   Wang, Y
+   Wang, W
+   Shang, QH
+   Cao, CQ
+   Erwin, DH
+AF Jin, Y G
+   Wang, Y
+   Wang, W
+   Shang, Q H
+   Cao, C Q
+   Erwin, D H
+TI Pattern of marine mass extinction near the Permian-Triassic boundary in South
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The Meishan section across the Permian-Triassic boundary in South China is the  most thoroughly investigated in the world. A statistical analysis of the  occurrences of 162 genera and 333 species confirms a sudden extinction event at  251.4 million years ago, coincident with a dramatic depletion of  delta13C(carbonate) and an increase in microspherules.
+C1 Nanjing Institute of Geology and Palaeontology, Academia Sinica, Nanjing 210008, China. ygjin@public1.ptt.js.cn
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD JUL 21
+PY 2000
+VL 289
+IS 5478
+BP 432
+EP 6
+DI 10.1126/science.289.5478.432
+PG -426
+WC Animals; China; Eukaryota; Fishes; Fossils; Geologic Sediments; Invertebrates; Marine Biology
+UT PubMed:10903200
+PM 10903200
+DA 2000-07-21
+ER
+
+PT J
+AU Zschocke, S
+   Drewes, SE
+   Paulus, K
+   Bauer, R
+   van, Staden J
+AF Zschocke, S
+   Drewes, S E
+   Paulus, K
+   Bauer, R
+   van Staden, J
+TI Analytical and pharmacological investigation of Ocotea bullata (black stinkwood)
+SO Journal of ethnopharmacology
+LA English
+DT Journal Article
+AB Ocotea bullata (Lauraceae), one of the top-ten traditional medicinal plants used  in KwaZulu-Natal, is close to extinction through high demand and destructive  harvesting methods. The stem bark is traditionally used to cure headaches,  urinary disorders and stomach problems. Substitution of leaves for bark provides  a possible resource management solution for this threatened medicinal plant. One  aim of this study was to compare the chemical composition of O. bullata leaves  and bark using TLC, HPLC and GC-MS analysis. The characteristic analytical  fingerprints of leaf and bark extracts showed great similarities. A second aim  was to investigate the pharmacological properties of O. bullata as a remedy  against headaches. Leaf and bark extracts were tested in terms of  cyclooxygenase-1 and 5-lipoxygenase inhibition. Extracts from the bark exhibited  moderate inhibitory activity in both test systems. Extracts from fresh leaves  were superior to bark extracts in terms of their in vitro inhibitory activity  against cyclooxygenase-1 and 5-lipoxygenase. Volatiles obtained from n-hexane  extracts of leaves and bark showed better inhibitory activity towards  cyclooxygenase-1 and especially towards 5-lipoxygenase than the original n-hexane  extracts. Volatiles were therefore recognized as one of the main active  principles in O. bullata with regards to the anti-inflammatory properties of this  medicinal plant. This lends support to the traditional usage of O. bullata bark  as an inhalant or snuff.
+C1 Research Centre for Plant Growth and Development, School of Botany and Zoology, University of Natal Pietermaritzburg, Private Bag X01, 3209, Scottsville, SouthAfrica.
+NR 0
+TC 0
+SN 
+EI 0378-874
+J9 J Ethnopharmacol
+PD JUL 25
+PY 2000
+VL 71
+IS 1-2
+BP 219
+EP 30
+DI 10.1016/s0378-8741(00)00159-8
+PG -189
+WC Animals; Chlorophyll; chemistry; Chromatography, High Pressure Liquid; Chromatography, Thin Layer; Cyclooxygenase 1; Cyclooxygenase Inhibitors; isolation & purification; Gas Chromatography-Mass Spectrometry; In Vitro Techniques; Isoenzymes; metabolism; Lauraceae; chemistry; Lipoxygenase Inhibitors; pharmacology; Plant Epidermis; chemistry; Plant Extracts; pharmacology; Plant Leaves; chemistry; Plants, Medicinal; chemistry; Prostaglandin-Endoperoxide Synthases; metabolism; Sheep; South Africa; Swine
+UT PubMed:10904166
+PM 10904166
+DA 2000-07-25
+ER
+
+PT J
+AU Self, WT
+   Tsai, L
+   Stadtman, TC
+AF Self, W T
+   Tsai, L
+   Stadtman, T C
+TI Synthesis and characterization of selenotrisulfide-derivatives of lipoic acid and
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Thiol-containing compounds, such as glutathione and cysteine, react with selenite  under specific conditions to form selenotrisulfides. Previous studies have  focused on isolation and characterization of intermolecular selenotrisulfides.  This study describes the preparation and characterization of intramolecular  selenotrisulfide derivatives of lipoic acid and lipoamide. These derivatives,  after separation from other reaction products by reverse-phase HPLC, exhibit an  absorbance maximum at 288 nm with an extinction coefficient of 1,500 M(-1) small  middle dotcm(-1). The selenotrisulfide derivative of lipoic acid was  significantly stable at or below pH 8.0 in contrast to several other previously  studied selenotrisulfides. Mass spectral analysis of the lipoic acid and  lipoamide derivatives confirmed both the expected molecular weights and also the  presence of a single atom of selenium as revealed by its isotopic distribution.  The selenotrisulfide derivative of lipoic acid was found to serve as an effective  substrate for recombinant human thioredoxin reductase as well as native rat  thioredoxin reductase in the presence of NADPH. Likewise, the lipoamide  derivative was efficiently reduced by NADH-dependent bovine lipoamide  dehydrogenase. The significant in vitro stability of these intramolecular  selenotrisulfide derivatives of lipoic acid can serve as an important asset in  the study of such selenium adducts as model selenium donor compounds for  selenophosphate biosynthesis and as rate enhancement effectors in various redox  reactions.
+C1 Laboratory of Biochemistry, National Heart, Lung, and Blood Institute, National Institutes of Health, Bethesda, MD 20892, USA. selfw@nhlbi.nih.gov
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD OCT 26
+PY 2000
+VL 97
+IS 23
+BP 12481
+EP 6
+DI 10.1073/pnas.220426897
+PG -12475
+WC Animals; Cattle; Chromatography, High Pressure Liquid; methods; Dihydrolipoamide Dehydrogenase; metabolism; Humans; Hydrogen-Ion Concentration; Molecular Structure; Oxidation-Reduction; Rats; Recombinant Proteins; metabolism; Selenium Compounds; chemistry; Sodium Selenite; chemistry; Sulfides; chemistry; Thioctic Acid; analogs & derivatives; Thioredoxin-Disulfide Reductase; metabolism
+UT PubMed:11050172
+PM 11050172
+DA 2000-10-26
+ER
+
+PT J
+AU Block, GL
+   Allen, LJ
+AF Block, G L
+   Allen, L J
+TI Population extinction and quasi-stationary behavior in stochastic
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB Density-independent and density-dependent, stochastic and deterministic,  discrete-time, structured models are formulated, analysed and numerically  simulated. A special case of the deterministic, density-independent, structured  model is the well-known Leslie age-structured model. The stochastic,  density-independent model is a multitype branching process. A review of linear,  density-independent models is given first, then nonlinear, density-dependent  models are discussed. In the linear, density-independent structured models,  transitions between states are independent of time and state. Population  extinction is determined by the dominant eigenvalue lambda of the transition  matrix. If lambda < or = 1, then extinction occurs with probability one in the  stochastic and deterministic models. However, if lambda > 1, then the  deterministic model has exponential growth, but in the stochastic model there is  a positive probability of extinction which depends on the fixed point of the  system of probability generating functions. The linear, density-independent,  stochastic model is generalized to a nonlinear, density-dependent one. The  dependence on state is in terms of a weighted total population size. It is shown  for small initial population sizes that the density-dependent, stochastic model  can be approximated by the density-independent, stochastic model and thus, the  extinction behavior exhibited by the linear model occurs in the nonlinear model.  In the deterministic models there is a unique stable equilibrium. Given the  population does not go extinct, it is shown that the stochastic model has a  quasi-stationary distribution with mean close to the stable equilibrium, provided  the population size is sufficiently large. For small values of the population  size, complete extinction can be observed in the simulations. However, the  persistence time increases rapidly with the population size.
+C1 Department of Mathematics and Science, Missouri Valley College, Marshall 65340, USA. blockg@moval.edu
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD MAY 29
+PY 2000
+VL 62
+IS 2
+BP 199
+EP 228
+DI 10.1006/bulm.1999.0147
+PG 29
+WC Age Factors; Animals; Birth Rate; Computer Simulation; Conservation of Natural Resources; Fishes; Linear Models; Models, Biological; Monte Carlo Method; Mortality; Population Dynamics; Stochastic Processes; Trees
+UT PubMed:10824427
+PM 10824427
+DA 2000-05-29
+ER
+
+PT J
+AU Dudley, R
+AF Dudley, R
+TI The evolutionary physiology of animal flight: paleobiological and present
+SO Annual review of physiology
+LA English
+DT Review
+AB Recent geophysical analyses suggest the presence of a late Paleozoic oxygen pulse  beginning in the late Devonian and continuing through to the late Carboniferous.  During this period, plant terrestrialization and global carbon deposition  resulted in a dramatic increase in atmospheric oxygen levels, ultimately yielding  concentrations potentially as high as 35% relative to the contemporary value of  21%. Such hyperoxia of the late Paleozoic atmosphere may have physiologically  facilitated the initial evolution of insect flight metabolism. Widespread  gigantism in late Paleozoic insects and other arthropods is also consistent with  enhanced oxygen flux within diffusion-limited tracheal systems. Because total  atmospheric pressure increases with increased oxygen partial pressure,  concurrently hyperdense conditions would have augmented aerodynamic force  production in early forms of flying insects. By the late Permian, evolution of  decompositional microbial and fungal communities, together with disequilibrium in  rates of carbon deposition, gradually reduced oxygen concentrations to values  possibly as low as 15%. The disappearance of giant insects by the end of the  Permian is consistent with extinction of these taxa for reasons of asphyxiation  on a geological time scale. As with winged insects, the multiple historical  origins of vertebrate flight in the late Jurassic and Cretaceous correlate  temporally with periods of elevated atmospheric oxygen. Much discussion of flight  performance in Archaeopteryx assumes a contemporary atmospheric composition.  Elevated oxygen levels in the mid- to late Mesozoic would, however, have  facilitated aerodynamic force production and enhanced muscle power output for  ancestral birds, as well as for precursors to bats and pterosaurs.
+C1 Section of Integrative Biology, University of Texas, Austin 78712, USA. r_dudley@utxvms.cc.utexas.edu
+NR 0
+TC 0
+SN 
+EI 0066-427
+J9 Annu Rev Physiol
+PD JUN 9
+PY 2000
+VL 62
+IS 
+BP 135
+EP 55
+DI 10.1146/annurev.physiol.62.1.135
+PG -80
+WC Animals; Atmosphere; Biological Evolution; Flight, Animal; physiology; Physiology, Comparative
+UT PubMed:10845087
+PM 10845087
+DA 2000-06-09
+ER
+
+PT J
+AU MacDougall, JR
+   Matrisian, LM
+AF MacDougall, J R
+   Matrisian, L M
+TI Targets of extinction: identification of genes whose expression is repressed as a
+SO Journal of cell science
+LA English
+DT Journal Article
+AB The use of somatic cell hybrids has led to an increased understanding of the  'negative' regulation of cellular phenotype. Using somatic cell hybrids  constructed between human breast cells that represent differing stages of  malignancy but also display differing phenotypes from the same tissue, we present  experimental results suggesting that luminal epithelial characteristics are  controlled by repressive mechanisms. Fusion of HBL 100 cells, non-tumorigenic and  characteristic of the basal cell lineage, with MCF-7 or MDA-MB-468 malignant  breast cancer cells, characteristic of the luminal lineage, resulted in hybrid  cells that displayed the phenotype of the HBL 100 cells. Using representational  difference analysis, a panel of genes whose expression was repressed in the  hybrid between HBL 100 and MDA-MB-468 was identified. This analysis revealed  markers of luminal epithelial cells to be repressed, including Ep-CAM,  cytokeratin 19 and E-cadherin. These markers were found to be coordinately  re-expressed in variant hybrid cells indicating that the observed repression is  reversible. Integrin (alpha)(v)(beta)(3) expression was found to be in mutual  exclusivity to the luminal epithelial markers, thereby revealing a bidirectional  'switch' in the pattern of gene expression in this system. Finally, the  expression of Ep-CAM was found to be lost in heterokaryons produced by fusion of  HBL 100 and MCF-7 or MDA-MB-468 cells suggesting that the extinction of this gene  in hybrid cells is the consequence of a trans-acting factor(s) synthesized by the  HBL 100 cells. These data suggest that a number of markers of luminal cell  differentiation in the mammary gland can be controlled through negative  mechanisms and that such control of phenotype is highly coordinated.
+C1 Department of Cell Biology, School of Medicine, Vanderbilt University, Nashville, Tennessee, USA. john.macdougall@cancercare.on.ca
+NR 0
+TC 0
+SN 
+EI 0021-953
+J9 J Cell Sci
+PD JAN 20
+PY 2000
+VL 113 ( Pt 3)
+IS 
+BP 409
+EP 23
+DI 10.1242/jcs.113.3.409
+PG -386
+WC Adenocarcinoma; pathology; Antigens, Neoplasm; biosynthesis; Biological Factors; physiology; Biomarkers; Breast; cytology; Breast Neoplasms; pathology; Cadherins; biosynthesis; Cell Adhesion Molecules; biosynthesis; Cell Differentiation; genetics; Cell Fusion; Cell Lineage; Cell Nucleus; metabolism; Cytoplasm; metabolism; Epistasis, Genetic; Epithelial Cell Adhesion Molecule; Epithelial Cells; classification; Female; Gene Expression Regulation; Gene Silencing; Humans; Hybrid Cells; metabolism; Keratins; biosynthesis; Neoplasm Proteins; biosynthesis; Neoplasms, Hormone-Dependent; pathology; Phenotype; Tumor Cells, Cultured
+UT PubMed:10639329
+PM 10639329
+DA 2000-01-20
+ER
+
+PT J
+AU Kundu, S
+   Sundd, M
+   Jagannadham, MV
+AF Kundu, S
+   Sundd, M
+   Jagannadham, M V
+TI Purification and characterization of a stable cysteine protease ervatamin B, with
+SO Journal of agricultural and food chemistry
+LA English
+DT Journal Article
+AB Latex of the medicinal plant Ervatamia coronaria was found to contain at least  three cysteine proteases with high proteolytic activity, called ervatamins. One  of these proteases, named ervatamin B, has been purified to homogeneity using  ion-exchange chromatography and crystallization. The molecular mass of the enzyme  was estimated to be 26 000 Da by SDS-PAGE and gel filtration. The extinction  coefficient (epsilon(1%)(280 nm)) of the enzyme was 20.5 with 7 tryptophan and 10  tyrosine residues per molecule. The enzyme hydrolyzed denatured natural  substrates such as casein, azoalbumin, and azocasein with a high specific  activity. In addition, it showed amidolytic activity toward  N-succinyl-alanine-alanine-alanine-p-nitroanilide with an apparent K(m) and  K(cat) of 6.6 +/- 0.5 mM and 1.87 x 10(2) s(-)(1), respectively. The pH optima  was 6.0-6.5 with azocasein as substrate and 7.0-7.5 with azoalbumin as substrate.  The temperature optimum was around 50-55 degrees C. The enzyme was basic with an  isoelectric point of 9.35 and had no carbohydrate content. Both the proteolytic  and amidolytic activity of the enzyme was strongly inhibited by thiol-specific  inhibitors. Interestingly, the enzyme had only two disulfide bridges versus three  as in most plant cysteine proteases of the papain superfamily. The enzyme was  relatively stable toward pH, denaturants, temperature, and organic solvents.  Polyclonal antibodies raised against the pure enzyme gave a single precipitin  line in Ouchterlony's double immunodiffusion and typical color in ELISA. Other  related proteases do not cross-react with the antisera to ervatamin B showing  that the enzyme is immunologically distinct. The N-terminal sequence showed  conserved amino acid residues and considerable similarity to typical plant  cysteine proteases.
+C1 Molecular Biology Unit, Institute of Medical Sciences, Banaras Hindu University, Varanasi 221 005, India.
+NR 0
+TC 0
+SN 
+EI 0021-856
+J9 J Agric Food Chem
+PD FEB 26
+PY 2000
+VL 48
+IS 2
+BP 171
+EP 9
+DI 10.1021/jf990661j
+PG -162
+WC Amino Acid Sequence; Cysteine Endopeptidases; isolation & purification; Disulfides; chemistry; Hydrogen-Ion Concentration; Isoelectric Focusing; Latex; chemistry; Molecular Sequence Data; Plants, Medicinal; enzymology; Substrate Specificity; Temperature
+UT PubMed:10691612
+PM 10691612
+DA 2000-02-26
+ER
+
+PT J
+AU Frankham, R
+AF Frankham, R
+TI Quantitative genetics in conservation biology.
+SO Genetical research
+LA English
+DT Review
+AB Most of the major genetic concerns in conservation biology, including inbreeding  depression, loss of evolutionary potential, genetic adaptation to captivity and  outbreeding depression, involve quantitative genetics. Small population size  leads to inbreeding and loss of genetic diversity and so increases extinction  risk. Captive populations of endangered species are managed to maximize the  retention of genetic diversity by minimizing kinship, with subsidiary efforts to  minimize inbreeding. There is growing evidence that genetic adaptation to  captivity is a major issue in the genetic management of captive populations of  endangered species as it reduces reproductive fitness when captive populations  are reintroduced into the wild. This problem is not currently addressed, but it  can be alleviated by deliberately fragmenting captive populations, with  occasional exchange of immigrants to avoid excessive inbreeding. The extent and  importance of outbreeding depression is a matter of controversy. Currently, an  extremely cautious approach is taken to mixing populations. However, this cannot  continue if fragmented populations are to be adequately managed to minimize  extinctions. Most genetic management recommendations for endangered species arise  directly, or indirectly, from quantitative genetic considerations.
+C1 Department of Biological Sciences, Macquarie University, NSW, Australia. rfrankha@RNA.bio.mq.edu.au
+NR 0
+TC 0
+SN 
+EI 
+J9 Genet Res
+PD FEB 26
+PY 2000
+VL 74
+IS 3
+BP 237
+EP 44
+DI 10.1017/s001667239900405x
+PG -193
+WC Animals; Biological Evolution; Conservation of Natural Resources; Ecosystem; Genetics, Population; Genotype; Inbreeding; Multifactorial Inheritance; Mutation
+UT PubMed:10689801
+PM 10689801
+DA 2000-02-26
+ER
+
+PT J
+AU Losos, JB
+   Schluter, D
+AF Losos, J B
+   Schluter, D
+TI Analysis of an evolutionary species-area relationship.
+SO Nature
+LA English
+DT Journal Article
+AB Large islands typically have more species than comparable smaller islands.  Ecological theories, the most influential being the equilibrium theory of island  biogeography, explain the species-area relationship as the outcome of the effect  of area on immigration and extinction rates. However, these theories do not apply  to taxa on land masses, including continents and large islands, that generate  most of their species in situ. In this case, species-area relationships should be  driven by higher speciation rates in larger areas, a theory that has never been  quantitatively tested. Here we show that Anolis lizards on Caribbean islands meet  several expectations of the evolutionary theory. Within-island speciation exceeds  immigration as a source of new species on all islands larger than 3,000 km2,  whereas speciation is rare on smaller islands. Above this threshold island size,  the rate of species proliferation increases with island area, a process that  results principally from the positive effects of area on speciation rate. Also as  expected, the slope of the species-area relationship jumps sharply above the  threshold. Although Anolis lizards have been present on large Caribbean islands  for over 30 million years, there are indications that the current number of  species still falls below the speciation-extinction equilibrium.
+C1 Department of Biology, Washington University, St. Louis, Missouri 63130, USA. losos@biology.wustl.edu
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD DEC 29
+PY 2000
+VL 408
+IS 6814
+BP 847
+EP 50
+DI 10.1038/35048558
+PG -797
+WC Animals; Biological Evolution; DNA, Mitochondrial; Evolution, Molecular; Genetic Variation; Lizards; classification; Models, Biological; Phylogeny; West Indies
+UT PubMed:11130721
+PM 11130721
+DA 2000-12-29
+ER
+
+PT J
+AU Teplitz, HI
+   McLean, IS
+   Becklin, EE
+   Figer, DF
+   Gilbert, AM
+   Graham, JR
+   Larkin, JE
+   Levenson, NA
+   Wilcox, MK
+AF Teplitz, HI
+   McLean, IS
+   Becklin, EE
+   Figer, DF
+   Gilbert, AM
+   Graham, JR
+   Larkin, JE
+   Levenson, NA
+   Wilcox, MK
+TI The Rest-Frame Optical Spectrum of MS 1512-cB58.
+SO The Astrophysical journal
+LA English
+DT Journal Article
+AB Moderate-resolution, near-IR spectroscopy of MS 1512-cB58 is presented, obtained  during commissioning of the near-infrared spectrometer (NIRSPEC) on the Keck II  telescope. The strong lensing of this z=2.72 galaxy by the foreground cluster MS  1512+36 makes it the best candidate for detailed study of the rest-frame optical  properties of Lyman-break galaxies. In 80 minutes of on-source integration, we  have detected Halpha, [N ii] lambdalambda6583, 6548, [O i] lambda6300, He i  lambda5876, [O iii] lambdalambda5007, 4959, Hbeta, Hgamma, [O ii] lambda3727, and  a strong continuum signal in the range of 1.29-2.46 µm. A redshift of  z=2.7290+/-0.0007 is inferred from the emission lines, in contrast to the  z=2.7233 calculated from UV observations of interstellar absorption lines. Using  the Balmer line ratios, we find an extinction of E(B-V) = 0.27. Using the line  strengths, we infer a star formation rate (SFR) of 620+/-18 M middle dot in  circle yr-1 (H0=75, q0=0.1, and Lambda=0), which is a factor of 2 higher than  that measured from narrowband imaging observations of the galaxy but is a factor  of almost 4 lower than the SFR inferred from the UV continuum luminosity. The  width of the Balmer lines yields a mass of Mvir=1.2x1010 M middle dot in circle.  We find that the oxygen abundance is 13 solar, in good agreement with other  estimates of the metallicity. However, we infer a high nitrogen abundance, which  may argue for the presence of an older stellar population.
+NR 0
+TC 0
+SN 
+EI 0004-637
+J9 Astrophys J
+PD MAR 23
+PY 2000
+VL 533
+IS 1
+BP L65
+EP L68
+DI 10.1086/312595
+PG 1
+UT PubMed:10727393
+PM 10727393
+DA 2000-03-23
+ER
+
+PT J
+AU Channell, R
+   Lomolino, MV
+AF Channell, R
+   Lomolino, M V
+TI Dynamic biogeography and conservation of endangered species.
+SO Nature
+LA English
+DT Journal Article
+AB As one moves from the core to the periphery of a species' geographical range,  populations occupy less favourable habitats and exhibit lower and more variable  densities. Populations along the periphery of the range tend to be more  fragmented and, as a result, are less likely to receive immigrants from other  populations. A population's probability of extinction is directly correlated with  its variability and inversely correlated with density and immigration rate. This  has led to the prediction that, when a species becomes endangered, its  geographical range should contract inwards, with the core populations persisting  until the final stages of decline. Convinced by these logical but untested  deductions, conservation biologists and wildlife managers have been instructed to  avoid the range periphery when planning conservation strategies or allocating  resources for endangered species. We have analysed range contraction in 245  species from a broad range of taxonomic groups and geographical regions. Here we  report that observed patterns of range contraction do not support the above  predictions and that most species examined persist in the periphery of their  historical geographical ranges.
+C1 Department of Biological Sciences, Fort Hays State University, Hays, Kansas 67601, USA. Rchannel@FHSU.edu
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD JAN 19
+PY 2000
+VL 403
+IS 6765
+BP 84
+EP 6
+DI 10.1038/47487
+PG -78
+WC Animals; Ecosystem; Geography; Homing Behavior; Humans; Population Dynamics
+UT PubMed:10638757
+PM 10638757
+DA 2000-01-19
+ER
+
+PT J
+AU Thieme, HR
+AF Thieme, H R
+TI Uniform persistence and permanence for non-autonomous semiflows in population
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Conditions are presented for uniform strong persistence of non-autonomous  semiflows, taking uniform weak persistence for granted. Turning the idea of  persistence upside down, conditions are derived for non-autonomous semiflows to  be point-dissipative. These results are applied to time-heterogeneous models of  S-I-R-S type for the spread of infectious childhood diseases. If some of the  parameter functions are asymptotically almost periodic, an almost sharp threshold  result is obtained for uniform strong endemicity versus extinction in terms of  asymptotic time averages. Applications are also presented to scalar retarded  functional differential equations modeling one species population growth.
+C1 Department of Mathematics, Arizona State University, AZ 85287-1804, Tempe, USA. h.thieme@asu.edu
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD AUG 5
+PY 2000
+VL 166
+IS 2
+BP 173
+EP 201
+DI 10.1016/s0025-5564(00)00018-3
+PG 28
+WC Child; Communicable Diseases; epidemiology; Humans; Models, Biological; Population Dynamics; Time Factors
+UT PubMed:10924938
+PM 10924938
+DA 2000-08-05
+ER
+
+PT J
+AU Heard, SB
+   Mooers, AO
+AF Heard, S B
+   Mooers, A O
+TI Phylogenetically patterned speciation rates and extinction risks change the loss
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB If we are to plan conservation strategies that minimize the loss of evolutionary  history through human-caused extinctions, we must understand how this loss is  related to phylogenetic patterns in current extinction risks and past speciation  rates. Nee & May (1997, Science 278, 692-694) showed that for a randomly evolving  clade (i) a single round of random extinction removed relatively little  evolutionary history, and (ii) extinction management (choosing which taxa to  sacrifice) offered only marginal improvement. However, both speciation rates and  extinction risks vary across lineages within real clades. We simulated  evolutionary trees with phylogenetically patterned speciation rates and  extinction risks (closely related lineages having similar rates and risks) and  then subjected them to several biologically informed models of extinction.  Increasing speciation rate variation increases the extinction-management pay-off.  When extinction risks vary among lineages but are uncorrelated with speciation  rates, extinction removes more history (compared with random trees), but the  difference is small. When extinction risks vary and are correlated with  speciation rates, history loss can dramatically increase (negative correlation)  or decrease (positive correlation) with speciation rate variation. The loss of  evolutionary history via human-caused extinctions may therefore be more severe,  yet more manageable, than first suggested.
+C1 Department of Biological Sciences, University of Iowa, Iowa City 52242, USA. stephen-heard@uiowa.edu
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD APR 29
+PY 2000
+VL 267
+IS 1443
+BP 613
+EP 20
+DI 10.1098/rspb.2000.1046
+PG -593
+WC Biological Evolution; Computer Simulation; Models, Biological; Phylogeny
+UT PubMed:10787167
+PM 10787167
+DA 2000-04-29
+ER
+
+PT J
+AU Loladze, I
+   Kuang, Y
+   Elser, JJ
+AF Loladze, I
+   Kuang, Y
+   Elser, J J
+TI Stoichiometry in producer-grazer systems: linking energy flow with element
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB All organisms are composed of multiple chemical elements such as carbon, nitrogen  and phosphorus. While energy flow and element cycling are two fundamental and  unifying principles in ecosystem theory, population models usually ignore the  latter. Such models implicitly assume chemical homogeneity of all trophic levels  by concentrating on a single constituent, generally an equivalent of energy. In  this paper, we examine ramifications of an explicit assumption that both producer  and grazer are composed of two essential elements: carbon and phosphorous. Using  stoichiometric principles, we construct a two-dimensional Lotka-Volterra type  model that incorporates chemical heterogeneity of the first two trophic levels of  a food chain. The analysis shows that indirect competition between two  populations for phosphorus can shift predator-prey interactions from a (+, -)  type to an unusual (-, -) class. This leads to complex dynamics with multiple  positive equilibria, where bistability and deterministic extinction of the grazer  are possible. We derive simple graphical tests for the local stability of all  equilibria and show that system dynamics are confined to a bounded region.  Numerical simulations supported by qualitative analysis reveal that Rosenzweig's  paradox of enrichment holds only in the part of the phase plane where the grazer  is energy limited; a new phenomenon, the paradox of energy enrichment, arises in  the other part, where the grazer is phosphorus limited. A bifurcation diagram  shows that energy enrichment of producer-grazer systems differs radically from  nutrient enrichment. Hence, expressing producer-grazer interactions in  stoichiometrically realistic terms reveals qualitatively new dynamical behavior.
+C1 Department of Mathematics, Arizona State University, Tempe, AZ 85287-1804, USA. loladze@asu.edu
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD DEC 29
+PY 2000
+VL 62
+IS 6
+BP 1137
+EP 62
+DI 10.1006/bulm.2000.0201
+PG -1075
+WC Animals; Carbon; metabolism; Computer Simulation; Energy Intake; Models, Biological; Phosphorus; metabolism; Population Dynamics; Predatory Behavior
+UT PubMed:11127517
+PM 11127517
+DA 2000-12-29
+ER
+
+PT J
+AU Thomas, CD
+AF Thomas, C D
+TI Dispersal and extinction in fragmented landscapes.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB Evolutionary and population dynamics models suggest that the migration rate will  affect the probability of survival in fragmented landscapes. Using data for  butterfly species in the fragmented British landscape and in immediately  adjoining areas of the European continent, this paper shows that species of  intermediate mobility have declined most, followed by those of low mobility,  whereas high-mobility species are generally surviving well. Compared to the more  sedentary species, species of intermediate mobility require relatively large  areas where they breed at slightly lower local densities. Intermediate mobility  species have probably fared badly through a combination of metapopulation  (extinction and colonization) dynamics and the mortality of migrating individuals  which fail to find new habitats in fragmented landscapes. Habitat fragmentation  is likely to result in the non-random extinction of populations and species  characterized by different levels of dispersal, although the details are likely  to depend on the taxa, habitats and regions considered.
+C1 Centre for Biodiversity and Conservation, School of Biology, University of Leeds, UK. c.d.thomas@leeds.ac.uk
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD FEB 25
+PY 2000
+VL 267
+IS 1439
+BP 139
+EP 45
+DI 10.1098/rspb.2000.0978
+PG -94
+WC Analysis of Variance; Animals; Biological Evolution; Butterflies; physiology; Ecology; Geography; Movement; Population Dynamics; Statistics, Nonparametric
+UT PubMed:10687818
+PM 10687818
+DA 2000-02-25
+ER
+
+PT J
+AU Nodelijk, G
+   de, Jong MC
+   Van, Nes A
+   Vernooy, JC
+   Van, Leengoed LA
+   Pol, JM
+   Verheijden, JH
+AF Nodelijk, G
+   de Jong, M C
+   Van Nes, A
+   Vernooy, J C
+   Van Leengoed, L A
+   Pol, J M
+   Verheijden, J H
+TI Introduction, persistence and fade-out of porcine reproductive and respiratory
+SO Epidemiology and infection
+LA English
+DT Journal Article
+AB The objective of this study was to investigate the dynamics of PRRSV infection  and to quantify transmission within a breeding herd, and its impact on herd  performance. For this purpose a longitudinal study was performed in a closed  breeding herd of 115 sows. Statistical methods and Monte Carlo simulations based  on stochastic SIR models were used to analyse the observational data. Moreover, a  case-control study was performed to determine whether seroconversion of sows  during gestation was associated with aberrant litters. The transmission parameter  R was estimated to be 3.0 (95% confidence interval 1.5-6.0) for the model version  based on the most plausible assumptions that the infectious period lasts 56 days  and no lifelong immunity exists after infection. Based on simulations using a  breeding herd of equal size the average time-to-extinction was estimated to be 6  years; using a herd of twice the size, it was 80 years. Furthermore, in contrast  to the epidemic phase of the disease, the endemic phase was not detrimental to  herd performance.
+C1 Department of Farm Animal Health, Faculty of Veterinary Medicine, University of Utrecht, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0950-268
+J9 Epidemiol Infect
+PD MAR 18
+PY 2000
+VL 124
+IS 1
+BP 173
+EP 82
+DI 10.1017/s0950268899003246
+PG -91
+WC Animals; Case-Control Studies; Disease Outbreaks; Endemic Diseases; Female; Incidence; Infectious Disease Transmission, Vertical; Longitudinal Studies; Male; Models, Biological; Monte Carlo Method; Netherlands; epidemiology; Odds Ratio; Porcine Reproductive and Respiratory Syndrome; epidemiology; Pregnancy; Prevalence; Swine
+UT PubMed:10722145
+PM 10722145
+DA 2000-03-18
+ER
+
+PT J
+AU Vos, JG
+   Dybing, E
+   Greim, HA
+   Ladefoged, O
+   Lambré, C
+   Tarazona, JV
+   Brandt, I
+   Vethaak, AD
+AF Vos, J G
+   Dybing, E
+   Greim, H A
+   Ladefoged, O
+   Lambré, C
+   Tarazona, J V
+   Brandt, I
+   Vethaak, A D
+TI Health effects of endocrine-disrupting chemicals on wildlife, with special
+SO Critical reviews in toxicology
+LA English
+DT Review
+AB Many wildlife species may be exposed to biologically active concentrations of  endocrine-disrupting chemicals. There is strong evidence obtained from laboratory  studies showing the potential of several environmental chemicals to cause  endocrine disruption at environmentally realistic exposure levels. In wildlife  populations, associations have been reported between reproductive and  developmental effects and endocrine-disrupting chemicals. In the aquatic  environment, effects have been observed in mammals, birds, reptiles, fish, and  mollusks from Europe, North America, and other areas. The observed abnormalities  vary from subtle changes to permanent alterations, including disturbed sex  differentiation with feminized or masculinized sex organs, changed sexual  behavior, and altered immune function. For most reported effects in wildlife,  however, the evidence for a causal link with endocrine disruption is weak or  nonexisting. Crucial in establishing causal evidence for chemical-induced  wildlife effects appeared semifield or laboratory studies using the wildlife  species of concern. Impaired reproduction and development causally linked to  endocrine-disrupting chemicals are well documented in a number of species and  have resulted in local or regional population changes. These include:  Masculinization (imposex) in female marine snails by tributyltin, a biocide used  in antifouling paints, is probably the clearest case of endocrine disruption  caused by an environmental chemical. The dogwhelk is particularly sensitive, and  imposex has resulted in decline or extinction of local populations worldwide,  including coastal areas all over Europe and the open North Sea. DDE-induced  egg-shell thinning in birds has caused severe population declines in a number of  raptor species in Europe and North America. Endocrine-disrupting chemicals have  adversely affected a variety of fish species. In the vicinity of certain sources  (e.g., effluents of water treatment plants) and in the most contaminated areas is  this exposure causally linked with the effects on reproductive organs that could  have implications for fish populations. However, there is also a more widespread  occurrence of endocrine disruption in fish in the U.K., where estrogenic effects  have been demonstrated in freshwater systems, in estuaries, and in coastal areas.  In mammals, the best evidence comes from the-field studies on Baltic gray and  ringed seals, and from the Dutch semifield studies on harbor seals, where both  reproduction and immune functions have been impaired by PCBs in the food chain.  Reproduction effects resulted in population declines, whereas impaired immune  function has likely contributed to the mass mortalities due to morbillivirus  infections. Distorted sex organ development and function in alligators has been  related to a major pesticide spill into a lake in Florida, U.S.A. The observed  estrogenic/antiandrogenic effects in this reptile have been causally linked in  experimental studies with alligator eggs to the DDT complex. Although most  observed effects currently reported concern heavily polluted areas, endocrine  disruption is a potential global problem. This is exemplified by the widespread  occurrence of imposex in marine snails and the recent findings of high levels of  persistent potential endocrine-disrupting chemicals in several marine mammalian  species inhabiting oceanic waters.
+C1 National Institute of Public Health and the Environment, Bilthoven, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 1040-844
+J9 Crit Rev Toxicol
+PD FEB 19
+PY 2000
+VL 30
+IS 1
+BP 71
+EP 133
+DI 10.1080/10408440091159176
+PG 62
+WC Animals; Ecosystem; Endocrine System; drug effects; Environmental Pollutants; toxicity; Europe; Reproduction; drug effects; Toxicology
+UT PubMed:10680769
+PM 10680769
+DA 2000-02-19
+ER
+
+PT J
+AU Ebert, D
+   Lipsitch, M
+   Mangin, KL
+AF Ebert, Dieter
+   Lipsitch, Marc
+   Mangin, Katrina L
+TI The Effect of Parasites on Host Population Density and Extinction: Experimental
+SO The American naturalist
+LA English
+DT Journal Article
+DE Daphnia magna; experimental epidemiology; host extinction; host regulation; individual and population level effects; microparasites
+AB Parasites have been shown to reduce host density and to induce host population  extinction in some cases but not in others. Epidemiological models suggest that  variable effects of parasites on individual hosts can explain this variability on  the population level. Here, we aim to support this hypothesis with a specific  epidemiological model using a cross-parasite species approach. We compared the  effect of six parasites on host fecundity and survival to their effects on  density and risk of extinction of clonal host populations. We contrast our  empirical results of population density with predictions from a deterministic  model and contrast our empirical results of host and parasite extinction rates  with those predicted by a stochastic model. Five horizontally transmitted  microparasites (two bacteria: white bacterial disease, Pasteuria ramosa; two  microsporidia: Glugoides intestinalis, Ordospora colligata; one fungus:  Metschnikowiella biscuspidata); and six strains of a vertically transmitted  microsporidium (Flabelliforma magnivora) of the planktonic crustacean Daphnia  magna were used. In life table experiments, we quantified fecundity and survival  in individual parasitized and healthy hosts and compared these with the effect of  the parasites on host population density and on the likelihood of host population  extinction in microcosm populations. Parasite species varied strongly in their  effects on host fecundity, host survival, host density reduction, and the  frequency with which they drove host populations to extinction. The fewer  offspring an infected host produced, the lower the density of an infected host  population. This effect on host density was relatively stronger for the  vertically transmitted parasite strains than for the horizontally transmitted  parasites. As predicted by the stochastic simulations, strong effects of a  parasite on individual host survival and fecundity increased the risk of host  population extinction. The same was true for parasite extinctions. Our results  have implications for the use of microparasites in biological control programs  and for the role parasites play in driving small populations to extinction.
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD NOV 1
+PY 2000
+VL 156
+IS 5
+BP 459
+EP 477
+DI 10.1086/303404
+PG 18
+UT PubMed:29587512
+PM 29587512
+DA 2000-11-01
+ER
+
+PT J
+AU Earn, DJ
+   Levin, SA
+   Rohani, P
+AF Earn, D J
+   Levin, S A
+   Rohani, P
+TI Coherence and conservation.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB A principal aim of current conservation policy is to reduce the impact of habitat  fragmentation. Conservation corridors may achieve this goal by facilitating  movement among isolated patches, but there is a risk that increased connectivity  could synchronize local population fluctuations (causing coherent oscillations)  and thereby increase the danger of global extinction. We identify general  conditions under which populations can or cannot undergo coherent oscillations,  and we relate these conditions to local and global extinction probabilities. We  suggest a simple method to explore the potential success of conservation  corridors and, more generally, any manipulations of dispersal patterns that aim  to protect threatened species or control pests.
+C1 Department of Mathematics and Statistics, McMaster University, Hamilton, Ontario, Canada, L8S 4K1. earn@math.mcmaster.ca
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 18
+PY 2000
+VL 290
+IS 5495
+BP 1360
+EP 4
+DI 10.1126/science.290.5495.1360
+PG -1356
+WC Animals; Conservation of Natural Resources; Ecosystem; Logistic Models; Mathematics; Models, Biological; Population Density; Population Dynamics; Probability; Reproduction
+UT PubMed:11082064
+PM 11082064
+DA 2000-11-18
+ER
+
+PT J
+AU Richards, SA
+   Wilson, WG
+   Socolar, JE
+AF Richards, S A
+   Wilson, W G
+   Socolar, J E
+TI Selection for intermediate mortality and reproduction rates in a spatially
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB How local interactions influence both population and evolutionary dynamics is  currently a key topic in theoretical ecology. We use a 'well-mixed' analytical  model and spatially explicit individual-based models to investigate a system  where a population is subject to rare disturbance events. The disturbance can  only propagate through regions of the population where the density of individuals  is sufficiently high and individuals affected by the disturbance die shortly  after. We find that populations where individuals are sessile often exhibit very  different dynamic behaviour when compared to populations where individuals are  mobile and spatially well mixed. When mutations are allowed which affect either  offspring birth rates or mortality rates, the well-mixed populations always  evolve to a state where a single disturbance event leads to extinction.  Populations often persist substantially longer if individuals are sessile and  they disperse their offspring locally. We also find that for sessile populations  selection may favour short-lived individuals with limited offspring production.  Population dynamics are found to be strongly influenced by the host characters  that are evolving and the rate at which host variation is introduced into the  system.
+C1 Department of Zoology, Duke University, Durham, NC 27708-0325, USA. sarichar@duke.edu
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD JAN 22
+PY 2000
+VL 266
+IS 1436
+BP 2383
+EP 8
+DI 10.1098/rspb.1999.0935
+PG -2375
+WC Animals; Biological Evolution; Models, Theoretical; Plant Development; Population Dynamics
+UT PubMed:10643082
+PM 10643082
+DA 2000-01-22
+ER
+
+PT J
+AU Hashimoto, H
+AF Hashimoto, H
+TI Image contrast of ultra HVEM and future ultra HREM.
+SO Journal of electron microscopy
+LA English
+DT Journal Article
+AB Review of the measurements and interpretation of energy dependence of extinction  distance and transmissive power of electrons, which have appeared in the electron  microscope images of crystals at the voltages ranging from 50 to 3000 kV, is  presented. Applications of two beam dynamical theory of electron diffraction  considering absorption effect of electrons made clear the importance of  relativistic effect of the mass of electron to the variation of extinction  distance and transmissive power at higher voltage and noted that they are  proportional to (v/c) and (v/c)2 respectively, where v and c are the velocity of  illuminating electrons and light. With elevating accelerating voltage of  illuminating electrons, it was noted that many diffracted waves are excited and  thus, for understanding of the image contrast and the improvement of transmissive  power of electrons, many beam dynamical theory considering absorption of electron  waves has to be applied. Detailed analysis of the excitation and absorption of  component Bloch waves was carried out and flux (electron current) flow of Bloch  waves and total waves was deduced. Improvements of image contrast and visibility  of the imperfection in crystalline materials both in thin and thick regions of  ultra-high voltages were realized by using the multi-beam imaging (MBI) method.  In MBI of very thick crystals, it was noted that most of the inelastically  scattered electrons which appeared in the background of the diffraction patterns  contribute to the image contrast by the successive elastic scattering after  inelastic scattering. It was noted that the improvement of maximum usable  thickness at high voltage is highly dependent on the contribution of  inelastically scattered electrons. The calculated flux flows of total electrons  of various materials in various orientations were calculated for not only  ultra-high voltages but low voltages such as 100 kV. It was suggested that the  intensity distribution of such flux flow will be recorded by the ultra HREM in  the near future and will become useful to identify types of atoms, such as the  interface consisting of different kinds of atoms.
+C1 Okayama University of Science, Japan.
+NR 0
+TC 0
+SN 1477-998
+EI 
+J9 J Electron Microsc (Tokyo)
+PD MAY 3
+PY 2000
+VL 49
+IS 1
+BP 101
+EP 21
+DI 10.1093/oxfordjournals.jmicro.a023775
+PG -80
+UT PubMed:10791427
+PM 10791427
+DA 2000-05-03
+ER
+
+PT J
+AU Padrón, V
+   Trevisan, MC
+AF Padrón, V
+   Trevisan, M C
+TI Effect of aggregating behavior on population recovery on a set of habitat
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB We consider a single-species model which is composed of several patches connected  by linear migration rates and having logistic growth with a threshold. We show  the existence of an aggregating mechanism that allows the survival of a species  which is in danger of extinction due to its low population density. Numerical  experiments illustrate these results.
+C1 Departamento de Matemáticas, Facultad de Ciencias, Universidad de Los Andes, Mérida, Venezuela. padron@ciens.ula.ve
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD MAY 11
+PY 2000
+VL 165
+IS 1
+BP 63
+EP 78
+DI 10.1016/s0025-5564(00)00005-5
+PG 15
+WC Animals; Computer Simulation; Conservation of Natural Resources; Geography; Models, Biological; Population Density
+UT PubMed:10804260
+PM 10804260
+DA 2000-05-11
+ER
+
+PT J
+AU Poulin, R
+   Guégan, JF
+AF Poulin, R
+   Guégan, J F
+TI Nestedness, anti-nestedness, and the relationship between prevalence and
+SO International journal for parasitology
+LA English
+DT Journal Article
+AB Nested species subset patterns consist in a hierarchical structure of species  composition in related assemblages, with the species found in depauperate  assemblages representing non-random subsets of progressively richer ones. This  pattern has been found at the infracommunity level in about a third of the fish  ectoparasite assemblages studied to date. Here we present evidence for another  non-random structural pattern in assemblages of fish ectoparasites,  anti-nestedness, which corresponds to situations in which parasite species are  always absent from infracommunities richer than the most depauperate one in which  they occur. We show that this pattern is exactly as common as nestedness, and  that anti-nested assemblages are characterised by significantly lower prevalence  and mean intensities of parasites than nested assemblages. In addition, we found  a positive relationship between the prevalence and the mean intensity of  parasites across the different assemblages. We propose a link between the  nestedness/anti-nestedness continuum and the prevalence-intensity relationship  that may involve colonisation-extinction processes. The results presented here  suggest that, although nestedness may not be common in parasite communities,  other departures from random species assembly are possible, and that some form of  structure may be present in many communities. The continuum between nestedness  and anti-nestedness also has implications for recent models of species  coexistence in communities.
+C1 Department of Zoology, University of Otago, P.O. Box 56, Dunedin, New Zealand. robert.poulin@stonebow.otago.ac.nz
+NR 0
+TC 0
+SN 
+EI 0020-751
+J9 Int J Parasitol
+PD OCT 12
+PY 2000
+VL 30
+IS 11
+BP 1147
+EP 52
+DI 10.1016/s0020-7519(00)00102-8
+PG -1095
+WC Animals; Behavior, Animal; Cluster Analysis; Ecology; Ectoparasitic Infestations; epidemiology; Fish Diseases; epidemiology; Fishes; Host-Parasite Interactions; Models, Biological; Parasites; growth & development; Prevalence; Spatial Behavior
+UT PubMed:11027779
+PM 11027779
+DA 2000-10-12
+ER
+
+PT J
+AU Kareiva, P
+   Marvier, M
+   McClure, M
+AF Kareiva, P
+   Marvier, M
+   McClure, M
+TI Recovery and management options for spring/summer chinook salmon in the Columbia
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Construction of four dams on the lower Snake River (in northwestern United  States) between 1961 and 1975 altered salmon spawning habitat, elevated smolt and  adult migration mortality, and contributed to severe declines of Snake River  salmon populations. By applying a matrix model to long-term population data, we  found that (i) dam passage improvements have dramatically mitigated direct  mortality associated with dams; (ii) even if main stem survival were elevated to  100%, Snake River spring/summer chinook salmon (Oncorhynchus tshawytscha) would  probably continue to decline toward extinction; and (iii) modest reductions in  first-year mortality or estuarine mortality would reverse current population  declines.
+C1 National Marine Fisheries Service, Northwest Fisheries Science Center, 2725 Montlake Boulevard East, Seattle, WA 98112, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 4
+PY 2000
+VL 290
+IS 5493
+BP 977
+EP 9
+DI 10.1126/science.290.5493.977
+PG -968
+WC Animals; Conservation of Natural Resources; Ecosystem; Female; Fresh Water; Male; Models, Biological; Models, Statistical; Northwestern United States; Population Dynamics; Salmon; growth & development; Survival Rate
+UT PubMed:11062128
+PM 11062128
+DA 2000-11-04
+ER
+
+PT J
+AU Lee, C
+AF Lee, C
+TI The density of the extinction probability of a time homogeneous linear birth and
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Under the influence of randomly occurring disasters, the eventual extinction  probability, q, of a birth and death process, Z, is a random variable. In this  paper, we obtain an integral expression for the probability density function g(x)  of q under the assumption that the population process Z is a time homogeneous  linear birth and death process and the disasters occur according to an arbitrary  renewal process so that its interarrival times have a density. An example is  provided to demonstrate how to evaluate the integral numerically.
+C1 Department of Applied Mathematics, National Sun Yat-Sen University, Kaohsiung, Taiwan. lee@math.nsysu.edu.tw
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD MAR 8
+PY 2000
+VL 164
+IS 1
+BP 93
+EP 102
+DI 10.1016/s0025-5564(99)00059-0
+PG 9
+WC Birth Rate; Disasters; statistics & numerical data; Models, Biological; Mortality; Probability
+UT PubMed:10704640
+PM 10704640
+DA 2000-03-08
+ER
+
+PT J
+AU Fussmann, GF
+   Ellner, SP
+   Shertzer, KW
+   Hairston, NG Jr
+AF Fussmann, G F
+   Ellner, S P
+   Shertzer, K W
+   Hairston, N G Jr
+TI Crossing the hopf bifurcation in a live predator-prey system.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Population biologists have long been interested in the oscillations in population  size displayed by many organisms in the field and laboratory. A wide range of  deterministic mathematical models predict that these fluctuations can be  generated internally by nonlinear interactions among species and, if correct,  would provide important insights for understanding and predicting the dynamics of  interacting populations. We studied the dynamical behavior of a two-species  aquatic laboratory community encompassing the interactions between a  demographically structured herbivore population, a primary producer, and a  mineral resource, yet still amenable to description and parameterization using a  mathematical model. The qualitative dynamical behavior of our experimental  system, that is, cycles, equilibria, and extinction, is highly predictable by a  simple nonlinear model.
+C1 Department of Ecology and Evolutionary Biology, Corson Hall, Cornell University, Ithaca, NY 14853, USA. GFF1@cornell.edu
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD NOV 18
+PY 2000
+VL 290
+IS 5495
+BP 1358
+EP 60
+DI 10.1126/science.290.5495.1358
+PG -1298
+WC Animals; Chlorella; physiology; Ecosystem; Mathematics; Models, Biological; Nitrogen; metabolism; Nonlinear Dynamics; Population Dynamics; Predatory Behavior; Reproduction; Rotifera; physiology
+UT PubMed:11082063
+PM 11082063
+DA 2000-11-18
+ER
+
+PT J
+AU Vuilleumier, P
+AF Vuilleumier, P
+TI Faces call for attention: evidence from patients with visual extinction.
+SO Neuropsychologia
+LA English
+DT Journal Article
+AB Three patients with left spatial neglect and visual extinction from right brain  damage were studied to determine whether faces are privileged in summoning  attention. In a first experiment, either a face, a name, or a meaningless shape  were briefly presented in the right, left or both visual hemifields. On bilateral  trials, all patients extinguished a left-side face much less often than a  left-side name or a left-side shape. Conversely, they extinguished a left-side  shape more often when it was accompanied by a right-side face rather than a  right-side name. In a second experiment, either a face or a scrambled face could  appear in the right, left or both hemifields. Again, on bilateral trials, a  left-side face was less likely to be missed than a scrambled one. These results  suggest an advantage of faces in capturing attention and overcoming extinction,  which may be related to their special biological and social value, or to the very  efficient and automatic operation of specific perceptual processses that extract  facial organization in extrastriate visual areas. These findings also demonstrate  that the distribution of spatial attention and extinction can be modulated by the  relevance of visual stimuli. This implies that substantial analysis and  categorization may take place in the visual system before information from the  contralesional field is selected for, or excluded from, attentive vision.
+C1 Department of Neurology, University of California, Davis 94553, USA. patrick@ebire.org
+NR 0
+TC 0
+SN 
+EI 0028-393
+J9 Neuropsychologia
+PD FEB 26
+PY 2000
+VL 38
+IS 5
+BP 693
+EP 700
+DI 10.1016/s0028-3932(99)00107-4
+PG 7
+WC Aged; Attention; physiology; Face; Female; Functional Laterality; physiology; Humans; Infarction, Middle Cerebral Artery; psychology; Male; Middle Aged; Pattern Recognition, Visual; physiology; Perceptual Disorders; psychology; Visual Fields; Visual Perception; physiology
+UT PubMed:10689045
+PM 10689045
+DA 2000-02-26
+ER
+
+PT J
+AU Dahman, KA
+   Nelson, DR
+   Shnerb, NM
+AF Dahman, K A
+   Nelson, D R
+   Shnerb, N M
+TI Life and death near a windy oasis.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB We propose a simple experiment to study delocalization and extinction in  inhomogeneous biological systems. The nonlinear steady state for, say, a bacteria  colony living on and near a patch of nutrient or favorable illumination ("oasis")  in the presence of a drift term ("wind") is computed. The bacteria, described by  a simple generalization of the Fisher equation, diffuse, divide A --> A + A, die  A --> 0, and annihilate A + A --> 0. At high wind velocities all bacteria are  blown into an unfavorable region ("desert"), and the colony dies out. At low  velocity a steady state concentration survives near the oasis. In between these  two regimes there is a critical velocity at which bacteria first survive. If the  "desert" supports a small nonzero population, this extinction transition is  replaced by a delocalization transition with increasing velocity. Predictions for  the behavior as a function of wind velocity are made for one and two dimensions.
+C1 Lyman Laboratory of Physics, Harvard University, Cambridge, MA 02138, USA. dahmen@uiuc.edu
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD AUG 25
+PY 2000
+VL 41
+IS 1
+BP 1
+EP 23
+DI 10.1007/s002850000025
+PG 22
+WC Bacteria; growth & development; Linear Models; Models, Biological; Numerical Analysis, Computer-Assisted
+UT PubMed:10958413
+PM 10958413
+DA 2000-08-25
+ER
+
+PT J
+AU Ibrahim, KM
+   Sourrouille, P
+   Hewitt, GM
+AF Ibrahim, K M
+   Sourrouille, P
+   Hewitt, G M
+TI Are recession populations of the desert locust (Schistocerca gregaria) remnants
+SO Molecular ecology
+LA English
+DT Journal Article
+AB The desert locust (Schistocerca gregaria) undergoes crowding-induced phase  transformation from solitary to gregarious, which involves changes in behaviour,  colour, development, morphometry, fecundity and endocrine physiology. During  recession, solitary locusts persist in the central, drier part of the species'  range in small pocket populations that are prone to extinction. During the  intermittent upsurges and the subsequent plagues, gregarious swarms attain huge  population size and invade a vast area causing major damage to agriculture. A  highly variable nuclear DNA marker, a noncoding 3' end fragment of an  antennapedia-class homeobox gene, was screened in locust samples from Eritrea.  Despite the homogenizing potential of plague swarms, the last of which was in  1986-89 and originated in this region, the population genetic structure of  solitary phase locusts along the Red Sea coast of Eritrea revealed significant  divergence. The pattern of divergence indicated that the invasion of the western  and northern plains in the summer of 1995 may not, as reported then, have  originated in eastern Chad or western Sudan. A number of interrelated hypotheses  have been presented to explain the observed genetic heterogeneity between the  sampled populations. We conclude, with caution due to the limited sample sizes,  that: (i) geographical isolation between breeding sites during plagues and  recession; (ii) the marked differences in the flight behaviour of plague swarms  and recession populations; (iii) possible failure of gregarious locusts to  solitarize and re-establish in recession areas; and (iv) the effect of repeated  extinction and recolonization in the meta-population contribute to the  maintenance of the genetic structure of recession populations. Potentially  productive future research has been identified.
+C1 School of Biological Sciences, University of East Anglia, Norwich NR4 7TJ, UK. k.iabrahim@uea.ac.uk
+NR 0
+TC 0
+SN 
+EI 0962-108
+J9 Mol Ecol
+PD JUN 10
+PY 2000
+VL 9
+IS 6
+BP 783
+EP 91
+DI 10.1046/j.1365-294x.2000.00932.x
+PG -692
+WC Animals; Antennapedia Homeodomain Protein; Eritrea; Genetics, Population; Grasshoppers; physiology; Homeodomain Proteins; genetics; Nuclear Proteins; Polymorphism, Genetic; Transcription Factors
+UT PubMed:10849294
+PM 10849294
+DA 2000-06-10
+ER
+
+PT J
+AU Dynesius, M
+   Jansson, R
+AF Dynesius, M
+   Jansson, R
+TI Evolutionary consequences of changes in species' geographical distributions
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB We suggest Milankovitch climate oscillations as a common cause for geographical  patterns in species diversity, species' range sizes, polyploidy, and the degree  of specialization and dispersability of organisms. Periodical changes in the  orbit of the Earth cause climatic changes termed Milankovitch oscillations,  leading to large changes in the size and location of species' geographical  distributions. We name these recurrent changes "orbitally forced species' range  dynamics" (ORD). The magnitude of ORD varies in space and time. ORD decreases  gradual speciation (attained by gradual changes over many generations), increases  range sizes and the proportions of species formed by polyploidy and other  "abrupt" mechanisms, selects against specialization, and favor dispersability.  Large ORD produces species prone neither to extinction nor gradual speciation.  ORD increases with latitude. This produces latitudinal patterns, among them the  gradient in species diversity and species' range sizes (Rapoport's rule).  Differential ORD and its evolutionary consequences call for new conservation  strategies on the regional to global scale.
+C1 Landscape Ecology Group, Department of Ecology and Environmental Science, Umeâ University, SE-901 87 Umeâ, Sweden.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD AUG 2
+PY 2000
+VL 97
+IS 16
+BP 9115
+EP 20
+DI 10.1073/pnas.97.16.9115
+PG -9095
+WC Biological Evolution; Climate; Species Specificity
+UT PubMed:10922067
+PM 10922067
+DA 2000-08-02
+ER
+
+PT J
+AU Camacho, J
+   Solé, RV
+AF Camacho, J
+   Solé, R V
+TI Extinctions and taxonomy in a trophic model of coevolution.
+SO Physical review. E, Statistical physics, plasmas, fluids, and related
+LA English
+DT Journal Article
+AB We investigate the statistics of extinction sizes and the taxonomy in a trophic  model of evolution recently proposed [Phys. Rev. Lett. 82, 652 (1999)]. By  further exploring the parameters of this model, we find that the distribution of  extinction sizes N(s) shows typically a characteristic maximum before developing  the power-law behavior N(s) approximately s(-alpha) with alpha approximately 2,  in agreement with empirical observations. Furthermore, the derivation of the  alpha=-2 exponent given by Drossel [Phys. Rev. Lett. 81, 5011 (1998)] for this  model is completed. The extinction sizes in each trophic level are also analyzed;  one finds that at the fourth level and up (l> or =4) the extinction size  statistics is a power law with exponent alpha(l) approximately 1.4, and  exponential-like at the second level, also in agreement with some empirical data  not previously explained by current models. On the other hand, in contrast to the  observed power-law distribution of the number of species in genera, numerical  simulations yield an exponential law. A modification of the model is presented  that provides an approximate potential behavior for taxonomy, and some  consequences for future modeling are outlined.
+C1 Departament de Física (Física Estadística), Edifici C, Universitat Autònoma de Barcelona, 08193 Barcelona, Spain.
+NR 0
+TC 0
+SN 
+EI 1063-651
+J9 Phys Rev E Stat Phys Plasmas Fluids Relat Interdiscip Topics
+PD NOV 23
+PY 2000
+VL 62
+IS 1 Pt B
+BP 1119
+EP 23
+DI 10.1103/physreve.62.1119
+PG -1096
+WC Biological Evolution; Classification; Fossils; Life Expectancy; Models, Biological; Statistics as Topic
+UT PubMed:11088568
+PM 11088568
+DA 2000-11-23
+ER
+
+PT J
+AU Fowler, AC
+AF Fowler, A C
+TI The effect of incubation time distribution on the extinction characteristics of a
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB The continuous model of Anderson et al. (1981), Nature 289, 765-771, is  successful in describing certain characteristics of rabies epizootics, in  particular, the secondary recurrences which follow the initial outbreak; however,  it also predicts the occurrence of exponentially small minima in the infected  population, which would realistically imply extinction of the virus. Here we show  that inclusion of a more realistic distribution of incubation times in the model  can explain why extinction will not occur, and we give explicit parametric  estimates for the minimum infected fox density which will occur in the model, in  terms of the incubation time distribution.
+C1 Mathematical Institute, Oxford University, England.
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD AUG 12
+PY 2000
+VL 62
+IS 4
+BP 633
+EP 55
+DI 10.1006/bulm.1999.0170
+PG -578
+WC Animals; Computer Simulation; Disease Outbreaks; veterinary; Foxes; Models, Biological; Numerical Analysis, Computer-Assisted; Rabies; epidemiology; Rabies virus; growth & development; Time Factors
+UT PubMed:10938626
+PM 10938626
+DA 2000-08-12
+ER
+
+PT J
+AU Grasl-Kraupp, B
+   Luebeck, G
+   Wagner, A
+   Löw-Baselli, A
+   de, Gunst M
+   Waldhör, T
+   Moolgavkar, S
+   Schulte-Hermann, R
+AF Grasl-Kraupp, B
+   Luebeck, G
+   Wagner, A
+   Löw-Baselli, A
+   de Gunst, M
+   Waldhör, T
+   Moolgavkar, S
+   Schulte-Hermann, R
+TI Quantitative analysis of tumor initiation in rat liver: role of cell replication
+SO Carcinogenesis
+LA English
+DT Journal Article
+AB The formation and development of initiated cells has been studied at the  beginning of hepatocarcinogenesis. Rats received the genotoxic carcinogen  N-nitrosomorpholine (NNM); placental glutathione S-transferase was used as a  marker of initiated cells (G+ cells). Single G+ cells appeared within 24 h after  NNM; their frequency increased steeply for approximately 2 weeks, then decreased  and finally remained constant. G+ foci consisting of >/=2 G+ cells appeared  successively after the single cells. Histological determination of DNA  replication and apoptosis revealed that: the formation of single G+ cells may not  depend on DNA replication of precursor cells; single G+ cells showed considerably  lower DNA replication than G- normal hepatocytes; from the 2-cell stage onwards  G+ foci displayed enhanced DNA replication and apoptosis. Data from histological  sections were transformed into the third dimension by a new stereological method  which considers the non-spherical shape of many G+ lesions. Rates of division and  death of G+ cells and of formation and growth of G+ foci were estimated by a  stochastic model: initially G+ clones appeared at a rate of 12 000 per day and  liver until a maximal number of 176 000 (phase I) was reached; thereafter they  declined to 134 000 (phase II); they then remained constant (phase III).  Estimated division rates of G+ cells decreased from phase I to phase III, while  the death rate increased in phase II, when every third G+ clone disappeared. As a  result, at day 50 after NNM only 0.3% of G+ single cells had formed a clone  containing >/=5 cells. In conclusion, experimental and computed parameters  provide direct evidence that hepatocarcinogenesis evolves clonally and that  initiated hepatocytes have a selective proliferation advantage, associated with  an enhanced potential to undergo apoptosis. Thereby, depending on the conditions,  initiated clones expand or become extinct. Extinction may lead to reversion of  the biological effects of initiation.
+C1 Institut für Krebsforschung der Universität Wien, Borschkegasse 8a, A-1090 Vienna, Austria. bettina.grasl-kraupp@univie.ac.at
+NR 0
+TC 0
+SN 
+EI 0143-333
+J9 Carcinogenesis
+PD JUN 30
+PY 2000
+VL 21
+IS 7
+BP 1411
+EP 21
+DI 
+PG -1390
+WC Animals; Apoptosis; physiology; Body Weight; drug effects; Carcinogens; Cell Cycle; Cell Division; physiology; Cell Size; drug effects; Clone Cells; DNA, Neoplasm; biosynthesis; Eating; drug effects; Glutathione Transferase; metabolism; Liver; anatomy & histology; Liver Neoplasms, Experimental; chemically induced; Liver Regeneration; drug effects; Male; Models, Biological; Nitrosamines; Organ Size; drug effects; Rats; Rats, Wistar
+UT PubMed:10874021
+PM 10874021
+DA 2000-06-30
+ER
+
+PT J
+AU Zhang, XA
+   Chen, L
+   Neumann, AU
+AF Zhang, X A
+   Chen, L
+   Neumann, A U
+TI The stage-structured predator-prey model and optimal harvesting policy.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB In this paper, we establish a mathematical model of two species with stage  structure and the relation of predator-prey, to obtain the necessary and  sufficient condition for the permanence of two species and the extinction of one  species or two species. We also obtain the optimal harvesting policy and the  threshold of the harvesting for sustainable development.
+C1 Department of Mathematics, Central China Normal University, Wuhan 430079, People's Republic of China. zhangxa@math08.math.ac.cn
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD DEC 21
+PY 2000
+VL 168
+IS 2
+BP 201
+EP 10
+DI 10.1016/s0025-5564(00)00033-x
+PG -191
+WC Alligators and Crocodiles; physiology; Animals; China; Conservation of Natural Resources; Models, Biological; Predatory Behavior
+UT PubMed:11121566
+PM 11121566
+DA 2000-12-21
+ER
+
+PT J
+AU Freeland, JR
+   Noble, LR
+   Okamura, B
+AF Freeland, J R
+   Noble, L R
+   Okamura, B
+TI Genetic diversity of North American populations of Cristatella mucedo, inferred
+SO Molecular ecology
+LA English
+DT Journal Article
+AB Research over the past 20 years has shown, with the help of molecular markers,  that the population genetics and distribution patterns of freshwater  invertebrates in North America are often more complex than was previously  believed. Here we extend this research to an, as yet, unstudied but widespread  and common group, the freshwater bryozoans. Colonies of the bryozoan Cristatella  mucedo were collected from a number of lakes across central North America, and  were characterized genetically by analysis of microsatellite loci and  mitochondrial DNA (mtDNA) cytochrome b sequences. The microsatellites illustrate  a pattern of generally diverse and highly differentiated populations that contain  little evidence of recent gene flow. The mtDNA sequences yielded highly variable  levels of divergence, ranging from 0.0 to 8.8% within populations, and 0.0 to  9.8% among populations. The multiple divergent mtDNA lineages within populations  provide evidence for repeated colonization events. The lack of clustering of  haplotypes by site suggests that there has been widespread dispersal of multiple  genetic lineages since the last ice age. While some of the haplotype lineages may  have evolved in disjunct glacial refugia, the maximum levels of divergence  predate the time since the last glacial-interglacial cycles. It is likely that  multiple factors including vicariance events, patterns of dispersal, localized  extinction, and an unusual life history, explain the unique phylogeographic  patterns evident today in populations of C. mucedo.
+C1 Department of Biological Sciences, The Open University, Milton Keynes, Buckinghamshire, MK7 6AA, UK.
+NR 0
+TC 0
+SN 
+EI 0962-108
+J9 Mol Ecol
+PD SEP 6
+PY 2000
+VL 9
+IS 9
+BP 1375
+EP 89
+DI 10.1046/j.1365-294x.2000.01024.x
+PG -1286
+WC Animals; Bryozoa; genetics; DNA, Mitochondrial; genetics; Ecosystem; Fresh Water; Genetic Variation; Genetics, Population; Haplotypes; Microsatellite Repeats; North America; Phylogeny
+UT PubMed:10972776
+PM 10972776
+DA 2000-09-06
+ER
+
+PT J
+AU Atkinson, CT
+   Dusek, RJ
+   Woods, KL
+   Iko, WM
+AF Atkinson, C T
+   Dusek, R J
+   Woods, K L
+   Iko, W M
+TI Pathogenicity of avian malaria in experimentally-infected Hawaii Amakihi.
+SO Journal of wildlife diseases
+LA English
+DT Journal Article
+AB The introduction of avian malaria (Plasmodium relictum) and mosquitoes (Culex  quinquefasciatus) to the Hawaiian Islands (USA) is believed to have played a  major role in the decline and extinction of native Hawaiian honeycreepers  (Drepanidinae). This introduced disease is thought to be one of the primary  factors limiting recovery of honeycreepers at elevations below 1,200 m where  native forest habitats are still relatively intact. One of the few remaining  species of honeycreepers with a wide elevational distribution is the Hawaii  Amakihi (Hernignathus virens). We measured morbidity and mortality in  experimentally-infected Hawaii Amakihi that were captured in a high elevation,  xeric habitat that is above the current range of the mosquito vector. Mortality  among amakihi exposed to a single infective mosquito bite was 65% (13/20). All  infected birds had significant declines in food consumption and a corresponding  loss in body weight over the 60 day course of the experiment. Gross and  microscopic lesions in birds that succumbed to malaria included enlargement and  discoloration of the spleen and liver and parasitemias as high as 50% of  circulating erythrocytes. Mortality in experimentally-infected amakihi was  similar to that observed in Apapane (Himnatione sanguinea) and lower than that  observed in Iiwi (Vestiaria coccinea) infected under similar conditions with the  same parasite isolate. We conclude that the current elevational and geographic  distribution of Hawaiian honeycreepers is determined by relative susceptibility  to avian malaria.
+C1 USGS Biological Resources Division, Pacific Island Ecosystems Research Center, Hawaii National Park, Hawaii 96718, USA. Carter_Atkinson@usgs.gov
+NR 0
+TC 0
+SN 
+EI 0090-355
+J9 J Wildl Dis
+PD MAY 17
+PY 2000
+VL 36
+IS 2
+BP 197
+EP 204
+DI 10.7589/0090-3558-36.2.197
+PG 7
+WC Altitude; Animals; Body Weight; Culex; parasitology; Eating; Erythrocytes; parasitology; Female; Hawaii; epidemiology; Insect Vectors; parasitology; Liver; pathology; Logistic Models; Malaria, Avian; epidemiology; Male; Morbidity; Parasitemia; epidemiology; Plasmodium; pathogenicity; Random Allocation; Songbirds; Spleen; pathology
+UT PubMed:10813599
+PM 10813599
+DA 2000-05-17
+ER
+
+PT J
+AU Marion, G
+   Renshaw, E
+   Gibson, G
+AF Marion, G
+   Renshaw, E
+   Gibson, G
+TI Stochastic modelling of environmental variation for biological populations.
+SO Theoretical population biology
+LA English
+DT Journal Article
+AB We examine stochastic effects, in particular environmental variability, in  population models of biological systems. Some simple models of environmental  stochasticity are suggested, and we demonstrate a number of analytic  approximations and simulation-based approaches that can usefully be applied to  them. Initially, these techniques, including moment-closure approximations and  local linearization, are explored in the context of a simple and relatively  tractable process. Our presentation seeks to introduce these techniques to a  broad-based audience of applied modellers. Therefore, as a test case, we study a  natural stochastic formulation of a non-linear deterministic model for nematode  infections in ruminants, proposed by Roberts and Grenfell (1991). This system is  particularly suitable for our purposes, since it captures the essence of more  complicated formulations of parasite demography and herd immunity found in the  literature. We explore two modes of behaviour. In the endemic regime the  stochastic dynamic fluctuates widely around the non-zero fixed points of the  deterministic model. Enhancement of these fluctuations in the presence of  environmental stochasticity can lead to extinction events. Using a simple model  of environmental fluctuations we show that the magnitude of this system response  reflects not only the variance of environmental noise, but also its  autocorrelation structure. In the managed regime host-replacement is modelled via  periodic perturbation of the population variables. In the absence of  environmental variation stochastic effects are negligible, and we examine the  system response to a realistic environmental perturbation based on the effect of  micro-climatic fluctuations on the contact rate. The resultant stochastic effects  and the relevance of analytic approximations based on simple models of  environmental stochasticity are discussed.
+C1 Department of Statistics and Modelling Science, Livingstone Tower, University of Strathclyde, 26 Richmond Street, Glasgow, G1 1XH, United Kingdom.
+NR 0
+TC 0
+SN 
+EI 0040-580
+J9 Theor Popul Biol
+PD JUN 1
+PY 2000
+VL 57
+IS 3
+BP 197
+EP 217
+DI 10.1006/tpbi.2000.1450
+PG 20
+WC Animals; Disease Outbreaks; statistics & numerical data; Endemic Diseases; statistics & numerical data; Host-Parasite Interactions; Humans; Models, Biological; Nematode Infections; epidemiology; Population Dynamics; Ruminants; Stochastic Processes
+UT PubMed:10828214
+PM 10828214
+DA 2000-06-01
+ER
+
+PT J
+AU Kirchner, JW
+   Weil, A
+AF Kirchner, J W
+   Weil, A
+TI Correlations in fossil extinction and origination rates through geological time.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB Recent analyses have suggested that extinction and origination rates exhibit  long-range correlations, implying that the fossil record may be controlled by  self-organized criticality or other scale-free internal dynamics of the  biosphere. Here we directly test for correlations in the fossil record by  calculating the autocorrelation of extinction [corrected] and origination rates  through time. Our results show that extinction rates are uncorrelated beyond the  average duration of a stratigraphic interval. Thus, they lack the long-range  correlations predicted by the self-organized criticality hypothesis. In contrast,  origination rates show strong autocorrelations due to long-term trends. After  detrending, origination rates generally show weak positive correlations at lags  of 5-10 million years (Myr) and weak negative correlations at lags of 10-30 Myr,  consistent with aperiodic oscillations around their long-term trends. We  hypothesize that origination rates are more correlated than extinction rates  because originations of new taxa create new ecological niches and new  evolutionary pathways for reaching them, thus creating conditions that favour  further diversification.
+C1 Department of Geology and Geophysics, University of California, Berkeley 94720-4767, USA. kirchner@seismo.berkeley.edu
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD SEP 6
+PY 2000
+VL 267
+IS 1450
+BP 1301
+EP 9
+DI 10.1098/rspb.2000.1142
+PG -1292
+WC Animals; Biological Evolution; Ecosystem; Fossils; Fourier Analysis; Geology; statistics & numerical data; Time Factors
+UT PubMed:10972124
+PM 10972124
+DA 2000-09-06
+ER
+
+PT J
+AU Purvis, A
+   Gittleman, JL
+   Cowlishaw, G
+   Mace, GM
+AF Purvis, A
+   Gittleman, J L
+   Cowlishaw, G
+   Mace, G M
+TI Predicting extinction risk in declining species.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB What biological attributes predispose species to the risk of extinction? There  are many hypotheses but so far there has been no systematic analysis for  discriminating between them. Using complete phylogenies of contemporary  carnivores and primates, we present, to our knowledge, the first comparative test  showing that high trophic level, low population density slow life history and, in  particular, small geographical range size are all significantly and independently  associated with a high extinction risk in declining species. These traits  together explain nearly 50% of the total between-species variation in extinction  risk. Much of the remaining variation can be accounted for by external  anthropogenic factors that affect species irrespective of their biology.
+C1 Department of Biology, and Natural Environment Research Council Population Biology, Imperial College, Ascot, UK. a.purvis@ic.ac.uk
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD NOV 15
+PY 2000
+VL 267
+IS 1456
+BP 1947
+EP 52
+DI 10.1098/rspb.2000.1234
+PG -1895
+WC Animals; Carnivora; genetics; Ecology; Models, Biological; Phylogeny; Predictive Value of Tests; Primates; genetics; Risk Assessment; Species Specificity
+UT PubMed:11075706
+PM 11075706
+DA 2000-11-15
+ER
+
+PT J
+AU Cernicharo, J
+   Noriega-Crespo, A
+   Cesarsky, D
+   Lefloch, B
+   González-Alfonso, E
+   Najarro, F
+   Dartois, E
+   Cabrit, S
+AF Cernicharo, J
+   Noriega-Crespo, A
+   Cesarsky, D
+   Lefloch, B
+   González-Alfonso, E
+   Najarro, F
+   Dartois, E
+   Cabrit, S
+TI Windows through the dusty disks surrounding the youngest low-mass protostellar
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The formation and evolution of young low-mass stars are characterized by  important processes of mass loss and accretion occurring in the innermost regions  of their placentary circumstellar disks. Because of the large obscuration of  these disks at optical and infrared wavelengths in the early protostellar stages  (class 0 sources), they were previously detected only at radio wavelengths using  interferometric techniques. We have detected with the Infrared Space Observatory  the mid-infrared (mid-IR) emission associated with the class 0 protostar VLA1 in  the HH1-HH2 region located in the Orion nebula. The emission arises in three  wavelength windows (at 5. 3, 6.6, and 7.5 micrometers) where the absorption due  to ices and silicates has a local minimum that exposes the central part of the  young protostellar system to mid-IR investigations. The mid-IR emission arises  from a central source with a diameter of 4 astronomical units at an averaged  temperature of approximately 700 K, deeply embedded in a dense region with a  visual extinction of 80 to 100 magnitudes.
+C1 Consejo Superior de Investigaciones Científicas, Instituto de Estructura de la Materia, Departamento Física Molecular, Serrano 121, 28006 Madrid, Spain.cerni@astro.iem.csic.es
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD APR 28
+PY 2000
+VL 288
+IS 5466
+BP 649
+EP 52
+DI 10.1126/science.288.5466.649
+PG -597
+WC Astronomical Phenomena; Astronomy; Carbon Dioxide; Ice; Methane; Methanol; Silicates; Spectrophotometry, Infrared; Temperature; Water
+UT PubMed:10784443
+PM 10784443
+DA 2000-04-28
+ER
+
+PT J
+AU Dzendolet, E
+AF Dzendolet, E
+TI On the theory of behavioral mechanics.
+SO Psychological reports
+LA English
+DT Journal Article
+AB The Theory of Behavioral Mechanics is the behavioral analogue of Newton's laws of  motion, with the rate of responding in operant conditioning corresponding to  physical velocity. In an earlier work, the basic relation between rate of  responding and sessions under two FI schedules and over a range of commonly used  session values had been shown to be a power function. Using that basic relation,  functions for behavioral acceleration, mass, and momentum are derived here. Data  from other laboratories also support the applicability of a power function to VI  schedules. A particular numerical value is introduced here to be the standard  reference value for the behavioral force under the VI-60-s schedule. This  reference allows numerical values to be calculated for the behavioral mass and  momentum of individual animals. A comparison of the numerical values of the  momenta of two animals can be used to evaluate their relative resistances to  change, e.g., to extinction, which is itself viewed as a continuously changing  behavioral force being imposed on the animal. This overall numerical approach  allows behavioral force-values to be assigned to various experimental conditions  such as the evaluation of the behavioral force of a medication dosage.
+C1 Department of Psychology, University of Massachusetts, Amherst 01003-7710, USA. Dzendolet@psych.umass.edu
+NR 0
+TC 0
+SN 
+EI 0033-294
+J9 Psychol Rep
+PD FEB 15
+PY 2000
+VL 85
+IS 3 Pt 1
+BP 707
+EP 42
+DI 10.2466/pr0.1999.85.3.707
+PG -665
+WC Animals; Behavior, Animal; physiology; Biomechanical Phenomena; Columbidae; Humans; Models, Biological; Movement; physiology; Rats; Reinforcement, Psychology
+UT PubMed:10672731
+PM 10672731
+DA 2000-02-15
+ER
+
+PT J
+AU Purvis, A
+   Jones, KE
+   Mace, GM
+AF Purvis, A
+   Jones, K E
+   Mace, G M
+TI Extinction.
+SO BioEssays : news and reviews in molecular, cellular and developmental biology
+LA English
+DT Review
+AB In the life of any species, extinction is the final evolutionary process. It is a  common one at present, as the world is entering a major extinction crisis. The  pattern of extinction and threat is very non-random, with some taxa being more  vulnerable than others. Explaining why some taxa are affected and some escape is  a major goal of conservation biology. More ambitiously, a predictive model could,  in principle, be built by integrating comparable studies of past and present  extinctions. We review progress towards both explanatory and predictive  frameworks, comparing correlates of extinction in different groups at different  times. Progress towards explanatory models for the current crisis is promising,  at least in some well-studied taxa, but the development of a truly predictive  model is hampered by the formidable difficulties of integrating studies of  present and past extinctions.
+C1 Department of Biology, Imperial College, Ascot, UK. a.purvis@ic.ac.uk
+NR 0
+TC 0
+SN 
+EI 0265-924
+J9 Bioessays
+PD NOV 21
+PY 2000
+VL 22
+IS 12
+BP 1123
+EP 33
+DI 10.1002/1521-1878(200012)22:12<1123::AID-BIES10>3.0.CO;2-C
+PG -1090
+WC Animals; Biological Evolution; Geological Phenomena; Geology; Humans; Invertebrates; Models, Biological; Population Density
+UT PubMed:11084628
+PM 11084628
+DA 2000-11-21
+ER
+
+PT J
+AU Kirchner, JW
+   Weil, A
+AF Kirchner, J W
+   Weil, A
+TI Delayed biological recovery from extinctions throughout the fossil record.
+SO Nature
+LA English
+DT Journal Article
+AB How quickly does biodiversity rebound after extinctions? Palaeobiologists have  examined the temporal, taxonomic and geographic patterns of recovery following  individual mass extinctions in detail, but have not analysed recoveries from  extinctions throughout the fossil record as a whole. Here, we measure how fast  biodiversity rebounds after extinctions in general, rather than after individual  mass extinctions, by calculating the cross-correlation between extinction and  origination rates across the entire Phanerozoic marine fossil record. Our results  show that extinction rates are not significantly correlated with contemporaneous  origination rates, but instead are correlated with origination rates roughly 10  million years later. This lagged correlation persists when we remove the 'Big  Five' major mass extinctions, indicating that recovery times following mass  extinctions and background extinctions are similar. Our results suggest that  there are intrinsic limits to how quickly global biodiversity can recover after  extinction events, regardless of their magnitude. They also imply that today's  anthropogenic extinctions will diminish biodiversity for millions of years to  come.
+C1 Department of Geology and Geophysics, University of California, Berkeley 94720-4767, USA. kirchner@seismo.berkeley.edu
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD MAR 21
+PY 2000
+VL 404
+IS 6774
+BP 177
+EP 80
+DI 10.1038/35004564
+PG -97
+WC Animals; Biological Evolution; Ecosystem; Fossils; Models, Biological
+UT PubMed:10724168
+PM 10724168
+DA 2000-03-21
+ER
+
+PT J
+AU Calero, C
+   Ibanez, O
+   Mayol, M
+   Rossello, JA
+AF Calero, C
+   Ibanez, O
+   Mayol, M
+   Rossello, JA
+TI Random amplified polymorphic DNA (RAPD) markers detect a single phenotype in
+SO Molecular ecology
+LA English
+DT Journal Article
+AB Lysimachia minoricensis is a Mediterranean (Balearic Islands) endemic that is  extinct in the wild but extant in botanical gardens. Previously, no variation at  22 isozyme loci was revealed in more than 150 analysed plants. Random amplified  polymorphic DNA (RAPD) analysis was used to examine genetic variation among five  individuals from each of eight botanical garden accessions (40 plants). No  polymorphisms were detected at 201 amplified bands. This is the first report of  RAPD monomorphism in a nonapomictic vascular plant. The lack of detectable  genetic variation suggests that an extremely reduced gene pool was recovered in  the field before its extinction. Although the screening of other genomic markers  is feasible, it is suggested that the knowledge of biological and autoecological  features should be prioritized before new re-introductions are attempted.
+NR 0
+TC 0
+SN 1365-294
+EI 
+J9 Mol Ecol
+PD JAN 13
+PY 2000
+VL 8
+IS 12
+BP 2133
+EP 6
+DI 10.1046/j.1365-294x.1999.00800.x
+PG -2127
+UT PubMed:10632864
+PM 10632864
+DA 2000-01-13
+ER
+
+PT J
+AU Moffatt, F
+   Senkans, P
+   Ricketts, D
+AF Moffatt, F
+   Senkans, P
+   Ricketts, D
+TI Approaches towards the quantitative analysis of peptides and proteins by
+SO Journal of chromatography. A
+LA English
+DT Journal Article
+AB A reversed-phase HPLC protocol for the quantitative analysis of peptides and  proteins is presented. It is applicable to purified samples and potentially to  crude biological extracts. The key feature is that an analytically pure reference  sample of the analyte is not required because the extinction coefficient for the  UV absorbance at 280 nm can be accurately estimated from the amino acid sequence.  The concentration of a protein can therefore be calculated from the peak area  relative to an internal standard. Sources of error and limitations of the method  are systematically considered. Tryptophan containing peptides gave closer  agreement to expected values than those with only tyrosine. It was found that  analogous, previously used methods could not be directly applied to lower  wavelengths.
+C1 Zeneca Agrochemicals, Jealotts Hill Research Station, Bracknell, Berks, UK. Frank.Moffatt@aguk.zeneca.com
+NR 0
+TC 0
+SN 
+EI 0021-967
+J9 J Chromatogr A
+PD OCT 24
+PY 2000
+VL 891
+IS 2
+BP 235
+EP 42
+DI 10.1016/s0021-9673(00)00620-8
+PG -193
+WC Chromatography, High Pressure Liquid; methods; Peptides; analysis; Proteins; analysis; Reference Standards; Spectrophotometry, Ultraviolet
+UT PubMed:11043783
+PM 11043783
+DA 2000-10-24
+ER
+
+PT J
+AU Pimm, SL
+   Raven, P
+AF Pimm, S L
+   Raven, P
+TI Biodiversity. Extinction by numbers.
+SO Nature
+LA English
+DT News
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD MAR 8
+PY 2000
+VL 403
+IS 6772
+BP 843
+EP 5
+DI 10.1038/35002708
+PG -838
+WC Animals; Biological Evolution; Conservation of Natural Resources; Ecosystem; Humans; Plants
+UT PubMed:10706267
+PM 10706267
+DA 2000-03-08
+ER
+
+PT J
+AU Etienne, RS
+AF Etienne, R S
+TI Local populations of different sizes, mechanistic rescue effect and patch
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB In this paper three extensions of the Levins metapopulation model are discussed:  (1) It is shown that the Levins model is still valid if patches contain local  populations of different sizes with different colonization and extinction rates.  (2) A more mechanistic formulation of the rescue effect is presented. (3) The  addition of preference of dispersers for occupied or empty patches and its  consequences for conservation strategies are studied.
+C1 Centre for Biometry, Wageningen, The Netherlands. r.s.etienne@plant.wag-ur.nl
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD OCT 4
+PY 2000
+VL 62
+IS 5
+BP 943
+EP 58
+DI 10.1006/bulm.2000.0186
+PG -885
+WC Animals; Ecosystem; Models, Biological; Models, Theoretical; Population Density; Population Dynamics
+UT PubMed:11016091
+PM 11016091
+DA 2000-10-04
+ER
+
+PT J
+AU Watson, JG
+   Chow, JC
+   Bowen, JL
+   Lowenthal, DH
+   Hering, S
+   Ouchida, P
+   Oslund, W
+AF Watson, J G
+   Chow, J C
+   Bowen, J L
+   Lowenthal, D H
+   Hering, S
+   Ouchida, P
+   Oslund, W
+TI Air quality measurements from the Fresno Supersite.
+SO Journal of the Air & Waste Management Association (1995)
+LA English
+DT Journal Article
+AB The Fresno Supersite intends to 1) evaluate non-routine monitoring methods,  establishing their comparability with existing methods and their applicability to  air quality planning, exposure assessment, and health effects studies; 2) provide  a better understanding of aerosol characteristics, behavior, and sources to  assist regulatory agencies in developing standards and strategies that protect  public health; and 3) support studies that evaluate relationships between aerosol  properties, co-factors, and observed health end-points. Supersite observables  include in-situ, continuous, short-duration measurements of 1) PM2.5, PM10, and  coarse (PM10 minus PM2.5) mass; 2) PM2.5 SO4(-2), NO3-, carbon, light absorption,  and light extinction; 3) numbers of particles in discrete size bins ranging from  0.01 to approximately 10 microns; 4) criteria pollutant gases (O3, CO, NOx); 5)  reactive gases (NO2, NOy, HNO3, peroxyacetyl nitrate [PAN], NH3); and 6) single  particle characterization by time-of-flight mass spectrometry. Field sampling and  laboratory analysis are applied for gaseous and particulate organic compounds  (light hydrocarbons, heavy hydrocarbons, carbonyls, polycyclic aromatic  hydrocarbons [PAH], and other semi-volatiles), and PM2.5 mass, elements, ions,  and carbon. Observables common to other Supersites are 1) daily PM2.5 24-hr  average mass with Federal Reference Method (FRM) samplers; 2) continuous hourly  and 5-min average PM2.5 and PM10 mass with beta attenuation monitors (BAM) and  tapered element oscillating microbalances (TEOM); 3) PM2.5 chemical speciation  with a U.S. Environmental Protection Agency (EPA) speciation monitor and  protocol; 4) coarse particle mass by dichotomous sampler and difference between  PM10 and PM2.5 BAM and TEOM measurements; 5) coarse particle chemical  composition; and 6) high sensitivity and time resolution scalar and vector wind  speed, wind direction, temperature, relative humidity, barometric pressure, and  solar radiation. The Fresno Supersite is coordinated with health and  toxicological studies that will use these data in establishing relationships with  asthma, other respiratory disease, and cardiovascular changes in human and animal  subjects.
+C1 Desert Research Institute, University and Community College System of Nevada, Reno 89512, USA.
+NR 0
+TC 0
+SN 
+EI 1096-224
+J9 J Air Waste Manag Assoc
+PD SEP 26
+PY 2000
+VL 50
+IS 8
+BP 1321
+EP 34
+DI 10.1080/10473289.2000.10464184
+PG -1287
+WC Aerosols; Air Pollution; analysis; Climate; Environmental Monitoring; methods; Hazardous Waste; Humans; Mass Spectrometry; Particle Size; Public Health; Public Policy; Quality Control; Sensitivity and Specificity
+UT PubMed:11002595
+PM 11002595
+DA 2000-09-26
+ER
+
+PT J
+AU Bridges, CM
+AF Bridges, C M
+TI Long-term effects of pesticide exposure at various life stages of the southern
+SO Archives of environmental contamination and toxicology
+LA English
+DT Journal Article
+AB Amphibian larvae are commonly exposed to low levels of pesticides during their  development. Chronic studies generally examine the effects of long-term exposure,  but they often disregard the importance of the individual life stage at which  tadpoles are exposed. I determined the point during development at which carbaryl  effects are manifested by exposing southern leopard frog tadpoles (Rana  sphenocephala) to the pesticide carbaryl at five different times during  development. Metamorphs exposed throughout the tadpole stage and throughout  development (egg, embryo, tadpole) experienced significant mortality at all  chemical levels. Although the length of the larval period was the same for all  experimental groups, metamorphs exposed during the egg stage were smaller than  their corresponding controls, independent of whether they were exposed at any  other stage. Nearly 18% of individuals exposed to carbaryl during development  exhibited some type of developmental deformity (including both visceral and limb  malformities), compared to a single deformed (< 1%) control tadpole,  demonstrating that a chemical hypothesis for amphibian deformities remains  viable. Because exposure to nonpersistent chemicals may last for only a short  period of time, it is important to examine the long-term effects that short-term  exposure has on larval amphibians and the existence of any sensitive life stage.  Any delay in metamorphosis or decrease in size at metamorphosis can impact  demographic processes of the population, potentially leading to declines or local  extinction.
+C1 Division of Biological Sciences, University of Missouri, Columbia, Missouri 65211-7400, USA.
+NR 0
+TC 0
+SN 
+EI 0090-434
+J9 Arch Environ Contam Toxicol
+PD MAY 3
+PY 2000
+VL 39
+IS 1
+BP 91
+EP 6
+DI 10.1007/s002440010084
+PG -85
+WC Animals; Larva; Life Cycle Stages; drug effects; Metamorphosis, Biological; drug effects; Pesticides; toxicity; Rana pipiens; growth & development; Time Factors
+UT PubMed:10790507
+PM 10790507
+DA 2000-05-03
+ER
+
+PT J
+AU Allen, LJ
+   Burgin, AM
+AF Allen, L J
+   Burgin, A M
+TI Comparison of deterministic and stochastic SIS and SIR models in discrete time.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB The dynamics of deterministic and stochastic discrete-time epidemic models are  analyzed and compared. The discrete-time stochastic models are Markov chains,  approximations to the continuous-time models. Models of SIS and SIR type with  constant population size and general force of infection are analyzed, then a more  general SIS model with variable population size is analyzed. In the deterministic  models, the value of the basic reproductive number R0 determines persistence or  extinction of the disease. If R0 < 1, the disease is eliminated, whereas if R0 >  1, the disease persists in the population. Since all stochastic models considered  in this paper have finite state spaces with at least one absorbing state,  ultimate disease extinction is certain regardless of the value of R0. However, in  some cases, the time until disease extinction may be very long. In these cases,  if the probability distribution is conditioned on non-extinction, then when R0 >  1, there exists a quasi-stationary probability distribution whose mean agrees  with deterministic endemic equilibrium. The expected duration of the epidemic is  investigated numerically.
+C1 Department of Mathematics and Statistics, Texas Tech University, Lubbock 79409-1042, USA. jallen@math.ttu.edu
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD FEB 1
+PY 2000
+VL 163
+IS 1
+BP 1
+EP 33
+DI 10.1016/s0025-5564(99)00047-4
+PG 32
+WC Disease Outbreaks; statistics & numerical data; Epidemiology; Models, Biological; Numerical Analysis, Computer-Assisted; Population Density; Stochastic Processes
+UT PubMed:10652843
+PM 10652843
+DA 2000-02-01
+ER
+
+PT J
+AU Baird, GS
+   Zacharias, DA
+   Tsien, RY
+AF Baird, G S
+   Zacharias, D A
+   Tsien, R Y
+TI Biochemistry, mutagenesis, and oligomerization of DsRed, a red fluorescent
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB DsRed is a recently cloned 28-kDa fluorescent protein responsible for the red  coloration around the oral disk of a coral of the Discosoma genus. DsRed has  attracted tremendous interest as a potential expression tracer and fusion partner  that would be complementary to the homologous green fluorescent protein from  Aequorea, but very little is known of the biochemistry of DsRed. We now show that  DsRed has a much higher extinction coefficient and quantum yield than previously  reported, plus excellent resistance to pH extremes and photobleaching. In  addition, its 583-nm emission maximum can be further shifted to 602 nm by  mutation of Lys-83 to Met. However, DsRed has major drawbacks, such as strong  oligomerization and slow maturation. Analytical ultracentrifugation proves DsRed  to be an obligate tetramer in vitro, and fluorescence resonance energy transfer  measurements and yeast two-hybrid assays verify oligomerization in live cells.  Also, DsRed takes days to ripen fully from green to red in vitro or in vivo, and  mutations such as Lys-83 to Arg prevent the color change. Many potential cell  biological applications of DsRed will require suppression of the tetramerization  and acceleration of the maturation.
+C1 Department of Pharmacology, University of California, San Diego, La Jolla, CA 92093, USA.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD OCT 26
+PY 2000
+VL 97
+IS 22
+BP 11984
+EP 9
+DI 10.1073/pnas.97.22.11984
+PG -11975
+WC Amino Acid Sequence; Animals; Cnidaria; metabolism; Hydrogen-Ion Concentration; Kinetics; Luminescent Proteins; genetics; Molecular Sequence Data; Mutagenesis, Site-Directed; Two-Hybrid System Techniques; Red Fluorescent Protein
+UT PubMed:11050229
+PM 11050229
+DA 2000-10-26
+ER
+
+PT J
+AU Gebhart, KA
+   Malm, WC
+   Flores, M
+AF Gebhart, K A
+   Malm, W C
+   Flores, M
+TI A preliminary look at source-receptor relationships in the Texas-Mexico border
+SO Journal of the Air & Waste Management Association (1995)
+LA English
+DT Journal Article
+AB Several factors have recently caused visibility impairment at Big Bend National  Park, TX, to be of interest. Analyses of historical data collected there have  shown that visibility is poorer and fine particle concentrations are higher at  Big Bend than at other monitored Class I areas in the western United States. In  addition, air masses frequently arrive there after crossing Mexico, where  emissions are not well known. During September and October 1996, a field study  was undertaken to begin examining the aerosol, visibility, and meteorology on  both sides of the border. Results indicate that, during the study, the largest  fractions of fine mass and light extinction at Big Bend were due to sulfates and  the trace elements most closely associated with sulfate particles were Na and Se.  Based on back trajectory modeling and the spatial, temporal, and inter-species  relationships in the fine particle concentrations measured during the study,  sulfates arrived at the park from both Mexico and the United States. Se was  higher in Texas than in Northern Mexico, while V, Pb, Zn, Ni, and Mn were on  average much higher in Mexico.
+C1 National Park Service, Colorado State University, Fort Collins, USA. gebhart@cira.colostate.edu
+NR 0
+TC 0
+SN 
+EI 1096-224
+J9 J Air Waste Manag Assoc
+PD JUN 8
+PY 2000
+VL 50
+IS 5
+BP 858
+EP 68
+DI 10.1080/10473289.2000.10464110
+PG -790
+WC Aerosols; Air Pollution; analysis; Environmental Monitoring; Metals, Heavy; analysis; Meteorological Concepts; Mexico; Particle Size; Sulfates; analysis; Texas; Time Factors
+UT PubMed:10842949
+PM 10842949
+DA 2000-06-08
+ER
+
+PT J
+AU FOLEY, P
+AF FOLEY, P
+TI Problems in Extinction Model Selection and Parameter Estimation.
+SO Environmental management
+LA English
+DT Journal Article
+AB It is a vexing problem to achieve a consensus about the proper scientific way to  assess population viability for habitat conservation plans. Rather than a  hypothesis-testing approach, here it is proposed to select population models,  estimate extinction parameters, and assess prediction uncertainty using a  pragmatic, empirical Bayesian approach. The simplest usable models include the  effects of population growth, r; carrying capacity, K; Allee threshold, N(A); and  environmental stochasticity, v(r). Analytic predictions of expected extinction  times are available for such models. Models that are more complex can be  elaborated from this basis. Selection from a hierarchy of nesting population  models can often be done through the evaluation of parameters. The estimation of  the most important extinction parameters can be undertaken in a variety of ways.  Time series can be analyzed to estimate r(d), v(r), rho, and K. Habitat models  and individualistic population models may help estimate N(A) and K and  demographic stochasticity. Fine-scale biogeography and climatological data may be  useful in the estimation of a variety of parameters. Because it takes many years  to estimate extinction parameters accurately for a given population of interest,  the most efficient estimation procedures are desirable. I propose the use of  prior information from an (as yet nonexistent) population biology database. The  accumulation of local information through monitoring will improve our estimates  allowing adaptive management. Uncertainty in the estimates will always remain,  but it may be quantified by the posterior distributions. A crude example is  discussed using treefrog population data. Although the motivations, beliefs, and  biases of competing stakeholders will differ, a habitat conservation plan could  accommodate this variation in the prior distributions. Field experience from  monitoring will increasingly clear up any discrepancies between the opposing  beliefs and the real ecosystem. As the world is an uncertain place and because  there is no universal scientific method, there will always be controversy and  surprises. The best we can do is (1) agree about our prior information, (2) agree  about the strategy of model selection and parameter estimation, and (3) agree  about our strategy for adaptive management. Perhaps the greatest impediment to  such prior agreements for HCPs is the likely paranoia inspired by the use of  unfamiliar statistical methodology. We need to train students of ecology in a  more flexible and deeper understanding of statistics and philosophy of science.
+C1 Department of Biological Sciences, California State University, Sacramento, California 95819-6077, USA
+NR 0
+TC 0
+SN 1432-100
+EI 
+J9 Environ Manage
+PD MAY 10
+PY 2000
+VL 26
+IS S1
+BP S55
+EP S73
+DI 10.1007/s002670010062
+PG 1
+UT PubMed:10801990
+PM 10801990
+DA 2000-05-10
+ER
+
+PT J
+AU Spotila, JR
+   Reina, RD
+   Steyermark, AC
+   Plotkin, PT
+   Paladino, FV
+AF Spotila, J R
+   Reina, R D
+   Steyermark, A C
+   Plotkin, P T
+   Paladino, F V
+TI Pacific leatherback turtles face extinction.
+SO Nature
+LA English
+DT Journal Article
+C1 School of Environmental Science, Engineering and Policy, Drexel University, Philadelphia, Pennsylvania 19104, USA. spotiljr@drexel.edu
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD JUN 13
+PY 2000
+VL 405
+IS 6786
+BP 529
+EP 30
+DI 10.1038/35014729
+PG -499
+WC Animals; Biological Evolution; Conservation of Natural Resources; Costa Rica; Ecosystem; Female; Models, Biological; Population Dynamics; Turtles; physiology
+UT PubMed:10850701
+PM 10850701
+DA 2000-06-13
+ER
+
+PT J
+AU Meyer-Berthaud, B
+AF Meyer-Berthaud, B
+TI [The first trees. The Archaeopteris model].
+SO Journal de la Societe de biologie
+LA fre
+DT Review
+AB The earliest self-supporting organisms exceeding 2 m in height evolved about 370  million years ago, approximately 100 million years after the rise of the first  land plants. Evidence for the tree habit is usually indirect and assessed from  the diameter of the available stem fragments. Four systematic groups of Devonian  plants evolved the tree habit independantly: the Lycopsida, Cladoxylopsida, and  progymnosperms in the Middle Devonian, the Equisetopsida in the Late Devonian.  All share a free-sporing life cycle which limits their habitats to wet areas.  Their branching pattern involves the strict division of their apices, whether  equally or unequally. The progymnosperm genus Archaeopteris was widespread  worldwide and evolved the highest trees of the Devonian (maximum height estimated  at 40 m). Besides it ecological significance as the dominant component of the  earliest forests, Archaeopteris currently represents the closest known relative  to the seed plants with which it shares two derived characters, the heterosporous  life cycle, and the possession of leaves. Another distinctive feature of  Archaeopteris trees is represented by the double function of their wood for both  support and conduction. New analyses involving vascular trace analysis in  anatomically preserved specimens have demonstrated that Archaeopteris is not the  simple tree reconstructed by Beck (1962). In this fate model, Archaeopteris  consisted of an erect trunk bearing short-lived, flattened, leaf-like branch  systems forming a terminal crown. New evidence indicates that laterally to these  appendages of apical origin, a new type of branches, of adventitious origin,  evolved which development compares to that of the axillary branches of the seed  plants. These branches which were large and long-lived represent major  architectural components of the tree. Evidence for vascular structures comparable  to those produced on stem cuttings in modern plants suggest that Archaeopteris  may have evolved vegetative strategies for propagation. The set of "modern"  characters of Archaeopteris may explain its success until the  Devonian/Carboniferous boundary when its extinction is correlated to the  radiation of the earliest seed plants.
+C1 Laboratoire de Paléobotanique, Institut des Sciences de l'Evolution (UMR 5554), Université Montpellier 2.
+NR 0
+TC 0
+SN 
+EI 1295-066
+J9 J Soc Biol
+PD DEC 1
+PY 2000
+VL 194
+IS 2
+BP 65
+EP 70
+DI 
+PG 5
+WC Biological Evolution; Models, Biological; Phylogeny; Reproduction; Species Specificity; Trees; anatomy & histology; Wood
+UT PubMed:11098430
+PM 11098430
+DA 2000-12-01
+ER
+
+PT J
+AU Haraguchi, Y
+   Sasaki, A
+AF Haraguchi, Y
+   Sasaki, A
+TI The evolution of parasite virulence and transmission rate in a spatially
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB If the transmission occurs through local contact of the individuals in a  spatially structured population, the evolutionarily stable (ESS) traits of  parasite might be quite different from what the classical theory with complete  mixing predicts. In this paper, we theoretically study the ESS virulence and  transmission rate of a parasite in a lattice-structured host population, in which  the host can send progeny only to its neighboring vacant site, and the  transmission occurs only in between the infected and the susceptible in the  nearest-neighbor sites. Infected host is assumed to be infertile. The analysis  based on the pair approximation and the Monte Carlo simulation reveal that the  ESS transmission rate and virulence in a lattice-structured population are  greatly reduced from those in completely mixing population. Unlike completely  mixing populations, the spread of parasite can drive the host to extinction,  because the local density of the susceptible next to the infected can remain high  even when the global density of host becomes very low. This demographic viscosity  and group selection between self-organized spatial clusters of host individuals  then leads to an intermediate ESS transmission rate even if there is no tradeoff  between transmission rate and virulence. The ESS transmission rate is below the  region of parasite-driven extinction by a finite amount for moderately large  reproductive rate of host; whereas, the evolution of transmission rate leads to  the fade out of parasite for small reproductive rate, and the extinction of host  for very large reproductive rate.
+C1 Department of Biology, Kyushu University, Fukuoka, 812-81, Japan.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD MAR 8
+PY 2000
+VL 203
+IS 2
+BP 85
+EP 96
+DI 10.1006/jtbi.1999.1065
+PG 11
+WC Animals; Biological Evolution; Host-Parasite Interactions; physiology; Markov Chains; Models, Biological; Parasites; pathogenicity; Parasitic Diseases; transmission; Virulence
+UT PubMed:10704294
+PM 10704294
+DA 2000-03-08
+ER
+
+PT J
+AU Richards, SA
+   Wilson, WG
+AF Richards, S A
+   Wilson, W G
+TI Adaptive feeding across environmental gradients and its effect on population
+SO Theoretical population biology
+LA English
+DT Journal Article
+AB This paper analyzes a consumer's adaptive feeding response to environmental  gradients. We consider a consumer-resource system where resources are distributed  among many discrete resource patches. Each consumer exhibits a feeding morphology  allowing it to remove resources from a patch down to some threshold density (or  level) before having to seek resources elsewhere. Assuming consumers trade off  resource extraction with patch access and predation, we show that for a given  environment there often exists a single evolutionarily stable feeding threshold  and it is an evolutionary attractor. We then investigate how the population  dynamics of the resource and the consumer change as the environment changes. Two  cases are considered: (i) all consumers exhibit a fixed feeding threshold that is  adaptive for an intermediate environment; and (ii) the consumer population adapts  and adopts the evolutionarily stable feeding threshold associated with the  current environment. In less harsh environments (i.e., environments where  consumers experience a lower risk of predation, or environments where resource  patches are more abundant) the adaptive consumer population is predicted to  evolve so that resources within a patch are depleted to lower densities. We show  that the change in consumer density due to environmental change can be rather  different depending on whether or not the population can adapt. In some  situations we observe that when the consumer's environment becomes harsher, the  consumer population may increase in density before a rapid crash to extinction.  This result has implications for monitoring and managing a population.
+C1 Department of Zoology, Duke University, North Carolina 27708-0325, USA. richards@bio.uva.nl
+NR 0
+TC 0
+SN 
+EI 0040-580
+J9 Theor Popul Biol
+PD JUL 20
+PY 2000
+VL 57
+IS 4
+BP 377
+EP 90
+DI 10.1006/tpbi.2000.1464
+PG -287
+WC Adaptation, Physiological; Animals; Biological Evolution; Ecosystem; Environment; Feeding Behavior; Models, Biological; Population Density; Population Dynamics
+UT PubMed:10900190
+PM 10900190
+DA 2000-07-20
+ER
+
+PT J
+AU Brauer, M
+   Hirtle, R
+   Lang, B
+   Ott, W
+AF Brauer, M
+   Hirtle, R
+   Lang, B
+   Ott, W
+TI Assessment of indoor fine aerosol contributions from environmental tobacco smoke
+SO Journal of exposure analysis and environmental epidemiology
+LA English
+DT Journal Article
+AB Personal monitoring studies have indicated that environmental tobacco smoke (ETS)  and cooking are major indoor particulate sources in residential and nonindustrial  environments. Continuous monitoring of fine particles improves exposure  assessment by characterizing the effect of time-varying indoor sources. We  evaluated a portable nephelometer as a continuous monitor of indoor particulate  levels. Simultaneous sampling with the nephelometer and PM2.5 impactors was  undertaken to determine the relationship between particle light scattering  extinction coefficient (sigma(sp)) and particle mass concentration in field and  environmental chamber settings. Chamber studies evaluated nephelometer  measurements of ETS and particles produced from toasting bread and frying foods.  Field measurements were conducted in 20 restaurants and bars with different  smoking restrictions, and in five residential kitchens. Additional measurements  compared the nephelometer to a different mass measurement method, a piezobalance,  in a well-characterized residence where various foods were cooked and ETS was  produced. Since the piezobalance provides 2-min average mass concentration  measurements, these comparisons tested the ability of the nephelometer to measure  transient particle concentration peaks and decay rate curves. We found that  sigma(sp) and particle mass were highly correlated (R2 values of 0.63-0.98) over  a large concentration range (5-1600 microg/m3) and for different particle  sources. Piezobalance and gravimetric comparisons with the nephelometer indicated  similar sigma(sp) vs. mass slopes (5.6 and 4.7 m2/g for piezobalance and  gravimetric comparisons of ETS, respectively). Somewhat different sigma(sp) vs.  particle mass slopes (1.9-5.6 m2/g) were observed for the different particle  sources, reflecting the influence of particle composition on light scattering.  However, in similar indoor environments, the relationship between particle light  scattering and mass concentration was consistent enough to use independent  nephelometer measurements as estimates of short-term mass concentrations. A  method to use nephelometer measurements to determine particulate source strengths  is derived and an example application is described.
+C1 The University of British Columbia, School of Occupational and Environmental Hygiene, Vancouver, Canada. brauer@interchange.ubc.ca
+NR 0
+TC 0
+SN 
+EI 1053-424
+J9 J Expo Anal Environ Epidemiol
+PD MAY 3
+PY 2000
+VL 10
+IS 2
+BP 136
+EP 44
+DI 10.1038/sj.jea.7500076
+PG -92
+WC Aerosols; Air Pollution, Indoor; analysis; Cooking; Environmental Monitoring; instrumentation; Humans; Nephelometry and Turbidimetry; instrumentation; Particle Size; Tobacco Smoke Pollution; analysis
+UT PubMed:10791595
+PM 10791595
+DA 2000-05-03
+ER
+
+PT J
+AU Alvarez, LH
+AF Alvarez, L H
+TI On the option interpretation of rational harvesting planning.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB We consider the determination of the harvesting strategy maximizing the present  expected value of the cumulative yield from the present up to extinction. By  relying on a combination of stochastic calculus, ordinary nonlinear programming,  and the classical theory of diffusions, we show that if the underlying population  evolves according to a logistic diffusion subject to a general diffusion  coefficient, then there is a single threshold density at which harvesting should  be initiated in a singular fashion. We derive the condition which uniquely  determines the threshold and show that harvesting should be initiated only when  the option value of further preserving another individual falls below its  opportunity cost. In this way, we present a real option interpretation of  rational harvesting planning. We also consider the comparative static properties  of the value of the harvesting opportunity and state a set of usually satisfied  conditions under which increased stochastic fluctuations (demographic or  environmental) decrease the expected cumulative yield from harvesting and  increase the optimal harvesting threshold, thus postponing the rational exercise  of the irreversible harvesting decision.
+C1 Institute of Applied Mathematics, University of Turku, Finland. alvarez@utu.fi
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JUL 8
+PY 2000
+VL 40
+IS 5
+BP 383
+EP 405
+DI 10.1007/s002859900020
+PG 22
+WC Animals; Conservation of Natural Resources; economics; Ecology; Models, Biological; Numerical Analysis, Computer-Assisted; Population Dynamics; Predatory Behavior; Whales
+UT PubMed:10885589
+PM 10885589
+DA 2000-07-08
+ER
+
+PT J
+AU Silva, JA
+   De, Castro ML
+   Justo, DA
+AF Silva, J A
+   De Castro, M L
+   Justo, D A
+TI Synchronism in a metapopulation model.
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB We consider a spatially explicit meta-population model with interaction among the  two nearest neighbors to relate, with a simple mathematical expression, chaos in  the local, uncoupled, populations, the degree of interaction among patches, size  of the meta-population, and the stability of the synchronized attractor. Since  synchronism is strongly correlated with extinction, our results can provide  useful information on factors leading to population extinction.
+C1 Departamento de Matemática Pura e Aplicada, Universidade Federal do Rio Grande do Sul, Porto Alegre-RS, Brasil. jaqx@mat.ufrgs.br
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD MAY 29
+PY 2000
+VL 62
+IS 2
+BP 337
+EP 49
+DI 10.1006/bulm.1999.0157
+PG -288
+WC Animals; Computer Simulation; Conservation of Natural Resources; Geography; Logistic Models; Models, Biological; Nonlinear Dynamics; Population Dynamics
+UT PubMed:10824433
+PM 10824433
+DA 2000-05-29
+ER
+
+PT J
+AU Purvis, A
+   Agapow, PM
+   Gittleman, JL
+   Mace, GM
+AF Purvis, A
+   Agapow, P M
+   Gittleman, J L
+   Mace, G M
+TI Nonrandom extinction and the loss of evolutionary history.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The hierarchical nature of phylogenies means that random extinction of species  affects a smaller fraction of higher taxa, and so the total amount of  evolutionary history lost may be comparatively slight. However, current  extinction risk is not phylogenetically random. We show the potentially severe  implications of the clumped nature of threat for the loss of biodiversity. An  additional 120 avian and mammalian genera are at risk compared with the number  predicted under random extinction. We estimate that the prospective extra loss of  mammalian evolutionary history alone would be equivalent to losing a monotypic  phylum.
+C1 Department of Biology, Imperial College, Silwood Park, Ascot SL5 7PY, UK. a.purvis@ic.ac.uk
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD APR 15
+PY 2000
+VL 288
+IS 5464
+BP 328
+EP 30
+DI 10.1126/science.288.5464.328
+PG -298
+WC Animals; Biological Evolution; Birds; Carnivora; Computer Simulation; Conservation of Natural Resources; Ecosystem; Humans; Mammals; Phylogeny; Primates; Risk
+UT PubMed:10764644
+PM 10764644
+DA 2000-04-15
+ER
+
+PT J
+AU Hethcote, HW
+   van, den Driessche P
+AF Hethcote, H W
+   van den Driessche, P
+TI Two SIS epidemiologic models with delays.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB The SIS epidemiologic models have a delay corresponding to the infectious period,  and disease-related deaths, so that the population size is variable. The  population dynamics structures are either logistic or recruitment with natural  deaths. Here the thresholds and equilibria are determined, and stabilities are  examined. In a similar SIS model with exponential population dynamics, the delay  destabilized the endemic equilibrium and led to periodic solutions. In the model  with logistic dynamics, periodic solutions in the infectious fraction can occur  as the population approaches extinction for a small set of parameter values.
+C1 Department of Mathematics, University of Iowa, Iowa City, IA 52242, USA. hethcote@math.uiowa.edu
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD FEB 9
+PY 2000
+VL 40
+IS 1
+BP 3
+EP 26
+DI 10.1007/s002850050003
+PG 23
+WC Communicable Diseases; epidemiology; Epidemiology; statistics & numerical data; Humans; Logistic Models; Mathematics; Models, Biological; Periodicity; Population Dynamics
+UT PubMed:10663661
+PM 10663661
+DA 2000-02-09
+ER
+
+PT J
+AU Nani, F
+   Freedman, HI
+AF Nani, F
+   Freedman, H I
+TI A mathematical model of cancer treatment by immunotherapy.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB In this paper, a detailed mathematical study of cancer immunotherapy will be  presented. General principles of cancer immunotherapy and the model equations and  hypotheses will be discussed. Mathematical analyses of the model equations with  regard to dissipativity, boundedness of solutions, invariance of non-negativity,  nature of equilibria, persistence, extinction and global stability will be  analyzed. It will also be shown that bifurcations can occur, and criteria for  total cure will also be derived.
+C1 Department of Mathematical Sciences, University of Alberta, Edmonton, Canada.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD MAR 4
+PY 2000
+VL 163
+IS 2
+BP 159
+EP 99
+DI 10.1016/s0025-5564(99)00058-9
+PG -60
+WC Brain Neoplasms; immunology; Female; Humans; Immunotherapy, Adoptive; Interleukin-2; therapeutic use; Killer Cells, Lymphokine-Activated; immunology; Models, Biological; Neoplasm Metastasis; Neoplasms; immunology; Ovarian Neoplasms; immunology
+UT PubMed:10701303
+PM 10701303
+DA 2000-03-04
+ER
+
+PT J
+AU Webb, TJ
+   Gaston, KJ
+AF Webb, T J
+   Gaston, K J
+TI Geographic range size and evolutionary age in birds.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB Together with patterns of speciation and extinction, post-speciation  transformations in the range sizes of individual species determine the form of  contemporary species range-size distributions. However, the methodological  problems associated with tracking the dynamics of a species' range size over  evolutionary time have precluded direct study of such range-size transformations,  although indirect evidence has led to several models being proposed describing  the form that they might take. Here, we use independently derived molecular data  to estimate ages of species in six monophyletic groups of birds, and examine the  relationship between species age and global geographic range size. We present  strong evidence that avian range sizes are not static over evolutionary time. In  addition, it seems that, with the regular exception of certain taxa (for example  island endemics and some threatened species), range-size transformations are  non-random in birds. In general, range sizes appear to expand relatively rapidly  post speciation; subsequently; and perhaps more gradually, they then decline as  species age. We discuss these results with reference to the various models of  range-size dynamics that have been proposed.
+C1 Department of Animal and Plant Sciences, University of Sheffield, UK. t.j.webb@sheffield.ac.uk
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD OCT 29
+PY 2000
+VL 267
+IS 1455
+BP 1843
+EP 50
+DI 10.1098/rspb.2000.1219
+PG -1793
+WC Animals; Biological Evolution; Birds; classification; Ecosystem; Models, Biological; Phylogeny; Species Specificity; Time Factors
+UT PubMed:11052534
+PM 11052534
+DA 2000-10-29
+ER
+
+PT J
+AU Johnson, MP
+AF Johnson, M P
+TI Temporally explicit habitat ecology and the coexistence of species.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB Habitats may have dynamics that exist independently of the population densities  of species occupying the habitat. For example, ephemeral habitat patches may  disappear regardless of whether a particular species is present or not. Such  habitat dynamics are frequently modelled by ignoring age-related variation in  patch turnover rates. This can be thought of as a temporally implicit approach.  An alternative, temporally explicit approach involves using age-structured models  in order to describe variations in habitat dynamics. Simple models of coexistence  between competing species show that temporally implicit models may be misleading  where there is age-related variation in patch dynamics. Changing the shape of the  patch survivorship function but not the average patch survivorship can result in  mutual extinction, monocultures or coexistence of an inferior and a superior  competitor. An explicit treatment of habitat demography may therefore offer  improved predictive models and alternative landscape management strategies.
+C1 School of Biological Sciences, Division of Biodiversity and Ecology, University of Southampton,UK. mpj@soton.ac.uk
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD NOV 15
+PY 2000
+VL 267
+IS 1456
+BP 1967
+EP 72
+DI 10.1098/rspb.2000.1237
+PG -1895
+WC Animals; Ecosystem; Models, Biological; Population Density; Population Dynamics; Species Specificity
+UT PubMed:11075709
+PM 11075709
+DA 2000-11-15
+ER
+
+PT J
+AU Baker, CS
+   Lento, GM
+   Cipriano, F
+   Palumbi, SR
+AF Baker, C S
+   Lento, G M
+   Cipriano, F
+   Palumbi, S R
+TI Predicted decline of protected whales based on molecular genetic monitoring of
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB We present a two-tiered analysis of molecular genetic variation in order to  determine the origins of whale' products purchased from retail markets in Japan  and the Republic of (South) Korea during 1993-1999. This approach combined  phylogenetic analysis of mitochondrial DNA sequences for identification of  protected species with a statistical comparison of intraspecific haplotype  frequencies for distinguishing regional subpopulations or 'stocks' hunted for  scientific research by the Japanese and killed incidentally in coastal fisheries  by the Koreans. The phylogenetic identification of 655 products included eight  species or subspecies of baleen whales, sperm whales, a pygmy sperm whale, two  species of beaked whales, porpoises, killer whales and numerous species of  dolphins as well as domestic sheep and horses. Six of the baleen whale species  (the fin, sei, common-form and small-form Bryde's, blue or blue/fin hybrid, and  humpback) and the sperm whale are protected by international agreements dating  back to at least 1989 for all species and 1966 for some species. We compared the  haplotype frequencies from the Japanese market sample to those reported from  scientific hunting in the western North Pacific stock for products derived from  the exploited North Pacific minke whale. The market sample differed significantly  from the scientific catch (p < 0.001), showing a greater than expected frequency  of haplotypes characteristic of the protected Sea of Japan stock. We used a  'mixed-stock' analysis and maximum-likelihood methods to estimate that 31% (95%  confidence interval 19-43%) of the market for this species originated from the  Sea of Japan stock. The source of these products was assumed to be undocumented  'incidental takes' from fisheries' by-catch, although we cannot exclude the  possibility of illegal hunting or smuggling. The demographic impact of this  undocumented exploitation was evaluated using the model of population dynamics  adopted by the Scientific Committee of the International Whaling Commission. For  the range of exploitation consistent with the market sample, this protected stock  was predicted to decline towards extinction over the next few decades. These  results confirmed the power of molecular methods in monitoring retail markets and  pointed to the inadequacy of the current moratorium for ensuring the recovery of  protected species. More importantly, the integration of genetic evidence with a  model of population dynamics identified an urgent need for actions to limit  undocumented exploitation of a 'protected' stock of whales.
+C1 School of Biological Sciences, University of Auckland, New Zealand. cs.baker@auckland.ac.nz
+NR 0
+TC 0
+SN 1471-295
+EI 0962-845
+J9 Proc Biol Sci
+PD JUL 21
+PY 2000
+VL 267
+IS 1449
+BP 1191
+EP 9
+DI 10.1098/rspb.2000.1128
+PG -1182
+WC Animals; DNA, Mitochondrial; analysis; Japan; Korea; Meat Products; analysis; Whales; classification
+UT PubMed:10902685
+PM 10902685
+DA 2000-07-21
+ER
+
+PT J
+AU Markov, AV
+AF Markov, A V
+TI [The return of the Red Queen, or the law of the growth in the mean duration of
+SO Zhurnal obshchei biologii
+LA rus
+DT Journal Article
+AB Phanerozoic marine genera apparently do not become less extinction-prone with  age. Higher extinction probability in "young" cohorts of genera is better  explained by initially different levels of extinction-tolerance of genera in the  cohort. This fact agrees with one of the two basic statements of the "Red Queen"  hypothesis (Van Valen, 1973). In the second statement (the idea that the increase  in fitness lowers extinction probability) the term "fitness" should be changed to  "adaptability". The increase of extinction-tolerance, that can be interpreted as  the increase of adaptability to unpredictable changes of environment, is found in  succession of "generations" of genera that replace one another through time. This  increase reveals itself, firstly, in the growth of mean duration of genera, as  well as in the decrease of extinction/origination rates, gradual accumulation of  long-lived genera and origination of genera with higher duration. The increase of  adaptability may be caused by selective extinction of stenotopic, ecologically  specialized forms; Cope's law; evolution of ecosystems that involves development  of more effective mechanisms of sustaining homeostasis which may stimulate the  recovery of a genus after partial extinction.
+C1 Paleontological Institute, Russian Academy of Science, Moscow, Russia.
+NR 0
+TC 0
+SN 
+EI 0044-459
+J9 Zh Obshch Biol
+PD SEP 22
+PY 2000
+VL 61
+IS 4
+BP 357
+EP 70
+DI 
+PG -287
+WC Aging; Animals; Biological Evolution; Longevity; Marine Biology; classification; Time Factors
+UT PubMed:10999002
+PM 10999002
+DA 2000-09-22
+ER
+
+PT J
+AU Brook, BW
+   O'Grady, JJ
+   Chapman, AP
+   Burgman, MA
+   Akçakaya, HR
+   Frankham, R
+AF Brook, B W
+   O'Grady, J J
+   Chapman, A P
+   Burgman, M A
+   Akçakaya, H R
+   Frankham, R
+TI Predictive accuracy of population viability analysis in conservation biology.
+SO Nature
+LA English
+DT Journal Article
+AB Population viability analysis (PVA) is widely applied in conservation biology to  predict extinction risks for threatened species and to compare alternative  options for their management. It can also be used as a basis for listing species  as endangered under World Conservation Union criteria. However, there is  considerable scepticism regarding the predictive accuracy of PVA, mainly because  of a lack of validation in real systems. Here we conducted a retrospective test  of PVA based on 21 long-term ecological studies--the first comprehensive and  replicated evaluation of the predictive powers of PVA. Parameters were estimated  from the first half of each data set and the second half was used to evaluate the  performance of the model. Contrary to recent criticisms, we found that PVA  predictions were surprisingly accurate. The risk of population decline closely  matched observed outcomes, there was no significant bias, and population size  projections did not differ significantly from reality. Furthermore, the  predictions of the five PVA software packages were highly concordant. We conclude  that PVA is a valid and sufficiently accurate tool for categorizing and managing  endangered species.
+C1 Key Centre for Biodiversity and Bioresources, Department of Biological Sciences, Macquarie University, New South Wales, Australia. barry.brook@ntu.edu.au
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD APR 4
+PY 2000
+VL 404
+IS 6776
+BP 385
+EP 7
+DI 10.1038/35006050
+PG -378
+WC Animals; Biological Evolution; Biology; methods; Conservation of Natural Resources; Evaluation Studies as Topic; Population Dynamics; Retrospective Studies; Software
+UT PubMed:10746724
+PM 10746724
+DA 2000-04-04
+ER
+
+PT J
+AU Uyenoyama, MK
+AF Uyenoyama, M K
+TI Evolutionary dynamics of self-incompatibility alleles in Brassica.
+SO Genetics
+LA English
+DT Journal Article
+AB Self-incompatibility in Brassica entails the rejection of pollen grains that  express specificities held in common with the seed parent. In Brassica, pollen  specificity is encoded at the multipartite S-locus, a complex region comprising  many expressed genes. A number of species within the Brassicaceae express  sporophytic self-incompatibility, under which individual pollen grains bear  specificities determined by one or both S-haplotypes of the pollen parent.  Classical genetic and nucleotide-level analyses of the S-locus have revealed a  dichotomy in sequence and function among S-haplotypes; in particular, all class I  haplotypes show dominance over all class II haplotypes in determination of pollen  specificity. Analysis of an evolutionary model that explicitly incorporates  features of the Brassica system, including the class dichotomy, indicates that  class II haplotypes may invade populations at lower rates and decline to  extinction at higher rates than class I haplotypes. This analysis suggests  convergence to an evolutionarily persistent state characterized by the  maintenance in high frequency of a single class II haplotype together with many  class I haplotypes, each in low frequency. This expectation appears to be  consistent with empirical observations of high frequencies of relatively few  distinct recessive haplotypes.
+C1 Department of Zoology, Duke University, Durham, North Carolina 27708-0325, USA. marcy@duke.edu
+NR 0
+TC 0
+SN 
+EI 0016-673
+J9 Genetics
+PD SEP 9
+PY 2000
+VL 156
+IS 1
+BP 351
+EP 9
+DI 10.1093/genetics/156.1.351
+PG -342
+WC Alleles; Biological Evolution; Brassica; genetics; Genes, Plant; Haplotypes; Models, Genetic; Pollen; genetics; Seeds; genetics; Selection, Genetic; Stochastic Processes
+UT PubMed:10978298
+PM 10978298
+DA 2000-09-09
+ER
+
+PT J
+AU Watt, J
+   Siniff, DB
+   Estes, JA
+AF Watt, J
+   Siniff, D B
+   Estes, J A
+TI Inter-decadal patterns of population and dietary change in sea otters at Amchitka
+SO Oecologia
+LA English
+DT Journal Article
+DE Key words Kelp forest; Lumpsucker; Sea urchin; Subsidized food web
+AB After having been hunted to near-extinction in the Pacific maritime fur trade,  the sea otter population at Amchitka Island, Alaska increased from very low  numbers in the early 1900s to near equilibrium density by the 1940s. The  population persisted at or near equilibrium through the 1980s, but declined  sharply in the 1990s in apparent response to increased killer whale predation.  Sea otter diet and foraging behavior were studied at Amchitka from August 1992 to  March 1994 and the data compared with similar information obtained during several  earlier periods. In contrast with dietary patterns in the 1960s and 1970s, when  the sea otter population was at or near equilibrium density and kelp-forest  fishes were the dietary mainstay, these fishes were rarely eaten in the 1990s.  Benthic invertebrates, particularly sea urchins, dominated the otter's diet from  early summer to mid-winter, then decreased in importance during late winter and  spring when numerous Pacific smooth lumpsuckers (a large and easily captured  oceanic fish) were eaten. The occurrence of spawning lumpsuckers in coastal  waters apparently is episodic on a scale of years to decades. The otters' recent  dietary shift away from kelp-forest fishes is probably a response to the  increased availability of lumpsuckers and sea urchins (both high-preference  prey). Additionally, increased urchin densities have reduced kelp beds, thus  further reducing the availability of kelp-forest fishes. Our findings suggest  that dietary patterns reflect changes in population status and show how an  ecosystem normally under top-down control and limited by coastal zone processes  can be significantly perturbed by exogenous events.
+C1 Department of Ecology, Evolution and Behavior, University of Minnesota, 1987 Upper Buford Circle, Saint Paul, MN 55108, USA, , , , , , US.
+   Department of Ecology, Evolution and Behavior, University of Minnesota, 1987 Upper Buford Circle, Saint Paul, MN 55108, USA, , , , , , US.
+   Biological Resources Division, U.S. Geological Survey, A-316 Earth and Marine Sciences Bldg., University of California, Santa Cruz, CA 95064, USA e-mail:jestes@cats.ucsc.edu Tel.: +1-831-4592820, , , , , , US.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD AUG 1
+PY 2000
+VL 124
+IS 2
+BP 289
+EP 298
+DI 10.1007/s004420000373
+PG 9
+UT PubMed:28308190
+PM 28308190
+DA 2000-08-01
+ER
+
+PT J
+AU Poon, A
+   Otto, SP
+AF Poon, A
+   Otto, S P
+TI Compensating for our load of mutations: freezing the meltdown of small
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB We have investigated the reduction of fitness caused by the fixation of new  deleterious mutations in small populations within the framework of Fisher's  geometrical model of adaptation. In Fisher's model, a population evolves in an  n-dimensional character space with an adaptive optimum at the origin. The model  allows us to investigate compensatory mutations, which restore fitness losses  incurred by other mutations, in a context-dependent manner. We have conducted a  moment analysis of the model, supplemented by the numerical results of computer  simulations. The mean reduction of fitness (i.e., expected load) scaled to one is  approximately n/(n+2Ne), where Ne is the effective population size. The  reciprocal relationship between the load and Ne implies that the fixation of  deleterious mutations is unlikely to cause extinction when there is a broad scope  for compensatory mutations, except in very small populations. Furthermore, the  dependence of load on n implies that pleiotropy plays a large role in determining  the extinction risk of small populations. Differences and similarities between  our results and those of a previous study on the effects of Ne and n are  explored. That the predictions of this model are qualitatively different from  studies ignoring compensatory mutations implies that we must be cautious in  predicting the evolutionary fate of small populations and that additional data on  the nature of mutations is of critical importance.
+C1 Department of Zoology, University of British Columbia, Vancouver, Canada. poon@zoology.ubc.ca
+NR 0
+TC 0
+SN 
+EI 0014-382
+J9 Evolution
+PD DEC 7
+PY 2000
+VL 54
+IS 5
+BP 1467
+EP 79
+DI 10.1111/j.0014-3820.2000.tb00693.x
+PG -1388
+WC Animals; Biological Evolution; Computer Simulation; Gene Dosage; Gene Frequency; Genetics, Population; Humans; Markov Chains; Models, Genetic; Models, Statistical; Mutation; Probability; Stochastic Processes
+UT PubMed:11108576
+PM 11108576
+DA 2000-12-07
+ER
+
+PT J
+AU Hughes, JB
+   Daily, GC
+   Ehrlich, PR
+AF Hughes, Jennifer B
+   Daily, Gretchen C
+   Ehrlich, Paul R
+TI Conservation of Insect Diversity: a Habitat Approach.
+SO Conservation biology : the journal of the Society for Conservation Biology
+LA English
+DT Journal Article
+AB Neither time nor resources exist to design conservation plans for every species,  particularly for little-studied, noncharismatic, but ecologically important taxa  that make up most of biodiversity. To explore the feasibility of basing  conservation action on community-level biogeography, we sampled a montane insect  community. We addressed three issues: (1) the appropriate scale for sampling  insect communities; (2) the association of habitat specialization-perhaps a  measure of extinction vulnerability-with other ecological or physical traits; and  (3) the correlation of diversity across major insect groups. Using malaise traps  in Gunnison County, Colorado, we captured 8847 Diptera (identified to family and  morphospecies), 1822 Hymenoptera (identified to morphospecies), and 2107 other  insects (identified to order). We sampled in three habitat types-meadow, aspen,  and conifer-defined on the basis of the dominant vegetation at the scale of  hundreds of meters. Dipteran communities were clearly differentiated by habitat  type rather than geographic proximity. This result also holds true for  hymenopteran communities. Body size and feeding habits were associated with  habitat specialization at the family level. In particular, habitat generalists at  the family level-taxa perhaps more likely to survive anthropogenic habitat  alteration-tended to be trophic generalists. Dipteran species richness was  marginally correlated with hymenopteran species richness and was significantly  correlated with the total number of insect orders sampled by site. Because these  correlations result from differences in richness among habitat types, insect taxa  may be reasonable surrogates for one another when sampling is done across habitat  types. In sum, community-wide studies appear to offer a practical way to gather  information about the diversity and distribution of little-known taxa.
+C1 Center for Conservation Biology, Department of Biological Sciences, Stanford University, Stanford, CA 94305-5020 U.S.A.
+   Center for Conservation Biology, Department of Biological Sciences, Stanford University, Stanford, CA 94305-5020 U.S.A.
+   Center for Conservation Biology, Department of Biological Sciences, Stanford University, Stanford, CA 94305-5020 U.S.A.
+NR 0
+TC 0
+SN 1523-173
+EI 
+J9 Conserv Biol
+PD DEC 18
+PY 2000
+VL 14
+IS 6
+BP 1788
+EP 1797
+DI 10.1111/j.1523-1739.2000.99187.x
+PG 9
+UT PubMed:35701940
+PM 35701940
+DA 2000-12-18
+ER
+
+PT J
+AU Gavrilets, S
+   Acton, R
+   Gravner, J
+AF Gavrilets, S
+   Acton, R
+   Gravner, J
+TI Dynamics of speciation and diversification in a metapopulation.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+AB We develop a simple framework for modeling speciation and diversification as a  continuous process of accumulation of genetic (or morphological) differences  accompanied by species and subpopulation extinction and/or range expansion. This  framework can be used to approach a number of questions such as species-area  distribution, species-range size distribution, the rate of ecological turnover,  asymmetries of range division between sister species, waiting time until  speciation and extinction, the relationship between the geographic range size and  the probability of speciation, the relationships between subpopulation-level  parameters and metapopulation-level parameters, and the effects of taxonomic  level on these rates, distributions, and parameters. We illustrate some of these  applications using numerical simulations. We develop approximations describing  the dependence of the number of different taxonomic units, their average range  size, and the rate of their turnover on the system size, the rate of fixation of  genetic (or morphological) changes in local demes, and the rate of local  extinction and colonization.
+C1 Department of Ecology, University of Tennessee, Knoxville 37996, USA. gavrila@tiem.utk.edu
+NR 0
+TC 0
+SN 
+EI 0014-382
+J9 Evolution
+PD DEC 7
+PY 2000
+VL 54
+IS 5
+BP 1493
+EP 501
+DI 10.1111/j.0014-3820.2000.tb00695.x
+PG -992
+WC Algorithms; Biological Evolution; Ecosystem; Genetic Variation; Genetics, Population; Models, Genetic; Models, Statistical
+UT PubMed:11108578
+PM 11108578
+DA 2000-12-07
+ER
+
+PT J
+AU Ponomareva, NS
+   Voskresenskaya, OG
+   Kamenskii, AA
+   Golubovich, VP
+   Ashmarin, IP
+AF Ponomareva, N S
+   Voskresenskaya, O G
+   Kamenskii, A A
+   Golubovich, V P
+   Ashmarin, I P
+TI Improvements in the selective perception and training of rats using an original
+SO Neuroscience and behavioral physiology
+LA English
+DT Journal Article
+AB This report presents studies on the effects of intranasal administration of five  doses (0.001, 0.01, 0.1, 1, and 10 microg/kg) of a new analog of  arginine-vasopressin fragment AVP(6-9), i.e., D-MPRG, on the learning ability of  rats with positive and negative reinforcement. All doses of the peptide improved  learning. The most effective dose was 0.01 microg/kg, at which the peptide  accelerated the acquisition of a conditioned active avoidance reflex both when  given 1 h before and when given immediately after training sessions. The peptide  had greater effects when animals were trained with negative reinforcement.  Analysis of the results suggests that the action of D-MPRG is mainly on  perception processes, i.e., extraction of the conditioned stimulus from the  environmental surroundings and evaluation and enhancement of its biological  significance. In addition, this peptide prevented extinction of the acquired  habit and improved the processes of consolidation, though this effect was weaker  than its effect on perception.
+C1 M.V. Lomonosov Moscow State University, Russia.
+NR 0
+TC 0
+SN 
+EI 0097-054
+J9 Neurosci Behav Physiol
+PD JUN 29
+PY 2000
+VL 30
+IS 2
+BP 225
+EP 9
+DI 10.1007/BF02463162
+PG -216
+WC Administration, Intranasal; Amnesia, Retrograde; psychology; Animals; Arginine Vasopressin; analogs & derivatives; Blood-Brain Barrier; drug effects; Conditioning, Operant; drug effects; Feeding Behavior; drug effects; Male; Mice; Perception; drug effects; Rats; Stimulation, Chemical
+UT PubMed:10872734
+PM 10872734
+DA 2000-06-29
+ER
+
+PT J
+AU Casavant, NC
+   Scott, L
+   Cantrell, MA
+   Wiggins, LE
+   Baker, RJ
+   Wichman, HA
+AF Casavant, N C
+   Scott, L
+   Cantrell, M A
+   Wiggins, L E
+   Baker, R J
+   Wichman, H A
+TI The end of the LINE?: lack of recent L1 activity in a group of South American
+SO Genetics
+LA English
+DT Journal Article
+AB L1s (LINE-1: Long Interspersed Nuclear Element 1) are present in all mammals  examined to date. They occur in both placental mammals and marsupials and thus  are thought to have been present in the genome prior to the mammalian radiation.  This unusual conservation of a transposable element family for over 100 million  years has led to speculation that these elements provide an advantage to the  genomes they inhabit. We have recently identified a group of South American  rodents, including rice rats (Oryzomys), in which L1s appear to be quiescent or  extinct. Several observations support this conclusion. First, genomic Southern  blot analysis fails to reveal genus-specific bands in Oryzomys. Second, we were  unable to find recently inserted elements. Procedures to enrich for young  elements did not yield any with an intact open reading frame for reverse  transcriptase; all elements isolated had numerous insertions, deletions, and stop  codons. Phylogenetic analysis failed to yield species-specific clusters among the  L1 elements isolated, and all Oryzomys sequences had numerous private mutations.  Finally, in situ hybridization of L1 to Oryzomys chromosomes failed to reveal the  characteristic L1 distribution in Oryzomys with either a homologous or  heterologous probe. Thus, Oryzomys is a viable candidate for L1 extinction from a  mammalian host.
+C1 Department of Biological Sciences, University of Idaho, Moscow 83844, USA.
+NR 0
+TC 0
+SN 
+EI 0016-673
+J9 Genetics
+PD APR 4
+PY 2000
+VL 154
+IS 4
+BP 1809
+EP 17
+DI 10.1093/genetics/154.4.1809
+PG -1792
+WC Animals; Base Sequence; Blotting, Southern; DNA Primers; In Situ Hybridization, Fluorescence; Long Interspersed Nucleotide Elements; Phylogeny; Rodentia; classification
+UT PubMed:10747071
+PM 10747071
+DA 2000-04-04
+ER
+

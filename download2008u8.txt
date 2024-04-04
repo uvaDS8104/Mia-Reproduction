@@ -1,0 +1,233 @@
+PT J
+AU Gurton, KP
+   Ligon, D
+   Kvavilashvili, R
+AF Gurton, K P
+   Ligon, D
+   Kvavilashvili, R
+TI Measured Infrared Spectral Extinction for Aerosolized Bacillus subtilis var.
+SO Applied optics
+LA English
+DT Journal Article
+AB We measured spectral extinction in situ for aerosolized Bacillus subtilis var.  niger endospores using Fourier-transform infrared spectroscopy from 3.0 to 13.0  mum. Corresponding aerosol size distributions were measured with a commercially  available elastic light-scattering probe and verified by direct particle capture  and subsequent counting by video microscopy. Aerosol mass density was monitored  simultaneously with conventional dosimetry and was used to mass normalize the  measured spectral extinction. Mie theory calculations based on measured  distributions and available complex indices of refraction agreed well. We also  present resultant Mie calculations for the absorption, total scattering, and  backscatter. For comparison, measured spectral extinction for three common  environmental aerosols is also presented, i.e., for water fog, diesel soot, and  Arizona road dust.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD MAR 25
+PY 2008
+VL 40
+IS 25
+BP 4443
+EP 8
+DI 10.1364/ao.40.004443
+PG -4435
+UT PubMed:18360483
+PM 18360483
+DA 2008-03-25
+ER
+
+PT J
+AU Ricketts, TH
+AF Ricketts, T H
+TI The matrix matters: effective isolation in fragmented landscapes.
+SO The American naturalist
+LA English
+DT Journal Article
+AB Traditional approaches to the study of fragmented landscapes invoke an  island-ocean model and assume that the nonhabitat matrix surrounding remnant  patches is uniform. Patch isolation, a crucial parameter to the predictions of  island biogeography and metapopulation theories, is measured by distance alone.  To test whether the type of interpatch matrix can contribute significantly to  patch isolation, I conducted a mark-recapture study on a butterfly community  inhabiting meadows in a naturally patchy landscape. I used maximum likelihood to  estimate the relative resistances of the two major matrix types (willow thicket  and conifer forest) to butterfly movement between meadow patches. For four of the  six butterfly taxa (subfamilies or tribes) studied, conifer was 3-12 times more  resistant than willow. For the two remaining taxa (the most vagile and least  vagile in the community), resistance estimates for willow and conifer were not  significantly different, indicating that responses to matrix differ even among  closely related species. These results suggest that the surrounding matrix can  significantly influence the "effective isolation" of habitat patches, rendering  them more or less isolated than simple distance or classic models would indicate.  Modification of the matrix may provide opportunities for reducing patch isolation  and thus the extinction risk of populations in fragmented landscapes.
+C1 Department of Biological Sciences, Stanford University, Stanford, California 94305-5020, USA. ricketts@stanford.edu
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD AUG 19
+PY 2008
+VL 158
+IS 1
+BP 87
+EP 99
+DI 10.1086/320863
+PG 12
+UT PubMed:18707317
+PM 18707317
+DA 2008-08-19
+ER
+
+PT J
+AU Schmitt, JM
+   Kumar, G
+AF Schmitt, J M
+   Kumar, G
+TI Optical scattering properties of soft tissue: a discrete particle model.
+SO Applied optics
+LA English
+DT Journal Article
+AB We introduce a micro-optical model of soft biological tissue thatpermits  numerical computation of the absolute magnitudes of itsscattering coefficients. A  key assumption of the model is that therefractive-index variations caused by  microscopic tissue elements canbe treated as particles with sizes distributed  according to a skewedlog-normal distribution function. In the limit of an  infinitelylarge variance in the particle size, this function has the  samepower-law dependence as the volume fractions of the subunits of anideal  fractal object. To compute a complete set of opticalcoefficients of a  prototypical soft tissue (single-scatteringcoefficient, transport scattering  coefficient, backscatteringcoefficient, phase function, and asymmetry parameter),  we apply Mietheory to a volume of spheres with sizes distributed according to  thetheoretical distribution. A packing factor is included in thecalculation of  the optical cross sections to account for correlatedscattering among tightly  packed particles. The results suggest thatthe skewed log-normal distribution  function, with a shape specified bya limiting fractal dimension of 3.7, is a  valid approximation of thesize distribution of scatterers in tissue. In the  wavelength range 600 </= lambda </= 1400 nm, the diameters of the scatterers  thatcontribute most to backscattering were found to be significantlysmaller  (lambda/4-lambda/2) than the diameters of the scatterersthat cause the greatest  extinction of forward-scattered light(3-4lambda).
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD FEB 15
+PY 2008
+VL 37
+IS 13
+BP 2788
+EP 97
+DI 10.1364/ao.37.002788
+PG -2691
+UT PubMed:18273225
+PM 18273225
+DA 2008-02-15
+ER
+
+PT J
+AU Harding, KC
+   McNamara, JM
+AF Harding, Karin C
+   McNamara, John M
+TI A unifying framework for metapopulation dynamics.
+SO The American naturalist
+LA English
+DT Journal Article
+AB Many biologically important processes, such as genetic differentiation, the  spread of disease, and population stability, are affected by the (natural or  enforced) subdivision of populations into networks of smaller, partly isolated,  subunits. Such "metapopulations" can have extremely complex dynamics. We present  a new general model that uses only two functions to capture, at the  metapopulation scale, the main behavior of metapopulations. We show how complex,  structured metapopulation models can be translated into our generalized  framework. The metapopulation dynamics arising from some important biological  processes are illustrated: the rescue effect, the Allee effect, and what we term  the "antirescue effect." The antirescue effect captures instances where high  migration rates are deleterious to population persistence, a phenomenon that has  been largely ignored in metapopulation conservation theory. Management regimes  that ignore a significant antirescue effect will be inadequate and may actually  increase extinction risk. Further, consequences of territoriality and conspecific  attraction on metapopulation-level dynamics are investigated. The new, simplified  framework can incorporate knowledge from epidemiology, genetics, and population  biology in a phenomenological way. It opens up new possibilities to identify and  analyze the factors that are important for the evolution and persistence of the  many spatially subdivided species.
+C1 Department of Marine Ecology, Göteborg University, Box 461, 405 30 Göteborg, Sweden.
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD AUG 19
+PY 2008
+VL 160
+IS 2
+BP 173
+EP 85
+DI 10.1086/341014
+PG -88
+UT PubMed:18707484
+PM 18707484
+DA 2008-08-19
+ER
+
+PT J
+AU Crowley, PH
+   McLetchie, DN
+AF Crowley, Philip H
+   McLetchie, D Nicholas
+TI Trade-offs and spatial life-history strategies in classical metapopulations.
+SO The American naturalist
+LA English
+DT Journal Article
+AB The metapopulation concept dichotomizes space into the local scale of an  ephemeral patch and the broader scale of the persistent multipatch system. Here,  we consider how the "best" (i.e., optimal or noninvasible) life history of  asexually reproducing organisms might address this dichotomy along environmental  gradients via shifts in two key trade-offs. The expansion-survival trade-off  expresses the relation between the combined growth and propagule production rate  and the mortality rate. The accumulation-export trade-off partitions expansion  into a local accumulation of growth plus propagules retained within the patch and  the potential-colonist propagules dispersed to other patches, although the  dispersal linkages among patches are assumed to be weak (a characteristic of  "classical" metapopulations). We identify the best life histories along gradients  of productivity, stress, and patch extinction rates for a metapopulation with and  without lottery or overgrowth competition, and we compare them with results for  an isolated immortal patch. The two trade-offs interact in determining best life  histories, but this effect is generally small, supporting the validity of studies  addressing the trade-offs separately. The accumulation-export trade-off responds  strongly to the three gradients, increasing export with productivity and with  patch extinction rate when this rate is high but decreasing export with higher  stress; the expansion-survival trade-off increases expansion with productivity  but fails to respond to stress and patch extinction rate gradients, except when  the other trade-off does not occur. By linking the trade-offs to life-history  strategies (i.e., colonization, exploitation, and tolerance), we separate  strategies from phenomenology (i.e., from export, accumulation, and survival)  along the gradients.
+C1 T. H. Morgan School of Biological Sciences and Center for Ecology, Evolution, and Behavior, University of Kentucky, Lexington, Kentucky 40506-0225, USA.
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD AUG 19
+PY 2008
+VL 159
+IS 2
+BP 190
+EP 208
+DI 10.1086/324790
+PG 18
+UT PubMed:18707413
+PM 18707413
+DA 2008-08-19
+ER
+
+PT J
+AU Boots, M
+   Sasaki, A
+AF Boots, Michael
+   Sasaki, Akira
+TI Parasite-driven extinction in spatially explicit host-parasite systems.
+SO The American naturalist
+LA English
+DT Journal Article
+AB General host-parasite theory suggests that parasites may be implicated in the  extinction of their hosts by causing instability that leads to increased risk of  stochastic extinction. In contrast, spatially explicit models suggest that the  parasite may directly drive the host population to extinction. Here we examine  the ecological characteristics of host-parasite interactions that favor  parasite-driven host extinction. Pair approximations and simulations show that  parasites only drive their hosts to extinction when they significantly reduce  host reproduction. As a matter of interest, parasites that have a relatively  small effect on host death rate are more likely to cause host extinction.  Parasite-driven host extinction occurs at any population size, whereas extinction  caused by stochastic effects is less likely to occur in large host populations.  Populations may therefore be under threat from parasites that stop host  reproduction, and this type of parasite may prove to be the most effective  biological pesticide.
+C1 Department of Biological Sciences, University of Stirling, Stirling, Scotland FK9 4LA, United Kingdom.
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD AUG 19
+PY 2008
+VL 159
+IS 6
+BP 706
+EP 13
+DI 10.1086/339996
+PG -693
+UT PubMed:18707391
+PM 18707391
+DA 2008-08-19
+ER
+
+PT J
+AU Doshi, P
+   Jellison, GE
+   Rohatgi, A
+AF Doshi, P
+   Jellison, G E
+   Rohatgi, A
+TI Characterization and optimization of absorbing plasma-enhanced chemical vapor
+SO Applied optics
+LA English
+DT Journal Article
+AB We have optimized plasma-enhanced chemical vapor deposition (PECVD) of SiN-based  antireflection (AR) coatings with special consideration for the short-wavelength  (<600 nm) parasitic absorption in SiN. Spectroscopic ellipsometry was used to  measure the dispersion relation for both the refractive index n and the  extinction coefficient k, allowing a precise analysis of the trade-off between  reflection and absorption in SiN-based AR coatings. Although we focus on  photovoltaic applications, this study may be useful for photodetectors, IR  optics, and any device for which it is essential to maximize the transmission of  light into silicon. We designed and optimized various AR coatings for minimal  average (spectrally) weighted reflectance (? R(w) ?) and average weighted  absorptance (? A (w) ?), using the air mass 1.5 global solar spectrum. In most  situations ? R (w) ? decreased with higher n, but ? A (w) ? increased because k  increased with n. For the practical case of a single-layer AR coating for silicon  under glass, an optimum refractive index of ~2.23 (at 632.8 nm) was determined.  Further simulations revealed that a double-layer SiN stack with an n = 2.42 film  underneath an n = 2.03 film gives the minimum total photocurrent loss. Similar  optimization of double-layer SiN/SiO(2) coatings for silicon in air revealed an  optimum of n = 2.28 for SiN. To determine the allowable tolerance in index and  film thickness, we generated isotransmittance plots, which revealed more leeway  for n values below the optimum than above because absorption begins to reduce  photocurrent for high n values.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD FEB 12
+PY 2008
+VL 36
+IS 30
+BP 7826
+EP 37
+DI 10.1364/ao.36.007826
+PG -7789
+UT PubMed:18264309
+PM 18264309
+DA 2008-02-12
+ER
+
+PT J
+AU Berec, L
+   Boukal, DS
+   Berec, M
+AF Berec, L
+   Boukal, D S
+   Berec, M
+TI Linking the allee effect, sexual reproduction, and temperature-dependent sex
+SO The American naturalist
+LA English
+DT Journal Article
+AB We develop a spatially explicit, two-sex, individual-based model (IBM) and a  derived spatially homogeneous model (SHM) to describe the Allee effect due to  scarcity of mating possibilities at low population sizes or densities. The SHM,  based on coupled difference equations, represents the first spatially homogeneous  approach to this phenomenon, which differentiates between sexes and relies only  on measurable population parameters. The IBM reinforces the findings of the SHM  by adopting more realistic mate search strategies of diffusive movement and  active search. Both models are characterized by a hyperbolic-shaped extinction  boundary in the male-female state space, which contrasts with a linear boundary  in one-dimensional models of the Allee effect. We examine how the position of the  extinction boundary depends on population demography (primary sex ratio,  reproduction and mortality probabilities) and adopted mate search strategies. The  investigation of different phases in the IBM dynamics emphasizes the differences  between local and global densities and shows the importance of scale when  assessing the Allee effect. To demonstrate the potential application of our  models, we combine the SHM and available data to predict the impact of  environmental temperature changes on two turtle species with  temperature-dependent sex determination.
+C1 Department of Theoretical Biology, Institute of Entomology, Academy of Sciences of the Czech Republic and Faculty of Biological Sciences, University of SouthBohemia, Branisovská 31, 370 05 Ceské Budejovice, Czech Republic.
+NR 0
+TC 0
+SN 1537-532
+EI 
+J9 Am Nat
+PD AUG 19
+PY 2008
+VL 157
+IS 2
+BP 217
+EP 30
+DI 10.1086/318626
+PG -187
+UT PubMed:18707273
+PM 18707273
+DA 2008-08-19
+ER
+

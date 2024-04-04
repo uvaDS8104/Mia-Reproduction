@@ -1,0 +1,675 @@
+PT J
+AU Avise, JC
+   Neigel, JE
+   Arnold, J
+AF Avise, J C
+   Neigel, J E
+   Arnold, J
+TI Demographic influences on mitochondrial DNA lineage survivorship in animal
+SO Journal of molecular evolution
+LA English
+DT Journal Article
+AB Probability models of branching processes and computer simulations of these  models are used to examine stochastic survivorship of female lineages under a  variety of demographic scenarios. A parameter II, defined as the probability of  survival of two or more independent lineages over G generations, is monitored as  a function of founding size of a population, population size at carrying  capacity, and the frequency distributions of surviving progeny. Stochastic  lineage extinction can be very rapid under certain biologically plausible  demographic conditions. For stable-sized populations initiated by n females  and/or regulated about carrying capacity k = n, it is highly probable that within  about 4n generations all descendants will trace their ancestries to a single  founder female. For a given mean family size, increased variance decreases  lineage survivorship. In expanding populations, however, lineage extinction is  dramatically slowed, and the final k value is a far more important determinant of  II than is the size of the population at founding. The results are discussed in  the context of recent empirical observations of low mitochondrial DNA (mtDNA)  sequence heterogeneity in humans and expected distributions of asexually  transmitted traits among sexually reproducing species.
+NR 0
+TC 0
+SN 
+EI 0022-284
+J9 J Mol Evol
+PD JAN 1
+PY 1984
+VL 20
+IS 2
+BP 99
+EP 105
+DI 10.1007/BF02257369
+PG 6
+WC Animals; Biological Evolution; DNA, Mitochondrial; genetics; Humans; Polymorphism, Genetic; Stochastic Processes
+UT PubMed:6433037
+PM 6433037
+DA 1984-01-01
+ER
+
+PT J
+AU Collins, NM
+AF Collins, N M
+TI The impact of population pressure on conservation and development.
+SO Research in reproduction
+LA English
+DT Journal Article
+DE Demographic Factors; Development Planning; Economic Development; Economic Factors; Environment; Land Supply; Natural Resources; Population; Population Dynamics; Population Growth; Socioeconomic Factors
+NR 0
+TC 0
+SN 
+EI 0034-525
+J9 Res Reprod
+PD JAN 1
+PY 1984
+VL 1
+IS 1
+BP 1
+EP 2
+DI 
+PG 1
+WC Agriculture; Conservation of Natural Resources; Demography; Economics; Environment; Population; Population Dynamics; Population Growth; Social Planning; Socioeconomic Factors
+UT PubMed:12265923
+PM 12265923
+DA 1984-01-01
+ER
+
+PT J
+AU Kim, HJ
+   Mee, LK
+   Adelstein, SJ
+   Taub, IA
+   Carr, SA
+   Reinhold, VN
+AF Kim, H J
+   Mee, L K
+   Adelstein, S J
+   Taub, I A
+   Carr, S A
+   Reinhold, V N
+TI Binding site specificity of gamma-radiation-induced crosslinking between
+SO Radiation research
+LA English
+DT Journal Article
+AB The binding site specificity of crosslinking mediated by the hydroxyl radical has  been investigated in a simple model system: a tetrapeptide, Gly-Gly-Phe-Leu, and  14C-labeled phenylalanine. Crosslinking leads to the tetrapeptide-phenylalanine  adduct which has been isolated by gel filtration. The amino acid analysis of  these adducts compared with those of gamma-radiation-induced dimers of the  tetrapeptide and of the dipeptide, Gly-Phe, shows that only the phenylalanine  residue is affected and that the same new peaks appear in each case.  Spectrophotometric measurement indicates that the extinction coefficient at 260  nm of dimeric tetrapeptide is four times higher than that of monomeric, as is  dimeric phenylalanine compared to monomeric. These observations suggest a common  crosslinking mechanism in all three cases that involves the aromatic ring of  phenylalanine. The appearance of several radioactive peaks in the gel filtration  separation of the acid hydrolysate of the adduct suggests that the crosslinking  involves more than one possible modification of the phenylalanine. Three distinct  tetrapeptide-Phe species, corresponding to molecular weights of 555, 573, and  591, were observed by fast atom bombardment mass spectrometry. The partial  release of radioactive phenylalanine from the tetrapeptide-phenylalanine adducts  by acid hydrolysis indicates the liability of some phenylalanine-phenylalanine  bonds.
+NR 0
+TC 0
+SN 
+EI 0033-758
+J9 Radiat Res
+PD OCT 1
+PY 1984
+VL 100
+IS 1
+BP 30
+EP 40
+DI 
+PG 10
+WC Amino Acids; analysis; Binding Sites; Cobalt Radioisotopes; Enkephalin, Leucine; analogs & derivatives; Gamma Rays; Gas Chromatography-Mass Spectrometry; Phenylalanine; radiation effects
+UT PubMed:6494430
+PM 6494430
+DA 1984-10-01
+ER
+
+PT J
+AU Surlyk, F
+   Johansen, MB
+AF Surlyk, F
+   Johansen, M B
+TI End-cretaceous brachiopod extinctions in the chalk of denmark.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB The results of a detailed study of the brachiopods of the most complete  Cretaceous-Tertiary boundary in Denmark, Nye Klslashed circlev, show an  extinction pattern for this marine invertebrate group compatible with that  reported for pelagic foraminifera and coccoliths and with the impact scenario.  The extinction is abrupt, coinciding with the Maastrichtian-Danian boundary.  There is no warning in the form of decreasing density, decreasing diversity, or  early extinction of specialized groups. The basal few meters of the Danian are  almost devoid of brachiopods, and a Danian brachiopod fauna starts almost as  abruptly as the Maastrichtian fauna disappeared. The new fauna is similar to the  Maastrichtian as regards density and diversity, and at maximum six species are  common to both stages. The northwest European Masstrichtian chalk is composed  mainly of the remains of coccoliths and pelagic foraminifera. The mass extinction  of these groups led to a total cessation of chalk production. The chalk is  overlain by a thin clay bed deposited partly under anoxic conditions. This  combination of anoxia and clay deposition coupled with a cessation of  productivity led to the extinction of specialized groups such as the chalk  brachiopods. The surviving species included forms that could survive in  well-aerated shallow marine waters on substrates other than chalk.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAR 16
+PY 1984
+VL 223
+IS 4641
+BP 1174
+EP 7
+DI 10.1126/science.223.4641.1174
+PG -1167
+UT PubMed:17742931
+PM 17742931
+DA 1984-03-16
+ER
+
+PT J
+AU Killeen, PR
+AF Killeen, P R
+TI Incentive theory III: Adaptive clocks.
+SO Annals of the New York Academy of Sciences
+LA English
+DT Journal Article
+AB Incentive theory is extended to address the phenomenon of autoshaping. To do so,  it is necessary to permit the speed of the animal's internal clock to vary with  rates of reinforcement; clock speed is the basis for the animal's calculations of  reinforcement densities. This notion of an "adaptive clock" is consistent with  other effects, such as the partial-reinforcement extinction effect, and permits  us to deal with the various experimental manipulations that are found in  autoshaping experiments from a unified perspective.
+NR 0
+TC 0
+SN 
+EI 0077-892
+J9 Ann N Y Acad Sci
+PD JAN 1
+PY 1984
+VL 423
+IS 
+BP 515
+EP 27
+DI 10.1111/j.1749-6632.1984.tb23456.x
+PG -488
+WC Animals; Arousal; Association Learning; Biological Clocks; Columbidae; Conditioning, Psychological; Discrimination Learning; Mental Recall; Reinforcement Schedule; Time Perception
+UT PubMed:6588811
+PM 6588811
+DA 1984-01-01
+ER
+
+PT J
+AU Bowers, WS
+AF Bowers, W S
+TI Insect-plant interactions: endocrine defences.
+SO Ciba Foundation symposium
+LA English
+DT Journal Article
+AB It is the inevitable consequence of evolution that competitive species living  together in a restricted space must try to exclude each other. Plants and insects  are prime examples of this eternal competition, and although neither of these is  in danger of extinction, their mutual defensive strategies are of compelling  interest to the human race. Plant defences based on the insecticidal activity of  certain of their secondary chemicals are readily apparent. Only through research  into the fundamentals of insect physiology and biochemistry are more subtle  defensive mechanisms revealed, linked to the disruption of the insect endocrine  system. A diverse number of chemical structures are found in plants, which  interfere with hormone-mediated processes in insects. Examples include: mimics of  the insect's juvenile hormones such as juvabione from the balsam fir and the  juvocimenes from sweet basil, which lethally disrupt insect development, and the  precocenes found in Ageratum species, which act as anti-juvenile hormonal agents.  The latter appear to serve as 'suicide substrates', undergoing activation into  cytotoxins when acted on by specialized enzymes resident in the insect endocrine  gland (corpus allatum) that is responsible for juvenile hormone biosynthesis and  secretion. Consideration of these plant defensive strategies, which have been  reached through aeons of evolutionary experimentation, may assist the human race  in its defences against its principal competitors for food, fibre and health.
+NR 0
+TC 0
+SN 
+EI 0300-520
+J9 Ciba Found Symp
+PD JAN 1
+PY 1984
+VL 102
+IS 
+BP 119
+EP 37
+DI 10.1002/9780470720837.ch8
+PG -82
+WC Adaptation, Biological; Animals; Insect Hormones; Insecta; physiology; Plant Physiological Phenomena
+UT PubMed:6559111
+PM 6559111
+DA 1984-01-01
+ER
+
+PT J
+AU Merrill, SJ
+AF Merrill, S J
+TI Stochastic models of tumor growth and the probability of elimination by cytotoxic
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB The probability of tumor extinction due to the action of cytotoxic cell  populations is investigated by several one dimensional stochastic models of the  population growth and elimination processes of a tumor. The several models are  made necessary by the nonlinearity of the processes and the different parameter  ranges explored. The deterministic form of the model is T' = gamma 0T - k'6T/(K1  + T) where gamma 0, k'6 and K1 are positive constants. The parameter of most  import is lambda 0 = gamma 0 - k'6/K1 which determines the stability of the T = 0  equilibrium. With an initial tumor size of one, a (linear) branching process is  used to estimate the extinction probability. However, in the case lambda = 0 when  the linearization of the deterministic model gives no information (T = 0 is  actually unstable) the branching model is unsatisfactory. This makes necessary  the utilization of a density-dependent branching process to approximate the  population. Through scaling a diffusion limit is reached which enables one to  again compute the probability of extinction. For populations away from one a  sequence of density-dependent jump Markov processes are approximated by a  sequence of diffusion processes. In limiting cases, the estimates of extinction  correspond to that computed from the original branching process. Table 1  summarizes the results.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1984
+VL 20
+IS 3
+BP 305
+EP 20
+DI 10.1007/BF00275990
+PG -285
+WC Cell Survival; Cytotoxicity, Immunologic; Killer Cells, Natural; immunology; Models, Biological; Neoplasms; immunology; Probability; Stochastic Processes
+UT PubMed:6502031
+PM 6502031
+DA 1984-01-01
+ER
+
+PT J
+AU Jell, RM
+   Ireland, DJ
+   Lafortune, S
+AF Jell, R M
+   Ireland, D J
+   Lafortune, S
+TI Human optokinetic afternystagmus. Slow-phase characteristics and analysis of the
+SO Acta oto-laryngologica
+LA English
+DT Journal Article
+AB Events following the extinction of lights after 1-minute exposures of naive,  normal subjects to an optokinetic stimulus at 40 deg/sec have been closely  examined and quantified. Mean eye displacement in each slow phase decreased from  10.12 +/- 1.61 deg during optokinetic nystagmus (OKN) to 3.36 +/- 2.32 deg during  optokinetic afternystagmus (OKAN). Slow-phase duration increased from 0.26 +/-  0.03 sec during OKN to 0.45 +/- 0.195 sec during OKAN. Eye displacement per slow  phase remained fairly constant during OKAN, suggesting a spatial reference for  the resetting of gaze. OKAN decay is a two-component process which can be closely  approximated by a sum of two exponentials, one with a short time constant of 1.15  sec and the other with a long time constant of 48.8 sec. OKAN decay commenced at  a time after lights out which depended upon the presence and timing of an  intervening fast phase. When a fast phase intervened, OKAN decay commenced about  230 msec after it, and about 460 msec after lights out. When lights out occurred  during the fast phase, OKAN decay commenced about 340 msec later.
+NR 0
+TC 0
+SN 
+EI 0001-648
+J9 Acta Otolaryngol
+PD NOV 1
+PY 1984
+VL 98
+IS 5-6
+BP 462
+EP 71
+DI 10.3109/00016488409107587
+PG -391
+WC Adult; Electrooculography; Female; Humans; Male; Models, Biological; Nystagmus, Physiologic; Vestibular Function Tests; Visual Pathways
+UT PubMed:6524342
+PM 6524342
+DA 1984-11-01
+ER
+
+PT J
+AU Ratcliffe, DA
+AF Ratcliffe, D A
+TI POST-MEDIEVAL AND RECENT CHANGES IN BRITISH VEGETATION: THE CULMINATION OF HUMAN
+SO The New phytologist
+LA English
+DT Journal Article
+DE British vegetation; Post-medieval vegetational changes; human influence; recent vegetational changes
+AB Although measurable climatic fluctuation in temperature and wetness has occurred  between A.D. 1700 and 1984, lack of earlier records and the complicating effects  of human influence militate against detection of vegetational response in  Britain. Vegetational change during this period is thus regarded as almost  entirely the result of anthropogenic factors. Agriculture, now affecting c. 80%  of Britain's surface, is overwhelmingly the most important such factor. Original  vegetation had been mostly destroyed or heavily modified by a.d. 1700, notably  through removal of the former forest cover and draining of lowland wetlands. The  last 300 years have seen continuing development of farming and other land uses,  to the point where very little natural vegetation now remains, and the main  extent of semi-natural types is located in the uplands. Many distinctive  semi-natural vegetation types actually created by man over several centuries of  low input-low output management have decreased greatly since A.D. 1700, and rate  of loss has even accelerated since 1940-1950. Only 5% of permanent lowland  grasslands now remain agriculturally unimproved neutral grassland and only an  estimated 20% of the extent of pre-1940 calcareous grassland is now assignable to  that category floristically. Lowland acidic heath has declined by 78% in area  since A.D. 1830, and by 40% of the 1950 level. Lowland rich fens are reduced to  scattered remnants, the largest expanse (the East Anglian Fenland) having  decreased from 3380 km(2) in ad 1630 to 10 km(2) in 1984. Forest cover was  reduced to 5·4% by 1924, but has increased to 9·4%, largely through planting of  alien conifers in upland districts. Since 1930 an overall 46 % of ancient  semi-natural broadleaved woodland has been lost, largely by conversion to conifer  plantation but also through grubbing out. An estimated 300000 ha of ancient  semi-natural woodland remains, representing 14% of existing woodland and 1·3% of  Britain's land surface. The total extent of hedges in England and Wales was  reduced by an estimated 140000 miles (28%) between 1946-1947 and 1974.  Urban-industrial growth, including roads, railways, water-use, mineral extraction  and energy generation, has directly obliterated large areas of vegetation and  caused chemical pollution. Waste ground associated with these activities often  develops semi-natural plant communities through spontaneous succession, and may  become floristically rich. Pollution affects especially fresh water through both  toxic residues and eutrophication from nutrient enrichment (including run-off of  agricultural fertilizers). Atmospheric pollution causes acid deposition  especially damaging locally to the lichen flora, and induces biological changes  in lakes and rivers in districts of acidic rocks. Recreational pressures have  caused increasing disturbance to vegetation locally, and less directly through  working of Sphagnum bogs for horticultural moss litter and surface mining of  limestone pavements for rockery stone. Collecting of plants as a hobby has also  brought some species, notably rare ferns, orchids and'alpines'to dangerously low  population levels, or even local extinction. The British flora has been  profoundly modified by human influence. Only 19 vascular species are known to  have become extinct, but many have declined greatly during the last 300 years  and, for species in some habitats, especially semi-natural grasslands, rate of  decrease has accelerated since 1940. Of 317 nationally rare species 117 (37%)  have declined by at least 33 % since 1930. Human agency has also introduced to  Britain at least 239 plant species which now grow wild, and extended the  distribution of at least 363 others. Some are still increasing but others,  notably weeds of arable land, are decreasing again. Conservation measures include  setting up nature reserves to contain adequate representation of all semi-natural  and natural vegetation types, and of populations of all native plant species. The  aim is to give protected area status to c. 10% of Britain's surface through  appropriate control and management designed to maintain or enhance the nature  conservation interest. At present c. 1% is managed as nature reserve of one or  other category and another 6% has been designated as Sites of Special Scientific  Interest. Wild plants are now legally protected against unauthorized picking and  uprooting, and 61 rare species are protected by special measures. Wider  environmental conservation measures to reduce damaging human impact on vegetation  and flora include inputs to and by local authorities and their planning system,  persuasion of landowners and resource managers, and pollution control; supported  by an educational and publicity programme, and by relevant research and  information.
+C1 Nature Conservancy Council, Godwin House, George Street, Huntingdon, PE18 6 BU, UK.
+NR 0
+TC 0
+SN 1469-813
+EI 
+J9 New Phytol
+PD SEP 1
+PY 1984
+VL 98
+IS 1
+BP 73
+EP 100
+DI 10.1111/j.1469-8137.1984.tb06099.x
+PG 27
+UT PubMed:29681120
+PM 29681120
+DA 1984-09-01
+ER
+
+PT J
+AU Poulos, CX
+   Hinson, RE
+AF Poulos, C X
+   Hinson, R E
+TI A homeostatic model of Pavlovian conditioning: tolerance to scopolamine-induced
+SO Journal of experimental psychology. Animal behavior processes
+LA English
+DT Journal Article
+AB Several experiments support a model proposing that tolerance to  scopolamine-induced adipsia involves an interplay between processes of  homeostatic regulation and Pavlovian conditioning. In Experiment 1a, rats given  access to water while under the influence of scopolamine developed adipsic  tolerance, whereas rats denied access to water in the drug state did not. In  Experiment 1b, rats displayed adipsic tolerance only when scopolamine was  administered with cues associated with previous drug injections. In Experiment  1c, adipsic-tolerant rats showed a polydipsic response to an injection of  phenobarbital (which unconditionally augments water consumption) relative to  nontolerant animals with the same pharmacological history. Experiment 2 assessed  the effect of deprivation level on the Pavlovian extinction of adipsic tolerance.  Rats satiated with water during extinction showed a loss of adipsic tolerance,  whereas water-deprived rats did not. The present model is discussed in relation  to (a) tolerance in other response systems such as morphine analgesia, (b)  theories of extinction for nonpharmacological Pavlovian conditioning, and (c)  homeostatic regulation and incentive motivation.
+NR 0
+TC 0
+SN 
+EI 0097-740
+J9 J Exp Psychol Anim Behav Process
+PD JAN 1
+PY 1984
+VL 10
+IS 1
+BP 75
+EP 89
+DI 
+PG 14
+WC Animals; Conditioning, Classical; drug effects; Cues; Drinking; drug effects; Drug Tolerance; Homeostasis; drug effects; Male; Models, Biological; Models, Psychological; Rats; Rats, Inbred Strains; Scopolamine; pharmacology; Water Deprivation
+UT PubMed:6707582
+PM 6707582
+DA 1984-01-01
+ER
+
+PT J
+AU Chock, SP
+   Huang, CY
+AF Chock, S P
+   Huang, C Y
+TI An optimized continuous assay for cAMP phosphodiesterase and calmodulin.
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB A continuous spectrophotometric assay for cAMP phosphodiesterase has been  optimized and adopted for assaying calmodulin in biological samples. This method  utilizes the coupled enzyme reactions of myokinase, pyruvate kinase, and lactic  acid dehydrogenase. The effective molar extinction coefficient for this method is  1.25 X 10(4) at 340 nm. A point-assay method capable of handling a large number  of samples has also been established. This same procedure can also be adopted for  the assay of calcineurin and other calmodulin-binding proteins.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD APR 1
+PY 1984
+VL 138
+IS 1
+BP 34
+EP 43
+DI 10.1016/0003-2697(84)90765-6
+PG 9
+WC 3',5'-Cyclic-AMP Phosphodiesterases; analysis; Animals; Brain; enzymology; Calmodulin; analysis; Calmodulin-Binding Proteins; Cattle; Dogs; Electrophorus; Phosphoprotein Phosphatases; analysis; Rats; Spectrophotometry, Ultraviolet
+UT PubMed:6329036
+PM 6329036
+DA 1984-04-01
+ER
+
+PT J
+AU Escalante-Semerena, JC
+   Rinehart, KL Jr
+   Wolfe, RS
+AF Escalante-Semerena, J C
+   Rinehart, K L Jr
+   Wolfe, R S
+TI Tetrahydromethanopterin, a carbon carrier in methanogenesis.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Evidence obtained by 13C NMR spectroscopy indicates that tetrahydromethanopterin  (H4MPT) serves as a carbon carrier for C1 units at the methine, methylene, and  methyl levels of oxidation. All three derivatives of H4MPT served as substrates  for methanogenesis by cell extracts under a hydrogen atmosphere; in each  instance, methane evolved at a rate comparable to that obtained when  2-(methylthio)ethanesulfonic acid was used as the substrate. Each C1 derivative  of H4MPT stimulated the reduction of CO2 as efficiently as  2-(methylthio)ethanesulfonic acid. High resolution fast atom bombardment mass  spectrometry indicated that the product of the spontaneous reaction of  formaldehyde with H4MPT was methylene-H4MPT, with the molecular formula  C31H45N6O16P. 13C NMR spectroscopy of hexamethylenetetramine, a model compound,  suggested that the methylene group in methylene-H4MPT was bound to two nitrogen  atoms. Molecular formulas of C31H44N6O16P and C31H47N6O16P were assigned to  methenyl-H4MPT+, and methyl-H4MPT, by high resolution fast atom bombardment mass  spectrometry. 1H NMR spectroscopy of methyl-H4MPT indicated that the methyl group  was bound to a nitrogen atom. Sensitivity of each derivative to oxygen was noted.  Apparent extinction coefficients of H4MPT and its derivatives were recorded.  Evidence for the enzymatic synthesis of methylene-H4MPT from methenyl-H4MPT+ is  presented.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD AUG 10
+PY 1984
+VL 259
+IS 15
+BP 9447
+EP 55
+DI 
+PG -9392
+WC Chemical Phenomena; Chemistry, Physical; Chromatography, Gel; Euryarchaeota; metabolism; Gas Chromatography-Mass Spectrometry; Magnetic Resonance Spectroscopy; Mass Spectrometry; Methane; biosynthesis; Pterins; metabolism; Spectrometry, Fluorescence
+UT PubMed:6547718
+PM 6547718
+DA 1984-08-10
+ER
+
+PT J
+AU Freedman, JH
+   Peisach, J
+AF Freedman, J H
+   Peisach, J
+TI Determination of copper in biological materials by atomic absorption
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB A new method for the determination of copper in biological materials by graphite  furnace atomic absorption spectroscopy is presented. This new procedure is an  extension of the classic method of standard additions, where the analyte  concentration is determined in a series of identical samples to which various  amounts of metal standard have been added. The concentration of metal in the  original sample is determined from an extrapolation of a plot of absorbance  versus added analyte. In the new method, the amount of copper is determined by  the method of standard additions for different concentrations of the sample under  investigation as well. From an extrapolation of the data, the concentration of  copper in the absence of interfering matrix is obtained. Studies with fetal  bovine serum demonstrate that the new extrapolation technique is precise.  Furthermore, considerably more copper is detected than by the classic method of  standard additions applied to a nitric acid treated sample. The matrix effects of  phosphate, nitrate, albumin, and serum were also examined. Both phosphate and  serum, at physiological pH, decrease the detectability of added copper, while  nitrate and albumin were without effect. The accuracy of this method has been  verified by determining the extinction coefficients of stellacyanin and azurin.  The values obtained, 4.33 X 10(3) and 3.75 X 10(3) M-1 cm-1, respectively, are  considerably different from those determined by the method of standard additions  on nitric acid digests of these proteins, but were close to values previously  reported and determined colorimetrically.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD SEP 1
+PY 1984
+VL 141
+IS 2
+BP 301
+EP 10
+DI 10.1016/0003-2697(84)90046-0
+PG -291
+WC Animals; Azurin; Bacterial Proteins; Cattle; Chemical Phenomena; Chemistry; Copper; analysis; Fetus; blood supply; Metalloproteins; Plant Proteins; Serum Albumin, Bovine; analysis; Spectrophotometry, Atomic; methods
+UT PubMed:6496940
+PM 6496940
+DA 1984-09-01
+ER
+
+PT J
+AU Heaney, LR
+AF Heaney, Lawrence R
+TI Mammalian species richness on islands on the Sunda Shelf, Southeast Asia.
+SO Oecologia
+LA English
+DT Journal Article
+AB A rich mammalian fauna is found on islands that lie on the Sunda Shelf, a  continental shelf extending from Vietnam to Borneo and Java that was periodically  exposed as dry land during the Pleistocene. The correlation between log of island  area and number of species is high (r (2)=0.94); the slope of the curve is  moderate (z=0.235). Distance from small islands to "source areas" (=Borneo,  Sumatra, and the Malay Peninsula) does not appear to affect species richness, nor  does depth of water to source area (a measure of isolation time). A species-area  curve for forest reserves of varying sizes on the Malay Peninsula has a low slope  (z=0.104); comparison of the mainlaind and island curves indicates that  decreasing island area is strongly correlated with increased extinction.  Extinction has left reduced but ecologically balanced sets of species on all  islands, except that carnivores are under-represented on all but the largest  islands. Initial body size and rarity appear to play a significant role in  determining the probability of extinction of individual species.
+C1 Museum of Zoology and Division of Biological Sciences, University of Michigan, 48109, Ann Arbor, MI, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD JAN 1
+PY 1984
+VL 61
+IS 1
+BP 11
+EP 17
+DI 10.1007/BF00379083
+PG 6
+UT PubMed:28311380
+PM 28311380
+DA 1984-01-01
+ER
+
+PT J
+AU Minnich, M
+   Kueppers, F
+   James, H
+AF Minnich, M
+   Kueppers, F
+   James, H
+TI Alpha-1-antitrypsin from mouse serum isolation and characterization.
+SO Comparative biochemistry and physiology. B, Comparative biochemistry
+LA English
+DT Journal Article
+AB Alpha-1-antitrypsin (alpha-1-protease inhibitor) was isolated from mouse serum by  a series of electrophoretic and chromatographic steps. We found it to be a  glycoprotein of a mass ratio of 57.7 Kd. The extinction coefficient was  E1%1cm,280=4.74. It inhibits bovine trypsin, human granulocytic and porcine  pancreatic elastase. Its concentration in serum differs between inbred strains.  Of those tested the concentration in C57BL/6J males was lowest with 5.58 +/- 0.71  mg/ml (females: 3.02 +/- 0.39) and that in DBA/2J was highest: 8.5 +/- 0.87 mg/ml  (females: 4.09 +/- 0.51). The concentration of alpha-1-antitrypsin in male serum  was almost twice as high as that in females of all strains tested.
+NR 0
+TC 0
+SN 
+EI 0305-049
+J9 Comp Biochem Physiol B
+PD JAN 1
+PY 1984
+VL 78
+IS 2
+BP 413
+EP 9
+DI 10.1016/0305-0491(84)90051-8
+PG -404
+WC Amino Acids; analysis; Animals; Heterozygote; Mice; Mice, Inbred C57BL; Mice, Inbred DBA; Molecular Weight; alpha 1-Antitrypsin; analysis
+UT PubMed:6331982
+PM 6331982
+DA 1984-01-01
+ER
+
+PT J
+AU Murphy, EA
+   Renie, WA
+AF Murphy, E A
+   Renie, W A
+TI The dynamics of quantifiable homeostasis. IV: Zero-order homeostasis.
+SO American journal of medical genetics
+LA English
+DT Journal Article
+AB A zero-order homeostatic process is one in which the corrective force a has sign  opposite to that of what the displacement from the homing value was one lag (L)  time earlier, but is unrelated to magnitude of displacement. The properties of a  zero-order process are considered in some detail. Its stable state is an  oscillation with a period of 4L and a maximum amplitude of aL. It is suggested  that this property is exploited in evolution for intrinsically rhythmical  processes, and several examples (respiration, menstruation, and heart beat) are  discussed. The parameters may be modulated by an ancillary cybernetic (retreat)  circuit and hence the properties of the oscillation controlled as need be.  Zero-order oscillation has means of conserving information through phase shifts.  Also, when it is combined with a linear cybernetic process (with restoration  constant b), it prevents information in the latter from dying out, even if Lb is  less than pi/2 (which in a pure linear process would ensure extinction of all  signs of perturbation). A further elaboration is the Dilman process of zero order  in which there is a threshold of displacement below which homeostatic responses  are not evoked. The merits of the value of the threshold are discussed. The  properties of the zero-order process with a first-order retreat function furnish  a tentative explanation for why hormonal homeostasis does not operate directly  through the pituitary but involves the hypothalamus and intermediate  hormone-releasing factors.
+NR 0
+TC 0
+SN 
+EI 0148-729
+J9 Am J Med Genet
+PD MAY 1
+PY 1984
+VL 18
+IS 1
+BP 99
+EP 113
+DI 10.1002/ajmg.1320180114
+PG 14
+WC Blood Pressure; Cybernetics; Female; Heart; physiology; Homeostasis; Hormones; metabolism; Humans; Male; Mathematics; Menarche; Models, Biological; Muscle Tonus; Pituitary Gland; physiology; Probability
+UT PubMed:6741998
+PM 6741998
+DA 1984-05-01
+ER
+
+PT J
+AU Costantini, MG
+   Pearlmutter, AF
+AF Costantini, M G
+   Pearlmutter, A F
+TI Properties of the specific binding site for arginine vasopressin in rat
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB In a previous paper (Pearlmutter, A. F., Constantini, M. G., and Loeser, B.  (1983) Peptides 4, 335-341), we have shown that saturable, high-affinity binding  sites for [3H]arginine vasopressin (AVP) are located in rat brain membrane  preparations. Binding was dependent upon the presence of Ni2+ and could be  dissociated by EDTA. In the hippocampus, [3H]AVP binding could be localized to  synaptic membranes. In this paper, we characterize in more depth the specificity  of [3H]AVP binding to a crude hippocampal synaptic preparation and the metabolism  of [3H]AVP in our synaptic preparation. By means of HPLC analysis we demonstrate  that the radioactive material specifically bound to hippocampal synaptic  membranes is intact [3H]AVP. The ability of analogues of AVP to displace the  high-affinity, specific binding of [3H]AVP parallels closely the potency of these  analogues to inhibit the extinction of avoidance behavior. In the presence of  membrane and Ni2+, [3H]AVP has a half-life of 7 h. In the absence of Ni2+, the  half-life of [3H]AVP is 1.2 h. Fractionation by high-pressure liquid  chromatography of the supernatant from the incubation media not containing Ni2+  yields three peaks of radioactivity. Analysis of the biological activity of the  [3H]AVP peak and the two non-AVP peaks which represent breakdown products show  the following: (a) the [3H]AVP peak (52%) and peak III (8%) bind to fresh  membranes and (b) peak II (40%) has no binding activity. Although Ni2+, Co2+,  benzamidine, and phenanthroline can prevent [3H]AVP degradation, only Ni2+ and,  to a much lesser extent, Co2+, can potentiate specific [3H]AVP binding. The  results show that AVP-specific binding has properties which parallel its  biological activity in behavioral assays; that, ultimately, proteolysis by  membrane-bound peptidases inactivates AVP; and that Ni2+ acts both by preventing  AVP breakdown and by potentiating specific binding.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD OCT 10
+PY 1984
+VL 259
+IS 19
+BP 11739
+EP 45
+DI 
+PG -11694
+WC Animals; Arginine Vasopressin; analogs & derivatives; Binding Sites; Binding, Competitive; Chromatography, High Pressure Liquid; Hippocampus; metabolism; Male; Nickel; metabolism; Protease Inhibitors; pharmacology; Rats; Rats, Inbred Strains; Synaptic Membranes; metabolism; Time Factors
+UT PubMed:6480583
+PM 6480583
+DA 1984-10-10
+ER
+
+PT J
+AU Nakabayashi, H
+   Iwamori, M
+   Nagai, Y
+AF Nakabayashi, H
+   Iwamori, M
+   Nagai, Y
+TI Analysis and quantitation of gangliosides as p-bromophenacyl derivatives by
+SO Journal of biochemistry
+LA English
+DT Journal Article
+AB A highly sensitive method for the analysis and quantitation of gangliosides by  high-performance liquid chromatography is described. The method involves simple,  quantitative and specific derivatization of gangliosides, involving their  carboxylic acid groups, to UV-absorbing p-bromophenacyl derivatives. The molar  extinction coefficient of the derivatives at maximum absorption at 261 nm was  about 23,000. The acidic fraction separated by DEAE-Sephadex column  chromatography was directly derivatized and the reaction mixture was directly  injected into a high-performance liquid chromatograph without any purification of  the derivatives. Monosialogangliosides, GM4, GM3, GM2, and GM1, were well  separated by normal phase high-performance liquid chromatography. The standard  curve for quantitation of gangliosides was linear up to 100 micrograms of  ganglioside-sialic acid and the lower limit of detection was about 10 ng. Also,  by reverse phase high performance liquid chromatography, the molecular species of  gangliosides were successfully analyzed. The method was shown to be applicable to  the analysis of gangliosides in biological materials.
+NR 0
+TC 0
+SN 
+EI 0021-924
+J9 J Biochem
+PD OCT 1
+PY 1984
+VL 96
+IS 4
+BP 977
+EP 84
+DI 
+PG -893
+WC Acetophenones; Animals; Cattle; Cholesterol; analysis; Chromatography, High Pressure Liquid; methods; Chromatography, Ion Exchange; methods; Dogs; Erythrocytes; analysis; G(M3) Ganglioside; analysis; Gangliosides; analysis; Horses; Humans; N-Acetylneuraminic Acid; Sialic Acids; analysis; Species Specificity; Spectrophotometry, Ultraviolet; methods; Thyroid Gland; analysis
+UT PubMed:6520128
+PM 6520128
+DA 1984-10-01
+ER
+
+PT J
+AU Shigesada, N
+   Kawasaki, K
+   Teramoto, E
+AF Shigesada, N
+   Kawasaki, K
+   Teramoto, E
+TI The effects of interference competition on stability, structure and invasion of a
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB An interference competition model for a many species system is presented, based  on Lotka-Volterra equations in which some restrictions are imposed on the  parameters. The competition coefficients of the Lotka-Volterra equations are  assumed to be expressed as products of two factors: the intrinsic interference to  other individuals and the defensive ability against such interference. All the  equilibrium points of the model are obtained explicitly in terms of its  parameters, and these equilibria are classified according to the concept of  sector stability. Thus survival or extinction of species at a stable equilibrium  point can be determined analytically. The result of the analysis is extended to  the successional processes of a community. A criterion for invasion of a new  species is obtained and it is also shown that there are some characteristic  quantities which show directional changes as succession proceeds.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1984
+VL 21
+IS 2
+BP 97
+EP 113
+DI 10.1007/BF00277664
+PG 16
+WC Animals; Competitive Behavior; Ecology; Mathematics; Models, Biological
+UT PubMed:6533224
+PM 6533224
+DA 1984-01-01
+ER
+
+PT J
+AU Nichols, DE
+   Oberlender, R
+AF Nichols, D E
+   Oberlender, R
+TI Behavioral techniques in neuroreceptor research.
+SO Monographs in neural sciences
+LA English
+DT Review
+NR 0
+TC 0
+SN 
+EI 0300-518
+J9 Monogr Neural Sci
+PD JAN 1
+PY 1984
+VL 10
+IS 
+BP 108
+EP 19
+DI 10.1159/000408385
+PG -89
+WC Animals; Behavior, Animal; drug effects; Biological Assay; methods; Central Nervous System; drug effects; Conditioning, Classical; Conditioning, Operant; Discrimination Learning; Dose-Response Relationship, Drug; Extinction, Psychological; Lysergic Acid Diethylamide; pharmacology; Motor Activity; drug effects; Pharmacology; methods; Rats; Receptors, Neurotransmitter; analysis; Reinforcement Schedule; Stereoisomerism
+UT PubMed:6321967
+PM 6321967
+DA 1984-01-01
+ER
+
+PT J
+AU Raup, DM
+   Sepkoski, JJ Jr
+AF Raup, D M
+   Sepkoski, J J Jr
+TI Periodicity of extinctions in the geologic past.
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB The temporal distribution of the major extinctions over the past 250 million  years has been investigated statistically using various forms of time series  analysis. The analyzed record is based on variation in extinction intensity for  fossil families of marine vertebrates, invertebrates, and protozoans and contains  12 extinction events. The 12 events show a statistically significant periodicity  (P less than 0.01) with a mean interval between events of 26 million years. Two  of the events coincide with extinctions that have been previously linked to  meteorite impacts (terminal Cretaceous and Late Eocene). Although the causes of  the periodicity are unknown, it is possible that they are related to  extraterrestrial forces (solar, solar system, or galactic).
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD FEB 1
+PY 1984
+VL 81
+IS 3
+BP 801
+EP 5
+DI 10.1073/pnas.81.3.801
+PG -796
+WC Animals; Biological Evolution; Eukaryota; genetics; Fossils; Paleontology; Periodicity; Species Specificity
+UT PubMed:6583680
+PM 6583680
+DA 1984-02-01
+ER
+
+PT J
+AU McCombie, SC
+AF McCombie, S C
+TI Measles: extinction or evolution?
+SO Medical hypotheses
+LA English
+DT Journal Article
+AB The human body is the biological environment to which measles virus must adapt.  In this paper the immunity conferred by vaccination is viewed as a selective  force on the evolution of this virus. The possible consequences of this type of  selection pressure include an increased Ro, antigenic variation, and immune  depression.
+NR 0
+TC 0
+SN 
+EI 0306-987
+J9 Med Hypotheses
+PD MAR 1
+PY 1984
+VL 13
+IS 3
+BP 351
+EP 3
+DI 10.1016/0306-9877(84)90168-3
+PG -348
+WC Antigens, Viral; immunology; Biological Evolution; Genetic Variation; Humans; Immunization; Measles; immunology; Measles virus; immunology
+UT PubMed:6717325
+PM 6717325
+DA 1984-03-01
+ER
+
+PT J
+AU Greenberg, JM
+   Weber, P
+   Schutte, W
+AF Greenberg, J M
+   Weber, P
+   Schutte, W
+TI Chemical and biological evolution in space.
+SO Advances in space research : the official journal of the Committee on Space
+LA English
+DT Journal Article
+AB Astronomical infrared spectra are used to confirm the existence of complex  organic molecules produced by ultraviolet photoprocessing of interstellar grain  mantles. This material is shown to be the major component of the interstellar  grains between the sun and the galactic center and, by inference, constitutes  more than 10 million solar masses--or close to one part in a thousand of the  entire mass of the milky way galaxy. It may be demonstrated that the primitive  chemistry of the earth's surface was dominated by these extraterrestrial  molecules after aggregated into comets if the rate of comet impacts with the  earth was comparable with that required to account for the extinction of species  over the past 300 million years. Ultraviolet irradiation of bacterial spores has  been studied for the first time under simulated interstellar conditions. The  inactivation time predicted for the less dense regions of space is at most  several hundred years. Within molecular clouds it is shown on theoretical and  experimental grounds that this time may be extended to tens of million of years  which is the estimated time required for their transport from one solar system to  another by a molecular cloud. However survival of spores during their initial  exposure to the solar ultraviolet presents a problem for panspermia because it  requires that in the process of ejection from the earth's surface they must be  enclosed within a cocoon (or mantle) of ultraviolet absorbing material of  approximately 0.6 micrometer thickness. Thus, although panspermia can not be  rejected on the basis of lack of interstellar survival there may remain  insurmountable obstacles to its occurring because of the very special protective  shield requirements during ejection from its planetary source.
+C1 Laboratory Astrophysics, University of Leiden, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0273-117
+J9 Adv Space Res
+PD JAN 1
+PY 1984
+VL 4
+IS 12
+BP 41
+EP 9
+DI 10.1016/0273-1177(84)90543-x
+PG -32
+WC Bacillus subtilis; Cosmic Dust; Evolution, Chemical; Exobiology; Extraterrestrial Environment; Radiation Tolerance; Spores, Bacterial; radiation effects; Ultraviolet Rays
+UT PubMed:11537793
+PM 11537793
+DA 1984-01-01
+ER
+

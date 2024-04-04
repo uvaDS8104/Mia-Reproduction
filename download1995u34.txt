@@ -1,0 +1,1087 @@
+PT J
+AU Kampermann, SP
+   Sabine, TM
+   Craven, BM
+   McMullan, RK
+AF Kampermann, S P
+   Sabine, T M
+   Craven, B M
+   McMullan, R K
+TI Hexamethylenetetramine: extinction and thermal vibrations from neutron
+SO Acta crystallographica. Section A, Foundations of crystallography
+LA English
+DT Journal Article
+AB Neutron diffraction data have been collected for hexamethylenetetramine (HMT) at  15, 50, 80, 120, 160 and 200K using a single crystal (mass 8.1 mg). The structure  refinement at each temperature included two extinction parameters and third-order  thermal parameters for the H nuclei. Extinction effects are very severe with  extinction factors as small as 0.2Fkin2 for three reflections (800, 110 and 440).  Application of the Sabine extinction theory indicates that the crystal domain  size decreases from 115 microns at 200 K to 85 microns at 15 K. The half-width in  the mosaic spread (7" of arc) is almost independent of temperature. An extinction  model without phase correlations between mosaic blocks gives a slightly better  fit to the diffraction data. The nuclear mean square thermal displacements have  been analysed assuming no coupling between the external (rigid body) and internal  vibrations. This gives mean square displacements for rigid-body vibration in  which zero-point vibrational effects are apparent. The methylene H nuclei have  internal vibrations approximately independent of temperature. At 200 K, the H  nuclear vibrations have a small anharmonic component, but at temperatures below  160 K this becomes insignificant in terms of the experimental error.
+C1 Department of Crystallography, University of Pittsburgh, PA 15260, USA.
+NR 0
+TC 0
+SN 
+EI 0108-767
+J9 Acta Crystallogr A
+PD JUL 1
+PY 1995
+VL 51 ( Pt 4)
+IS 
+BP 489
+EP 97
+DI 10.1107/s0108767394013711
+PG -392
+WC Crystallization; Methenamine; chemistry; Neutrons; Temperature
+UT PubMed:7632379
+PM 7632379
+DA 1995-07-01
+ER
+
+PT J
+AU Vallejo, AN
+   Pease, LR
+AF Vallejo, A N
+   Pease, L R
+TI Structure of the MHC A and B locus promoters in hominoids. Insights on the
+SO Journal of immunology (Baltimore, Md. : 1950)
+LA English
+DT Journal Article
+AB The expansion and contraction of mammalian class I multigene families raises the  issue as to what determines the loss or retention of family members. We propose  that accumulating changes in regulatory regions result in the loss of expression  of the gene products during times critical to selection, leading to the  extinction of misregulated genes. The structures of promoter regions of MHC class  I genes in nonhuman primates support this view. The B promoters are more  homogeneous and contain regulatory elements also found in the promoters of the  homologous class I genes of more distant mammals, whereas the A locus promoters  were significantly more heterogeneous, have fewer sequence motifs related to  known transcription factor-binding sites and have accumulated nucleotide  substitutions within one of the widely conserved class I promoter elements. These  findings are consistent with the view that the more polymorphic B locus is the  principal MHC locus encoding functional class I Ag-presenting molecules whereas  the less polymorphic A locus is assuming a secondary role as a consequence of  promoter defects.
+C1 Department of Immunology, Mayo Clinic/Foundation, Rochester, MN 55905, USA.
+NR 0
+TC 0
+SN 
+EI 0022-176
+J9 J Immunol
+PD APR 15
+PY 1995
+VL 154
+IS 8
+BP 3912
+EP 21
+DI 
+PG -3891
+WC Animals; Base Sequence; Biological Evolution; Consensus Sequence; Genes, MHC Class I; H-2 Antigens; genetics; Histocompatibility Antigens Class I; genetics; Hominidae; genetics; Humans; Molecular Sequence Data; Multigene Family; Promoter Regions, Genetic; Rabbits; Regulatory Sequences, Nucleic Acid; Sequence Alignment; Sequence Homology, Nucleic Acid; Swine
+UT PubMed:7706730
+PM 7706730
+DA 1995-04-15
+ER
+
+PT J
+AU Vaarkamp, J
+   ten, Bosch JJ
+   Verdonschot, EH
+AF Vaarkamp, J
+   ten Bosch, J J
+   Verdonschot, E H
+TI Light propagation through teeth containing simulated caries lesions.
+SO Physics in medicine and biology
+LA English
+DT Journal Article
+AB The methods currently utilized in dentistry to detect caries lesions have their  limitations and alternatives are being investigated. A promising option is tooth  transillumination which is based on an increase of light scattering or light  absorption in the affected tissue region. In this study transillumination applied  to detect approximal caries lesions was investigated using premolar teeth  containing simulated caries lesions. Cavities were drilled at the approximal  surface and filled with light absorbing and light scattering fluids in different  dye and particle concentrations to model successive stages of lesion progress.  For light absorbing cavities the extinction as function of the decadic absorption  coefficient measured at the occlusal surface could be approximated by the  Lambert-Beer law (r = 0.98 +/- 0.01). For light scattering cavities the  extinction as a function of the decadic reduced scatter coefficient wad fitted to  a straight line (r = 0.98 +/- 0.03) for mu's (lambda = 633 nm) < 1.25 mm-1. For  higher reduced decadic scatter coefficients the curves levelled off due to  multiple scattering. In addition, the contribution of the dentinal cavity part to  the radiance change induced by the total cavity was estimated. For light  absorbing cavities illuminated with red light the average contribution was 10.5  (SD 4.2)% and for those illuminated with green light it was 1.4 (SD 0.9)%,  indicating that the radiance change caused by a caries lesion is mainly  determined by the enamel lesion part.
+C1 TRIKON, Department of Cariology and Endodontology, Faculty of Medical Sciences, University of Nijmegen, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0031-915
+J9 Phys Med Biol
+PD AUG 1
+PY 1995
+VL 40
+IS 8
+BP 1375
+EP 87
+DI 10.1088/0031-9155/40/8/006
+PG -1288
+WC Biophysical Phenomena; Biophysics; Dental Caries; diagnosis; Humans; In Vitro Techniques; Light; Models, Biological; Optics and Photonics; Scattering, Radiation; Tooth; radiation effects; Transillumination; methods
+UT PubMed:7480119
+PM 7480119
+DA 1995-08-01
+ER
+
+PT J
+AU Valone, TJ
+   Brown, JH
+AF Valone, T J
+   Brown, J H
+TI Effects of competition, colonization, and extinction on rodent species diversity.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Analyses of long-term experimental data from the Chihuahuan desert revealed that  species diversity of other rodents was higher on plots from which kangaroo rats  (Dipodomys spp.) had been removed. The difference was due to consistently higher  colonization and lower extinction probabilities of small granivorous rodents in  the absence of competitively dominant kangaroo rats. The results of this  ecosystem experiment demonstrate the importance of both competitive exclusion and  metapopulation dynamics for biological diversity in a natural community.
+C1 Department of Biology, University of New Mexico, Albuquerque 87131.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD FEB 10
+PY 1995
+VL 267
+IS 5199
+BP 880
+EP 3
+DI 10.1126/science.7846530
+PG -877
+WC Animals; Arizona; Competitive Behavior; Desert Climate; Dipodomys; physiology; Ecosystem; Population Dynamics; Probability; Rodentia; physiology
+UT PubMed:7846530
+PM 7846530
+DA 1995-02-10
+ER
+
+PT J
+AU Glover, BJ
+   Abbott, RJ
+AF Glover, Beverley J
+   Abbott, Richard J
+TI Low genetic diversity in the Scottish endemic Primula scotica Hook.
+SO The New phytologist
+LA English
+DT Journal Article
+DE Isozyme variation; Primula scotica; RAPDs; endemic species; plant conservation
+AB Primula scotica Hook., a rare Scottish endemic, is threatened with extinction due  to habitat destruction. A survey of genetic variability within the species was  conducted on five populations from the Orkney islands and nine from the Scottish  mainland. Isozyme analysis revealed variation between individuals at only one of  15 enzyme encoding loci examined, while a survey of DNA sequence variation via  RAPD analysis revealed no genetic diversity either within or between a subsample  of four populations surveyed. Individuals exhibited a 'fixed' heterozygous  genotype at seven of the enzyme encoding loci, indicating that P. scotica is of  allopolyploid origin. Despite the high level of heterozygosity per individual and  the biochemical diversity that may stem from it, the species remains restricted  to a very specific habitat. Implications for the conservation of the species are  considered, including the need for habitat protection.
+C1 Sir Harold Mitchell Building, School of Biological and Medical Sciences, University of St Andrews, St Andrews, Fife KY16 9TH, UK.
+   Sir Harold Mitchell Building, School of Biological and Medical Sciences, University of St Andrews, St Andrews, Fife KY16 9TH, UK.
+NR 0
+TC 0
+SN 1469-813
+EI 
+J9 New Phytol
+PD JAN 1
+PY 1995
+VL 129
+IS 1
+BP 147
+EP 153
+DI 10.1111/j.1469-8137.1995.tb03018.x
+PG 6
+UT PubMed:33874421
+PM 33874421
+DA 1995-01-01
+ER
+
+PT J
+AU Dempster, JP
+   Atkinson, DA
+   French, MC
+AF Dempster, J P
+   Atkinson, D A
+   French, M C
+TI The spatial population dynamics of insects exploiting a patchy food resource :
+SO Oecologia
+LA English
+DT Journal Article
+DE Chemical markers; Colonisation; Dispersal
+AB The population dynamics of ten species of phytophagous insects and seven  parasitoids inhabiting the flowerheads of two herbaceous plants, Centaurea nigra  and Arctium minus, were studied, and three main aspects of their ecology were  examined, namely, rates of population extinction, density dependence in  population changes from one generation to the next, and movements between  populations. The study was based on monitoring the insect populations on more  than 50 patches of each plant, scattered over 5 km(2) of arable farmland and the  results were used to test the relative importance of immigration and population  regulation to the persistence of these populations. This paper describes the  study of movements between patches of food plant. Experimentally planted new  patches of plants were rapidly colonised by all species and this appeared to be  unaffected by distance from a source population, up to the maximum distance of  800 m considered in the experiment. Large patches tended to be colonised more  readily than small ones. Movements between plant patches were studied with the  use of chemical markers (Rb, Sr, Dy and Cs) which were applied as chloride salts  to individual patches, and which were translocated to the flowerheads and so to  insects feeding on the seed, and to their parasitoids. Initial experiments in the  laboratory showed that these elements could be readily detected by ICP  (Inductively Coupled Plasma) mass spectrometry in the bodies of all species  reared on potted plants sprayed with solutions containing them. Background levels  of strontium were patchily high on the study area, but the other elements were  naturally either absent or in very low concentrations. Four patches of each plant  were marked with a different element in 1991. In 1992, samples of four species of  tephritid fly and two parasitoids were collected from all patches, and analysed  for the four elements. These analyses showed that individual of all species moved  considerable distances, with movements of up to 2 km being commonly recorded.  Estimates of rates of immigration to patches showed that movement plays an  important role in the population dynamics of these insects. There was some  evidence that immigration was density-dependent: it was highest when the resident  populations (numbers per flowerhead) were low.
+C1 Department of Zoology, University of Cambridge, CB2 3EJ, UK.
+   Department of Zoology, University of Cambridge, CB2 3EJ, UK.
+   I.T.E., Monks Wood Experimental Station, PE17 2LS, Abbots Ripton, Huntingdon, UK.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD NOV 1
+PY 1995
+VL 104
+IS 3
+BP 354
+EP 362
+DI 10.1007/BF00328371
+PG 8
+UT PubMed:28307592
+PM 28307592
+DA 1995-11-01
+ER
+
+PT J
+AU Purvis, A
+   Nee, S
+   Harvey, PH
+AF Purvis, A
+   Nee, S
+   Harvey, P H
+TI Macroevolutionary inferences from primate phylogeny.
+SO Proceedings. Biological sciences
+LA English
+DT Journal Article
+AB We apply new statistical methods to a recent estimate of the phylogeny of all  living primate species to test a range of models of cladogenesis. Null models in  which probabilities of speciation and extinction do not differ among  contemporaneous lineages are not consistent with the phylogeny. We present  evidence that the net rate of cladogenesis (speciation rate minus extinction  rate) increased in the lineage leading to the Cercopithecidae (Old World  monkeys), and that there have been further increases in some lineages within that  family. Such increases suggest the occurrence of clade selection, although we  have not identified the selected trait or traits. There is no evidence that the  net rate of cladogenesis is a function either of how many primate lineages are  already present or of time. Intriguingly, three other clades--Strepsirhini,  Platyrrhini and Hominoidea--appear to have had very similar rates of clade  growth, in spite of their great biological differences.
+C1 Department of Zoology, University of Oxford, U.K.
+NR 0
+TC 0
+SN 
+EI 0962-845
+J9 Proc Biol Sci
+PD JUN 22
+PY 1995
+VL 260
+IS 1359
+BP 329
+EP 33
+DI 10.1098/rspb.1995.0100
+PG -296
+WC Animals; Biological Evolution; Birth Rate; Models, Statistical; Mortality; Mutation; Phylogeny; Primates; classification; Time
+UT PubMed:7630899
+PM 7630899
+DA 1995-06-22
+ER
+
+PT J
+AU Wandinger, U
+   Ansmann, A
+   Reichardt, J
+   Deshler, T
+AF Wandinger, U
+   Ansmann, A
+   Reichardt, J
+   Deshler, T
+TI Determination of stratospheric aerosol microphysical properties from independent
+SO Applied optics
+LA English
+DT Journal Article
+AB An algorithm that permits the retrieval of profiles of particle mass and  surface-area concentrations in the stratospheric aerosol layer from independently  measured aerosol (particle and Rayleigh) and molecule (Raman or Rayleigh)  backscatter signals is developed. The determination is based on simultaneously  obtained particle extinction and backscatter profiles and on relations between  optical and microphysical properties found from Mie-scattering calculations for  realistic stratospheric particle size distributions. The size distributions were  measured with particle counters released on balloons from Laramie, Wyoming,  between June 1991 and April 1994. Mass and surface-area concentrations can be  retrieved with relative errors of 10-20% and 20-40%, respectively, with a laser  wavelength of 355 nm and with errors of 20-30% and 30-60%, respectively, with a  laser wavelength of 308 nm. Lidar measurements taken within the first three years  after the eruption of Mt. Pinatubo in June 1991 are shown. Surface-area  concentrations around 20 µm(2) cm(-3) and mass concentrations of 3 to 6 µg m(-3)  were found until spring 1993.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD DEC 20
+PY 1995
+VL 34
+IS 36
+BP 8315
+EP 29
+DI 10.1364/AO.34.008315
+PG -8286
+UT PubMed:21068952
+PM 21068952
+DA 1995-12-20
+ER
+
+PT J
+AU Hugdahl, K
+   Berardi, A
+   Thompson, WL
+   Kosslyn, SM
+   Macy, R
+   Baker, DP
+   Alpert, NM
+   LeDoux, JE
+AF Hugdahl, K
+   Berardi, A
+   Thompson, W L
+   Kosslyn, S M
+   Macy, R
+   Baker, D P
+   Alpert, N M
+   LeDoux, J E
+TI Brain mechanisms in human classical conditioning: a PET blood flow study.
+SO Neuroreport
+LA English
+DT Journal Article
+AB Five healthy male subjects participated in a classical conditioning experiment,  and positron emission tomography (PET) was used to compare regional cerebral  blood flow before and after conditioning. The subjects participated in three  different experimental phases. In the first (habituation) phase they listened to  24 repetitions of a tone with random intervals. In the second (acquisition)  phase, the tone was paired with a brief shock to the wrist. In the third  (extinction) phase, the tone was presented alone again. 15OPET scans were taken  during the habituation and extinction phases. Because the habituation and  extinction phases were similar, any difference in blood flow to the tones  presented during extinction probably reflected conditioning that occurred during  the acquisition phase. Statistical parametric mapping (SPM) analysis of the PET  data showed significantly increased activation in the right hemisphere in the  orbito-frontal cortex, dorsolateral prefrontal cortex, inferior and superior  frontal cortices, and inferior and middle temporal corticies. The only activated  areas in the left hemisphere were area 19 and the superior frontal cortex. The  results are interpreted as evidence for the involvement of cortical areas in  human classical conditioning.
+C1 Department of Biological and Medical Psychology, University of Bergen, Norway.
+NR 0
+TC 0
+SN 
+EI 0959-496
+J9 Neuroreport
+PD SEP 11
+PY 1995
+VL 6
+IS 13
+BP 1723
+EP 8
+DI 10.1097/00001756-199509000-00005
+PG -1715
+WC Acoustic Stimulation; Adolescent; Adult; Brain; physiology; Cerebrovascular Circulation; physiology; Conditioning, Classical; physiology; Extinction, Psychological; physiology; Habituation, Psychophysiologic; physiology; Humans; Male; Positron-Emission Tomography
+UT PubMed:8541468
+PM 8541468
+DA 1995-09-11
+ER
+
+PT J
+AU Sisto, A
+   Bonelli, F
+   Centini, F
+   Fincham, CI
+   Potier, E
+   Monteagudo, E
+   Lombardi, P
+   Arcamone, F
+   Goso, C
+   Manzini, S
+   et, al.
+AF Sisto, A
+   Bonelli, F
+   Centini, F
+   Fincham, C I
+   Potier, E
+   Monteagudo, E
+   Lombardi, P
+   Arcamone, F
+   Goso, C
+   Manzini, S
+TI Synthesis and biological evaluation of novel NK-1 tachykinin receptor
+SO Biopolymers
+LA English
+DT Journal Article
+AB In the course of a program aimed at synthesizing novel, potent NK-1 tachykinin  receptor antagonists, we developed upon a bioactive model by comparing the low  energy structures of a series of peptide and nonpeptide Substance P antagonists.  The comparison was based on the superimposition of the aromatic rings, assuming  that the rest of the molecule behaves predominantly as a template to arrange the  key aromatic groups in the right spatial position. A series of 2-aminocyclohexane  carboxylic acid analogues were then selected as the best templates for  reproducing the postulated bioactive structure, leading to several  pseudo-peptides with interesting biological activity. According to the molecular  modeling, these compounds exhibit a neat parallel facing of the indolyl and  naphthyl groups at about 3 A distance. Ultraviolet absorption and steady state  fluorescence measurements support this conclusion, showing a linear correlation  between the spectral properties and the binding affinity of these analogues.  Stacking of the indole ring with naphthalene gives rise to a complex  characterized by a well-defined molar extinction coefficient. Consistently,  steady state and lifetime fluorescence measurements suggest that the quenching  process is ascribable to ground-state interactions between the chromophores.  Implications of the pi stacking propensity of aromatic groups in the biological  activity of the compounds examined are briefly discussed.
+C1 Chemistry Department, Menarini Ricerche Sud, Roma, Italy.
+NR 0
+TC 0
+SN 
+EI 0006-352
+J9 Biopolymers
+PD OCT 1
+PY 1995
+VL 36
+IS 4
+BP 511
+EP 24
+DI 10.1002/bip.360360413
+PG -487
+WC Amino Acids; Circular Dichroism; Indoles; chemical synthesis; Models, Molecular; Molecular Conformation; Molecular Structure; Neurokinin-1 Receptor Antagonists; Oligopeptides; chemical synthesis; Protein Conformation; Structure-Activity Relationship; Substance P; analogs & derivatives
+UT PubMed:7578945
+PM 7578945
+DA 1995-10-01
+ER
+
+PT J
+AU Sibani, P
+   Schmidt, MR
+   Alstrom, P
+AF Sibani, P
+   Schmidt, MR
+   Alstrom, P
+TI Fitness Optimization and Decay of Extinction Rate Through Biological Evolution.
+SO Physical review letters
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 1079-711
+EI 
+J9 Phys Rev Lett
+PD SEP 4
+PY 1995
+VL 75
+IS 10
+BP 2055
+EP 2058
+DI 10.1103/PhysRevLett.75.2055
+PG 3
+UT PubMed:10059197
+PM 10059197
+DA 1995-09-04
+ER
+
+PT J
+AU Benton, MJ
+AF Benton, M J
+TI Diversification and extinction in the history of life.
+SO Science (New York, N.Y.)
+LA English
+DT Review
+AB Analysis of the fossil record of microbes, algae, fungi, protists, plants, and  animals shows that the diversity of both marine and continental life increased  exponentially since the end of the Precambrian. This diversification was  interrupted by mass extinctions, the largest of which occurred in the Early  Cambrian, Late Ordovician, Late Devonian, Late Permian, Early Triassic, Late  Triassic, and end-Cretaceous. Most of these extinctions were experienced by both  marine and continental organisms. As for the periodicity of mass extinctions, no  support was found: Seven mass extinction peaks in the last 250 million years are  spaced 20 to 60 million years apart.
+C1 Department of Geology, University of Bristol, United Kingdom.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD APR 7
+PY 1995
+VL 268
+IS 5207
+BP 52
+EP 8
+DI 10.1126/science.7701342
+PG -44
+WC Animals; Biological Evolution; Paleontology; Population Dynamics; Selection, Genetic
+UT PubMed:7701342
+PM 7701342
+DA 1995-04-07
+ER
+
+PT J
+AU Chan, KP
+   Yamada, M
+   Devaraj, B
+   Inaba, H
+AF Chan, K P
+   Yamada, M
+   Devaraj, B
+   Inaba, H
+TI Optical imaging through highly scattering media by use of heterodyne detection in
+SO Optics letters
+LA English
+DT Journal Article
+AB Optical imaging through highly scattering media was studied in the 1.3-microm  wavelength region by use of a continuous-wave Nd:YAG laser and an optical  heterodyne detection technique. We measured and compared the extinction  coefficients of the fat emulsion Intralipid-10% at 0.80, 1.064, and 1.319 microm  and demonstrated that the low scattering at 1.319 microm will permit optical  imaging through highly scattering media, which otherwise may not be achieved. A  possible use of water absorption at 1.319 microm to image the interior structure  of biological tissues is also presented and discussed.
+NR 0
+TC 0
+SN 
+EI 0146-959
+J9 Opt Lett
+PD MAR 1
+PY 1995
+VL 20
+IS 5
+BP 492
+EP 4
+DI 10.1364/ol.20.000492
+PG -488
+UT PubMed:19859231
+PM 19859231
+DA 1995-03-01
+ER
+
+PT J
+AU Ramadurai, S
+   Lloyd, D
+   Wallis, M
+   Wickramasinghe, NC
+AF Ramadurai, S
+   Lloyd, D
+   Wallis, M
+   Wickramasinghe, N C
+TI Extinction of dinosaurs: a possible novel cause.
+SO Advances in space research : the official journal of the Committee on Space
+LA English
+DT Journal Article
+AB A novel cause of mass extinction of fauna close to the (K/T) Boundary is  suggested. A large amount of non-protein amino acids (AIB and ISOVAL) has been  observed close to this event. It is speculated that these amino acids may be  toxic and are responsible for the extinction. The toxicity level is estimated for  this suggestion to be true and experimentalists are encouraged to test this level  of toxicity for the amino acids.
+C1 Tata Institute of Fundamental Research, Bombay, India.
+NR 0
+TC 0
+SN 
+EI 0273-117
+J9 Adv Space Res
+PD MAR 1
+PY 1995
+VL 15
+IS 3
+BP 139
+EP 46
+DI 10.1016/s0273-1177(99)80075-1
+PG -93
+WC Amino Acids; poisoning; Aminoisobutyric Acids; poisoning; Animals; Biological Evolution; Denmark; Environmental Exposure; Extraterrestrial Environment; Fossils; Geologic Sediments; analysis; Iridium; analysis; Meteoroids; Paleontology; Reptiles; Valine; poisoning
+UT PubMed:11539216
+PM 11539216
+DA 1995-03-01
+ER
+
+PT J
+AU Yakubu, AA
+AF Yakubu, A A
+TI The effects of planting and harvesting on endangered species in discrete
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB The influence of planting the endangered species in a discretely reproducing  ecosystem is studied. By applying constant rate and variable rate planting  strategies we obtain that coexistence of species that would otherwise exclude  each other with no planting occurs. We also show that with a high planting rate  the endangered species not only recovers from the brink of extinction but it  excludes the other competing species. A similar reversal of exclusion principles  occurs if the dominant species is harvested with a sufficiently high harvesting  constant while the endangered species is left undisturbed. In addition, we obtain  mutual exclusion of species with harvesting where there is exclusion of only one  species without harvesting.
+C1 Department of Mathematics, Howard University, Washington, D.C.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD MAR 1
+PY 1995
+VL 126
+IS 1
+BP 1
+EP 20
+DI 10.1016/0025-5564(94)00033-v
+PG 19
+WC Agriculture; Ecosystem; Mathematics; Models, Biological; Plants; Species Specificity
+UT PubMed:7696816
+PM 7696816
+DA 1995-03-01
+ER
+
+PT J
+AU Mitchell, J
+   Cenedella, RJ
+AF Mitchell, J
+   Cenedella, R J
+TI Quantitation of ultraviolet light-absorbing fractions of the cornea.
+SO Cornea
+LA English
+DT Journal Article
+AB This study attempts to measure the quantitative contribution of major chemical  fractions of the whole bovine cornea to ultraviolet (UV) absorption between 240  and 300 nm, with special attention to the biologically significant range of  290-300 nm. The cornea was divided into water-insoluble, nonprotein small  water-soluble, water-soluble protein, and lipid-soluble fractions. The insoluble  fraction (largely collagen) was solubilized by enzymatic digestion. Solutions of  individual fractions equivalent to a constant mass of fresh cornea were scanned  for absorption from 240 to 300 nm. The sum of the absorbances of the individual  fractions closely approximated the absorbance of whole corneas at all wavelengths  examined. The extinction coefficients of the lipid and water-soluble fractions  were several times greater than that of the insoluble fraction throughout the  studied spectrum. Yet, because of its large mass (75% of cornea dry weight), the  insoluble fraction accounted for 40-50% of UV absorbance between 240 and 280 nm.  However, in the range of 290-300 nm, the water-soluble plus lipid-soluble  fractions accounted for 60-65% of the total absorption, with the water-soluble  proteins alone accounting for 40-45% of the total. The soluble proteins comprised  only approximately 17% of the cornea's dry weight. The special contribution of  the water-soluble proteins to absorption was attributed to their relatively high  tryptophan content (approximately 1.6% by weight). A 54-kDa protein, identified  by others as tryptophan-rich, tumor-associated aldehyde dehydrogenase, accounted  for approximately 30% of the total soluble protein mass.(ABSTRACT TRUNCATED AT  250 WORDS)
+C1 Department of Biochemistry, Kirksville College of Osteopathic Medicine, MO 63501, USA.
+NR 0
+TC 0
+SN 
+EI 0277-374
+J9 Cornea
+PD MAY 1
+PY 1995
+VL 14
+IS 3
+BP 266
+EP 72
+DI 10.1097/00003226-199505000-00007
+PG -194
+WC Absorption; Animals; Cattle; Cornea; chemistry; Electrophoresis, Polyacrylamide Gel; Eye Proteins; analysis; Lipids; analysis; Nucleic Acids; analysis; Solubility; Spectrophotometry, Ultraviolet; Ultraviolet Rays
+UT PubMed:7600810
+PM 7600810
+DA 1995-05-01
+ER
+
+PT J
+AU Zink, RM
+   Slowinski, JB
+AF Zink, R M
+   Slowinski, J B
+TI Evidence from molecular systematics for decreased avian diversification in the
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB Pleistocene glaciations have been suggested as major events influencing  speciation rates in vertebrates. Avian paleontological studies suggest that most  extant species evolved in the Pleistocene Epoch and that species' durations  decreased through the Pleistocene because of heightened speciation rates.  Molecular systematic studies provide another data base for testing these  predictions. In particular, rates of diversification can be determined from  molecular phylogenetic trees. For example, an increasing rate of speciation (but  constant extinction) requires shorter intervals between successive speciation  events on a phylogenetic tree. Examination of the cumulative distribution of  reconstructed speciation events in mtDNA phylogenies of 11 avian genera, however,  reveals longer intervals between successive speciation events as the present time  is approached, suggesting a decrease in net diversification rate through the  Pleistocene Epoch. Thus, molecular systematic studies do not indicate a pulse of  Pleistocene diversification in passerine birds but suggest, instead, that  diversification rates were lower in the Pleistocene than for the preceding  period. Documented habitat shifts likely led to the decreased rate of  diversification, although from molecular evidence we cannot discern whether  speciation rates decreased or extinction rates increased.
+C1 Bell Museum, University of Minnesota, St. Paul 55108, USA.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JUN 20
+PY 1995
+VL 92
+IS 13
+BP 5832
+EP 5
+DI 10.1073/pnas.92.13.5832
+PG -5827
+WC Animals; Biological Evolution; Birds; classification; DNA, Mitochondrial; genetics; Genetic Variation; Paleontology; Phylogeny; Restriction Mapping; Time
+UT PubMed:7597037
+PM 7597037
+DA 1995-06-20
+ER
+
+PT J
+AU Frankham, R
+AF Frankham, R
+TI Conservation genetics.
+SO Annual review of genetics
+LA English
+DT Review
+AB Inbreeding depression, accumulation and loss of deleterious mutations, loss of  genetic variation in small populations, genetic adaptation to captivity and its  effect on reintroduction success, and outbreeding depression are reviewed. The  impact of genetic factors in endangerment and extinction has been underestimated  in some recent publications. Inbreeding depression in wildlife and in the field  has been clearly established, while its impact has been greatly underestimated.  The size of populations where genetic factors become important is higher than  previously recognized, as Ne/N ratios average 0.11. Purging effects have been  overestimated as a mechanism for eliminating deleterious alleles in small  populations. The impact of loss of genetic variation in increasing the  susceptibility of populations to environmental stochasticity and catastrophes has  generally been ignored. Consequently, extinctions are often attributed to  "nongenetic" factors when these may have interacted with genetic factors to cause  extinction.
+C1 Key Centre for Biodiversity and Bioresources, Macquarie University, Sydney, New South Wales, Australia.
+NR 0
+TC 0
+SN 
+EI 0066-419
+J9 Annu Rev Genet
+PD JAN 1
+PY 1995
+VL 29
+IS 
+BP 305
+EP 27
+DI 10.1146/annurev.ge.29.120195.001513
+PG -278
+WC Adaptation, Biological; genetics; Animals; Animals, Laboratory; Breeding; Forecasting; Genetics; Mutation; genetics
+UT PubMed:8825477
+PM 8825477
+DA 1995-01-01
+ER
+
+PT J
+AU Kubo, T
+   Iwasa, Y
+AF Kubo, Takuya
+   Iwasa, Yoh
+TI INFERRING THE RATES OF BRANCHING AND EXTINCTION FROM MOLECULAR PHYLOGENIES.
+SO Evolution; international journal of organic evolution
+LA English
+DT Journal Article
+DE Ancestral phylogeny; cladogenesis; explosive branching; extinction; mass extinction; speciation
+AB Molecular techniques provide ancestral phylogenies of extant taxa with estimated  branching times. Here we studied the pattern of ancestral phylogeny of extant  taxa produced by branching (or cladogenesis) and extinction of taxa, assuming  branching processes with time-dependent rates. (1) If the branching rate b and  extinction rate c are constant, the semilog plot of the number of ancestral  lineages over time is not a straight line but is curvilinear, with increasing  slope toward the end, implying that ancestral phylogeny shows apparent increase  in the branching rate near the present. The estimate of b and c based on  nonlinear fitting is examined by computer simulation. The estimate of branching  rate can be usable for a large phylogeny if b is greater than c, but the estimate  of extinction rate c is unreliable because of large bias and variance. (2)  Gradual decrease in the slope of the semilog plot of the number of ancestral  lineages over time, as was observed in a phylogeny of bird families based on DNA  hybridization data, can be explained equally well by either the decreasing  branching rate or the increasing extinction rate. Infinitely many pairs of  branching and extinction rates as functions of time can produce the same  ancestral phylogeny. (3) An explosive branching event in the past would appear as  a quick increase in the number of ancestral lineages. In contrast, mass  extinction occurring in a brief period, if not accompanied by an increase in  branching rate, does not produce any rapid change in the number of ancestral  lineages at the time. (4) The condition in which the number of ancestral lineages  of extant species changes in parallel with the actual number of species in the  past is derived.
+C1 Department of Biology, Faculty of Science, Kyushu University, Fukuoka, 812-81, Japan.
+   Department of Biology, Faculty of Science, Kyushu University, Fukuoka, 812-81, Japan.
+NR 0
+TC 0
+SN 1558-564
+EI 
+J9 Evolution
+PD AUG 1
+PY 1995
+VL 49
+IS 4
+BP 694
+EP 704
+DI 10.1111/j.1558-5646.1995.tb02306.x
+PG 10
+UT PubMed:28565140
+PM 28565140
+DA 1995-08-01
+ER
+
+PT J
+AU Nott, MP
+   Rogers, E
+   Pimm, S
+AF Nott, M P
+   Rogers, E
+   Pimm, S
+TI Extinction rates. Modern extinctions in the kilo-death range.
+SO Current biology : CB
+LA English
+DT Review
+AB For some groups of species, extinction rates are orders of magnitude higher than  expected background rates--many species now last nearer a fateful second than  their destined hour.
+C1 Department of Ecology and Evolutionary Biology, University of Tennessee, Knoxville 37996-0810.
+NR 0
+TC 0
+SN 
+EI 0960-982
+J9 Curr Biol
+PD JAN 1
+PY 1995
+VL 5
+IS 1
+BP 14
+EP 7
+DI 10.1016/s0960-9822(95)00005-4
+PG -7
+WC Animals; Biological Evolution; Plants
+UT PubMed:7697338
+PM 7697338
+DA 1995-01-01
+ER
+
+PT J
+AU Busenberg, S
+   Cooke, K
+   Hsieh, YH
+AF Busenberg, S
+   Cooke, K
+   Hsieh, Y H
+TI A model for HIV in Asia.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+DE Asia; Behavior; Developing Countries; Diseases; Heterosexuals; Hiv Infections--transmission; Marital Status; Mathematical Model; Models, Theoretical; Nuptiality; Prostitutes--women; Research Methodology; Sex Behavior; Theoretical Studies; Unmarried--men; Viral Diseases
+AB A model is proposed in which the spread of HIV/AIDS in the community is mainly  due to the sexual interaction between a core group of female prostitutes and  young unmarried males. Several threshold parameters are obtained that determine  persistence of endemic proportions, persistence of total population, and the  persistence of infective population given the extinction of endemic proportions  in a population tending to infinity. Conditions are given for the existence of  multiple endemic equilibria as well as the existence of multiple stable  equilibria with separatrix and their asymptotic behavior and biological  significance are discussed. In all cases, global analysis is accompanied by  bifurcation diagrams, and numerical examples are provided for some particular  cases of interest. This model was proposed with the recent rapid growth of the  HIV/AIDS epidemic in Asia in mind.
+C1 Mathematics Department, Harvey Mudd College, Claremont, California, USA.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD JUL 1
+PY 1995
+VL 128
+IS 1-2
+BP 185
+EP 210
+DI 10.1016/0025-5564(94)00072-8
+PG 25
+WC Acquired Immunodeficiency Syndrome; epidemiology; Asia; epidemiology; Female; HIV Infections; epidemiology; Humans; Male; Models, Theoretical; Sexual Behavior
+UT PubMed:7606134
+PM 7606134
+DA 1995-07-01
+ER
+
+PT J
+AU Ellis, J
+   Schramm, DN
+AF Ellis, J
+   Schramm, D N
+TI Could a nearby supernova explosion have caused a mass extinction?
+SO Proceedings of the National Academy of Sciences of the United States of America
+LA English
+DT Journal Article
+AB We examine the possibility that a nearby supernova explosion could have caused  one or more of the mass extinctions identified by paleontologists. We discuss the  possible rate of such events in the light of the recent suggested identification  of Geminga as a supernova remnant less than 100 parsec (pc) away and the  discovery of a millisecond pulsar about 150 pc away and observations of SN 1987A.  The fluxes of gamma-radiation and charged cosmic rays on the Earth are estimated,  and their effects on the Earth's ozone layer are discussed. A supernova explosion  of the order of 10 pc away could be expected as often as every few hundred  million years and could destroy the ozone layer for hundreds of years, letting in  potentially lethal solar ultraviolet radiation. In addition to effects on land  ecology, this could entail mass destruction of plankton and reef communities,  with disastrous consequences for marine life as well. A supernova extinction  should be distinguishable from a meteorite impact such as the one that presumably  killed the dinosaurs at the "KT boundary." The recent argument that the KT event  was exceedingly large and thus quite rare supports the need for other  catastrophic events.
+C1 Theoretical Physics Division, European Organization for Nuclear Research, Geneva, Switzerland.
+NR 0
+TC 0
+SN 1091-649
+EI 0027-842
+J9 Proc Natl Acad Sci U S A
+PD JAN 3
+PY 1995
+VL 92
+IS 1
+BP 235
+EP 8
+DI 10.1073/pnas.92.1.235
+PG -227
+UT PubMed:11607506
+PM 11607506
+DA 1995-01-03
+ER
+
+PT J
+AU Jablonski, D
+   Raup, DM
+AF Jablonski, D
+   Raup, D M
+TI Selectivity of end-Cretaceous marine bivalve extinctions.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Analyses of the end-Cretaceous or Cretaceous-Tertiary mass extinction show no  selectivity of marine bivalve genera by life position (burrowing versus exposed),  body size, bathymetric position on the continental shelf, or relative breadth of  bathymetric range. Deposit-feeders as a group have significantly lower extinction  intensities than suspension-feeders, but this pattern is due entirely to low  extinction in two groups (Nuculoida and Lucinoidea), which suggests that  survivorship was not simply linked to feeding mode. Geographically widespread  genera have significantly lower extinction intensities than narrowly distributed  genera. These results corroborate earlier work suggesting that some biotic  factors that enhance survivorship during times of lesser extinction intensities  are ineffectual during mass extinctions.
+C1 Department of Geophysical Sciences, University of Chicago, IL 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD APR 21
+PY 1995
+VL 268
+IS 5209
+BP 389
+EP 91
+DI 10.1126/science.11536722
+PG -298
+WC Animals; Biological Evolution; Fossils; Geological Phenomena; Geology; Marine Biology; Mollusca; Paleontology
+UT PubMed:11536722
+PM 11536722
+DA 1995-04-21
+ER
+
+PT J
+AU Lasker, GW
+   Kaplan, BA
+AF Lasker, G W
+   Kaplan, Bernice A
+TI Demography in biological anthropology: Human population structure and evolution.
+SO American journal of human biology : the official journal of the Human Biology
+LA English
+DT Journal Article
+AB The fact of human evolution is evident in the biological variation caused by the  pattern of lines of descent. Theories of human evolution are the explanations of  the fertility and mortality differentials that determine patterns of variation at  the subspecific level. Migrations also influence the patterns. Because human  beings plan migrations and marriages, theories relying solely on selective  advantage and gene diffusion do not fully account for the observed patterns.  These patterns can be interpreted through time and space as dense thickets of  descent lines, often clustered into local fascicles held together by inbreeding.  The patterns of descent lines are thus punctuated by births, sometimes ended by  extinction of lines, but marked also by rich interconnections of the fascicles by  filaments that represent marital migration. The patterns are neither solely of  racial isolates nor of simple diffusion, but are the result of the complex  sociocultural events that influence genetic demography, a field of study that  some of Ed Hunt's work foreshadowed. © 1995 Wiley-Liss, Inc.
+C1 Department of Anatomy and Cell Biology and Department of Anthropology, Wayne State University, Detroit, Michigan 48201.
+   Department of Anatomy and Cell Biology and Department of Anthropology, Wayne State University, Detroit, Michigan 48201.
+NR 0
+TC 0
+SN 1520-630
+EI 
+J9 Am J Hum Biol
+PD JAN 1
+PY 1995
+VL 7
+IS 4
+BP 425
+EP 430
+DI 10.1002/ajhb.1310070403
+PG 5
+UT PubMed:28557087
+PM 28557087
+DA 1995-01-01
+ER
+
+PT J
+AU Stamey, TA
+   Teplow, DB
+   Graves, HC
+AF Stamey, T A
+   Teplow, D B
+   Graves, H C
+TI Identity of PSA purified from seminal fluid by different methods: comparison by
+SO The Prostate
+LA English
+DT Journal Article
+AB To determine the true extinction coefficient of prostate specific antigen (PSA)  and to measure any differences in PSA when isolated from seminal fluid by four  different published methods, we studied 10 different lots of PSA by quantitative  amino acid analysis. Despite an expected PSA concentration of 1 mg/ml based on  gravimetric analysis at an average optical density of 1.45 at 280 nm, we  recovered only 0.79 mg/ml by quantitative amino acid analysis (range 0.752 to  0.820 mg/ml with a coefficient of variation [C.V.] of 3.3% among the 10 lots).  The concentration of 0.79 mg/ml was based on a molecular weight of 28,430 daltons  for glycosylated PSA determined by ion spray mass spectroscopy [Bélanger et al:  Prostate, 27:187-197, 1995]. From these 10 amino acid analyses, we calculated the  extinction coefficient of PSA at 280 nm as 1.84 +/- 0.04 ml x mg-1 x cm-1 (range  1.78 to 1.90 with a C.V. of 2.2%). Similar concentrations of PSA were obtained by  amino acid analysis regardless of the method of purification. These observations  support the presence of a single form of PSA in seminal fluid and are consistent  with the molecular evidence that PSA is transcribed from a single gene locus on  the long arm of chromosome 19 [Riegman et al.: Genomics 14:6-11, 1992]. They do  not support the recent contention by the Roswell Park group that the PSA they  isolated in 1979 [Wang et al.: Invest Urol 17:159-163, 1979; Wang et al.:  Prostate 24:107-108, 1994] is different from p30 reported a year earlier  [Sensabaugh: J Forensic Sci 23:106-115, 1978].
+C1 Department of Urology, Stanford University School of Medicine, CA, USA.
+NR 0
+TC 0
+SN 
+EI 0270-413
+J9 Prostate
+PD OCT 1
+PY 1995
+VL 27
+IS 4
+BP 198
+EP 203
+DI 10.1002/pros.2990270404
+PG 5
+WC Amino Acids; analysis; Chromosomes, Human, Pair 19; Consensus Sequence; Humans; Immunoassay; methods; Linear Models; Male; Mass Spectrometry; methods; Prostate-Specific Antigen; analysis; Reproducibility of Results; Semen; chemistry
+UT PubMed:7479386
+PM 7479386
+DA 1995-10-01
+ER
+
+PT J
+AU Heyer, E
+AF Heyer, E
+TI Mitochondrial and nuclear genetic contribution of female founders to a
+SO American journal of human genetics
+LA English
+DT Journal Article
+AB A common challenge in population genetics is to reconstruct the evolutionary  history of populations on the basis of current allele frequencies. Through  pedigree analysis, we have the opportunity to study the genetic contribution of  founders to the contemporary population. This contribution over many generations  accounts for the probable introduction, survival, and extinction of genes in the  population. I use this method to follow nuclear and mitochondrial genes in the  Saguenay population of northeast Quebec by tracing back ascending genealogies of  160,315 individuals born between 1950 and 1971 by using the BALSAC database. This  study leads us to conclude that even in a growing population, the loss rate of  mtDNA is high. The survival of mtDNA in the population is independent of the time  of introduction in the population. The number of copies of a particular mtDNA  gene in the contemporary population is higher for genes introduced earlier, but  the correlation between these two variables is low (the relation is not linear).  Compared to nuclear contribution, mitochondrial contribution is higher, but the  loss rate of nuclear DNA is lower. The differential contribution (the fact that  few founders contribute a lot) is the same proportion for nuclear and mtDNA, but  only 592 female founders contribute 50% of the mtDNA gene pool of the  contemporary cohort, compared to 994 for nuclear DNA. Since we have no molecular  data on founders' haplotypes, these results cannot give us the diversity level in  the population. However, this study enables us to compare the evolutionary fates  of nuclear and mitochondrial genes in this expanding population.
+C1 Institut Interuniversitaire de Recherches sur les Populations, Université du Québec ă Chicoutimi, Canada.
+NR 0
+TC 0
+SN 1537-660
+EI 0002-929
+J9 Am J Hum Genet
+PD JUN 1
+PY 1995
+VL 56
+IS 6
+BP 1450
+EP 5
+DI 
+PG -1445
+WC Biological Evolution; Cell Nucleus; genetics; DNA, Mitochondrial; genetics; Databases, Factual; Emigration and Immigration; Europe; ethnology; Female; Founder Effect; Humans; Mitochondria; genetics; Models, Genetic; Pedigree; Quebec; Time Factors; White People; genetics
+UT PubMed:7762568
+PM 7762568
+DA 1995-06-01
+ER
+
+PT J
+AU Radomska, HS
+   Eckhardt, LA
+AF Radomska, H S
+   Eckhardt, L A
+TI Mammalian cell fusion in an electroporation device.
+SO Journal of immunological methods
+LA English
+DT Journal Article
+AB We and others have been interested in the phenomenon of gene 'extinction' in  somatic cell hybrids, reasoning that the study of this process is likely to  reveal underlying mechanisms responsible for limiting the expression of  specialized genes only to appropriate cell types. In the course of our studies in  this area, we have developed a simple and economical method of fusing mammalian  cells, using an electroporation device. In fusions between murine myeloma and T  lymphoma lines, hybrid cell recoveries were typically one per 10(5) [corrected]  input myeloma cells. Because of our interest in the regulation of immunoglobulin  heavy chain (IgH) gene expression, we analyzed the hybrids for both IgH gene  composition and expression. The hybrid lines were phenotypically  indistinguishable from those generated by the more conventional, polyethylene  glycol (PEG)-induced fusion protocol. There was a notable increase, however, in  the number of hybrids that retained IgH-encoding chromosomes from both parental  lines.
+C1 Department of Biological Sciences, Hunter College, City University of New York, NY 10021, USA.
+NR 0
+TC 0
+SN 
+EI 0022-175
+J9 J Immunol Methods
+PD DEC 27
+PY 1995
+VL 188
+IS 2
+BP 209
+EP 17
+DI 10.1016/0022-1759(95)00205-7
+PG -192
+WC Animals; Antibodies, Monoclonal; biosynthesis; Cell Fusion; Cell Line; Cell Survival; Cells, Cultured; Electroporation; methods; Genes, Immunoglobulin; Hybrid Cells; Hybridomas; immunology; Immunoglobulin Heavy Chains; analysis; Mice; Mice, Inbred AKR; Mice, Inbred BALB C; Rats; T-Lymphocytes; immunology; Tumor Cells, Cultured
+UT PubMed:8551049
+PM 8551049
+DA 1995-12-27
+ER
+
+PT J
+AU Torem, MS
+AF Torem, M S
+TI A practical approach in the treatment of self-inflicted violence.
+SO Journal of holistic nursing : official journal of the American Holistic Nurses'
+LA English
+DT Journal Article
+AB After a brief review of the literature on self-inflicted violence, a practical  approach to the treatment of patients who show self-injurious behavior and  self-mutilation is developed. The treatment model uses therapeutic interventions  based on a biopsychosocial understanding of the person and applies knowledge from  the biological, psychological-behavioral, and social fields. Interventions  discussed include ego strengthening, planning for substitute behaviors,  therapeutic imagery, ego-state therapy, reframing, cognitive syllogism,  behavioral reinforcement and extinction, and use of behavioral contracts. The  case examples presented illustrate the importance of the therapist/patient  relationship, which is based on trust, respect, and caring but also on patient  responsibility for change.
+NR 0
+TC 0
+SN 
+EI 0898-010
+J9 J Holist Nurs
+PD MAR 1
+PY 1995
+VL 13
+IS 1
+BP 37
+EP 53
+DI 10.1177/089801019501300106
+PG 16
+WC Adult; Behavior Therapy; methods; Female; Humans; Professional-Patient Relations; Self-Injurious Behavior; psychology
+UT PubMed:7730580
+PM 7730580
+DA 1995-03-01
+ER
+
+PT J
+AU Naess-Andresen, CF
+   Egelandsdal, B
+   Fagerhol, MK
+AF Naess-Andresen, C F
+   Egelandsdal, B
+   Fagerhol, M K
+TI Calcium binding and concomitant changes in the structure and heat stability of
+SO Clinical molecular pathology
+LA English
+DT Journal Article
+AB Aim-To obtain further data on the structure and conformation of calprotectin, a  prominent leucocyte protein found in many species.Methods-The binding of Ca(2+)  to calprotectin was studied by means of equilibrium dialysis using (45)Ca as  tracer. The thermal stability and denaturation kinetics of calprotectin were  studied by means of differential scanning calorimetry. Con-comitant alterations  in optical activity resulting from different conditions were measured. A computer  program calculated the parameters to fit different models of protein structure.  Ultraviolet spectroscopy gave absorbtion spectra. Sedimentation velocity studies  and molecular weight determinations by the low speed (sedimentation) equilibrium  technique were performed.Results-A maximum of six calcium ions were bound per  calprotectin molecule at 0.7 mM calcium chloride. The apparent dissociation  constants were calculated. Ca(2+) ions increased the denaturation temperature by  26 degrees K. The enthalpy of denaturation was also increased by Ca(2+). Addition  of Ca(2+) to the buffers caused a gradual change in the near UV circular  dichroism spectrum, while only minor changes were seen at wavelengths of 210-240  nm. A gradual increase in the sedimentation coefficient was observed on addition  of calcium chloride. The extinction coefficient at 279nm was determined: E(279)=  2.53.10(4) M(-1) cm(-1).Conclusions-Calprotectin can bind six calcium ions. Upon  binding, the protein shows distinct conformational changes and increased thermal  stability. The former may be of importance for its function, while the biological  significance of the latter is unknown.
+C1 Blood Bank and Department of Immunology, Ullevaal University Hospital, N-0407 Oslo, Norway.
+NR 0
+TC 0
+SN 
+EI 1355-291
+J9 Clin Mol Pathol
+PD OCT 1
+PY 1995
+VL 48
+IS 5
+BP M278
+EP 84
+DI 10.1136/mp.48.5.m278
+PG 1
+UT PubMed:16696022
+PM 16696022
+DA 1995-10-01
+ER
+
+PT J
+AU Schut, F
+   Jansen, M
+   Gomes, TM
+   Gottschal, JC
+   Harder, W
+   Prins, RA
+AF Schut, F
+   Jansen, M
+   Gomes, T M
+   Gottschal, J C
+   Harder, W
+   Prins, R A
+TI Substrate uptake and utilization by a marine ultramicrobacterium.
+SO Microbiology (Reading, England)
+LA English
+DT Journal Article
+AB A facultatively oligotrophic ultramicrobacterium (strain RB2256) isolated from an  Alaskan fjord by extinction dilution in seawater, was grown in batch culture and  under single- and dual-substrate-limitation of alanine and glucose in a  chemostat. The nature of the uptake systems, and the uptake kinetics and  utilization patterns of alanine and glucose were investigated. Glucose uptake was  inducible, the system exhibited a narrow substrate specificity, and part of the  uptake system was osmotic-shock-sensitive. Half-saturation constants for glucose  were between 7 and 74 microM during glucose limitation. The initial step in  glucose metabolism was the synthesis of sugar polymers, even during  glucose-limited growth. The alanine uptake system was constitutively expressed  and was binding-protein-dependent. In addition to L-alanine, nine other amino  acids inhibited accumulation of [14C]L-alanine, indicating broad substrate  specificity of the alanine transporter. Half-saturation constants between 1.3 and  1.8 microM were determined for alanine uptake during alanine limitation.  Simultaneous utilization of glucose and alanine occurred during substrate-limited  growth in the chemostat, and during growth in batch culture at relatively high  (mM) substrate concentrations. However, the half-saturation constant for alanine  transport during dual-substrate-limitation, i.e. in the presence of glucose,  increased almost fivefold. We conclude that mixed substrate utilization is an  inherent property of this organism.
+C1 Department of Microbiology, University of Groningen, Haren, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 1350-087
+J9 Microbiology (Reading)
+PD FEB 1
+PY 1995
+VL 141 ( Pt 2)
+IS 
+BP 351
+EP 61
+DI 10.1099/13500872-141-2-351
+PG -290
+WC Alanine; metabolism; Amino Acids; metabolism; Biological Transport; drug effects; Carrier Proteins; metabolism; Gene Expression Regulation, Bacterial; Glucose; metabolism; Gram-Negative Aerobic Bacteria; genetics; Seawater; Substrate Specificity; Water Microbiology
+UT PubMed:7704265
+PM 7704265
+DA 1995-02-01
+ER
+
+PT J
+AU Bures, EJ
+   Nika, H
+   Chow, DT
+   Morrison, HD
+   Hess, D
+   Aebersold, R
+AF Bures, E J
+   Nika, H
+   Chow, D T
+   Morrison, H D
+   Hess, D
+   Aebersold, R
+TI Synthesis of the protein-sequencing reagent
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB We report the synthesis and structural characterization of the novel Edman-type  protein-sequencing reagent 4-(3-pyridinylmethylaminocarboxypropyl) phenyl  isothiocyanate. A panel of thiohydantoins prepared from this reagent were found  stable during liquid chromatography-electrospray mass spectrometry and were  detectable at the low femtomole sensitivity level. Furthermore, the signal  detected for these compounds in the mass spectrometer was linear from the low  femtomole to the low picomole range. The derivatives showed uv absorbance spectra  comparable to their phenylthiohydantoin counterparts. The extinction coefficient  for the 4-(3-pyridinylmethylaminocarboxypropyl) phenyl thiohydantoin tyrosine was  determined by adsorptive sequence analysis of a synthetic pentapeptide featuring  an N-terminal 125I-labeled tyrosine. The sequence data suggest that the reagent  will be useful for extended sequence analysis of proteins and peptides using  commercially available gas-liquid-phase sequencers.
+C1 Biomedical Research Centre, University of British Columbia, Vancouver, Canada.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD JAN 1
+PY 1995
+VL 224
+IS 1
+BP 364
+EP 72
+DI 10.1006/abio.1995.1052
+PG -292
+WC Amino Acid Sequence; Hydantoins; chemistry; Indicators and Reagents; chemical synthesis; Isothiocyanates; Thiocyanates; chemical synthesis
+UT PubMed:7710094
+PM 7710094
+DA 1995-01-01
+ER
+
+PT J
+AU Cane, PA
+   Pringle, CR
+AF Cane, P A
+   Pringle, C R
+TI Evolution of subgroup A respiratory syncytial virus: evidence for progressive
+SO Journal of virology
+LA English
+DT Journal Article
+AB The variability of the attachment (G) proteins of 48 subgroup A isolates of  respiratory syncytial virus (RSV) isolated over 38 years has been examined.  Nucleotide sequences of two variable regions of the G protein genes were  determined following amplification by PCR. The isolates showed temporal rather  than geographical clustering, and there was evidence for progressive accumulation  of amino acid changes at an average rate of approximately 0.25% per year  estimated over the entire protein. The cocirculation of lineages of RSV at  present appears to be the result of a process of evolution and survival of  particular genotypes and the extinction of others. Analysis of reactivity of the  isolates with monoclonal antibodies showed that their antigenic profiles closely  paralleled their relatedness by nucleotide sequence, suggesting that antigenic  drift due to immune selection may be occurring.
+C1 Department of Biological Sciences, University of Warwick Coventry, United Kingdom.
+NR 0
+TC 0
+SN 1098-551
+EI 0022-538
+J9 J Virol
+PD MAY 1
+PY 1995
+VL 69
+IS 5
+BP 2918
+EP 25
+DI 10.1128/JVI.69.5.2918-2925.1995
+PG -2893
+WC Amino Acid Sequence; Antibodies, Monoclonal; Antigens, Viral; genetics; Base Sequence; Biological Evolution; DNA Primers; genetics; DNA, Viral; genetics; Genes, Viral; Humans; Molecular Sequence Data; Polymerase Chain Reaction; Respiratory Syncytial Virus Infections; epidemiology; Respiratory Syncytial Viruses; classification; Sequence Homology, Amino Acid; Viral Proteins; genetics
+UT PubMed:7707517
+PM 7707517
+DA 1995-05-01
+ER
+
+PT J
+AU Willis, KJ
+   Bennett, KD
+AF Willis, K J
+   Bennett, K D
+TI Mass extinction, punctuated equilibrium and the fossil plant record.
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+C1 Dept of Plant Sciences, University of Cambridge, Cambridge, UK CB2 3EA.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD AUG 1
+PY 1995
+VL 10
+IS 8
+BP 308
+EP 9
+DI 10.1016/s0169-5347(00)89114-4
+PG -299
+UT PubMed:21237051
+PM 21237051
+DA 1995-08-01
+ER
+
+PT J
+AU Chapman, LJ
+   Kaufman, LS
+   Chapman, CA
+   McKenzie, FE
+AF Chapman, Lauren J
+   Kaufman, Leslie S
+   Chapman, Colin A
+   McKenzie, F Ellis
+TI Hypoxia Tolerance in Twelve Species of East African Cichlids: Potential for Low
+SO Conservation biology : the journal of the Society for Conservation Biology
+LA English
+DT Journal Article
+AB The species flock of haplochromine cichlid fishes in Lake Victoria is one of the  most extensive and recent radiations of vertebrates known. Over the past 15  years, however, many of the haplochromine cichlid species have vanished, and  predation by the introduced Nile perch (Lates niloticus) is thought to be one of  the most significant factors underlying this mass extinction. Information on the  hypoxia tolerance of haplochromines from the Lake Victoria is valuable for  predicting their response to the increasing anoxia within the lake and in  evaluating their potential use of low oxygen regions as refugia from predation by  introduced Nile perch. This study examines the response of nine cichlid species  from Lake Victoria (eight indigenous, one introduced) and three cichlid species  from Lake Tanganyika to different low-oxygen regimes under laboratory conditions.  Fish were exposed to progressive and acute hypoxia, with and without access to  the surface. All species used aquatic surface respiration at very low Po(2) .  Buccal bubble holding and active swimming at the surface during aquatic surface  respiration were used by many species and may serve to increase its efficiency.  Lacustrine cichlids endemic to Lake Victoria were more tolerant of hypoxia than  ecologically similar species from Lake Tanganyika. The two species examined that  are widespread in variety of aquatic habitats exhibited a relatively high  tolerance to hypoxia, with well-developed aquatic surface respiration and  bubble-holding capabilities and no loss of equilibrium during progressive  hypoxia. Species strongly affected by recent changes in Lake Victoria were not  consistently poorer in their hypoxia tolerance than less-affected species. But,  two of the less-affected species are inhabitants of shallow, rocky habitats, an  environment that may be both rich in oxygen and well defended against the Nile  perch because of the structural complexity of the rocky, littoral area. The  generally high levels of hypoxia tolerance in the cichlid species examined from  Lake Victoria suggest that these species potentially could use low-oxygen refugia  to escape Nile perch predation. Some species that are thought to have disappeared  may currently inhabit low-oxygen refugia that have not been adequately sampled.  Tolerancia a la hipoxia en cíclidos del Africa oriental: Refugios con bajo  contenido de oxígeno en el lago Victoria.
+C1 Department of Zoology, University of Florida, Gainesville, Florida 32611, U.S.A., email ljchapman@zoo.ufl.edu.
+   Department of Biology, Boston University, Boston, Massachusetts 02205, U.S.A.
+   Department of Zoology, University of Florida, Gainesville, Florida 32611, U.S.A., email ljchapman@zoo.ufl.edu.
+   Organismal and Evolutionary Biology, 214 Aiken Lab, Harvard University, Cambridge, Massachusetts 02138, U.S.A.
+NR 0
+TC 0
+SN 1523-173
+EI 
+J9 Conserv Biol
+PD OCT 1
+PY 1995
+VL 9
+IS 5
+BP 1274
+EP 1288
+DI 10.1046/j.1523-1739.1995.9051262.x-i1
+PG 14
+UT PubMed:34261244
+PM 34261244
+DA 1995-10-01
+ER
+

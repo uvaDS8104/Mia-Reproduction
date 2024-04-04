@@ -1,0 +1,1344 @@
+PT J
+AU Williamson, M
+AF Williamson, M
+TI Natural extinction on islands.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+AB Almost all recent extinction of species or subspecies on islands comes from human  activities. On the other hand, in local populations there is much natural  extinction and immigration, i.e. turnover, on small islands. Most of this  turnover occurs in locally rare species, and attests to the phenomenon of minimum  viable population size. The MacArthur-Wilson theory is based on this turnover  which, from an ecological point of view, is generally trivial. More useful  theories of minimum viable population size are being developed. Rarity is the  precursor of extinction, and species can be rare in several ways. Models of these  phenomena are still primitive, particularly those that relate habitat  availability to population density. Models of interactive communities show  phenomena that may be relevant to the understanding of extinction in the  geological record. Lotka-Volterra equations indicate considerable sensitivity to  invasions, sometimes producing a cascade of extinction. Chemostat equations show  that the behaviour of food chains can change dramatically with small changes in  parameters, suggesting that small environmental effects can sometimes cause large  ecological changes, including extinctions, in interactive biotic communities.
+C1 Department of Biology, University of York, U.K.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD NOV 6
+PY 1989
+VL 325
+IS 1228
+BP 
+EP 
+DI 10.1098/rstb.1989.0099
+PG 0
+WC Animals; Biological Evolution; Birds; Butterflies; Models, Statistical; Population; Reproduction
+UT PubMed:2574886
+PM 2574886
+DA 1989-11-06
+ER
+
+PT J
+AU Brown, JH
+   Maurer, BA
+AF Brown, J H
+   Maurer, B A
+TI Macroecology: the division of food and space among species on continents.
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+AB Analyses of statistical distributions of body mass, population density, and size  and shape of geographic range offer insights into the empirical patterns and  causal mechanisms that characterize the allocation of food and space among the  diverse species in continental biotas. These analyses also provide evidence of  the processes that couple ecological phenomena that occur on disparate spatial  and temporal scales-from the activities of individual organisms within local  populations to the dynamics of continent-wide speciation, colonization, and  extinction events.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD MAR 3
+PY 1989
+VL 243
+IS 4895
+BP 1145
+EP 50
+DI 10.1126/science.243.4895.1145
+PG -1095
+UT PubMed:17799895
+PM 17799895
+DA 1989-03-03
+ER
+
+PT J
+AU Erwin, DH
+AF Erwin, D H
+TI The End-Permian mass extinction: What really happened and did it matter?
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Marine communities of the Paleozoic differ markedly from those of the  post-Paleozoic, a dichotomy long recognized as the most fundamental change  between the Cambrian metazoan radiation and the present. The end-Permian mass  extinction of about 54% of marine families eliminated many of the groups that  dominated Paleozoic communities. Correlative changes occurred in terrestrial  vertebrate and plant communities, but there is no clear evidence that these  changes are related to the marine extinction. The marine extinction occurred  during a period of physical change, and a variety of extinction mechanisms have  been proposed, most related to a major Late Permian marine regression or to  climatic changes. Unfortunately, the regression has made it difficult to gather  data on the rate, timing and pattern of extinction, and the available data  exclude only a few hypotheses. Thus the largest mass extinction, and the one with  the greatest evolutionary importance, is also the most poorly understood.
+C1 the Dept of Geological Sciences, Michigan State University, East Lansing, MI 48824, USA.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD AUG 1
+PY 1989
+VL 4
+IS 8
+BP 225
+EP 9
+DI 10.1016/0169-5347(89)90165-1
+PG -216
+UT PubMed:21227355
+PM 21227355
+DA 1989-08-01
+ER
+
+PT J
+AU Campello, C
+AF Campello, C
+TI [Current problems in the microbiological control of food].
+SO Annali di igiene : medicina preventiva e di comunita
+LA ita
+DT Review
+AB The paper deals with a number of aspects of current interest and significance on  the subject of the microbiological testing of food with particular reference to  the role of research institutes. The main objectives of microbiological testing  of food are essentially two: (i) to establish the absence of a human health  hazard due to microbial contamination of food (food safety); and (ii) to define  the quality standard of food (food quality). As far as the first of these  objectives is concerned, the outcome of the assay necessarily emerges not only  from identification of pathogens but also from definition of their pathogenicity  and virulence characteristics and of critical factors for their transmission.  Alongside the classic pathogens, evidence has recently been found indicating that  four additional bacteria, namely Yersinia enterocolitica, Campylobacter jejuni,  Vibrio cholerae non 0-1 and Listeria monocytogenes, also play an important role  in food-borne disease. The most characteristic biological, ecological and  epidemiologic aspects related to human food-borne disease are described for these  bacteria. As regards the second objective, i.e. food quality, stress is laid on  the role played by microbial indicators and their predictivity for pathogenic  micro-organisms, which does not always exist. This depends on three basic  differential factors: (i) biological characteristics giving rise to different  diffusion, dilution and extinction phenomena, or, on the other hand,  multiplication of such pathogens in the environment and in food; (ii) resistance  to the natural inactivation mechanisms, whether of a general or specific nature,  of each alimentary substrate; and (iii) the ecological and epidemiological  pattern. By way of examples, two experiences indicating the lack of predictivity  of the faecal indicators for enterovirus and Vibrio cholerae non 0-1 are  reported. Nevertheless, standard microbiological testing for mesophilic flora and  indicators are fundamental instruments in the analysis of food quality at all  stages of production (supply of raw materials, good manufacturing practices,  characteristics of the product during shelf life), and this type of testing, when  performed by industrial-scale food producers, may guarantee a high standard of  food quality and its progressive improvement.
+NR 0
+TC 0
+SN 
+EI 1120-913
+J9 Ann Ig
+PD MAY 1
+PY 1989
+VL 1
+IS 3-4
+BP 813
+EP 25
+DI 
+PG -788
+WC Campylobacter; isolation & purification; Food Microbiology; standards; Humans; Listeria; isolation & purification; Vibrio cholerae; isolation & purification; Yersinia enterocolitica; isolation & purification
+UT PubMed:2483651
+PM 2483651
+DA 1989-05-01
+ER
+
+PT J
+AU Hugdahl, K
+   Johnsen, BH
+AF Hugdahl, K
+   Johnsen, B H
+TI Preparedness and electrodermal fear-conditioning: ontogenetic vs phylogenetic
+SO Behaviour research and therapy
+LA English
+DT Journal Article
+AB In a review of existing theories of learning, Seligman (Psychol. Rev. 77,  406-418, 1970) suggested that humans should have an evolutionary derived  preparedness to associate fear-relevant (e.g. snakes) events with aversive  reinforcers. The preparedness hypothesis has been extensively tested by Ohman and  his colleagues. One argument against a non-preparedness explanation for the Ohman  findings has been that culturally aversive stimuli, like pictures of guns have  not shown the same resistance towards extinction as pictures of snakes. However,  the effect of pointing a gun directly towards the S vs pointing it to the side  has not been tested. Therefore both slides of guns and snakes, directed both  towards and aside from the subject, were used as conditioned stimuli (CSs) in the  present study. A second question that has been discussed in the  preparedness-literature is the quality of the unconditioned stimulus (UCS), i.e.  if only shock can act as UCS for prepared CSs. Thus, both shock and noise UCSs  were used in the present study. Skin conductance responses (SCRs) were recorded  as dependent measures. The results showed conditioned acquisition, i.e. larger  SCRs to CS+ than to CS-, in all groups except for the shock and noise UCS groups  with the gun pointing aside as CS+ (where actually larger responses were observed  to the CS-, i.e. the gun pointing towards). The extinction data showed  significantly larger SCRs to CS+ than to CS- for both snakes and guns directed  towards the S. Strongest resistance to extinction was observed for the group with  the gun pointed towards as CS+ and with noise as UCS. The gun with noise as UCS  pointed towards the S was not different from the snake with shock as UCS. Taken  together, the results have shown three things; (a) directing a fear-relevant CS  towards the S was a potent manipulation, and especially directing a gun with  noise as UCS; (b) shock was overall not superior to noise as UCS, and especially  not for snake CSs; (c) a weak form of unique belongingness was demonstrated.
+NR 0
+TC 0
+SN 
+EI 0005-796
+J9 Behav Res Ther
+PD JAN 1
+PY 1989
+VL 27
+IS 3
+BP 269
+EP 78
+DI 10.1016/0005-7967(89)90046-6
+PG -191
+WC Adult; Biological Evolution; Conditioning, Psychological; Electroshock; Extinction, Psychological; Fear; Female; Galvanic Skin Response; Humans; Male; Noise
+UT PubMed:2730508
+PM 2730508
+DA 1989-01-01
+ER
+
+PT J
+AU Jaeger, JJ
+   Hartenberger, JL
+AF Jaeger, J J
+   Hartenberger, J L
+TI Diversification and extinction patterns among Neogene perimediterranean mammals.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+AB The best mammalian fossil record during the Neogene of Western Europe is that of  the rodents, the most successful and diversified mammal order. The study of  origination and extinction during the Neogene (24-3 Ma BP) in one of the  best-documented areas, Spain and southern France, gives an insight into the  dynamics of these communities and indicates the possible nature of the driving  forces. Three main periods of time show a high rate of origination: the late  Burdigalian (17.5 Ma BP), the early Vallesian (11.5-11 Ma BP) and the early  Pliocene (4.2-3.8 Ma BP). Two of these high origination-rate periods are  immediately followed by important extinction events during which all cohorts are  deeply affected (11.5-11 Ma BP and 4.2-3.8 Ma BP). The most important extinction  event seems to occur during the early Vallesian (11.5-11 Ma BP), which probably  includes the middle/late Miocene boundary. At the Miocene/Pliocene boundary, and  during the early Pliocene, the faunal turnover seems to become faster, inducing a  strong decrease of the mean species duration. Whereas the main immigration event,  which occurs at 17.5 Ma BP, can be related to other faunal migrations in terms of  the closure of the Tethys, as it occurs also in eastern Africa and in southwest  Asia, the middle/late Miocene boundary event may have been related to a period of  ice growth in the Southern Hemisphere. The extinction event that affects the  planktonic foraminifera at 12 Ma BP cannot be chronologically correlated to this  southwestern European land-mammal extinction event, because the calibration of  the marine fossil record during that time-span has to be precise. Some limited  terrestrial faunal exchanges that occur during the Messinian between southwestern  Europe and northwestern Africa do not deeply affect the general faunal dynamics.  Both allochthonous cohorts of immigrants become rapidly extinct. Several endemic  rodent faunas, indicating insular conditions, have been reported from the  southern edge of the western European continent from the middle Miocene up to the  Pliocene. All show low taxonomic diversity, strong endemism and short survival.  Some of them, like those of the Gargano Islands during the late Miocene,  underwent peculiar morphological changes and also speciation. The large number of  rodent genera coevolving in the Gargano Islands is indicative of the large  surface areas of these islands. The general geographic pattern of southwestern  Europe during the Neogene may therefore correspond to a large continental  province including Spain and southern France with some kind of fast-modifying  archipelago on its southern rim.
+C1 Laboratoire de Paléontologie des Vertébrés, Université Pierre et Marie Curie (Paris VI), France.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD NOV 6
+PY 1989
+VL 325
+IS 1228
+BP 401
+EP 20
+DI 10.1098/rstb.1989.0096
+PG -381
+WC Animals; Biological Evolution; Europe; Fossils; Genetic Variation; Genetics, Population; Mammals; Mediterranean Sea; Paleontology
+UT PubMed:2574884
+PM 2574884
+DA 1989-11-06
+ER
+
+PT J
+AU Klingler, JM
+   Mancinelli, RL
+   White, MR
+AF Klingler, J M
+   Mancinelli, R L
+   White, M R
+TI Biological nitrogen fixation under primordial Martian partial pressures of
+SO Advances in space research : the official journal of the Committee on Space
+LA English
+DT Journal Article
+DE NASA Center ARC; NASA Discipline Exobiology; NASA Discipline Number 52-50; NASA Program Exobiology
+AB Early Earth and early Mars were similar enough such that past geochemical and  climatic conditions on Mars may have also been favorable for the origin of life.  However, one of the most striking differences between the two planets was the low  partial pressure of dinitrogen (pN2) on early Mars (18 mb). On Earth, nitrogen is  a key biological element and in many ecosystems the low availability of fixed  nitrogen compounds is the main factor limiting growth. Biological fixation of  dinitrogen on Earth is a crucial source of fixed nitrogen. Could the low  availability of dinitrogen in the primordial Martian atmosphere have prevented  the existence, or evolution of Martian microbiota? Azotobacter vinelandii and  Azomonas agilis were grown in nitrogen free synthetic medium under various  partial pressures of dinitrogen ranging from 780-0 mb (total atmosphere=1 bar).  Below 400 mb the biomass, cell number, and growth rate decreased with decreasing  pN2. Both microorganisms were capable of growth at a pN2 as low as 5 mb, but no  growth was observed at a pN2 < or = 1 mb. The data appear to indicate that  biological nitrogen fixation could have occurred on primordial Mars (pN2=18 mb)  making it possible for a biotic system to have played a role in the Martian  nitrogen cycle. It is possible that nitrogen may have played a key role in the  early evolution of life on Mars, and that later a lack of available nitrogen on  that planet (currently, pN2=0.2 mb) may have been involved in its subsequent  extinction.
+C1 NASA-Ames Research Center, Solar System Exploration, Moffett Field, CA 94035, USA.
+NR 0
+TC 0
+SN 
+EI 0273-117
+J9 Adv Space Res
+PD JAN 1
+PY 1989
+VL 9
+IS 6
+BP 173
+EP 6
+DI 10.1016/0273-1177(89)90225-1
+PG -167
+WC Atmosphere; Azotobacter vinelandii; metabolism; Biomass; Environmental Microbiology; Exobiology; Mars; Nitrogen; analysis; Nitrogen Fixation; physiology; Origin of Life; Partial Pressure; Pseudomonadaceae; metabolism
+UT PubMed:11537369
+PM 11537369
+DA 1989-01-01
+ER
+
+PT J
+AU Bruce, CW
+   Crow, SB
+   Yee, YP
+   Hinds, BD
+   Marlin, D
+   Jelinek, AV
+AF Bruce, C W
+   Crow, S B
+   Yee, Y P
+   Hinds, B D
+   Marlin, D
+   Jelinek, A V
+TI Infrared optical properties of diesel smoke plumes.
+SO Applied optics
+LA English
+DT Journal Article
+AB Far IR optical properties have been measured for smoke from diesel fires.  Concentrations of both gaseous and particulate combustion products have been  measured and chemical species contributing to the optical effects identified. To  obtain these results, a variety of sampling instruments were lofted into large  plumes on a mobile and open structure. The smoke plumes of diesel fires have been  found to consist largely of carbonaceous material (in fibrous form) and heavy  liquid hydrocarbons infused with the expected gaseous products of the combustion  process. Strong attenuation at a wavelength of 10.6 microm is found to be due  largely to the carbonaceous aerosol. The absorption coefficient is typically ~500  km(-1) at 10 m from the source with a variable but often comparable total  scattering coefficient. The extinction coefficient, normalized to the mass  density of the aerosol in a unit volume of space, is found to be 1.2 m(2)-g(-1)  with an estimated variance of 20%. luctuational spectra of the attenuation follow  a form similar to turbulence spectra.
+NR 0
+TC 0
+SN 
+EI 1559-128
+J9 Appl Opt
+PD OCT 1
+PY 1989
+VL 28
+IS 19
+BP 4071
+EP 6
+DI 10.1364/AO.28.004071
+PG -4065
+UT PubMed:20555831
+PM 20555831
+DA 1989-10-01
+ER
+
+PT J
+AU Wang, B
+   Jorns, MS
+AF Wang, B
+   Jorns, M S
+TI Reconstitution of Escherichia coli DNA photolyase with various folate
+SO Biochemistry
+LA English
+DT Journal Article
+AB DNA photolyase from Escherichia coli contains both flavin and pterin. However,  the isolated enzyme is depleted with respect to the pterin chromophore (0.5 mol  of pterin/mol of flavin). The extinction coefficient of the pterin chromophore at  360 nm is underestimated by a method used in earlier studies which assumes  stoichiometric amounts of pterin and flavin. The extinction coefficient of the  pterin chromophore, determined on the basis of its (p-aminobenzoyl)polyglutamate  content (epsilon 360 = 25.7 x 10(3) M-1 cm-1), is in good agreement with that  expected for a 5,10-methenyltetrahydrofolate derivative. Also consistent with  this structure, the pterin chromophore could be reversibly hydrolyzed to yield a  10-formyltetrahydrofolate derivative or reduced to yield a  5-methyltetrahydrofolate derivative. The isolated enzyme could be reconstituted  with various folate derivatives to yield enzyme that contained equimolar amounts  of pterin and flavin. Similar results were obtained in reconstitution studies  with the natural pterin chromophore, with 5,10-methenyltetrahydrofolate, and with  10-formyltetrahydrofolate. The results show that the polyglutamate moiety,  previously identified in the natural chromophore, is not critical for binding.  Reconstitution with the natural pterin chromophore did not affect catalytic  activity. The latter is consistent with our previous studies which show that,  although the pterin chromophore acts as a sensitizer in native enzyme, it is not  essential for dimer repair which can occur at the same rate under saturating  light with flavin (1,5-dihydro-FAD) as the only chromophore.
+C1 Department of Biological Chemistry, Hahnemann University School of Medicine, Philadelphia, Pennsylvania 19102.
+NR 0
+TC 0
+SN 
+EI 0006-296
+J9 Biochemistry
+PD FEB 7
+PY 1989
+VL 28
+IS 3
+BP 1148
+EP 52
+DI 10.1021/bi00429a032
+PG -1096
+WC Deoxyribodipyrimidine Photo-Lyase; metabolism; Escherichia coli; enzymology; Folic Acid; analogs & derivatives; Lyases; metabolism; Protein Binding; Spectrophotometry; Structure-Activity Relationship
+UT PubMed:2653434
+PM 2653434
+DA 1989-02-07
+ER
+
+PT J
+AU Jablonski, D
+AF Jablonski, D
+TI The biology of mass extinction: a palaeontological view.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB Extinctions are not biologically random: certain taxa or functional/ecological  groups are more extinction-prone than others. Analysis of molluscan survivorship  patterns for the end-Cretaceous mass extinctions suggests that some traits that  tend to confer extinction resistance during times of normal ('background') levels  of extinction are ineffectual during mass extinction. For genera, high  species-richness and possession of widespread individual species imparted  extinction-resistance during background times but not during the mass extinction,  when overall distribution of the genus was an important factor. Reanalysis of  Hoffman's (1986) data (Neues Jb. Geol. Palaont. Abh. 172, 219) on European  bivalves, and preliminary analysis of a new northern European data set, reveals a  similar change in survivorship rules, as do data scattered among other taxa and  extinction events. Thus taxa and adaptations can be lost not because they were  poorly adapted by the standards of the background processes that constitute the  bulk of geological time, but because they lacked--or were not linked to--the  organismic, species-level or clade-level traits favoured under mass-extinction  conditions. Mass extinctions can break the hegemony of species-rich, well-adapted  clades and thereby permit radiation of taxa that had previously been minor faunal  elements; no net increase in the adaptation of the biota need ensue. Although  some large-scale evolutionary trends transcend mass extinctions, post extinction  evolutionary pathways are often channelled in directions not predictable from  evolutionary patters during background times.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD JAN 1
+PY 1989
+VL 325
+IS 
+BP 357
+EP 68
+DI 10.1098/rstb.1989.0093
+PG -289
+WC Animals; Biological Evolution; Fossils; Marine Biology; Mollusca; Paleontology
+UT PubMed:11538671
+PM 11538671
+DA 1989-01-01
+ER
+
+PT J
+AU Mouton, PR
+   Meyer, EM
+   Arendash, GW
+AF Mouton, P R
+   Meyer, E M
+   Arendash, G W
+TI Intracortical AF64A: memory impairments and recovery from cholinergic
+SO Pharmacology, biochemistry, and behavior
+LA English
+DT Journal Article
+AB The long-term effects of intracortical AF64A (ethylcholine mustard aziridinium  ion) treatment on presynaptic cortical cholinergic markers and cognitive function  in the rat were investigated. Two 1.0 microliter infusions of AF64A (1  nmole/microliter) or vehicle were placed bilaterally into the fronto-parietal  cortex. At 3 weeks postinfusion, AF64A-treated animals were found to be deficient  in passive avoidance memory retention. During weeks 4 through 10, AF64A-treated  animals were markedly deficient in the extinction (memory) phase, but not the  acquisition (learning) phase of 2-way active avoidance behavior. Cortical  acetylcholine synthesis and high-affinity choline uptake were significantly  decreased in AF64A-treated animals at 24 hours, 3 weeks, and 10 weeks following  infusion. At 6 months after AF64A treatment, however, cortical cholinergic  markers were not reduced compared to controls. These data indicate that memory  deficits are observed during a period of cortical cholinergic hypofunction  induced by cortical AF64A infusions and that a recovery from such hypofunction  occurs by 6 months after these infusions.
+C1 Department of Biology, University of South Florida, Tampa 33620.
+NR 0
+TC 0
+SN 
+EI 0091-305
+J9 Pharmacol Biochem Behav
+PD APR 1
+PY 1989
+VL 32
+IS 4
+BP 841
+EP 8
+DI 10.1016/0091-3057(89)90045-2
+PG -833
+WC Acetylcholine; metabolism; Alzheimer Disease; Animals; Avoidance Learning; drug effects; Aziridines; administration & dosage; Biological Transport; drug effects; Cerebral Cortex; drug effects; Choline; administration & dosage; Disease Models, Animal; Memory; drug effects; Rats; Rats, Inbred Strains; Time Factors
+UT PubMed:2798533
+PM 2798533
+DA 1989-04-01
+ER
+
+PT J
+AU Olders, H
+AF Olders, H
+TI Mourning and grief as healing processes in psychotherapy.
+SO Canadian journal of psychiatry. Revue canadienne de psychiatrie
+LA English
+DT Journal Article
+AB The argument developed in this paper can be outlined as follows: relationships  are vital for growth, for adults and especially for children; to ensure that we  work to maintain relationships, evolution provided for pain on separation, which  stimulates behaviours designed to restore the relationship. If the separation is  permanent, it is necessary to form other relationships. This requires modifying  the attachment to the lost object, a process which involves unlearning of  emotional bonds and then learning new bonds to new objects. The process of  mourning and the affective state of grief, I believe, assist in this unlearning  and new learning. The stages of mourning involve cognitive learning of the  reality of the loss; behaviours associated with mourning, such as searching,  embody unlearning by extinction; finally, physiological concomitants of grief may  influence unlearning by direct effects on neurotransmitters or neurohormones,  such as cortisol, ACTH, or norepinephrine. Besides losses occasioned by  bereavement, life and normal development include many other kinds of losses.  Mourning for these losses is as necessary as mourning after a death. Failure to  adequately mourn can result in psychopathology or psychosomatic illness. In  comparison, appropriate mourning is adaptive, and parallels can be drawn between  it and healing in psychotherapy. The psychoanalytic and psychotherapeutic  literature supports the notion that mourning and grief in therapy act to heal.  Given that there may be a biological basis for this healing through the effects  of mourning on learning, psychotherapists might actively seek to encourage  identification of losses and their adequate mourning in therapy. Various  approaches are discussed. Two case reports of mourning occurring in psychotherapy  are given, followed by suggestions for research.
+C1 Centre de Psychiatrie Communautaire, Douglas Hospital, Verdun, Quebec.
+NR 0
+TC 0
+SN 
+EI 0706-743
+J9 Can J Psychiatry
+PD MAY 1
+PY 1989
+VL 34
+IS 4
+BP 271
+EP 8
+DI 10.1177/070674378903400402
+PG -263
+WC Adaptation, Psychological; Adult; Borderline Personality Disorder; psychology; Depressive Disorder; psychology; Female; Grief; Humans; Male; Object Attachment; Parent-Child Relations; Psychotherapy; Psychotic Disorders; psychology; Suicide; psychology; Transference, Psychology
+UT PubMed:2736471
+PM 2736471
+DA 1989-05-01
+ER
+
+PT J
+AU Smirnov, SA
+   Kozlovskaia, IB
+AF Smirnov, S A
+   Kozlovskaia, I B
+TI [Dynamics of the reactions of nonspecific and somatic activation while learning
+SO Zhurnal vysshei nervnoi deiatelnosti imeni I P Pavlova
+LA rus
+DT Journal Article
+AB Dynamics of characteristics of respiration, cardiac, muscular and EEG-activities  was studied in volunteers during their learning of voluntary control of skin  resistance and temperature by means of biological feedback. Initial stage of  learning of adaptive biocontrol was connected with involvement of systemic  activation reactions, which had similar characteristics during control of various  vegetative parameters both at their increase and decrease. The revealed  activation shifts represent non-specific reaction characteristic of learning and  extinction at gradual specialization and consolidation of control habit.  Characteristics of learning dynamics confirmed N. Miller's hypothesis that  adaptive biocontrol represents a form of instrumental conditioning. At the same  time, the involvement of systemic reactions is not an obligatory condition of  adaptive biocontrol learning. This fact confirms the presence of various  "individual strategies" of learning and existence of a sufficiently wide spectrum  of physiological mechanisms of visceral processes central control which could be  included at learning of voluntary control of visceral parameters.
+NR 0
+TC 0
+SN 
+EI 0044-467
+J9 Zh Vyssh Nerv Deiat Im I P Pavlova
+PD JAN 1
+PY 1989
+VL 39
+IS 1
+BP 20
+EP 7
+DI 
+PG -13
+WC Adult; Biofeedback, Psychology; physiology; Electroencephalography; Heart; physiology; Humans; Learning; physiology; Middle Aged; Muscles; physiology; Respiration
+UT PubMed:2735127
+PM 2735127
+DA 1989-01-01
+ER
+
+PT J
+AU Schnakenberg, J
+AF Schnakenberg, J
+TI Amplification and latency in photoreceptors: integrated or separated phenomena?
+SO Biological cybernetics
+LA English
+DT Journal Article
+AB It is shown that the models for the transduction process in photoreceptors which  treat latency and amplification as integrated phenomena ("integrated models")  yield time scales for single photon signals ("quantum bumps") which distinctly  conflict with the experimentally observed ones for the ventral nerve  photoreceptor of Limulus: the ratio of bump duration/latency tB/tlat is predicted  by integrated models to be approximately 3 in contrast to the experimental result  of approximately 0.5. Moreover, integrated models lead to a predicted value of an  extinction rate of approximately 50%, i.e., 50% of the absorbed photons should be  expected to cause no signal in the dark adapted state of the cell. In this paper  it is shown that separation of latency and amplification in such a way that the  latency causing process precedes amplification in the transduction process  eliminates these discrepancies. In addition, the separate modeling of latency and  amplification resolves the rather large ambiguity in determining the exponent n  of the initial signal current J(t) approximately tn reported in the literature to  be between n approximately 2 (from noise analysis) up to n approximately 17 (from  flash experiments). Two alternative models for the latency part of transduction  are suggested which give a qualitatively much better agreement with the  experimental histograms of latencies.
+C1 Institut für Theoretische Physik, Rheinisch-Westfälische Technische Hochschule, Aachen, Federal Republic of Germany.
+NR 0
+TC 0
+SN 
+EI 0340-120
+J9 Biol Cybern
+PD JAN 1
+PY 1989
+VL 60
+IS 6
+BP 421
+EP 30
+DI 10.1007/BF00204697
+PG -391
+WC Animals; Horseshoe Crabs; Models, Biological; Photoreceptor Cells; physiology; Reaction Time; physiology; Visual Pathways; physiology
+UT PubMed:2719980
+PM 2719980
+DA 1989-01-01
+ER
+
+PT J
+AU Poole, LB
+   Claiborne, A
+AF Poole, L B
+   Claiborne, A
+TI The non-flavin redox center of the streptococcal NADH peroxidase. II. Evidence
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Incubation of the streptococcal NADH peroxidase with 5-thio-2-nitrobenzoate under  anaerobic denaturing conditions leads to the rapid incorporation of 1 eq/FAD of  the aromatic thiol. Addition of dithiothreitol to the resulting conjugate,  following ultrafiltration, demonstrates that a mixed disulfide has been formed.  Analysis of the denatured NADH peroxidase by iso-electric focusing reveals the  presence of two predominant species differing in isoelectric point by  approximately 0.1 units. Preincubation with 20 mM hydrogen peroxide gives  essentially complete and irreversible conversion to the more acidic species.  Treatment of the native peroxidase with low concentrations of hydrogen peroxide  also leads to irreversible enzyme inactivation; the low extinction long  wavelength absorbance associated with the enzyme as purified is lost in the  process. Anaerobic dithionite and NADH titrations of the peroxide-inactivated  enzyme indicate that, while the cysteinyl redox center is nonfunctional, the  enzyme is still capable of forming a binary complex with NADH. We propose that  the redox-active cysteinyl derivative which serves as the second redox center in  the native peroxidase is a stabilized cysteine-sulfenic acid derivative of Cys42.  This determination is consistent with the covalent modifications observed with  both 5-thio-2-nitrobenzoate and with H2O2 and is supported by mass spectrometric  analysis of a chymotryptic cysteinyl peptide derived from the unmodified  peroxidase.
+C1 Department of Biochemistry, Wake Forest University Medical Center, Winston-Salem, North Carolina 27103.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD JUL 25
+PY 1989
+VL 264
+IS 21
+BP 12330
+EP 8
+DI 
+PG -12322
+WC Amino Acid Sequence; Cysteine; analogs & derivatives; Dithiothreitol; pharmacology; Enterococcus faecalis; enzymology; Flavin-Adenine Dinucleotide; metabolism; Hydrogen Peroxide; pharmacology; Isoelectric Focusing; Kinetics; Molecular Sequence Data; NAD; metabolism; Neurotransmitter Agents; Nitrobenzoates; pharmacology; Oxidation-Reduction; Peptide Fragments; isolation & purification; Peroxidases; metabolism; Protein Denaturation; Spectrophotometry; Sulfhydryl Compounds; Trypsin
+UT PubMed:2501303
+PM 2501303
+DA 1989-07-25
+ER
+
+PT J
+AU Friedmann, EI
+   Koriem, AM
+AF Friedmann, E I
+   Koriem, A M
+TI Life on Mars: how it disappeared (if it was ever there).
+SO Advances in space research : the official journal of the Committee on Space
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-30; NASA Program Exobiology; Non-NASA Center
+AB The cryptoendolithic microbial community in the Ross Desert (McMurdo Dry Valleys)  of Antarctica exists at temperatures significantly below the temperature optima  of the primary producers. Surviving near the limit of their physiological  adaptability, the organisms are under severe environmental stress, so further  deterioration in the environment results in cell damage and death. The sequence  of events leading to extinction is considered to be a terrestrial analog for  disappearance of possible life on early Mars. Progressive stages of cell damage  and death in the Ross Desert material are documented with transmission electron  microscopy.
+C1 Polar Desert Research Center, Florida State University, Tallahassee 32306-2043, USA.
+NR 0
+TC 0
+SN 
+EI 0273-117
+J9 Adv Space Res
+PD JAN 1
+PY 1989
+VL 9
+IS 6
+BP 167
+EP 72
+DI 10.1016/0273-1177(89)90224-x
+PG -95
+WC Antarctic Regions; Biological Evolution; Cold Climate; adverse effects; Desert Climate; Environmental Microbiology; Exobiology; Lichens; growth & development; Mars; Microscopy, Electron; Origin of Life
+UT PubMed:11537368
+PM 11537368
+DA 1989-01-01
+ER
+
+PT J
+AU Leary, RF
+   Allendorf, FW
+AF Leary, R F
+   Allendorf, F W
+TI Fluctuating asymmetry as an indicator of stress: Implications for conservation
+SO Trends in ecology & evolution
+LA English
+DT Journal Article
+AB Extinction can be attributed broadly to environmental or genetic stress. The  ability to detect such stresses before they seriously affect a population can  enhance the effectiveness of conservation programs. Recent studies have shown  that within-individual morphological variability may provide a valuable early  indicator of environmental and genetic stress.
+C1 Division of Biological Sciences, University of of Biological Sciences, University of Montana, Missoula, MT 59812, USA.
+NR 0
+TC 0
+SN 
+EI 0169-534
+J9 Trends Ecol Evol
+PD JUL 1
+PY 1989
+VL 4
+IS 7
+BP 214
+EP 7
+DI 10.1016/0169-5347(89)90077-3
+PG -207
+UT PubMed:21227354
+PM 21227354
+DA 1989-07-01
+ER
+
+PT J
+AU Stojan, M
+   Vacek, Z
+   Slavícek, J
+AF Stojan, M
+   Vacek, Z
+   Slavícek, J
+TI [Morphologic changes in the heart atrium in frogs after extinction of current due
+SO Sbornik lekarsky
+LA cze
+DT Journal Article
+AB In biological model experiments in frog heart morphological substrate was  observed in current extinction due to damage under suction electrode. After  short-term suction discharge monophase recording disappeared without demonstrable  myocyte ultrastructure changes by means of reparation ad integrum. Monophase  recording spontaneously disappeared in distinct changes of monocyte structure  with enlarged spaces in between myofibrils, with breakdown of cristae in  mitochondria and with dilatation of tubules and cisternae of the endoplasmic  reticulum. This tissue disintegration leads to demarcation and forming of new  cellular surfaces on the border with the healthy tissue so that the damaged area  turns into a mere electric conductor.
+NR 0
+TC 0
+SN 
+EI 0036-532
+J9 Sb Lek
+PD OCT 1
+PY 1989
+VL 91
+IS 10
+BP 289
+EP 93
+DI 
+PG -196
+WC Animals; Electrodes; Electrophysiology; Heart; physiology; Myocardium; ultrastructure; Rana esculenta; Suction
+UT PubMed:2631188
+PM 2631188
+DA 1989-10-01
+ER
+
+PT J
+AU Kumar, R
+   Freedman, HI
+AF Kumar, R
+   Freedman, H I
+TI A mathematical model of facultative mutualism with populations interacting in a
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Facultative mutualism with populations interacting in a food chain is modeled by  a system of four autonomous ordinary differential equations. Two cases are  considered: mutualism with the prey and mutualism with the first predator. In  both cases persistence and extinction criteria are developed in terms of the  invariant flows on the boundaries.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD DEC 1
+PY 1989
+VL 97
+IS 2
+BP 235
+EP 61
+DI 10.1016/0025-5564(89)90006-0
+PG -174
+WC Animals; Ecology; Mathematics; Models, Biological; Population Dynamics; Predatory Behavior
+UT PubMed:2520212
+PM 2520212
+DA 1989-12-01
+ER
+
+PT J
+AU Vol'kenshteĭn, MV
+AF Vol'kenshteĭn, M V
+TI [Molecular bases of evolution].
+SO Molekuliarnaia biologiia
+LA rus
+DT Review
+AB The general notions of the theory of evolution are listed. The unity of the  "engineering principles" of the living nature is emphasized. The generalists and  specialists species are discussed. The estimation of their evolution rates must  be different if it is expressed by the number of species or by the morphological  changes. The principles of "protein engineering" of the organisms and the role of  metals in protein evolution are discussed. It is suggested that in the presence  of ions of transition metals and zinc the Fox's proteinoids can possess more  specific forms of enzymatic activity. In the evolution of language the horizontal  transfer plays a much more important role than in the biological evolution.  However in this case also the initial basis of the language remains. The random  drift is considered and it is shown that in concordance with the neutralist  theory there are no grounds to replace the calculation of the rates of mutational  changes per time unity by the calculation per generation. The molecular drive is  the main source of the evolutionary novelties. The drive is connected with drift.  The synonymic mutations and the mutations in non-functional DNA are evolutionary  important. The future mathematical theory of evolution must be based on the  theory of Markov's chains with the stochastic matrix changing along the chain and  containing the set of the non-diagonal members equal to zero. The results  obtained in the theory of ontogeny are presented. The evolution of species is the  evolution of ontogenies, the formation of the molecular theory of evolution can  be possible only on the basis of the molecular theory of ontogeny. The internal  causes of extinction of species reduce the accumulation of neutral and  pseudo-neutral mutations.
+NR 0
+TC 0
+SN 
+EI 0026-898
+J9 Mol Biol (Mosk)
+PD JAN 1
+PY 1989
+VL 23
+IS 1
+BP 33
+EP 51
+DI 
+PG 18
+WC Animals; Biological Evolution; Humans; Mutation; Species Specificity
+UT PubMed:2661993
+PM 2661993
+DA 1989-01-01
+ER
+
+PT J
+AU Zhao, M
+   Bada, JL
+AF Zhao, M
+   Bada, J L
+TI Extraterrestrial amino acids in Cretaceous/Tertiary boundary sediments at Stevns
+SO Nature
+LA English
+DT Journal Article
+AB Since the discovery nearly a decade ago that Cretaceous/Tertiary (K/T) boundary  layers are greatly enriched in iridium, a rare element in the Earth's crust,  there has been intense controversy on the relationship between this Ir anomaly  and the massive extinction of organisms ranging from dinosaurs to marine plankton  that characterizes the K/T boundary. Convincing evidence suggests that both the  Ir spike and the extinction event were caused by the collision of a large bolide  (greater than 10 km in diameter) with the Earth. Alternative explanations claim  that extensive, violent volcanism can account for the Ir, and that other  independent causes were responsible for the mass extinctions. We surmise that the  collision of a massive extraterrestrial object with the Earth may have produced a  unique organic chemical signature because certain meteorites, and probably  comets, contain organic compounds which are either rare or non-existent on the  Earth. In contrast, no organic compounds would be expected to be associated with  volcanic processes. Here we find that K/T boundary sediments at Stevns Klint,  Denmark, contain both alpha-amino-isobutyric acid [AIB,(CH3)2CNH2COOH] and  racemic isovaline [ISOVAL, CH3CH2(CH3)CNH2COOH], two amino acids that are  exceedingly rare on the Earth but which are major amino acids in carbonaceous  chondrites. An extraterrestrial source is the most reasonable explanation for the  presence of these amino acids.
+C1 Amino Acid Dating Laboratory, Scripps Institution of Oceanography, University of California at San Diego, La Jolla 92093.
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD JUN 8
+PY 1989
+VL 339
+IS 6224
+BP 463
+EP 5
+DI 10.1038/339463a0
+PG -458
+WC Amino Acids; isolation & purification; Chromatography, High Pressure Liquid; Denmark; Geological Phenomena; Geology; Iridium
+UT PubMed:2725679
+PM 2725679
+DA 1989-06-08
+ER
+
+PT J
+AU Mujumdar, RB
+   Ernst, LA
+   Mujumdar, SR
+   Waggoner, AS
+AF Mujumdar, R B
+   Ernst, L A
+   Mujumdar, S R
+   Waggoner, A S
+TI Cyanine dye labeling reagents containing isothiocyanate groups.
+SO Cytometry
+LA English
+DT Journal Article
+AB New isothiocyanate derivatives of cyanine dyes were synthesized as fluorescent  covalent labeling reagents for proteins and other biomolecules. These dyes have  maximum absorbance in the red and near infrared regions of the spectrum, have  high extinction coefficients and have adequate quantum yields. Incorporating two  alkyl sulfonate groups in the dye structures increases their water solubility,  which is beneficial for labeling biological molecules in aqueous solution.  Reactivities of proteins with these new cyanines are similar to their  reactivities with fluorescein isothiocyanate. These new labeling reagents are  complementary to the fluorescein and rhodamine reagents, expanding the  possibilities of multicolor analyses. Sheep anti-mouse-IgG antibody was labeled  with a pentamethine cyanine dye (CY5.8-ITC) and used with a fluoresceinated  antibody as a second reagent for detecting human T-cell subsets by flow  cytometry.
+C1 Department of Biological Sciences, Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213.
+NR 0
+TC 0
+SN 
+EI 0196-476
+J9 Cytometry
+PD JAN 1
+PY 1989
+VL 10
+IS 1
+BP 11
+EP 9
+DI 10.1002/cyto.990100104
+PG -2
+WC Antibodies; metabolism; Carbocyanines; analysis; Flow Cytometry; methods; Fluorescent Dyes; analysis; Humans; Immunoglobulins; metabolism; Indicators and Reagents; Isothiocyanates; Lymphocytes; metabolism; Proteins; metabolism; Quinolines; Spectrometry, Fluorescence; methods; Terminology as Topic; Thiocyanates; metabolism
+UT PubMed:2917470
+PM 2917470
+DA 1989-01-01
+ER
+
+PT J
+AU Sepkoski, JJ Jr
+AF Sepkoski, J J Jr
+TI Periodicity in extinction and the problem of catastrophism in the history of
+SO Journal of the Geological Society
+LA English
+DT Review
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB The hypothesis that extinction events have recurred periodically over the last  quarter billion years is greatly strengthened by new data on the stratigraphic  ranges of marine animal genera. In the interval from the Permian to Recent, these  data encompass some 13,000 generic extinctions, providing a more sensitive  indicator of species-level extinctions than previously used familial data.  Extinction time series computed from the generic data display nine strong peaks  that are nearly uniformly spaced at 26 Ma intervals over the last 270 Ma. Most of  these peaks correspond to extinction events recognized in more detailed, if  limited, biostratigraphic studies. These new data weaken or negate most arguments  against periodicity, which have involved criticisms of the taxonomic data base,  sampling intervals, chronometric time scales, and statistical methods used in  previous analyses. The criticisms are reviewed in some detail and various new  calculations and simulations, including one assessing the effects of paraphyletic  taxa, are presented. Although the new data strengthen the case for periodicity,  they offer little new insight into the deriving mechanism behind the pattern.  However, they do suggest that many of the periodic events may not have been  catastrophic, occurring instead over several stratigraphic stages or substages.
+C1 Department of the Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0016-764
+J9 J Geol Soc London
+PD JAN 1
+PY 1989
+VL 146
+IS 
+BP 7
+EP 19
+DI 10.1144/gsjgs.146.1.0007
+PG 12
+WC Biological Evolution; Fossils; Meteoroids; Models, Statistical; Monte Carlo Method; Paleontology; Periodicity; Phylogeny; Time Factors
+UT PubMed:11539792
+PM 11539792
+DA 1989-01-01
+ER
+
+PT J
+AU Kirkpatrick, M
+   Jenkins, CD
+AF Kirkpatrick, M
+   Jenkins, C D
+TI Genetic segregation and the maintenance of sexual reproduction.
+SO Nature
+LA English
+DT Journal Article
+AB Sexual reproduction confronts evolutionary biology with a paradox: other things  being equal, an asexual (all-female) population will have twice the reproductive  potential of a competing sexual population and therefore should rapidly drive the  sexual population to extinction. Thus, the persistence of sexual reproduction in  most life forms implies a compensatory advantage to sexual reproduction. Work on  this problem has emphasized the evolutionary advantages produced by the genetic  recombination that accompanies sexual reproduction. Here we show that genetic  segregation produces an advantage to sexual reproduction even in the absence of  an advantage from recombination. Segregation in a diploid sexual population  allows selection to carry a single advantageous mutation to a homozygous state,  whereas two separate mutations are required in a parthenogenetic population. The  complete fixation of advantageous mutations is thus delayed in a heterozygous  state in asexual populations. Calculation of the selective load incurred suggests  that it may offset the intrinsic twofold reproductive advantage of asexual  reproduction and maintain sexual reproduction in diploid populations.
+C1 Department of Zoology, University of Texas, Austin 78712.
+NR 0
+TC 0
+SN 
+EI 0028-083
+J9 Nature
+PD MAY 25
+PY 1989
+VL 339
+IS 6222
+BP 300
+EP 1
+DI 10.1038/339300a0
+PG -299
+WC Animals; Biological Evolution; Female; Heterozygote; Homozygote; Male; Mathematics; Models, Theoretical; Mutation; Probability; Reproduction; Reproduction, Asexual
+UT PubMed:2725643
+PM 2725643
+DA 1989-05-25
+ER
+
+PT J
+AU Smith, JM
+AF Smith, J M
+TI The causes of extinction.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+AB A species may go extinct either because it is unable to evolve rapidly enough to  meet changing circumstances, or because its niche disappears and no capacity for  rapid evolution could have saved it. Although recent extinctions can usually be  interpreted as resulting from niche disappearance, the taxonomic distribution of  parthenogens suggests that inability to evolve may also be important. A second  distinction is between physical and biotic causes of extinction. Fossil evidence  for constant taxonomic diversity, combined with species turnover, implies that  biotic factors have been important. A similar conclusion emerges from studies of  recent introductions of predators, competitors and parasites into new areas. The  term 'species selection' should be confined to cases in which the outcome of  selection is determined by properties of the population as a whole, rather than  of individuals. The process has been of only trivial importance in producing  complex adaptations, but of major importance in determining the distribution of  different types of organisms. An adequate interpretation of the fossil record  requires a theory of the coevolution of many interacting species. Such a theory  is at present lacking, but various approaches to it are discussed.
+C1 School of Biological Sciences, University of Sussex, Falmer, Brighton, U.K.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD NOV 6
+PY 1989
+VL 325
+IS 1228
+BP 241
+EP 52
+DI 10.1098/rstb.1989.0086
+PG -189
+WC Animals; Biological Evolution; Ecology; Genetics, Population; Paleontology; Phylogeny
+UT PubMed:2574882
+PM 2574882
+DA 1989-11-06
+ER
+
+PT J
+AU Sota, T
+   Mogi, M
+AF Sota, T
+   Mogi, M
+TI Effectiveness of zooprophylaxis in malaria control: a theoretical inquiry, with a
+SO Medical and veterinary entomology
+LA English
+DT Journal Article
+AB A model for a vector mosquito population with two bloodmeal hosts (man and a  domestic animal) was developed to study the influences of domestic animals on the  frequency of mosquito bites on man and the endemicity of human malaria. The  vector population model, including blood-feeding success in the adult stage  (depending on host density and biting efficiency) and density-dependent  regulation in the larval stage, was combined with the Ross-Macdonald malaria  transmission model. Model analyses suggested that introduction of domestic  animals easily fed upon by mosquitoes increases mosquito density and, in some  situations, frequency of mosquito bites on man and the infection rate of malaria  through increased success of blood-feeding. Extinction of malaria was predicted  only when an extremely large number of easily accessible (as compared to man)  domestic animals are introduced. Limitations in the concept of zooprophylaxis and  problems of livestock management in malaria control are discussed.
+C1 Department of Microbiology, Saga Medical School, Japan.
+NR 0
+TC 0
+SN 
+EI 0269-283
+J9 Med Vet Entomol
+PD OCT 1
+PY 1989
+VL 3
+IS 4
+BP 337
+EP 45
+DI 10.1111/j.1365-2915.1989.tb00240.x
+PG -292
+WC Animals; Animals, Domestic; parasitology; Anopheles; growth & development; Female; Humans; Insect Bites and Stings; prevention & control; Malaria; prevention & control; Models, Biological; Population Dynamics
+UT PubMed:2519684
+PM 2519684
+DA 1989-10-01
+ER
+
+PT J
+AU Reuter, G
+   Schauer, R
+   Szeiki, C
+   Kamerling, JP
+   Vliegenthart, JF
+AF Reuter, G
+   Schauer, R
+   Szeiki, C
+   Kamerling, J P
+   Vliegenthart, J F
+TI A detailed study of the periodate oxidation of sialic acids in glycoproteins.
+SO Glycoconjugate journal
+LA English
+DT Journal Article
+AB Periodate oxidation of terminal N-acetyl- and N-glycoloylneuraminic acid residues  in the mucins from edible bird nest substance and pig submandibular gland,  respectively, can be carried out under conditions which exclusively give rise to  the formation of the C-7 analogues of these sialic acids. In contrast, the C-8  compounds can be obtained in a maximum yield of about 40%. Under identical  conditions, N-glycoloylneuraminic acid is oxidized about 1.5 times faster than  the N-acetylated derivative. After release of the sialic acids by acid  hydrolysis, the characterization of the oxidation products was carried out by  TLC, by GLC and GLC-MS of the corresponding pertrimethylsilyl derivatives, and by  500-MHz 1H-NMR spectroscopy. In addition, molar response factors for GLC analysis  and extinction coefficients in the orcinol/Fe3+/HCl assay were determined.
+C1 Biochemisches Institut, Christian-Albrechts-Universität, Kiel, F.R.G.
+NR 0
+TC 0
+SN 
+EI 0282-008
+J9 Glycoconj J
+PD JAN 1
+PY 1989
+VL 6
+IS 1
+BP 35
+EP 44
+DI 10.1007/BF01047888
+PG 9
+WC Animals; Birds; Chromatography; Chromatography, Gas; Glycoproteins; chemistry; Magnetic Resonance Spectroscopy; Mass Spectrometry; Mucins; chemistry; N-Acetylneuraminic Acid; Neuraminic Acids; isolation & purification; Oxidation-Reduction; Periodic Acid; Sialic Acids; isolation & purification; Submandibular Gland; chemistry; Swine
+UT PubMed:2562505
+PM 2562505
+DA 1989-01-01
+ER
+
+PT J
+AU Kirlinger, G
+AF Kirlinger, G
+TI Two predators feeding on two prey species: a result on permanence.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB For biological populations the precise asymptotic behavior of the corresponding  dynamic system is probably less important than the question of extinction and  survival of species. An ecological differential equation is called permanent if  there exists some level k greater than 0 such that if the number xi(0) of species  i at time 0 is positive for i = 1,2, ..., n then xi(t) greater than k for all  sufficiently large times t Characterizations for permanence in a four-species  prey-predator system modeled by the Lotka-Volterra equation are presented. The  method used is based on a combination of two well-known approaches to dealing  with permanence. An interesting feature is the occurrence of heteroclinic cycles.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD SEP 1
+PY 1989
+VL 96
+IS 1
+BP 1
+EP 32
+DI 10.1016/0025-5564(89)90080-1
+PG 31
+WC Animals; Ecology; Mathematics; Models, Biological; Population Dynamics; Predatory Behavior
+UT PubMed:2520188
+PM 2520188
+DA 1989-09-01
+ER
+
+PT J
+AU Gill, SC
+   von, Hippel PH
+AF Gill, S C
+   von Hippel, P H
+TI Calculation of protein extinction coefficients from amino acid sequence data.
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB Quantitative study of protein-protein and protein-ligand interactions in solution  requires accurate determination of protein concentration. Often, for proteins  available only in "molecular biological" amounts, it is difficult or impossible  to make an accurate experimental measurement of the molar extinction coefficient  of the protein. Yet without a reliable value of this parameter, one cannot  determine protein concentrations by the usual uv spectroscopic means.  Fortunately, knowledge of amino acid residue sequence and promoter molecular  weight (and thus also of amino acid composition) is generally available through  the DNA sequence, which is usually accurately known for most such proteins. In  this paper we present a method for calculating accurate (to +/- 5% in most cases)  molar extinction coefficients for proteins at 280 nm, simply from knowledge of  the amino acid composition. The method is calibrated against 18 "normal" globular  proteins whose molar extinction coefficients are accurately known, and the  assumptions underlying the method, as well as its limitations, are discussed.
+C1 Institute of Molecular Biology, University of Oregon, Eugene 97403.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD NOV 1
+PY 1989
+VL 182
+IS 2
+BP 319
+EP 26
+DI 10.1016/0003-2697(89)90602-7
+PG -293
+WC Amino Acid Sequence; Animals; Humans; Molecular Weight; Proteins; analysis; Spectrophotometry, Ultraviolet; methods
+UT PubMed:2610349
+PM 2610349
+DA 1989-11-01
+ER
+
+PT J
+AU Unknown, -
+AF Unknown, -
+TI Evolution and extinction.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD NOV 6
+PY 1989
+VL 325
+IS 1228
+BP 239
+EP 488
+DI 
+PG 249
+WC Animals; Biological Evolution; Ecology; Genetics, Population; Humans
+UT PubMed:2574881
+PM 2574881
+DA 1989-11-06
+ER
+
+PT J
+AU Hu, WJ
+   Chen, XM
+   Meng, HD
+   Meng, ZH
+AF Hu, W J
+   Chen, X M
+   Meng, H D
+   Meng, Z H
+TI Fermented corn flour poisoning in rural areas of China. III. Isolation and
+SO Biomedical and environmental sciences : BES
+LA English
+DT Journal Article
+AB Flavotoxin A was isolated from Pseudomonas cocovenenans subsp. farinofermentans  culture in semisolid potato-dextrose-agar medium, which was isolated from  fermented corn meal that had caused food poisoning outbreaks in China. The  isolation, purification, and chemical structure of this toxin were studied. The  NMR spectra, the uv spectra, and molar extinction coefficients, and the mass  spectra of Flavotoxin A are in good agreement with those reported for bongkrekic  acid. Therefore, Flavotoxin A and bongkrekic acid are the same organic chemical  compound; the molecular formula is C28H38O7. The oral LD50 of the purified  Flavotoxin A in mice was 3.16 mg/kg (1.53-6.15 mg/kg). The existence of  bongkrekic acid in toxic fermented corn samples collected during food poisoning  outbreaks was also confirmed. It is concluded that bongkrekic acid has played an  important role in the outbreaks of fermented corn poisoning.
+C1 Institute of Nutrition and Food Hygiene, Chinese Academy of Preventive Medicine, Beijing.
+NR 0
+TC 0
+SN 
+EI 0895-398
+J9 Biomed Environ Sci
+PD MAR 1
+PY 1989
+VL 2
+IS 1
+BP 65
+EP 71
+DI 
+PG 6
+WC Animals; Anti-Bacterial Agents; isolation & purification; Bacterial Toxins; isolation & purification; Bongkrekic Acid; isolation & purification; China; Disease Outbreaks; Fermentation; Flour; poisoning; Humans; Mice; Pseudomonas; analysis; Rural Health; Zea mays; microbiology
+UT PubMed:2590494
+PM 2590494
+DA 1989-03-01
+ER
+
+PT J
+AU Benton, MJ
+AF Benton, M J
+TI Mass extinctions among tetrapods and the quality of the fossil record.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+AB The fossil record of tetrapods is very patchy because of the problems of  preservation, in terrestrial sediments in particular, and because vertebrates are  rarely very abundant. However, the fossil record of tetrapods has the advantages  that it is easier to establish a phylogenetic taxonomy than for many invertebrate  groups, and there is the potential for more detailed ecological analyses. The  relative incompleteness of a fossil record may be assessed readily, and this can  be used to test whether drops in overall diversity are related to mass  extinctions or to gaps in our knowledge. Absolute incompleteness cannot be  assessed directly, but a historical approach may offer clues to future  improvements in our knowledge. One of the key problems facing palaeobiologists is  paraphyly, the fact that many higher taxa in common use do not contain all of the  descendants of the common ancestor. This may be overcome by cladistic analysis  and the identification of monophyletic groups. The diversity of tetrapods  increased from the Devonian to the Permian, remained roughly constant during the  Mesozoic, and then began to increase in the late Cretaceous, and continued to do  so during the Tertiary. The rapid radiation of 'modern' tetrapod groups--frogs,  salamanders, lizards, snakes, turtles, crocodilians, birds and mammals--was  hardly affected by the celebrated end-Cretaceous extinction event. Major mass  extinctions among tetrapods took place in the early Permian, late Permian, early  Triassic, late Triassic, late Cretaceous, early Oligocene and late Miocene. Many  of these events appear to coincide with the major mass extinctions among marine  invertebrates, but the tetrapod record is largely equivocal with regard to the  theory of periodicity of mass extinctions.
+C1 Department of Geology, Queen's University of Belfast, U.K.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD NOV 6
+PY 1989
+VL 325
+IS 1228
+BP 369
+EP 85; discussion 386
+DI 10.1098/rstb.1989.0094
+PG 1
+WC Animals; Biological Evolution; Fossils; Genetics, Population; Models, Statistical; Paleontology; Vertebrates; classification
+UT PubMed:2574883
+PM 2574883
+DA 1989-11-06
+ER
+
+PT J
+AU Ernst, LA
+   Gupta, RK
+   Mujumdar, RB
+   Waggoner, AS
+AF Ernst, L A
+   Gupta, R K
+   Mujumdar, R B
+   Waggoner, A S
+TI Cyanine dye labeling reagents for sulfhydryl groups.
+SO Cytometry
+LA English
+DT Journal Article
+AB Cyanine and merocyanine dyes are introduced as new fluorescent reagents for  covalently labeling proteins and other biomolecules. These dyes, which contain  iodoacetamide functional groups, have high extinction coefficients and moderate  quantum yields. A major advantage of these polymethine dyes is the easy  manipulation of their spectral properties during synthesis. Cyanines containing  reactive functional groups can be made with absorption maxima ranging from less  than 500 nm to greater than 750 nm. This property opens additional regions of the  spectrum for experiments involving the simultaneous multicolor analysis of  different fluorescent probes. The cyanines, which are relatively insensitive to  solvent property changes, are complemented by the merocyanines, which are keen  indicators of solvent polarity.
+C1 Department of Biological Sciences, Carnegie-Mellon University, Pittsburgh, Pennsylvania 15213.
+NR 0
+TC 0
+SN 
+EI 0196-476
+J9 Cytometry
+PD JAN 1
+PY 1989
+VL 10
+IS 1
+BP 3
+EP 10
+DI 10.1002/cyto.990100103
+PG 7
+WC Carbocyanines; analysis; Fluorescent Dyes; analysis; Histocytochemistry; Indicators and Reagents; Quinolines; Spectrometry, Fluorescence; methods; Sulfhydryl Compounds; metabolism; Terminology as Topic
+UT PubMed:2917472
+PM 2917472
+DA 1989-01-01
+ER
+
+PT J
+AU Raup, DM
+AF Raup, D M
+TI The case for extraterrestrial causes of extinction.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+AB The dramatic increase in our knowledge of large-body impacts that have occurred  in Earth's history has led to strong arguments for the plausibility of meteorite  impact as a cause of extinction. Proof of causation is often hampered, however,  by our inability to demonstrate the synchronism of specific impacts and  extinctions. A central problem is range truncation: the last reported occurrences  of fossil taxa generally underestimate the true times of extinction. Range  truncation, because of gaps in sedimentation, lack of preservation, or lack of  discovery, can make sudden extinctions appear gradual and gradual extinctions  appear sudden. Also, stepwise extinction may appear as an artefact of range  truncation. These effects are demonstrated by experiments performed on data from  field collections of Cretaceous ammonities from Zumaya (Spain). The challenge for  future research is to develop a new calculus for treating biostratigraphic data  so that fossils can provide more accurate assessments of the timing of  extinctions.
+C1 Department of Geophysical Sciences, University of Chicago, Illinois 60637, USA.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD JAN 1
+PY 1989
+VL 325
+IS 
+BP 
+EP 
+DI 
+PG 0
+WC Animals; Biological Evolution; Fossils; Iridium; Meteoroids; Models, Theoretical; Paleontology; Spain
+UT PubMed:2574885
+PM 11538672
+DA 1989-01-01
+ER
+
+PT J
+AU Speth, JG
+AF Speth, J G
+TI Coming to terms: toward a North-South bargain for the environment.
+SO WRI issues and ideas
+LA English
+DT Journal Article
+DE Carrying Capacity; Deforestation--statistics; Demographic Factors; Developed Countries; Developing Countries; Economic Development; Economic Factors; Environment; Environmental Degradation; Financial Activities; Industrialization; Natural Resources; Political Factors; Population; Population Dynamics; Population Growth; Population Pressure; Technology
+NR 0
+TC 0
+SN 
+EI 
+J9 WRI Issues Ideas
+PD JUN 1
+PY 1989
+VL 0
+IS 
+BP 1
+EP 4
+DI 
+PG 3
+WC Conservation of Natural Resources; Demography; Developed Countries; Developing Countries; Economics; Environment; Financial Management; Industry; Politics; Population; Population Dynamics; Population Growth; Technology
+UT PubMed:12342726
+PM 12342726
+DA 1989-06-01
+ER
+
+PT J
+AU Hugueny, B
+AF Hugueny, Bernard
+TI West African rivers as biogeographic islands: species richness of fish
+SO Oecologia
+LA English
+DT Journal Article
+DE Forest refuge hypothesis; Freshwater fish communities; Insular biogeography; Species richness; West Africa
+AB Some factors influencing the species richness of West African fish communities  were studied in a sample of 26 rivers using four habitat and hydrologic  variables. Analysis of a larger sample of 39 rivers showed that species richness  was positively related to area. A power function with an exponent of 0.32 gave  the best fit. As the surface area used was that of the catchment area and not  that (unknown) of the river, the biological significance of this relationship and  the possibilities of comparison were limited. Ridge regression analysis and  forward stepwise selection indicated that a model that explained ln(species  richness) as a function of ln(mean annual discharge) and ln-(catchment surface  area) was best, accounting for 90% of the variance of the dependent variable. The  combination of surface area and discharge was presumed to act through the volume  of water available for the fishes and habitat productivity. Habitat diversity,  measured by the diversity of the terrestrial vegetation covering the catchment  area, had no significant positive effect when surface area was used in the  regression. Rivers ("islands") should have fewer species than tributaries of  similar size since, for fishes within a river system ("continent"), there is free  circulation between all its branches. The model derived from the river data  underestimated the species richness of a sample of 11 tributaries. This was  compatible with the hypothesis of higher population extinction rates in insular  biotopes. The residuals of the linear model did not show random geographical  distribution; the rivers in some areas had more species than expected. The  possibility that historical factors, especially Quaternary climatic variations,  might cause this distribution is discussed.
+C1 Laboratoire d'Ichtyologie générale et appliquée, Museum National d'Histoire Naturelle, 43 rue Cuvier, 75231, Paris cedex 05, France.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD MAY 1
+PY 1989
+VL 79
+IS 2
+BP 236
+EP 243
+DI 10.1007/BF00388483
+PG 7
+UT PubMed:28312860
+PM 28312860
+DA 1989-05-01
+ER
+
+PT J
+AU Knoll, AH
+AF Knoll, A H
+TI Evolution and extinction in the marine realm: some constraints imposed by
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-30; NASA Program Exobiology; Non-NASA Center
+AB The organic and mineralized remains of planktonic algae provide a rich record of  microplankton evolution extending over nearly half of the preserved geological  record. In general, Phanerozoic patterns of phytoplankton radiation and  extinction parallel those documented for skeletonized marine invertebrates, both  augmenting and constraining thought about evolution in the oceans. Rapidly  increasing knowledge of Proterozoic plankton is making possible the recognition  of additional episodes of diversification and extinction that antedate the  Ediacaran radiation of macroscopic animals. In contrast to earlier phytoplankton  history, the late Mesozoic and Cainozoic record is documented in sufficient  detail to constrain theories of mass extinction in more than a general way. Broad  patterns of diversity change in planktonic algae show similarities across the  Cretaceous-Tertiary and Eocene-Oligocene boundaries, but detailed comparisons of  origination and extinction rates in calcareous nannoplankton, as well as other  algae and skeletonized protozoans, suggest that the two episodes were quite  distinct. Common causation appears unlikely, casting doubt on monolithic theories  of mass extinction, whether periodic or not. Studies of mass extinction highlight  a broader class of insights that paleontologists can contribute to evolutionary  biology: the evaluation of evolutionary change in the context of evolving  Earth-surface environments.
+C1 Botanical Museum, Harvard University, Cambridge, Massachusetts 02138, USA.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD JAN 1
+PY 1989
+VL 325
+IS 
+BP 279
+EP 90
+DI 10.1098/rstb.1989.0089
+PG -189
+WC Biological Evolution; Earth, Planet; Fossils; Geologic Sediments; Geological Phenomena; Geology; Marine Biology; Phylogeny; Phytoplankton; classification
+UT PubMed:11538670
+PM 11538670
+DA 1989-01-01
+ER
+
+PT J
+AU Kimura, M
+AF Kimura, M
+TI The neutral theory of molecular evolution and the world view of the neutralists.
+SO Genome
+LA English
+DT Review
+AB The main tenet of the neutral theory is that the great majority of evolutionary  changes at the molecular level are caused not by Darwinian selection but by  random fixation of selectively neutral (or very nearly neutral) alleles through  random sampling drift under continued mutation pressure. The theory also asserts  that the majority of protein and DNA polymorphisms are selectively neutral, and  that they are maintained in the species by mutational input balanced by random  extinction rather than by "balancing selection." The neutral theory is based on  simple assumptions. This enabled us to develop mathematical theories (using the  diffusion equation method) that can treat these phenomena in quantitative terms  and that permit theory to be tested against actual observations. Although the  neutral theory has been severely criticized by the neo-Darwinian establishment,  supporting evidence has accumulated over the last 20 years. In particular, the  recent burst of DNA sequence data helped to strengthen the theory a great deal. I  believe that the neutral theory triggered reexamination of the traditional  "synthetic theory of evolution." In this paper, I review the present status of  the neutral theory, including discussions of such topics as "molecular  evolutionary clock," very high evolutionary rates observed in RNA viruses, a  deviant coding system found in Mycoplasm together with the concept of  mutation-driven neutral evolution, and the origin of life. I also present a  worldview based on the conception of what I call "survival of the luckiest."
+C1 National Institute of Genetics, Mishima, Japan.
+NR 0
+TC 0
+SN 
+EI 0831-279
+J9 Genome
+PD JAN 1
+PY 1989
+VL 31
+IS 1
+BP 24
+EP 31
+DI 10.1139/g89-009
+PG 7
+WC Animals; Biological Evolution; DNA; genetics; History, 19th Century; History, 20th Century; Humans; Molecular Biology; history; Mutation; Selection, Genetic
+UT PubMed:2687096
+PM 2687096
+DA 1989-01-01
+ER
+
+PT J
+AU Horvath, H
+   Habenreich, TA
+   Kreiner, I
+   Norek, C
+AF Horvath, H
+   Habenreich, T A
+   Kreiner, I
+   Norek, C
+TI Temporal and spatial variations of the Vienna aerosol.
+SO The Science of the total environment
+LA English
+DT Journal Article
+AB For several intensive sampling periods the mass concentration, light extinction,  light scattering and light absorption coefficients, and the mass size  distribution of the aerosol have been determined at up to eleven location in the  non-industrial town of Vienna. Obviously, large variations of the measured values  have been found. The following factors influenced the aerosol markedly: wind  speed, wind direction, increased aerosol production such as by space heating or  traffic and resuspension. Most of the variations in aerosol were found to be  caused by these factors. A comparison of the mass concentration and light  absorption of the aerosol upwind and downwind of Vienna permitted the estimation  of locally produced aerosols: about 50% of the mass of the aerosol and 75% of the  light-absorbing aerosol appears to be produced locally.
+C1 Institute of Experimental Physics, University of Vienna, Austria.
+NR 0
+TC 0
+SN 
+EI 0048-969
+J9 Sci Total Environ
+PD JUL 1
+PY 1989
+VL 83
+IS 1-2
+BP 127
+EP 59
+DI 10.1016/0048-9697(89)90010-7
+PG -68
+WC Air; analysis; Air Movements; Air Pollutants; analysis; Austria; Humans; Light; Nephelometry and Turbidimetry; Scattering, Radiation; Seasons; Time Factors; Urban Health; Wind
+UT PubMed:2781262
+PM 2781262
+DA 1989-07-01
+ER
+
+PT J
+AU Gebicki, JM
+   Guille, J
+AF Gebicki, J M
+   Guille, J
+TI Spectrophotometric and high-performance chromatographic assays of hydroperoxides
+SO Analytical biochemistry
+LA English
+DT Journal Article
+AB Samples containing between 1 and 50 nmol of hydroperoxides in oxygen-free  methanol-acetic acid containing I- were incubated at 50 degrees C. This ensured  reduction of all hydroperoxides tested in 15 min. Addition of sufficient Cd  acetate to combine with the remaining I- allowed reading of absorbance of the I3-  produced in open cuvettes. The absorbance was stable for several hours. It had a  maximum at 358 nm with molar extinction coefficient of 2.97 X 10(4) 1 mol-1 cm-1.  Sensitivity of the assay could be improved by injecting the I3- into a C-18 HPLC  column eluted with methanol-water-acetic acid solution. Both methods are  potentially suitable for assay of hydroperoxides in a wide range of biological  materials.
+C1 School of Biological Sciences, Macquarie University, Sydney, New South Wales, Australia.
+NR 0
+TC 0
+SN 
+EI 0003-269
+J9 Anal Biochem
+PD FEB 1
+PY 1989
+VL 176
+IS 2
+BP 360
+EP 4
+DI 10.1016/0003-2697(89)90323-0
+PG -356
+WC Acetates; Cadmium; pharmacology; Chromatography, High Pressure Liquid; methods; Hydrogen Peroxide; analysis; Iodides; analysis; Lipid Peroxides; analysis; Lipids; isolation & purification; Oxidation-Reduction; Solutions; Glycine max; Spectrophotometry; methods
+UT PubMed:2742126
+PM 2742126
+DA 1989-02-01
+ER
+
+PT J
+AU Diamond, JM
+AF Diamond, J M
+TI The present, past and future of human-caused extinctions.
+SO Philosophical transactions of the Royal Society of London. Series B, Biological
+LA English
+DT Journal Article
+AB This paper re-evaluates whether we are really at the start of a mass extinction  caused by humans. I consider the present, past and future of human-caused  extinctions. As regards the present, estimates of extinction rates based on Red  Data Books underestimate real values by a large factor, because the books  evaluate only those species that have attracted specific attention and searches.  Especially in tropical areas with few resident biologists, many poorly known  species go extinct without having been the object of specific attention, and  others disappear even before being described. A 'green list' of species known to  be secure is needed to complement 'red books' of species known to be extinct. As  regards the past, it is now clear that the first arrival of humans at any oceanic  island with no previous human inhabitants has always precipitated a mass  extinction in the island biota. Well-known victims include New Zealand's moas,  Madagascar's giant lemurs, and scores of bird species on Hawaii and other  tropical Pacific islands. Late-Pleistocene or Holocene extinctions of large  mammals after the first arrival of humans in North America, South America and  Australia may also have been caused by humans. Hence human-caused mass extinction  is not a hypothesis for the future but an event that has been underway for  thousands of years. As regards the future, consideration of the main mechanisms  of human-caused extinctions (overhunting, effects of introduced species, habitat  destruction, and secondary ripple effects) indicates that the rate of extinction  is accelerating.(ABSTRACT TRUNCATED AT 250 WORDS)
+C1 Department of Physiology, University of California Medical School, Los Angeles 90024-1751.
+NR 0
+TC 0
+SN 
+EI 0962-843
+J9 Philos Trans R Soc Lond B Biol Sci
+PD NOV 6
+PY 1989
+VL 325
+IS 1228
+BP 
+EP 
+DI 10.1098/rstb.1989.0100
+PG 0
+WC Animals; Biological Evolution; Birds; Ecology; Genetics, Population; Humans; Population
+UT PubMed:2574887
+PM 2574887
+DA 1989-11-06
+ER
+
+PT J
+AU Lande, R
+AF Lande, R
+TI Fisherian and Wrightian theories of speciation.
+SO Genome
+LA English
+DT Review
+AB Fisher's theory of sexual selection, Wright's shifting-balance theory, and recent  models based on them are reviewed as mechanisms of animal speciation. The joint  evolution of mating preferences and secondary sexual characters can cause rapid  nonadaptive phenotypic divergence and premating isolation between geographically  separated populations, or along a cline. Extensive comparative data on Drosophila  species support the suggestion of R. A. Fisher and T. Dobzhansky that the  evolution of mating preferences can reinforce partial postmating isolation  between sympatric populations. The interaction of natural selection and random  genetic drift in local populations with a small effective size can produce a  rapid transition between relatively stable phenotypes separated by an adaptive  valley, or between chromosomal rearrangements with a heterozygote disadvantage.  Large demographic fluctuations, such as frequent random local extinction and  colonization, are required for the rapid spread of new adaptations (or  karyotypes) when intermediate phenotypes (or rearrangement heterozygotes) are  selected against.
+C1 Department of Ecology and Evolution, University of Chicago, IL 60637.
+NR 0
+TC 0
+SN 
+EI 0831-279
+J9 Genome
+PD JAN 1
+PY 1989
+VL 31
+IS 1
+BP 221
+EP 7
+DI 10.1139/g89-037
+PG -214
+WC Animals; Biological Evolution; Female; Gene Frequency; Genetics, Population; history; History, 20th Century; Male; Models, Genetic; Selection, Genetic; Sexual Behavior, Animal
+UT PubMed:2687093
+PM 2687093
+DA 1989-01-01
+ER
+
+PT J
+AU Yu, H
+   Porton, B
+   Shen, LY
+   Eckhardt, LA
+AF Yu, H
+   Porton, B
+   Shen, L Y
+   Eckhardt, L A
+TI Role of the octamer motif in hybrid cell extinction of immunoglobulin gene
+SO Cell
+LA English
+DT Journal Article
+AB We have shown previously that genes activated by the immunoglobulin heavy chain  (IgH) enhancer or promoter in mouse myeloma cells are extinguished upon fusion of  the myeloma with a mouse T cell lymphoma. Here we show that the conserved octamer  sequence shared by the IgH enhancer and promoter, when multimerized to form a  tissue-specific enhancer, can also render a gene extinguishable under the same  experimental conditions. Extinction, however, is not correlated with either  absence of the tissue-specific transcription factor OTF-2 or loss of its ability  to bind the octamer sequence. It was also found that extinction mediated by the  IgH enhancer is dominant to transcriptional activation by the SV40 enhancer. We  propose, therefore, that the T cell-negative regulator responsible for IgH gene  extinction does not simply prevent IgH enhancer activation but interferes with  gene expression more directly, perhaps by disrupting the transcription complex  established as a result of tissue-specific enhancer activation.
+C1 Department of Biological Sciences, Columbia University, New York, New York 10027.
+NR 0
+TC 0
+SN 
+EI 0092-867
+J9 Cell
+PD AUG 11
+PY 1989
+VL 58
+IS 3
+BP 441
+EP 8
+DI 10.1016/0092-8674(89)90425-x
+PG -433
+WC Animals; B-Lymphocytes; physiology; DNA-Binding Proteins; physiology; Enhancer Elements, Genetic; Gene Expression Regulation; Genes, Dominant; Genes, Immunoglobulin; In Vitro Techniques; Mice; Promoter Regions, Genetic; Regulatory Sequences, Nucleic Acid; Simian virus 40; genetics; T-Lymphocytes; physiology; Transcription Factors; genetics; Transcription, Genetic
+UT PubMed:2547524
+PM 2547524
+DA 1989-08-11
+ER
+
+PT J
+AU Stojan, M
+   Slavícek, J
+AF Stojan, M
+   Slavícek, J
+TI [The development and disappearance of electrical current in frog heart injuries
+SO Sbornik lekarsky
+LA cze
+DT Journal Article
+AB Origin and extinction of current due to damage caused by suction electrode on  frog heart was studied. By means of epicardial and intracellular leads it was  found out that this demarcation current manifests itself only in a very limited  space around the place of suction and does not differ from the current due to  damage caused by restraint in the coronary bloodstream in hearts of warm-blooded  or in myocardial infarction in man. Membrane depolarization degree is diminishing  from the place of suction with all accompanying manifestations also in  intracellular recordings. The main cause of these changes is the local raised  concentration of extracellular potassium ions and the participation of sodium and  calcium ions is also being considered. It was proved that this simple biological  model of current due to damage is suitable for the study of some changes in  electrical heart area and in this way depolarizing and repolarizing parts of the  electrocardiogram also in the ischemic heart disease in man.
+NR 0
+TC 0
+SN 
+EI 0036-532
+J9 Sb Lek
+PD NOV 1
+PY 1989
+VL 91
+IS 11-12
+BP 327
+EP 33
+DI 
+PG -294
+WC Animals; Electric Injuries; physiopathology; Electrocardiography; Electrodes; Electrophysiology; Heart Injuries; etiology; Rana esculenta
+UT PubMed:2626670
+PM 2626670
+DA 1989-11-01
+ER
+
+PT J
+AU Michelson, S
+   Ito, K
+   Tran, HT
+   Leith, JT
+AF Michelson, S
+   Ito, K
+   Tran, H T
+   Leith, J T
+TI Stochastic models for subpopulation emergence in heterogeneous tumors.
+SO Bulletin of mathematical biology
+LA English
+DT Journal Article
+AB A stochastic analog to a deterministic model describing subpopulation emergence  in heterogeneous tumors is developed. The resulting system is described by the  Fokker-Planck or forward Kolmogorov equation. A finite element approach for the  numerical solution to this equation is described. Four biological and clinical  scenarios are simulated (emergence of heterogeneity, exclusion of a  subpopulation, and induction of drug resistance in both pure and heterogeneous  tumors). The results of the simulations show that the stochastic model describes  the same basic dynamics as its deterministic counterpart via a convective  component, but that for each simulation a distribution of tumor sizes and mixes  can also be derived from a diffusive component in the model. These distributions  yield estimates for subpopulation extinction probabilities. The biological and  clinical relevance of these results are discussed.
+NR 0
+TC 0
+SN 
+EI 0092-824
+J9 Bull Math Biol
+PD JAN 1
+PY 1989
+VL 51
+IS 6
+BP 731
+EP 47
+DI 10.1007/BF02459658
+PG -684
+WC Drug Resistance; Humans; Models, Theoretical; Neoplasms; drug therapy; Stochastic Processes
+UT PubMed:2819280
+PM 2819280
+DA 1989-01-01
+ER
+

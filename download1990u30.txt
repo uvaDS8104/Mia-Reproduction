@@ -1,0 +1,950 @@
+PT J
+AU Julian, EA
+AF Julian, E A
+TI Microcrystalline identification of drugs of abuse: the psychedelic amphetamines.
+SO Journal of forensic sciences
+LA English
+DT Journal Article
+AB The optical crystallographic or microcrystalline properties of the diliturate  derivatives (5-nitrobarbituric acid) of the most used psychedelic amphetamine  drugs have been determined. The crystallographic properties, especially the  orthographic projection drawings and photomicrography of the crystals and other  optical crystallographic data, such as the indices of refraction, extinction  angles, and optical orientations serve to characterize and identify this group of  drug chemicals. These data can be used with ultraviolet-infrared (UV-IR)  spectroscopy, thin-layer chromatography and gas-liquid chromatography/mass  spectrometry (GLC/MS) data for the identification and confirmation of psychedelic  amphetamine drugs.
+C1 School of Pharmacy, University of Wyoming, Laramie.
+NR 0
+TC 0
+SN 
+EI 0022-119
+J9 J Forensic Sci
+PD JUL 1
+PY 1990
+VL 35
+IS 4
+BP 821
+EP 30
+DI 
+PG -791
+WC Amphetamines; analysis; Crystallization; Crystallography; Humans
+UT PubMed:2391474
+PM 2391474
+DA 1990-07-01
+ER
+
+PT J
+AU Powlowski, J
+   Ballou, DP
+   Massey, V
+AF Powlowski, J
+   Ballou, D P
+   Massey, V
+TI Studies of the oxidative half-reaction of anthranilate hydroxylase (deaminating)
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB The oxidative half-reactions of anthranilate hydroxylase (EC 1.14.12.2) were  examined in the presence of anthranilate and modified substrates.  C(4a)-Hydroperoxyflavin (C(4a)-FlOOH) and C(4a)-hydroxyflavin (C(4a)-FlOH)  intermediates were detected in oxidative reactions with all substrates. Thus, the  oxygenation reactions of the enzyme are similar to those of flavoprotein  hydroxylases that convert phenolic compounds to catechols. These observations  support a mechanism proposed for this enzyme (Powlowski, J. B., Dagley, S.,  Massey, V., and Ballou, D. P. (1987) J. Biol. Chem. 262, 69-74) involving  nucleophilic attack of the substrate on C(4a)-FlOOH, and formation of an imine  intermediate that is subsequently hydrolyzed. Anthranilate hydroxylase is  therefore a typical flavoprotein hydroxylase with the added capacity of  hydrolyzing imine intermediates. Fluorine substituents on the aromatic ring  decreased the rate of conversion of C(4a)-FlOOH to C(4a)-FlOH, as predicted by  this mechanism. Hydroxylation of 3-fluoro- and 3-methylanthranilates resulted in  the formation of nonaromatic products that appeared to stabilize the C(4a)-FlOH.  No evidence was found for a high extinction intermediate (intermediate II)  (Entsch, B., Ballou, D. P., and Massey, V. (1976) J. Biol. Chem. 251, 2550-2563)  under conditions where it was readily detected with other flavoprotein  hydroxylases. It was shown that the spectra of the nonaromatic products (which  are quinonoid forms) could not be summed with the spectra of C(4a)-hydroxyflavin  to obtain that of a putative intermediate II, thus ruling out that explanation  for previous observations of II.
+C1 Department of Biological Chemistry, University of Michigan, Ann Arbor 48109-0606.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD MAR 25
+PY 1990
+VL 265
+IS 9
+BP 4969
+EP 75
+DI 
+PG -4894
+WC Azides; pharmacology; Kinetics; Mitosporic Fungi; enzymology; Mixed Function Oxygenases; metabolism; Oxidation-Reduction; Spectrophotometry; Substrate Specificity; Trichosporon; enzymology; ortho-Aminobenzoates
+UT PubMed:2318877
+PM 2318877
+DA 1990-03-25
+ER
+
+PT J
+AU Bennett, GA
+   Shotwell, OL
+AF Bennett, G A
+   Shotwell, O L
+TI Criteria for determining purity of Fusarium mycotoxins.
+SO Journal - Association of Official Analytical Chemists
+LA English
+DT Journal Article
+AB Physical and chemical properties that may be used to determine the purity of  several Fusarium mycotoxins have been investigated. A combination of analytical  procedures, which include high performance thin-layer chromatography (HPTLC),  liquid chromatography (LC), gas chromatography (GC), gas chromatography/mass  spectrometry (GC/MS), ultraviolet spectrometry (UV), and nuclear magnetic  resonance (NMR) spectrometry have been used to examine mycotoxin standards  obtained from commercial sources and from laboratory fermentations. Results of  this investigation indicate that commercially available standards are greater  than 90% pure, but the label weight of purchased reference standards in  individual containers should be verified. Mycotoxin standards, determined to be  greater than 98% pure by HPTLC, LC, and GC/MS, were examined by UV spectrometry  and the coefficients of extinction were determined. An interlaboratory study,  involving 5 collaborators who determined coefficients of extinction (in methanol)  for identical samples, gave the following results: alpha-zearalenol (lambda 236 =  28 538 +/- 558); beta-zearalenol (lambda 238 = 24 963 +/- 747); deoxynivalenol  (lambda 219 = 6395 +/- 349, lot 1), (6020 +/- 228, lot 2); and T-2 toxin (lambda  202 = 3681 +/- 255). UV maxima and coefficients of extinction are also reported  for HT-2 toxin (lambda 202 = 1959), diacetoxyscirpenol (lambda 203 = 2487),  neosolaniol (lambda 203 = 2644), nivalenol (lambda 220 = 5142), and fusarenon-X  (lambda 217 = 5997).
+C1 U.S. Department of Agriculture, Northern Regional Research Center, Peoria, IL 61604.
+NR 0
+TC 0
+SN 
+EI 0004-575
+J9 J Assoc Off Anal Chem
+PD MAR 1
+PY 1990
+VL 73
+IS 2
+BP 270
+EP 5
+DI 
+PG -265
+WC Chromatography, Gas; Chromatography, Liquid; Chromatography, Thin Layer; Fusarium; analysis; Gas Chromatography-Mass Spectrometry; Indicators and Reagents; Magnetic Resonance Spectroscopy; Mycotoxins; analysis; Reference Standards; Solvents; Spectrophotometry, Ultraviolet
+UT PubMed:2324038
+PM 2324038
+DA 1990-03-01
+ER
+
+PT J
+AU Salzinger, K
+   Freimark, S
+   McCullough, M
+   Phillips, D
+   Birenbaum, L
+AF Salzinger, K
+   Freimark, S
+   McCullough, M
+   Phillips, D
+   Birenbaum, L
+TI Altered operant behavior of adult rats after perinatal exposure to a 60-Hz
+SO Bioelectromagnetics
+LA English
+DT Journal Article
+AB Rats were sham exposed or exposed perinatally to a 60-Hz electromagnetic field,  22 days in utero and the first 8 days post partum. Each of the 30 once-daily  exposures was 20 h in duration. The electric component of the field was vertical  30 kV/m rms, and the magnetic field component was 100 microTG rms. Later, as  adults, male rats were trained to emit an operant response when reinforced with  food on a multiple, random-interval schedule. Exposed rats (N = 21) gradually  came to respond at significantly lower rates than did sham-exposed controls (N =  20). This finding was confirmed and extended in a second, independently performed  experiment. After a sequence including operant conditioning followed by  experimental extinction of responding and then by a suspension of conditioning  and finally by more than a month of reconditioning, slower rates of responding  were found to persist in the adult animals. The evidence of altered behavior  several months after combined, fetal-neonatal exposure to an electromagnetic  field presents an interesting contrast with other findings: Field-exposed rats  did not differ from sham-exposed rats in terms of body mass, physical appearance,  grossly observed activity level, or incidence of disease.
+C1 Polytechnic University, Brooklyn, New York 11201.
+NR 0
+TC 0
+SN 
+EI 0197-846
+J9 Bioelectromagnetics
+PD JAN 1
+PY 1990
+VL 11
+IS 2
+BP 105
+EP 16
+DI 10.1002/bem.2250110202
+PG -89
+WC Animals; Animals, Newborn; injuries; Conditioning, Operant; physiology; Electromagnetic Fields; adverse effects; Female; Pregnancy; Prenatal Exposure Delayed Effects; Rats
+UT PubMed:2242046
+PM 2242046
+DA 1990-01-01
+ER
+
+PT J
+AU Beretta, E
+   Bischi, GI
+   Solimano, F
+AF Beretta, E
+   Bischi, G I
+   Solimano, F
+TI Stability in chemostat equations with delayed nutrient recycling.
+SO Journal of mathematical biology
+LA English
+DT Journal Article
+AB The growth of a species feeding on a limiting nutrient supplied at a constant  rate is modelled by chemostat-type equations with a general nutrient uptake  function and delayed nutrient recycling. Conditions for boundedness of the  solutions and the existence of non-negative equilibria are given for the  integrodifferential equations with distributed time lags. When the time lags are  neglected conditions for the global stability of the positive equilibrium and for  the extinction of the species are provided. The positive equilibrium continues to  be locally stable when the time lag in recycling is considered and this is proved  for a wide class of memory functions. Computer simulations suggest that even in  this case the region of stability is very large, but the solutions tend to the  equilibrium through oscillations.
+C1 Instituto Matematico U. Dini dell' Università, Firenze, Italy.
+NR 0
+TC 0
+SN 
+EI 0303-681
+J9 J Math Biol
+PD JAN 1
+PY 1990
+VL 28
+IS 1
+BP 99
+EP 111
+DI 10.1007/BF00171521
+PG 12
+WC Eukaryota; growth & development; Kinetics; Mathematics; Models, Biological; Models, Statistical; Population Growth
+UT PubMed:2307915
+PM 2307915
+DA 1990-01-01
+ER
+
+PT J
+AU Marks, I
+   Tobena, A
+AF Marks, I
+   Tobena, A
+TI Learning and unlearning fear: a clinical and evolutionary perspective.
+SO Neuroscience and biobehavioral reviews
+LA English
+DT Review
+AB Many fears, phobias and rituals seem to arise from prepared phylogenetic  mechanisms which favor old over new evolutionary dangers and affect the rules of  aversive learning which govern the acquisition of fear. Recent developments in  several forms of aversive learning (sensitization, conditioning, extinction,  observational learning) can improve them as paradigms of the acquisition, spread  and maintenance of normal and clinical fears. The most reliable treatment for  phobias and rituals is exposure, whose effects closely parallel the habituation  of normal defensive responses and the extinction of conditioned fear and  avoidance in animals. Habituation during exposure is usually slow and step by  step, and generalizes little, but once attained tends to endure. Conditioned fear  extinction and fear habituation have similar courses and may depend on similar  neural processes. To be reduced, avoidance has to be prevented or the safety  intervals that it heralds must be given up. Some phobias may result less from  enhanced acquisition than from insufficient exposure to attain habituation.  Finally, the review discusses the limits of habituation and the instability of  fear extinction in relation to the long-term efficacy of exposure therapy.
+C1 Institute of Psychiatry, London, UK.
+NR 0
+TC 0
+SN 
+EI 0149-763
+J9 Neurosci Biobehav Rev
+PD JAN 1
+PY 1990
+VL 14
+IS 4
+BP 365
+EP 84
+DI 10.1016/s0149-7634(05)80059-4
+PG -281
+WC Animals; Anxiety; psychology; Biological Evolution; Fear; physiology; Humans; Learning; physiology
+UT PubMed:2287477
+PM 2287477
+DA 1990-01-01
+ER
+
+PT J
+AU Fish, KM
+   Massey, V
+   Sands, RH
+   Dunham, WR
+AF Fish, K M
+   Massey, V
+   Sands, R H
+   Dunham, W R
+TI The interaction of bisulfite with milk xanthine oxidase.
+SO The Journal of biological chemistry
+LA English
+DT Journal Article
+AB Bisulfite ion competitively inhibits xanthine oxidase activity. The ability of  HSO3- to bind at the molybdenum center is controlled by pH due to a pKa of 6.91  for SO3(2-)/HSO3-. The Kd for the enzyme-bisulfite complex is 4.5 x 10(-5) M at  pH 7.0 and 25 degrees C. The relative magnitude of extinction changes in the  optical absorption spectra, the number of inhibitor ions reversibly bound, and  the number of electrons required for complete bleaching of the visible spectrum  of the milk xanthine oxidase-HSO3- complex were all dependent on the percentage  of fully functional xanthine oxidase. Binding of HSO3- causes perturbations of  the visible spectrum: the maximum extinction changes at 320 and 422 nm were  calculated to be -4300 and -2150 M-1 cm-1, respectively. The stoichiometry of  reversible binding was determined to be one molecule of HSO3-/active molybdenum  center. Combined optical and EPR analyses of anaerobic dithionite titrations  revealed that the relative redox potentials of the Mo6+/5+ and Mo5+/4+ couples  decreased by approximately 35 and 45 mV on binding bisulfite, respectively. The  finding that bisulfite has a profound effect on the redox properties of xanthine  oxidase necessitates a re-evaluation of dithionite titrations previously carried  out with this enzyme at neutral and low pH values since bisulfite produced as an  oxidation product of dithionite binds to the enzyme during the course of  titration.
+C1 Department of Biological Chemistry, University of Michigan, Ann Arbor 48109.
+NR 0
+TC 0
+SN 
+EI 0021-925
+J9 J Biol Chem
+PD NOV 15
+PY 1990
+VL 265
+IS 32
+BP 19665
+EP 71
+DI 
+PG -19594
+WC Animals; Binding, Competitive; Cattle; Chemical Phenomena; Chemistry; Electron Spin Resonance Spectroscopy; Hydrogen-Ion Concentration; Kinetics; Milk; enzymology; Molybdenum; metabolism; Oxidation-Reduction; Spectrophotometry; Sulfites; metabolism; Xanthine Oxidase; antagonists & inhibitors
+UT PubMed:2174049
+PM 2174049
+DA 1990-11-15
+ER
+
+PT J
+AU Boyd, R
+   Richerson, PJ
+AF Boyd, R
+   Richerson, P J
+TI Group selection among alternative evolutionarily stable strategies.
+SO Journal of theoretical biology
+LA English
+DT Journal Article
+AB Many important models of the evolution of social behavior have more than one  evolutionarily stable strategy (ESS). Examples include co-ordination games,  contests, mutualism, reciprocity, and sexual selection. Here we show that when  there are multiple evolutionarily stable strategies, selection among groups can  cause the spread of the strategy that has the lowest extinction rate or highest  probability of contributing to the colonization of empty habitats, and that this  may occur even when groups are usually very large, migration rates are  substantial, and "extinction" entails only the disruption of the group and the  dispersal of its members. The main requirements are: (1) individuals drawn from a  single surviving group make up a sufficiently large fraction newly formed groups,  and (2) the processes increasing the frequency of successful strategies within  groups are strong compared to rate of migration among groups. The latter  condition suggests that this form of group selection will be particularly  important when behavioral variation is culturally acquired.
+C1 Department of Anthropology, University of California, Los Angeles 90024.
+NR 0
+TC 0
+SN 
+EI 0022-519
+J9 J Theor Biol
+PD AUG 9
+PY 1990
+VL 145
+IS 3
+BP 331
+EP 42
+DI 10.1016/s0022-5193(05)80113-4
+PG -289
+WC Animals; Biological Evolution; Models, Genetic; Selection, Genetic
+UT PubMed:2232821
+PM 2232821
+DA 1990-08-09
+ER
+
+PT J
+AU Arnold, EN
+AF Arnold, E N
+TI Why do morphological phylogenies vary in quality? An investigation based on the
+SO Proceedings of the Royal Society of London. Series B, Biological sciences
+LA English
+DT Journal Article
+AB Phylogenies based on morphology vary considerably in their quality: some are  robust and explicit with little conflict in the data set, whereas others are far  more tenuous, with much conflict and many possible alternatives. The main primary  reasons for untrue or inexplicit morphological phylogenies are: not enough  characters developed between branching points, uncertain character polarity,  poorly differentiated character states, homoplasy caused by parallelism or  reversal, and extinction, which may remove species entirely from consideration  and can make originally conflicting data sets misleadingly compatible, increasing  congruence at the expense of truth. Extinction differs from other confounding  factors in not being apparent either in the data set or in subsequent analysis.  One possibility is that variation in the quality of morphological phylogenies has  resulted from exposure to different ecological situations. To investigate this,  it is necessary to compare the histories of the clades concerned. In the case of  explicit morphological phylogenies, ecological and behavioural data can be  integrated with them and it may then be possible to decide whether morphological  characters are likely to have been elicited by the environments through which the  clade has passed. The credibility of such results depends not only on the  phylogeny being robust but also on its detailed topology: a pectinate phylogeny  will often allow more certain and more explicit statements to be made about  historical events. In the case of poor phylogenies, it is not possible to produce  detailed histories, but they can be compared with robust phylogenies in the range  of ecological situations occupied, and whether they occupy novel situations in  comparison with their outgroups. LeQuesne testing can give information about  niche homoplasy, and it may also be possible to see if morphological features are  functionally associated with ecological parameters, even if the direction of  change is unknown. Examination of the robust and explicit phylogeny of the  semaphore geckoes (Pristurus) suggests that its quality does stem from a variety  of environmental factors. The group has progressed along an ecological continuum,  passing through a series of increasingly severe niches that appear to have  elicited many morphological changes. The fact that niches are progressively  filled reduces the likelihood of species reinvading a previous one with related  character reversal. Because the niches of advanced Pristurus are virtually unique  within the Gekkonidae the morphological changes produced are also very rare and  therefore easy to polarize. Ecological changes on the main stem of the phylogeny  are abrupt and associated character states consequently well  differentiated.(ABSTRACT TRUNCATED AT 400 WORDS)
+C1 Natural History Museum, London, U.K.
+NR 0
+TC 0
+SN 
+EI 0950-119
+J9 Proc R Soc Lond B Biol Sci
+PD MAY 22
+PY 1990
+VL 240
+IS 1297
+BP 135
+EP 72
+DI 10.1098/rspb.1990.0031
+PG -63
+WC Animals; Biological Evolution; Climate; Geography; Lizards; classification; Phenotype; Phylogeny; Species Specificity
+UT PubMed:1972988
+PM 1972988
+DA 1990-05-22
+ER
+
+PT J
+AU Kleinpenning, PH
+   Gootzen, TH
+   Van, Oosterom A
+   Stegeman, DF
+AF Kleinpenning, P H
+   Gootzen, T H
+   Van Oosterom, A
+   Stegeman, D F
+TI The equivalent source description representing the extinction of an action
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Extracellular potential waveforms resulting from the termination of the  propagation of the transmembrane potential at the end of an active muscle fiber  are studied. The transmembrane potential along the muscle fiber is calculated  from Hodgkin-Huxley-like equations with axially varying parameters under the  condition of increasing axial resistance, decreasing ionic conductances, or  decreasing radius at the muscle fiber end. The extracellular potential  distribution is calculated using the derived transmembrane current as a line  source in an unbounded volume conductor. Potential waveforms with constant  latency at extracellular points far from the fiber end are presented and are  compared with measurements and simulations from literature. Monophasic waveforms  with constant latency are found. The polarity and the amplitude as a function of  axial and radial position relative to the fiber end indicate that an equivalent  dipole source adequately represents the propagation stop at the fiber end. An  expression for the dipole moment in terms of fiber radius, intracellular  conductivity, and transmembrane potential is derived.
+C1 Laboratory of Medical Physics and Biophysics, University of Nijmegen, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD SEP 1
+PY 1990
+VL 101
+IS 1
+BP 41
+EP 61
+DI 10.1016/0025-5564(90)90101-4
+PG 20
+WC Action Potentials; Mathematics; Models, Biological; Muscles; physiology
+UT PubMed:2134479
+PM 2134479
+DA 1990-09-01
+ER
+
+PT J
+AU Rowley, J
+AF Rowley, J
+TI Linking population to conservation. Special report: Pakistan.
+SO Earthwatch
+LA English
+DT Journal Article
+DE Asia; Birth Rate; Deforestation; Demographic Factors; Developing Countries; Diseases; Economic Factors; Environment; Environmental Degradation; Environmental Protection; Family Planning; Family Planning Programs; Fertility; Fertility Measurements; Fertility Rate; Migration; Natural Resources; Pakistan; Parasitic Diseases; Population; Population Dynamics; Population Growth; Socioeconomic Factors; Southern Asia; Women's Status
+NR 0
+TC 0
+SN 
+EI 
+J9 Earthwatch
+PD JAN 1
+PY 1990
+VL 0
+IS 40
+BP 3
+EP 5
+DI 
+PG 2
+WC Asia; Birth Rate; Conservation of Natural Resources; Demography; Developing Countries; Disease; Economics; Emigration and Immigration; Environment; Family Planning Services; Fertility; Health Planning; Pakistan; Parasitic Diseases; Population; Population Dynamics; Population Growth; Socioeconomic Factors; Women's Rights
+UT PubMed:12285667
+PM 12285667
+DA 1990-01-01
+ER
+
+PT J
+AU Meyer, O
+   Molta, C
+   Bourgeois, P
+   Haim, T
+   Kahn, MF
+AF Meyer, O
+   Molta, C
+   Bourgeois, P
+   Haim, T
+   Kahn, M F
+TI [Profile of antinuclear antibodies in 14 cases of extinct systemic lupus
+SO Revue du rhumatisme et des maladies osteo-articulaires
+LA fre
+DT Journal Article
+AB In order to study the profile of antinuclear antibodies (ANA) and anticytoplasm  in the clinical recovery period, we searched for ANA by 4 methods (indirect  immunofluorescence on HEp-2 and Crithidia luciliae cells, double diffusion in  agar against veal thymus and human spleen, immunoprint with a total extract of  HeLa cells) in 14 patients with SLE extinct since more than 3 years. The  population under study consisted of 12 women and 2 men, aged 43 years on average  at the time of study (extremes: 28-64 years). The average lapse of time between  the diagnosis of SLE and date of sampling is of 12.6 years (extremes: 3-22  years). The average remission/clinical recovery time during the study is of 8.9  years (extremes: 3-22 years). Seven patients were administered mild  corticotherapy (average dose of prednisone: 4.7 mg/day). All the sera preserved  ANA or anticytoplasm, distributed in the following way: presence of antinucleus:  10/14 (71.5%); average titre 40; speckled aspect: 10/10; presence of anti-DNA:  0/14; presence of anti-ECT: 2/14 (14.3%): anti-SSB 1 case, anti-RNP 1 case;  positive immunoprint: 12/14 (85.7%): anti-Sm 5 cases (isolated or associated),  isolated anti-SSB 2 cases; isolated anti-Ro 2 cases; various unidentified 3  cases. These results suggest that the production of ANA and anticytoplasm other  than anti-DNA continues during the period of clinical extinction of SLE,  underlining the rarity of a complete biological recovery and the necessity of  long term clinical surveillance.
+C1 Clinique Rhumatologique, Hôpital Bichat, Paris.
+NR 0
+TC 0
+SN 
+EI 0035-265
+J9 Rev Rhum Mal Osteoartic
+PD OCT 1
+PY 1990
+VL 57
+IS 9
+BP 599
+EP 603
+DI 
+PG 4
+WC Adult; Antibodies; blood; Antibodies, Antinuclear; blood; Cytoplasm; immunology; Female; Humans; Lupus Erythematosus, Systemic; blood; Male; Middle Aged; Time Factors
+UT PubMed:2075395
+PM 2075395
+DA 1990-10-01
+ER
+
+PT J
+AU Baum, M
+   Andrus, T
+   Jacobs, WJ
+AF Baum, M
+   Andrus, T
+   Jacobs, W J
+TI Extinction of a conditioned emotional response: massed and distributed exposures.
+SO Behaviour research and therapy
+LA English
+DT Journal Article
+AB Using the lick-suppression methodology of Jacobs, Buttrick & Kennedy (Pavlovian  Journal of Biological Science, 23, 29-34, 1988), a conditioned emotional response  (CER) was established in 24 rats using off-the-baseline pairings of a light (the  conditional stimulus) and brief footshock (the unconditioned stimulus). Following  conditioning, the rats were assigned to one of three extinction groups differing  in whether they received massed or distributed off-the-baseline exposure to the  conditional stimulus. The effects of differential treatment were assessed  on-the-baseline on test days, when the extinction of the CER was monitored. Rats  receiving a single, long exposure to the conditional stimulus showed greater  resistance to extinction than the rats in the distributed groups. They also  showed a difference pattern of CER extinction. The results were discussed and  compared to similar studies that have explored the massed vs distributed  dimension, both in CER and avoidance-extinction (using response prevention or  flooding). The relation of animal studies to parallel human studies using  exposure therapy was also discussed.
+C1 Rensselaer Polytechnic Institute, Troy, NY 12181.
+NR 0
+TC 0
+SN 
+EI 0005-796
+J9 Behav Res Ther
+PD JAN 1
+PY 1990
+VL 28
+IS 1
+BP 63
+EP 8
+DI 10.1016/0005-7967(90)90055-n
+PG -55
+WC Animals; Arousal; Avoidance Learning; Behavior Therapy; Extinction, Psychological; Fear; Implosive Therapy; Male; Rats; Rats, Inbred Strains
+UT PubMed:2302150
+PM 2302150
+DA 1990-01-01
+ER
+
+PT J
+AU Zapater, IG
+   Ullah, AH
+   Wodzinski, RJ
+AF Zapater, I G
+   Ullah, A H
+   Wodzinski, R J
+TI Extracellular alpha galactosidase (E.C. 3.2.1.22) from Aspergillus ficuum NRRL
+SO Preparative biochemistry
+LA English
+DT Journal Article
+AB Extracellular alpha-galactosidase, a glycoprotein from the extracellular culture  fluid of Aspergillus ficuum grown on glucose and raffinose in a batch culture  system, was purified to homogeneity in five steps by ion exchange and hydrophobic  interaction chromatography. The molecular mass of the enzyme was 70.8 Kd by SDS  polyacrylamide gel electrophoresis and 74.1 Kd by gel permeation HPLC. On the  basis of a molecular mass of 70.7 Kd, the molar extinction coefficient of the  enzyme at 279 nm was estimated to be 6.1 X10(4) M-1 cm-1. The purified enzyme was  remarkably stable at 0 degrees C. It had a broad temperature optimum and maximum  catalytic activity was at 60 degrees C. It retained 33% of its activity after 10  min. at 65 degrees C. It had a pH optimum of 6.0. It retained 62% of its activity  after 12 hours at pH 2.3. The Kms for p-nitrophenyl-alpha-D-galactopyranoside,  o-nitrophenyl-alpha-D-galactopyranoside and  m-nitrophenyl-alpha-D-galactopyranoside are: 1462, 839 and 718 microM. The enzyme  was competitively inhibited by mercury (19.8 microM), silver (21.5 microM),  copper (0.48 mM), zinc (0.11 mM), galactose (64.0 mM) and fructose (60.3 mM). It  was inhibited non-competitively by glucose (83.2 mM) and uncompetitively by  mannose (6.7 mM).
+C1 Department of Molecular Biology and Microbiology, University of Central Florida, Orlando 32816.
+NR 0
+TC 0
+SN 
+EI 0032-748
+J9 Prep Biochem
+PD JAN 1
+PY 1990
+VL 20
+IS 3-4
+BP 263
+EP 96
+DI 10.1080/00327489008050201
+PG -167
+WC Aspergillus; enzymology; Binding, Competitive; Chromatography, Gel; Chromatography, High Pressure Liquid; Chromatography, Ion Exchange; Electrophoresis, Polyacrylamide Gel; Enzyme Stability; Fermentation; Galactosidases; isolation & purification; Hydrogen-Ion Concentration; Temperature
+UT PubMed:2287609
+PM 2287609
+DA 1990-01-01
+ER
+
+PT J
+AU Thorniley, MS
+   Livera, LN
+   Wickramasinghe, YA
+   Spencer, SA
+   Rolfe, P
+AF Thorniley, M S
+   Livera, L N
+   Wickramasinghe, Y A
+   Spencer, S A
+   Rolfe, P
+TI The non-invasive monitoring of cerebral tissue oxygenation.
+SO Advances in experimental medicine and biology
+LA English
+DT Journal Article
+AB The instrument drift was found to be less than 0.004 OD/hour and from  measurements on glass filters of 8 optical density units, a coefficient of  variation of 0.01 over the 30 second averaging time was observed. The instrument  is sufficiently sensitive to enable monitoring of changes in the cerebral oxygen  saturation level of haemoglobin and to enable changes in the concentration of cyt  aa3 (oxidised form), to be measured with reasonable confidence. It is of the  utmost importance in NIRS investigations to be certain of the specificity of the  technique, and it is vital that reliable determinations of the amount of  cytochrome aa3 in brain are made in addition to measurements of the extinction  coefficients. This is still a matter of considerable debate, not only in the  isolation and properties of the multisubunit structured membrane bound protein,  which many enzymologists have been investigating for the last 50 years, (Keilin  and Hartree, 1939; Brunori et al, 1981) but also in relating to in-vivo versus in  vitro comparisons. An additional point for consideration is the validity of  employing multiplier coefficients derived from the rat brain, as several groups  have done (Wyatt et al 1986, Ferrari et al 1985,) and applying them to the human  brain and to the infant brain. There may be significant differences in the  activity of the enzyme, and the profound physiological effects which will arise  during the end point fluorocarbon studies: the presence of fetal haemoglobin must  also be considered (Carta et al., 1987). The clinical determination of the  optical path length is a considerable problem (Cope etal., 1988,) and once again  estimates of the pathlength correction factor made in animals and dead fetuses  may not be valid for living human tissue. Results from our animal studies  indicate that NIRS can be used to monitor changes in the oxygenation level of Hb  and, in extreme hypoxia, changes in the level of the redox state of cyt aa3 can  be reliably measured and are well within the sensitivity of the instrument. The  results indicate that under small change in saturation the redox state of cyt aa3  appears to be unaltered. It may be that under normal physiological conditions the  redox state of aa3 appears to be apparently unchanged under episodes of mild  hypoxia of short duration.
+C1 School of Postgraduate Medicine and Biological Sciences, Department of Biomedical Engineering and Medical Physics, University of Keele, U.K.
+NR 0
+TC 0
+SN 
+EI 0065-259
+J9 Adv Exp Med Biol
+PD JAN 1
+PY 1990
+VL 277
+IS 
+BP 323
+EP 34
+DI 10.1007/978-1-4684-8181-5_38
+PG -289
+WC Algorithms; Animals; Bradycardia; metabolism; Brain; metabolism; Electron Transport Complex IV; metabolism; Hemoglobins; metabolism; Humans; Hypoxia, Brain; metabolism; Infant, Newborn; Monitoring, Physiologic; methods; Oxidation-Reduction; Oxygen; metabolism; Oxyhemoglobins; metabolism; Rats; Sensitivity and Specificity; Spectrophotometry, Infrared; methods
+UT PubMed:1965758
+PM 1965758
+DA 1990-01-01
+ER
+
+PT J
+AU Karlson, RH
+   Levitan, DR
+AF Karlson, Ronald H
+   Levitan, Don R
+TI Recruitment-limitation in open populations of Diadema antillarum: an evaluation.
+SO Oecologia
+LA English
+DT Journal Article
+DE Density-independence; Diadema antillarum; Open populations; Recruitment-limitation
+AB Empirical evidence from studies of the sea urchin Diadema antillarum suggests  that this organism widely disperses its offspring, that both recruitment and  mortality rates are independent of local densities, and that local food  availability does not regulate local population sizes. These attributes would  indicate that local populations are generally open and recruitment-limited. Given  that current populations have been devastated by a 1983-1984 mass mortality event  which spread throughout the range of this species, we examine current population  trends and evaluate the prospects for population recovery under the assumptions  of recruitment-limitation and density-independent rates of recruitment and  mortality. Specifically, we evaluate the dynamics of five, local populations at  Lameshur Bay, St. John, U.S.V.I. in order to 1) determine current rates of  recruitment and mortality, 2) predict population densities based on the above  assumptions, 3) compare predicted densities against observed 1984-1988 densities,  and 4) predict future population densities based on current trends. We estimate  current recruitment rates at 0.02-0.11 individuals/m(2)/yr and per capita  mortality rates at 0.27-0.47 deaths/yr. Over the period 1985-1988, predicted  densities based on these annual rates did not differ significantly from actual  observed densities. Therefore, the assumptions that recruitment and mortality  rates are density-independent and that local populations are recruitment-limited  are sufficient, at present, to adequately predict current population trends.  These trends indicate no recovery towards pre-mass mortality densities. The above  description of the dynamics of open, recruitment-limited populations may be  appropriate for a wide variety of organisms. We note the prevalence of animals  with extensive larval dispersal capabilities. Populations located near the limits  of their distribution, in freshwater streams and ponds, mountain tops, or other  similarly isolated populations may also be subject to recruitment-limitation.  Remote, recruitment-limited populations are likely to be more susceptible to  local extinction than less remote populations. Dispersal distances and the scale  of the processes controlling recruitment and mortality are important determinants  of the degree of openness of local populations.
+C1 Ecology Program (SLHS), University of Delaware, 19716, Newark, DE, USA.
+   Ecology Program (SLHS), University of Delaware, 19716, Newark, DE, USA.
+NR 0
+TC 0
+SN 1432-193
+EI 
+J9 Oecologia
+PD JAN 1
+PY 1990
+VL 82
+IS 1
+BP 40
+EP 44
+DI 10.1007/BF00318531
+PG 4
+UT PubMed:28313135
+PM 28313135
+DA 1990-01-01
+ER
+
+PT J
+AU Ma, Z
+   Cui, G
+   Wang, W
+AF Ma, Z
+   Cui, G
+   Wang, W
+TI Persistence and extinction of a population in a polluted environment.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB Models of the persistence and extinction of a population or community in a  polluted environment have been investigated in several papers. But all of those  papers have a basic assumption that the capacity of the environment is so large  that the change of toxicants in the environment that comes from uptake and  egestion by the organisms can be neglected. This assumption is not made in this  article. Some sufficient conditions on persistence or extinction of a population  have been obtained, and the threshold between the two has also been obtained for  most situations.
+C1 Department of Mathematics, Xi'an Jiaotong University, China.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD SEP 1
+PY 1990
+VL 101
+IS 1
+BP 75
+EP 97
+DI 10.1016/0025-5564(90)90103-6
+PG 22
+WC Environmental Pollution; adverse effects; Mathematics; Models, Biological; Population Dynamics
+UT PubMed:2134481
+PM 2134481
+DA 1990-09-01
+ER
+
+PT J
+AU Nunokawa, T
+   Hoshi, T
+AF Nunokawa, T
+   Hoshi, T
+TI Electrophysiological study of L-lysine transport across Triturus proximal tubule:
+SO Renal physiology and biochemistry
+LA English
+DT Journal Article
+AB Cell membrane depolarization induced by intraluminal injection of lysine was  entirely independent of the presence of Na+ in Triturus proximal tubule,  confirming our previous observation. The amplitude of the depolarization  conformed to Michaelis-Menten kinetics regardless of the presence or absence of  Na+ in the perfusion solutions. pH of the intraluminal solution had no effect on  the electrical response in its range from 5.5 to 8.5. In a Na(+)-free medium,  particularly in a Tris-substituted medium, the depolarization induced by a  constant concentration of lysine gradually decreased in its size when injection  followed by washout of lysine was repetitively tested. The addition of Na+ to the  peritubular side after extinction of the responsiveness resulted in a significant  restoration of the voltage response to intraluminal lysine. In addition, influx  of Na+ from the peritubular fluid into the cells was significantly greater in  lysine-loaded tubules than in nonloaded tubules as indicated by a greater rate of  increase in intracellular Na+ activity in the presence of ouabain. The data  strongly suggest that lysine enters the cells via an electrogenic uniport  mechanism and leaves the cells via Na+:amino acid exchange transport mechanism.
+C1 Laboratory of Physiology, School of Food and Nutritional Sciences, University of Shizuoka, Japan.
+NR 0
+TC 0
+SN 
+EI 1011-652
+J9 Ren Physiol Biochem
+PD NOV 1
+PY 1990
+VL 13
+IS 6
+BP 295
+EP 305
+DI 10.1159/000173374
+PG 10
+WC Animals; Biological Transport, Active; Electrophysiology; Hydrogen-Ion Concentration; In Vitro Techniques; Kidney Tubules, Proximal; metabolism; Lysine; metabolism; Male; Membrane Potentials; Sodium; metabolism; Triturus; metabolism
+UT PubMed:1701912
+PM 1701912
+DA 1990-11-01
+ER
+
+PT J
+AU el-Owaidy, H
+   el-Leithy, OA
+AF el-Owaidy, H
+   el-Leithy, O A
+TI Theoretical studies on extinction in the gradostat.
+SO Mathematical biosciences
+LA English
+DT Journal Article
+AB A multistage continuous culture system in which nutrients (or substrate) are  supplied in the form of gradients has been studied in the laboratory. Called a  gradostat, it consists of several chemostats with adjacent vessels connected. Two  mathematical models based on Michaelis-Menten kinetics in a gradostat with two  culture vessels and two competing species of microorganisms for the cases where  there is a gradient of one limiting substrate and there are opposing gradients of  two limiting complementary substrates are investigated. Given the parameters of  the system, we can answer the basic question as to which species survive and  which do not and determine the limiting values.
+C1 Department of Mathematics, Faculty of Science, Al-Azhar University, Cairo, Egypt.
+NR 0
+TC 0
+SN 
+EI 0025-556
+J9 Math Biosci
+PD SEP 1
+PY 1990
+VL 101
+IS 1
+BP 1
+EP 26
+DI 10.1016/0025-5564(90)90099-k
+PG 25
+WC Animals; Ecology; Mathematics; Models, Biological
+UT PubMed:2134476
+PM 2134476
+DA 1990-09-01
+ER
+
+PT J
+AU Kay, R
+   Takei, F
+   Humphries, RK
+AF Kay, R
+   Takei, F
+   Humphries, R K
+TI Expression cloning of a cDNA encoding M1/69-J11d heat-stable antigens.
+SO Journal of immunology (Baltimore, Md. : 1950)
+LA English
+DT Journal Article
+AB The differentiation Ag identified by the mAb M1/69 and J11d (commonly referred to  as heat-stable Ag) are found in structurally heterogeneous forms on the surfaces  of many types of murine hemopoietic cells. The extinction of expression of these  antigens is associated with thymocyte maturation and Ig class switching in B  cells, as well as terminal differentiation of macrophages. A cDNA encoding the  M1/69-J11d peptide was cloned from a hemopoietic progenitor cell line by  immunoselection of COS cells transfected with expression libraries. The cloned  cDNA is a copy of a gene that is transcribed in M1/69-J11d+ lymphoid, myeloid,  and erythroid cells. This gene could be responsible for the expression of all  forms of the M1/69-J11d Ag, although there are homologous genes that may encode  some forms of the Ag that are specifically expressed in bone marrow. The cloned  cDNA encodes a surprisingly small peptide, predicted to contain only 30 amino  acids after removal of a signal sequence and displacement of the C-terminal  region by the glycosyl-phosphatidylinositol group that anchors the peptide to the  cell surface. Almost all of the mass of the M1/69-J11d Ag accumulates through  extensive N- and O-linked glycosylation at multiple sites in the short peptide.  These carbohydrates are likely to execute the functions of M1/69-J11d Ag, which  could be specialized to each cell type as a consequence of differential  glycosylation.
+C1 Terry Fox Laboratory, B.C. Cancer Research Centre, Vancouver, Canada.
+NR 0
+TC 0
+SN 
+EI 0022-176
+J9 J Immunol
+PD SEP 15
+PY 1990
+VL 145
+IS 6
+BP 1952
+EP 9
+DI 
+PG -1943
+WC Amino Acid Sequence; Animals; Antigens, CD; Antigens, Differentiation; genetics; Base Sequence; Blotting, Southern; CD24 Antigen; Cell Line; Chlorocebus aethiops; Cloning, Molecular; DNA; genetics; Gene Expression; Genes; Glycoproteins; genetics; Glycoside Hydrolases; pharmacology; Glycosylation; Hematopoietic Stem Cells; physiology; Mannosyl-Glycoprotein Endo-beta-N-Acetylglucosaminidase; Membrane Glycoproteins; Mice; Molecular Sequence Data; Molecular Weight; RNA, Messenger; genetics; Transfection
+UT PubMed:2118158
+PM 2118158
+DA 1990-09-15
+ER
+
+PT J
+AU Lin, TI
+   Tong, A
+   Dowben, RM
+AF Lin, T I
+   Tong, A
+   Dowben, R M
+TI Fluorescent probes for cancer detection.
+SO Journal of clinical laser medicine & surgery
+LA English
+DT Journal Article
+AB Several new fluorescent dyes, derivatives of pyrene and of coumarin, were  synthesized that have excitation and emission wavelength maxima considerably  red-shifted as compared to most pyrene and coumarin compounds. These new  fluorescent compounds have high extinction coefficients and high quantum yields,  and they also are very environmentally sensitive, which makes them good probes of  biological systems. Several of these fluorescent compounds are preferentially  taken up and retained by leukemic and other cancer tissue cell lines as compared  to normals, particularly 1,3-dihydroxy 6,8-pyrenedisodiumsulfonate and  3-(carboxymethylester)-7-julolidinocoumarin. These compounds may have some  usefulness in cancer detection.
+C1 Baylor Research Foundation, Dallas, TX.
+NR 0
+TC 0
+SN 
+EI 1044-547
+J9 J Clin Laser Med Surg
+PD DEC 1
+PY 1990
+VL 8
+IS 6
+BP 39
+EP 41
+DI 10.1089/clm.1990.8.39
+PG 2
+WC Evaluation Studies as Topic; Fluorescent Dyes; chemical synthesis; Humans; Molecular Probes; chemical synthesis; Multiple Myeloma; diagnosis; Neoplasms; diagnosis; Precursor Cell Lymphoblastic Leukemia-Lymphoma; diagnosis; Tumor Cells, Cultured
+UT PubMed:10149026
+PM 10149026
+DA 1990-12-01
+ER
+
+PT J
+AU Brakenhoff, RH
+   Aarts, HJ
+   Reek, FH
+   Lubsen, NH
+   Schoenmakers, JG
+AF Brakenhoff, R H
+   Aarts, H J
+   Reek, F H
+   Lubsen, N H
+   Schoenmakers, J G
+TI Human gamma-crystallin genes. A gene family on its way to extinction.
+SO Journal of molecular biology
+LA English
+DT Journal Article
+AB During hominoid evolution the gamma-crystallins of the lens have decreased in  quantity as well as complexity, a change correlated with an increased water  content of the lens. To trace the molecular basis for the decrease in  gamma-crystallin gene expression, we have characterized the structure and  expression of the human gamma-crystallin gene family. We show that the human  gamma-crystallin gene family consists of six complete genes (gamma A, gamma B,  gamma C, gamma D, psi gamma E and psi gamma F) and one second exon fragment, the  gamma G gene. Model experiments showed that, although the gamma G sequence is  bordered by consensus splice sites, it is most likely transcriptionally inactive  in the lens. In the human embryonic lens the gamma C and gamma D genes accounted  for 81% of the gamma-crystallin transcripts, the gamma A gene contributed 14% and  the gamma B gene only 5%. The composition of the gamma-crystallin mRNA pool  changed only after birth, with the gamma D transcript as the only detectable  transcript at ten years of age. The relative activities of the gamma A, gamma C  and gamma D promoters in a transient expression system were in agreement with the  ratio of their in vivo RNA levels, suggesting that the difference in accumulation  of these transcripts is due to differences in the rate of transcription. The  gamma B promoter was much more active than expected and had lost its  tissue-specificity. Model experiments showed that the low yield of the gamma B  transcript is due to post-transcriptional processes, most likely RNa instability  mediated by third exon sequences. Together with previous data, our results show  that the decrease in expression of the gamma-crystallin genes in the human lens  is the consequence of gene loss (gamma G), inactivation of coding sequences (psi  gamma E and psi gamma F), decrease in rate of transcription (gamma A), increase  in rate of RNA turn-over (gamma B) and a delay in the onset of transcription  during development.
+C1 Department of Molecular and Cellular Biology, University of Nijmegen, The Netherlands.
+NR 0
+TC 0
+SN 
+EI 0022-283
+J9 J Mol Biol
+PD DEC 5
+PY 1990
+VL 216
+IS 3
+BP 519
+EP 32
+DI 10.1016/0022-2836(90)90380-5
+PG -487
+WC Animals; Base Sequence; Biological Evolution; Chickens; Crystallins; genetics; Gene Library; Humans; Lens, Crystalline; chemistry; Molecular Sequence Data; Multigene Family; Promoter Regions, Genetic; physiology; RNA, Messenger; metabolism; Retina; metabolism; Transcription, Genetic
+UT PubMed:2258929
+PM 2258929
+DA 1990-12-05
+ER
+
+PT J
+AU Kanyicska, B
+   Nguyen, DN
+   Arey, BJ
+   Freeman, ME
+AF Kanyicska, B
+   Nguyen, D N
+   Arey, B J
+   Freeman, M E
+TI Hysterectomy-induced alterations in prolactin secretion of lactating rats.
+SO Endocrinology
+LA English
+DT Journal Article
+AB The contribution of the uterus to the regulation of PRL secretion in lactating  dams and cycling female rats was investigated. Lactating animals were  hysterectomized or sham operated 2 days after parturition, and the number of pups  was adjusted to eight. Blood samples for PRL RIA were obtained through  intra-atrial cannulae implanted 2 days before experimentation. In order to study  the PRL secretory profile in undisturbed freely lactating rats, blood samples  were taken every 2 h for 24 h starting at 1400 h. During early lactation (days  7-8), hysterectomy did not alter the PRL secretory profile compared to that of  sham-operated controls. On days 14-15 post partum, PRL secretion followed a  characteristic bimodal pattern showing two PRL surges at 1800 h and 0600 h. After  hysterectomy, the early morning PRL surge disappeared and PRL secretion showed an  unimodal daily rhythm reaching its peak at 1800 h. The possible effect of the  absence of the uterus on suckling-induced PRL release at various stages of  lactation was studied. On days 7-8, suckling stimuli after 4 h of pup deprivation  induced robust PRL release. Hysterectomy did not significantly alter PRL release  at this earlier stage of lactation. In control groups, the suckling-induced PRL  secretory response markedly declined as the postpartum period advanced. On the  other hand, the hysterectomized animals retained significantly greater  responsiveness to suckling during the second half of lactation. These data  indicate an inhibitory influence of the uterus on PRL secretion. The onset of  this uterine effect is considerably delayed, and its influence became prominent  only at a later phase of lactation. The effect of length of pup deprivation  preceding the suckling stimulus, in combination with hysterectomy, was also  investigated. Hysterectomy significantly increased suckling-induced PRL release  after 4 and 24 h separation compared to the sham-hysterectomized animals. When  the separation was longer than 48 h, the inducibility of PRL release by suckling  declined and was not influenced by hysterectomy. In order to study the possible  influence of the uterus on PRL secretion during the estrous cycle, regularly  cycling female rats were hysterectomized at diestrus 1. Twelve days later the  animals were cannulated, and serial blood samples were taken during the  subsequent proestrus. Hysterectomy did not alter the PRL surge which occurred on  the afternoon of proestrus indicating that the uterus does not have a major  function in regulating PRL secretion on proestrus. In conclusion, hysterectomy  significantly delayed the extinction of suckling-induced PRL release revealing  the active role of the uterus in the regulation of this neuroendocrine reflex.
+C1 Department of Biological Science, Florida State University, Tallahasse 32306.
+NR 0
+TC 0
+SN 
+EI 0013-722
+J9 Endocrinology
+PD APR 1
+PY 1990
+VL 126
+IS 4
+BP 2021
+EP 6
+DI 10.1210/endo-126-4-2021
+PG -2015
+WC Animals; Female; Hysterectomy; Lactation; metabolism; Pregnancy; Proestrus; metabolism; Prolactin; metabolism; Rats; Rats, Inbred Strains
+UT PubMed:2318155
+PM 2318155
+DA 1990-04-01
+ER
+
+PT J
+AU Myers, N
+AF Myers, N
+TI The biodiversity challenge: expanded hot-spots analysis.
+SO The Environmentalist
+LA English
+DT Journal Article
+DE Biodiversity; Critique; Environment; Environmental Degradation; Evaluation; Forests; Natural Resources; Quantitative Evaluation; World
+AB This paper aims to throw light on the mass extinction that is overtaking Earth's  species. Using an analytic methodology developed for an earlier partial  assessment, it focuses on a series of "hotspot" areas, these being areas that a)  feature exceptional concentrations of species with high levels of endemism and b)  face exceptional threats of destruction. The paper identifies another 8 such  areas, 4 of them in tropical forests and 4 in Mediterranean-type zones. The  analysis reveals that the 4 tropical-forest areas contain at least 2835 endemic  plant species in 18,700 sq. km, or 1.1% of Earth's plant species in 0.013% of  Earth's land surface; and that the 4 Mediterranean-type areas contain 12,720  endemic plant species in 435,700 sq. km, or 5.1% of Earth's plant species in 0.3%  of the Earth's land surface. Taken together, these 8 hotspot areas contain 15,555  endemic plant species in 454,400 sq. km, or 6.2% of Earth's plant species in 0.3%  of Earth's land surface. This is to be compared with the earlier hotspot analysis  of 10 tropical-forest areas, with 34,400 endemic plant species in 292,00 sq. km,  or 13.8% of Earth's plant species in 0.2% of Earth's land surface. Taking all 18  hot-spot areas together, the authors find they support 49,995 endemic plant  species, or 20% of Earth's plant species, in 746,400 sq. km, or 0.5% of Earth's  land surface. This means that one-fifth of Earth's plant species are confined to  0.5% of the Earth's land surface--and they occur in habitats that are mostly  threatened with imminent destruction. By concentrating on these hotspot areas  where needs are greatest and where the pay-off from safeguard measures would be  greatest, conservationists can engage in a more systematized response to the  challenge of large-scale impending extinctions.
+NR 0
+TC 0
+SN 
+EI 0251-108
+J9 Environmentalist
+PD JAN 1
+PY 1990
+VL 10
+IS 4
+BP 243
+EP 56
+DI 10.1007/BF02239720
+PG -187
+WC Conservation of Natural Resources; Ecosystem; Environment; Evaluation Studies as Topic; Trees
+UT PubMed:12322583
+PM 12322583
+DA 1990-01-01
+ER
+
+PT J
+AU Alvarez, W
+   Asaro, F
+   Montanari, A
+AF Alvarez, W
+   Asaro, F
+   Montanari, A
+TI Iridium profile for 10 million years across the Cretaceous-Tertiary boundary at
+SO Science (New York, N.Y.)
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; NASA Discipline Number 52-40; NASA Program Exobiology; Non-NASA Center
+AB The iridium anomaly at the Cretaceous-Tertiary (KT) boundary was discovered in  the pelagic limestone sequence at Gubbio on the basis of 12 samples analyzed by  neutron activation analysis (NAA) and was interpreted as indicating impact of a  large extraterrestrial object at exactly the time of the KT mass extinction.  Continuing controversy over the shape of the Ir profile at the Gubbio KT boundary  and its interpretation called for a more detailed follow-up study. Analysis of a  57-meter-thick, 10-million-year-old part of the Gubbio sequence using improved  NAA techniques revealed that there is only one Ir anomaly at the KT boundary, but  this anomaly shows an intricate fine structure, the origin of which cannot yet be  entirely explained. The KT Ir anomaly peaks in a 1-centimeter-thick clay layer,  where average Ir concentration is 3000 parts per trillion (ppt); this peak is  flanked by tails with Ir concentrations of 20 to 80 ppt that rise above a  background of 12 to 13 ppt. The fine structure of the tails is probably due in  part to lateral reworking, diffusion, burrowing, and perhaps Milankovitch  cyclicity.
+C1 Department of Geology and Geophysics, University of California, Berkeley 94720, USA.
+NR 0
+TC 0
+SN 
+EI 0036-807
+J9 Science
+PD DEC 21
+PY 1990
+VL 250
+IS 
+BP 1700
+EP 2
+DI 10.1126/science.11538083
+PG -1698
+WC Biological Evolution; Calcium Carbonate; chemistry; Extraterrestrial Environment; Geological Phenomena; Geology; Iridium; analysis; Italy; Paleontology
+UT PubMed:11538083
+PM 11538083
+DA 1990-12-21
+ER
+
+PT J
+AU Courtillot, VE
+AF Courtillot, V E
+TI What caused the mass extinction? A volcanic eruption.
+SO Scientific American
+LA English
+DT Journal Article
+NR 0
+TC 0
+SN 
+EI 0036-873
+J9 Sci Am
+PD OCT 1
+PY 1990
+VL 263
+IS 4
+BP 85
+EP 92
+DI 
+PG 7
+WC Acid Rain; Aluminum Silicates; analysis; Animals; Biological Evolution; Clay; Dust; Earth, Planet; Fossils; Geologic Sediments; analysis; Geological Phenomena; Geology; Greenhouse Effect; India; Iridium; Magnetics; Minor Planets; Paleontology; Volcanic Eruptions
+UT PubMed:11536474
+PM 11536474
+DA 1990-10-01
+ER
+
+PT J
+AU Cooper, CE
+   Bruce, D
+   Nicholls, P
+AF Cooper, C E
+   Bruce, D
+   Nicholls, P
+TI Use of oxonol V as a probe of membrane potential in proteoliposomes containing
+SO Biochemistry
+LA English
+DT Journal Article
+AB Absorbance changes in the anionic dye  bis[3-phenyl-5-oxoisoxazol-4-yl]pentamethineoxonol (oxonol V) can be used to  monitor the membrane potential of liposomes and cytochrome c containing  cytochrome oxidase proteoliposomes (c-loaded COV). Diffusion potentials (positive  inside the vesicles) cause an increase in the dye extinction, with a maximum at  640 nm. A similar increase is seen upon energization of internally facing  cytochrome oxidase molecules in c-loaded COV. Both "passive" and "active"  responses are only seen when the dye is fully bound to the vesicle membrane.  Calibration curves using potassium or n-butyltriphenylphosphonium ion (BTPP+)  diffusion potentials are linear up to 100 mV and pass through the origin.  Diffusion potentials (positive inside) also cause an increase and red shift in  the oxonol V fluorescence emission spectrum. However, potentials of the same sign  induced by cytochrome oxidase turnover induce a large fluorescence quenching in  c-loaded COV. A similar anomaly has been observed with submitochondrial particles  [Smith, J. C., Russ, P., Cooperman, B. S., & Chance, B. (1976) Biochemistry 15,  5094-5105]. A model is proposed consistent with these responses. It is suggested  that the dye molecules move further into the membrane phase upon energization,  causing the absorbance increase. In the presence of active enzyme, anionic dye  molecules are attracted to a positive dipole on each enzyme molecule, causing  self-quenching of the fluorescence.
+C1 Department of Biological Sciences, Brock University, St. Catharines, Ontario, Canada.
+NR 0
+TC 0
+SN 
+EI 0006-296
+J9 Biochemistry
+PD APR 24
+PY 1990
+VL 29
+IS 16
+BP 3859
+EP 65
+DI 10.1021/bi00468a009
+PG -3794
+WC Calibration; Cell Membrane; drug effects; Cytochrome c Group; pharmacology; Electron Transport Complex IV; analysis; Isoxazoles; pharmacology; Lipid Bilayers; analysis; Liposomes; analysis; Membrane Potentials; Mitochondria; drug effects; Oxazoles; pharmacology; Proteolipids; analysis; Spectrometry, Fluorescence
+UT PubMed:2162199
+PM 2162199
+DA 1990-04-24
+ER
+
+PT J
+AU Alvarez, W
+   Asaro, F
+AF Alvarez, W
+   Asaro, F
+TI An extraterrestrial impact (accumulating evidence suggests an asteroid or comet
+SO Scientific American
+LA English
+DT Journal Article
+DE NASA Discipline Exobiology; Non-NASA Center
+C1 University of California, Berkeley, USA.
+NR 0
+TC 0
+SN 
+EI 0036-873
+J9 Sci Am
+PD OCT 1
+PY 1990
+VL 263
+IS 4
+BP 78
+EP 84
+DI 
+PG 6
+WC Acid Rain; Aluminum Silicates; analysis; Animals; Biological Evolution; Calcium Carbonate; Clay; Computer Simulation; Dust; Earth, Planet; Fossils; Geologic Sediments; analysis; Greenhouse Effect; Iridium; analysis; Meteoroids; Minor Planets; Paleontology; Quartz; Volcanic Eruptions
+UT PubMed:11536473
+PM 11536473
+DA 1990-10-01
+ER
+
+PT J
+AU Freeman, JC
+   Blankenship, RE
+AF Freeman, J C
+   Blankenship, R E
+TI Isolation and characterization of the membrane-bound cytochrome c-554 from the
+SO Photosynthesis research
+LA English
+DT Journal Article
+AB The membrane-bound photooxidizable cytochrome c-554 from Chloroflexus aurantiacus  has been purified. The purified protein runs as a single heme staining band on  SDS-PAGE with an apparent molecular mass of 43 000 daltons. An extinction  coefficient of 28 ± 1 mM(-1) cm(-1) per heme at 554 nm was found for the  dithionite-reduced protein. The potentiometric titration of the hemes takes place  over an extended range, showing clearly that the protein does not contain a  single heme in a well-defined site. The titration can be fit to a Nernst curve  with midpoint potentials at 0, +120, +220 and +300 mV vs the standard hydrogen  electrode. Pyridine hemochrome analysis combined with a Lowry protein assay and  the SDS-PAGE molecular weight indicates that there are a minimum of three, and  probably four hemes per peptide. Amino acid analysis shows 5 histidine residues  and 29% hydrophobic residues in the protein. This cytochrome appears to be  functionally similar to the bound cytochrome from Rhodopseudomonas viridis. Both  cytochrome c-554 from C. aurantiacus and the four-heme cytochrome c-558-553 from  R. viridis appear to act as direct electron donors to the special  bacteriochlorophyll pair of the photosynthetic reaction center. They have a  similar content of hydrophobic amino acids, but differ in isoelectric point,  thermodynamic characteristics, spectral properties, and in their ability to be  photooxidized at low temperature.
+C1 Department of Chemistry, Arizona State University, 85287-1604, Tempe, AZ, USA.
+NR 0
+TC 0
+SN 
+EI 0166-859
+J9 Photosynth Res
+PD JAN 1
+PY 1990
+VL 23
+IS 1
+BP 29
+EP 38
+DI 10.1007/BF00030060
+PG 9
+UT PubMed:24420989
+PM 24420989
+DA 1990-01-01
+ER
+
+PT J
+AU Schmelzer, CH
+   Burton, LE
+   Tamony, CM
+   Schwall, RH
+   Mason, AJ
+   Liegeois, N
+AF Schmelzer, C H
+   Burton, L E
+   Tamony, C M
+   Schwall, R H
+   Mason, A J
+   Liegeois, N
+TI Purification and characterization of recombinant human activin B.
+SO Biochimica et biophysica acta
+LA English
+DT Journal Article
+AB Recombinant human activin B has been isolated to more than 95% purity from a  mammalian kidney cell line. Activin B is a covalently-linked homodimer with an  apparent molecular mass of 25.9 kDa (unreduced) and 15.2 kDa (reduced) as  determined by SDS-polyacrylamide-gel electrophoresis. On gel filtration in 6 M  guanidine hydrochloride, activin B chromatographs with an apparent molecular mass  of 11 kDa, whether reduced or not. The amino-terminal sequence of the purified  protein is consistent with the expected sequence derived from the beta subunit of  inhibin B. The amino acid composition of the purified molecule agrees with the  expected theoretical composition of the beta subunit of inhibin B. Activin B has  an apparent pI of 4.6 as determined by isoelectric focusing in 6 M urea and 4.7  as determined by chromatofocusing in 6 M urea. The extinction coefficient is 1.8.
+C1 Genentech, Inc., Recovery Process R&D, South San Francisco, CA 94080.
+NR 0
+TC 0
+SN 
+EI 0006-300
+J9 Biochim Biophys Acta
+PD JUN 19
+PY 1990
+VL 1039
+IS 2
+BP 135
+EP 41
+DI 10.1016/0167-4838(90)90178-i
+PG -94
+WC Activins; Amino Acid Sequence; Cell Line; Chromatography, Gel; Electrophoresis, Polyacrylamide Gel; Guanidine; Guanidines; Humans; Inhibins; isolation & purification; Isoelectric Focusing; Kidney; Macromolecular Substances; Molecular Sequence Data; Molecular Weight; Oligopeptides; Peptides; isolation & purification; Recombinant Proteins; isolation & purification
+UT PubMed:2364091
+PM 2364091
+DA 1990-06-19
+ER
+
